@@ -1,0 +1,5 @@
+{
+    "sklearn.metrics._plot.tests.test_base.test_get_response_error": [],
+    "sklearn.metrics._plot.tests.test_base.test_get_response_predict_proba": [],
+    "sklearn.metrics._plot.tests.test_base.test_get_response_decision_function": []
+}

@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexes.period.test_ops.TestPeriodIndexOps.test_resolution": [],
+    "pandas.tests.indexes.period.test_ops.TestPeriodIndexOps.test_freq_setter_deprecated": [],
+    "pandas.tests.indexes.period.test_ops.TestPeriodIndexOps": []
+}

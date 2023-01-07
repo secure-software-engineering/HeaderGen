@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.training.proximal_adagrad.ProximalAdagradOptimizer.__init__": [],
+    "tensorflow.python.training.proximal_adagrad.ProximalAdagradOptimizer._create_slots": [],
+    "tensorflow.python.training.proximal_adagrad.ProximalAdagradOptimizer._prepare": [],
+    "tensorflow.python.training.proximal_adagrad.ProximalAdagradOptimizer._apply_dense": [],
+    "tensorflow.python.training.proximal_adagrad.ProximalAdagradOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.proximal_adagrad.ProximalAdagradOptimizer._apply_sparse": [],
+    "tensorflow.python.training.proximal_adagrad.ProximalAdagradOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.proximal_adagrad.ProximalAdagradOptimizer": []
+}

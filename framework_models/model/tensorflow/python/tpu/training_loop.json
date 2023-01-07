@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.tpu.training_loop.while_loop": [],
+    "tensorflow.python.tpu.training_loop.repeat": []
+}

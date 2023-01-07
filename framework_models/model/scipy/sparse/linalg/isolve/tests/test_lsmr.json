@@ -1,0 +1,23 @@
+{
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.lowerBidiagonalMatrix": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.lsmrtest": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.setup_method": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.assertCompatibleSystem": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testIdentityACase1": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testIdentityACase2": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testIdentityACase3": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testBidiagonalA": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testScalarB": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testComplexX": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testComplexX0": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testComplexA": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testComplexB": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testColumnB": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR.testInitialization": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMRReturns.setup_method": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMRReturns.testNormr": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMRReturns.testNormar": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMRReturns.testNormx": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMR": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsmr.TestLSMRReturns": []
+}

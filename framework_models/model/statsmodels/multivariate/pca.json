@@ -1,0 +1,23 @@
+{
+    "statsmodels.multivariate.pca._norm": [],
+    "statsmodels.multivariate.pca.pca": [],
+    "statsmodels.multivariate.pca.PCA.__init__": [],
+    "statsmodels.multivariate.pca.PCA._adjust_missing": [],
+    "statsmodels.multivariate.pca.PCA._compute_gls_weights": [],
+    "statsmodels.multivariate.pca.PCA._pca": [],
+    "statsmodels.multivariate.pca.PCA.__repr__": [],
+    "statsmodels.multivariate.pca.PCA.__str__": [],
+    "statsmodels.multivariate.pca.PCA._prepare_data": [],
+    "statsmodels.multivariate.pca.PCA._compute_eig": [],
+    "statsmodels.multivariate.pca.PCA._compute_using_svd": [],
+    "statsmodels.multivariate.pca.PCA._compute_using_eig": [],
+    "statsmodels.multivariate.pca.PCA._compute_using_nipals": [],
+    "statsmodels.multivariate.pca.PCA._fill_missing_em": [],
+    "statsmodels.multivariate.pca.PCA._compute_pca_from_eig": [],
+    "statsmodels.multivariate.pca.PCA._compute_rsquare_and_ic": [],
+    "statsmodels.multivariate.pca.PCA.project": [],
+    "statsmodels.multivariate.pca.PCA._to_pandas": [],
+    "statsmodels.multivariate.pca.PCA.plot_scree": [],
+    "statsmodels.multivariate.pca.PCA.plot_rsquare": [],
+    "statsmodels.multivariate.pca.PCA": []
+}

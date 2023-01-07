@@ -1,0 +1,7 @@
+{
+    "scipy.sparse.linalg.isolve.tests.test_lsqr.test_basic": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsqr.test_gh_2466": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsqr.test_well_conditioned_problems": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsqr.test_b_shapes": [],
+    "scipy.sparse.linalg.isolve.tests.test_lsqr.test_initialization": []
+}

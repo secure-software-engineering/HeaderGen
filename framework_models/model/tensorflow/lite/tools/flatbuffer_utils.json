@@ -1,0 +1,12 @@
+{
+    "tensorflow.lite.tools.flatbuffer_utils.convert_bytearray_to_object": [],
+    "tensorflow.lite.tools.flatbuffer_utils.read_model": [],
+    "tensorflow.lite.tools.flatbuffer_utils.read_model_with_mutable_tensors": [],
+    "tensorflow.lite.tools.flatbuffer_utils.convert_object_to_bytearray": [],
+    "tensorflow.lite.tools.flatbuffer_utils.write_model": [],
+    "tensorflow.lite.tools.flatbuffer_utils.strip_strings": [],
+    "tensorflow.lite.tools.flatbuffer_utils.randomize_weights": [],
+    "tensorflow.lite.tools.flatbuffer_utils.rename_custom_ops": [],
+    "tensorflow.lite.tools.flatbuffer_utils.xxd_output_to_bytes": [],
+    "tensorflow.lite.tools.flatbuffer_utils.xxd_output_to_object": []
+}

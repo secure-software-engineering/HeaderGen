@@ -1,0 +1,18 @@
+{
+    "keras.layers.noise.GaussianNoise.__init__": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianNoise.call": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianNoise.get_config": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianNoise.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianDropout.__init__": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianDropout.call": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianDropout.get_config": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianDropout.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.layers.noise.AlphaDropout.__init__": ["MODEL_TRAINING"],
+    "keras.layers.noise.AlphaDropout._get_noise_shape": ["MODEL_TRAINING"],
+    "keras.layers.noise.AlphaDropout.call": ["MODEL_TRAINING"],
+    "keras.layers.noise.AlphaDropout.get_config": ["MODEL_TRAINING"],
+    "keras.layers.noise.AlphaDropout.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianNoise": ["MODEL_TRAINING"],
+    "keras.layers.noise.GaussianDropout": ["MODEL_TRAINING"],
+    "keras.layers.noise.AlphaDropout": ["MODEL_TRAINING"]
+}

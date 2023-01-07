@@ -1,0 +1,11 @@
+{
+    "pandas.tests.series.test_reductions.test_reductions_td64_with_nat": [],
+    "pandas.tests.series.test_reductions.test_td64_sum_empty": [],
+    "pandas.tests.series.test_reductions.test_td64_summation_overflow": [],
+    "pandas.tests.series.test_reductions.test_prod_numpy16_bug": [],
+    "pandas.tests.series.test_reductions.test_sum_with_level": [],
+    "pandas.tests.series.test_reductions.test_validate_any_all_out_keepdims_raises": [],
+    "pandas.tests.series.test_reductions.test_validate_sum_initial": [],
+    "pandas.tests.series.test_reductions.test_validate_median_initial": [],
+    "pandas.tests.series.test_reductions.test_validate_stat_keepdims": []
+}

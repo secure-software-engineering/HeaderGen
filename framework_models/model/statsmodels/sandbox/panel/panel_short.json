@@ -1,0 +1,19 @@
+{
+    "statsmodels.sandbox.panel.panel_short.sum_outer_product_loop": [],
+    "statsmodels.sandbox.panel.panel_short.sum_outer_product_balanced": [],
+    "statsmodels.sandbox.panel.panel_short.whiten_individuals_loop": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS2.__init__": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS2.fit_ols": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS2.get_within_cov": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS2.whiten_groups": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS2.fit": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS.__init__": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS.get_within_cov": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS.whiten_groups": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS._fit_ols": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS._fit_old": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS.whiten": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS.fit_iterative": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS2": [],
+    "statsmodels.sandbox.panel.panel_short.ShortPanelGLS": []
+}

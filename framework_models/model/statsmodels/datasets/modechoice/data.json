@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.modechoice.data.load": [],
+    "statsmodels.datasets.modechoice.data.load_pandas": [],
+    "statsmodels.datasets.modechoice.data._get_data": []
+}

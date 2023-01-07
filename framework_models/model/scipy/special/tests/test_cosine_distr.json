@@ -1,0 +1,7 @@
+{
+    "scipy.special.tests.test_cosine_distr.test_cosine_cdf_exact": [],
+    "scipy.special.tests.test_cosine_distr.test_cosine_cdf": [],
+    "scipy.special.tests.test_cosine_distr.test_cosine_invcdf_exact": [],
+    "scipy.special.tests.test_cosine_distr.test_cosine_invcdf_invalid_p": [],
+    "scipy.special.tests.test_cosine_distr.test_cosine_invcdf": []
+}

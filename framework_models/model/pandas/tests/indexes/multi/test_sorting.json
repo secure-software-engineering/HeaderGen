@@ -1,0 +1,14 @@
+{
+    "pandas.tests.indexes.multi.test_sorting.test_sortlevel": [],
+    "pandas.tests.indexes.multi.test_sorting.test_sortlevel_not_sort_remaining": [],
+    "pandas.tests.indexes.multi.test_sorting.test_sortlevel_deterministic": [],
+    "pandas.tests.indexes.multi.test_sorting.test_numpy_argsort": [],
+    "pandas.tests.indexes.multi.test_sorting.test_unsortedindex": [],
+    "pandas.tests.indexes.multi.test_sorting.test_unsortedindex_doc_examples": [],
+    "pandas.tests.indexes.multi.test_sorting.test_reconstruct_sort": [],
+    "pandas.tests.indexes.multi.test_sorting.test_reconstruct_remove_unused": [],
+    "pandas.tests.indexes.multi.test_sorting.test_remove_unused_levels_large": [],
+    "pandas.tests.indexes.multi.test_sorting.test_remove_unused_nan": [],
+    "pandas.tests.indexes.multi.test_sorting.test_argsort": [],
+    "pandas.tests.indexes.multi.test_sorting.test_remove_unused_levels_with_nan": []
+}

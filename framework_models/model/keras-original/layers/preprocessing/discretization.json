@@ -1,0 +1,17 @@
+{
+    "keras.layers.preprocessing.discretization.summarize": [],
+    "keras.layers.preprocessing.discretization.compress": [],
+    "keras.layers.preprocessing.discretization._compress_summary_numpy": [],
+    "keras.layers.preprocessing.discretization.merge_summaries": [],
+    "keras.layers.preprocessing.discretization.get_bin_boundaries": [],
+    "keras.layers.preprocessing.discretization.Discretization.__init__": [],
+    "keras.layers.preprocessing.discretization.Discretization.build": [],
+    "keras.layers.preprocessing.discretization.Discretization.update_state": [],
+    "keras.layers.preprocessing.discretization.Discretization.finalize_state": [],
+    "keras.layers.preprocessing.discretization.Discretization.reset_state": [],
+    "keras.layers.preprocessing.discretization.Discretization.get_config": [],
+    "keras.layers.preprocessing.discretization.Discretization.compute_output_shape": [],
+    "keras.layers.preprocessing.discretization.Discretization.compute_output_signature": [],
+    "keras.layers.preprocessing.discretization.Discretization.call": [],
+    "keras.layers.preprocessing.discretization.Discretization": []
+}

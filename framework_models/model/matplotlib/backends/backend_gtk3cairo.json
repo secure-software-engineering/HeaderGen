@@ -1,0 +1,8 @@
+{
+    "matplotlib.backends.backend_gtk3cairo.RendererGTK3Cairo.set_context": [],
+    "matplotlib.backends.backend_gtk3cairo.FigureCanvasGTK3Cairo.__init__": [],
+    "matplotlib.backends.backend_gtk3cairo.FigureCanvasGTK3Cairo.on_draw_event": [],
+    "matplotlib.backends.backend_gtk3cairo.RendererGTK3Cairo": [],
+    "matplotlib.backends.backend_gtk3cairo.FigureCanvasGTK3Cairo": [],
+    "matplotlib.backends.backend_gtk3cairo._BackendGTK3Cairo": []
+}

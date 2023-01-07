@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.util.all_util.make_all": [],
+    "tensorflow.python.util.all_util.reveal_undocumented": [],
+    "tensorflow.python.util.all_util.remove_undocumented": []
+}

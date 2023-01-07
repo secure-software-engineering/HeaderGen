@@ -1,0 +1,8 @@
+{
+    "numpy.f2py.tests.test_return_character.TestReturnCharacter.check_function": [],
+    "numpy.f2py.tests.test_return_character.TestF77ReturnCharacter.test_all": [],
+    "numpy.f2py.tests.test_return_character.TestF90ReturnCharacter.test_all": [],
+    "numpy.f2py.tests.test_return_character.TestReturnCharacter": [],
+    "numpy.f2py.tests.test_return_character.TestF77ReturnCharacter": [],
+    "numpy.f2py.tests.test_return_character.TestF90ReturnCharacter": []
+}

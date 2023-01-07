@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.tpu.tpu_function.tpu_shard_context": [],
+    "tensorflow.python.tpu.tpu_function.get_tpu_context": [],
+    "tensorflow.python.tpu.tpu_function.on_device_training_loop": [],
+    "tensorflow.python.tpu.tpu_function.TpuContext.__init__": [],
+    "tensorflow.python.tpu.tpu_function.TpuContext.number_of_shards": [],
+    "tensorflow.python.tpu.tpu_function.TpuContext.set_number_of_shards": [],
+    "tensorflow.python.tpu.tpu_function.TpuContext": []
+}

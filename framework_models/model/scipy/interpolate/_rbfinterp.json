@@ -1,0 +1,7 @@
+{
+    "scipy.interpolate._rbfinterp._monomial_powers": [],
+    "scipy.interpolate._rbfinterp._build_and_solve_system": [],
+    "scipy.interpolate._rbfinterp.RBFInterpolator.__init__": [],
+    "scipy.interpolate._rbfinterp.RBFInterpolator.__call__": [],
+    "scipy.interpolate._rbfinterp.RBFInterpolator": []
+}

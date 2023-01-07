@@ -1,0 +1,9 @@
+{
+    "pandas.tests.series.test_missing.test_hasnans_uncached_for_series": [],
+    "pandas.tests.series.test_missing.TestSeriesMissingData.test_categorical_nan_handling": [],
+    "pandas.tests.series.test_missing.TestSeriesMissingData.test_isna_for_inf": [],
+    "pandas.tests.series.test_missing.TestSeriesMissingData.test_isnull_for_inf_deprecated": [],
+    "pandas.tests.series.test_missing.TestSeriesMissingData.test_timedelta64_nan": [],
+    "pandas.tests.series.test_missing.TestSeriesMissingData.test_valid": [],
+    "pandas.tests.series.test_missing.TestSeriesMissingData": []
+}

@@ -1,0 +1,12 @@
+{
+    "sklearn.preprocessing.tests.test_function_transformer._make_func": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_delegate_to_func": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_np_log": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_kw_arg": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_kw_arg_update": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_kw_arg_reset": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_inverse_transform": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_check_inverse": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_function_transformer_frame": [],
+    "sklearn.preprocessing.tests.test_function_transformer.test_function_transformer_validate_inverse": []
+}

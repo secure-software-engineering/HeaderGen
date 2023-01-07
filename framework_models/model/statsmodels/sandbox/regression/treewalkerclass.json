@@ -1,0 +1,9 @@
+{
+    "statsmodels.sandbox.regression.treewalkerclass.randintw": [],
+    "statsmodels.sandbox.regression.treewalkerclass.getbranches": [],
+    "statsmodels.sandbox.regression.treewalkerclass.getnodes": [],
+    "statsmodels.sandbox.regression.treewalkerclass.RU2NMNL.__init__": [],
+    "statsmodels.sandbox.regression.treewalkerclass.RU2NMNL.get_probs": [],
+    "statsmodels.sandbox.regression.treewalkerclass.RU2NMNL.calc_prob": [],
+    "statsmodels.sandbox.regression.treewalkerclass.RU2NMNL": []
+}

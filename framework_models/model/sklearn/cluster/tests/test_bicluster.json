@@ -1,0 +1,20 @@
+{
+    "sklearn.cluster.tests.test_bicluster.test_get_submatrix": [],
+    "sklearn.cluster.tests.test_bicluster._test_shape_indices": [],
+    "sklearn.cluster.tests.test_bicluster.test_spectral_coclustering": [],
+    "sklearn.cluster.tests.test_bicluster.test_spectral_biclustering": [],
+    "sklearn.cluster.tests.test_bicluster._do_scale_test": [],
+    "sklearn.cluster.tests.test_bicluster._do_bistochastic_test": [],
+    "sklearn.cluster.tests.test_bicluster.test_scale_normalize": [],
+    "sklearn.cluster.tests.test_bicluster.test_bistochastic_normalize": [],
+    "sklearn.cluster.tests.test_bicluster.test_log_normalize": [],
+    "sklearn.cluster.tests.test_bicluster.test_fit_best_piecewise": [],
+    "sklearn.cluster.tests.test_bicluster.test_project_and_cluster": [],
+    "sklearn.cluster.tests.test_bicluster.test_perfect_checkerboard": [],
+    "sklearn.cluster.tests.test_bicluster.test_errors": [],
+    "sklearn.cluster.tests.test_bicluster.test_wrong_shape": [],
+    "sklearn.cluster.tests.test_bicluster.test_n_features_in_": [],
+    "sklearn.cluster.tests.test_bicluster.MockBiclustering.__init__": [],
+    "sklearn.cluster.tests.test_bicluster.MockBiclustering.get_indices": [],
+    "sklearn.cluster.tests.test_bicluster.MockBiclustering": []
+}

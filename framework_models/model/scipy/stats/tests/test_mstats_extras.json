@@ -1,0 +1,12 @@
+{
+    "scipy.stats.tests.test_mstats_extras.test_compare_medians_ms": [],
+    "scipy.stats.tests.test_mstats_extras.test_hdmedian": [],
+    "scipy.stats.tests.test_mstats_extras.test_rsh": [],
+    "scipy.stats.tests.test_mstats_extras.test_mjci": [],
+    "scipy.stats.tests.test_mstats_extras.test_trimmed_mean_ci": [],
+    "scipy.stats.tests.test_mstats_extras.test_idealfourths": [],
+    "scipy.stats.tests.test_mstats_extras.TestQuantiles.test_hdquantiles": [],
+    "scipy.stats.tests.test_mstats_extras.TestQuantiles.test_hdquantiles_sd": [],
+    "scipy.stats.tests.test_mstats_extras.TestQuantiles.test_mquantiles_cimj": [],
+    "scipy.stats.tests.test_mstats_extras.TestQuantiles": []
+}

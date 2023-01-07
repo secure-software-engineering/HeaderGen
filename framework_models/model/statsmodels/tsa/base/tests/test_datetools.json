@@ -1,0 +1,5 @@
+{
+    "statsmodels.tsa.base.tests.test_datetools.test_regex_matching_month": [],
+    "statsmodels.tsa.base.tests.test_datetools.test_regex_matching_quarter": [],
+    "statsmodels.tsa.base.tests.test_datetools.test_dates_from_range": []
+}

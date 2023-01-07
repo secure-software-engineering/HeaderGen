@@ -1,0 +1,12 @@
+{
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_getname_categorical_accessor": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_cat_accessor": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_cat_accessor_api": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_cat_accessor_no_new_attributes": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_cat_accessor_updates_on_inplace": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_categorical_delegations": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_dt_accessor_api_for_categorical": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_reorder_categories_updates_dtype": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor.test_set_categories_setitem": [],
+    "pandas.tests.series.accessors.test_cat_accessor.TestCatAccessor": []
+}

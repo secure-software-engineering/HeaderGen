@@ -1,0 +1,12 @@
+{
+    "numpy.typing.tests.data.pass.arithmetic.Object.__array__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object.__sub__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object.__rsub__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object.__floordiv__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object.__rfloordiv__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object.__mul__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object.__rmul__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object.__pow__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object.__rpow__": [],
+    "numpy.typing.tests.data.pass.arithmetic.Object": []
+}

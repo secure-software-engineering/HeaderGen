@@ -1,0 +1,6 @@
+{
+    "statsmodels.tools.linalg.logdet_symm": [],
+    "statsmodels.tools.linalg.stationary_solve": [],
+    "statsmodels.tools.linalg.transf_constraints": [],
+    "statsmodels.tools.linalg.matrix_sqrt": []
+}

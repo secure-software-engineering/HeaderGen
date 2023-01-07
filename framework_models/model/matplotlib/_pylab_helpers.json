@@ -1,0 +1,14 @@
+{
+    "matplotlib._pylab_helpers.Gcf.get_fig_manager": [],
+    "matplotlib._pylab_helpers.Gcf.destroy": [],
+    "matplotlib._pylab_helpers.Gcf.destroy_fig": [],
+    "matplotlib._pylab_helpers.Gcf.destroy_all": [],
+    "matplotlib._pylab_helpers.Gcf.has_fignum": [],
+    "matplotlib._pylab_helpers.Gcf.get_all_fig_managers": [],
+    "matplotlib._pylab_helpers.Gcf.get_num_fig_managers": [],
+    "matplotlib._pylab_helpers.Gcf.get_active": [],
+    "matplotlib._pylab_helpers.Gcf._set_new_active_manager": [],
+    "matplotlib._pylab_helpers.Gcf.set_active": [],
+    "matplotlib._pylab_helpers.Gcf.draw_all": [],
+    "matplotlib._pylab_helpers.Gcf": []
+}

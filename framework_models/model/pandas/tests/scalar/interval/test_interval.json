@@ -1,0 +1,22 @@
+{
+    "pandas.tests.scalar.interval.test_interval.interval": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_properties": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_repr": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_contains": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_equal": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_comparison": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_hash": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_length": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_length_timestamp": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_is_empty": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_construct_errors": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_math_add": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_math_sub": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_math_mult": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_math_div": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_math_floordiv": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_constructor_errors": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_constructor_errors_tz": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval.test_equality_comparison_broadcasts_over_array": [],
+    "pandas.tests.scalar.interval.test_interval.TestInterval": []
+}

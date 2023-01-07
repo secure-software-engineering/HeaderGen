@@ -1,0 +1,19 @@
+{
+    "pandas.tests.indexes.multi.test_integrity.test_labels_dtypes": [],
+    "pandas.tests.indexes.multi.test_integrity.test_values_boxed": [],
+    "pandas.tests.indexes.multi.test_integrity.test_values_multiindex_datetimeindex": [],
+    "pandas.tests.indexes.multi.test_integrity.test_values_multiindex_periodindex": [],
+    "pandas.tests.indexes.multi.test_integrity.test_consistency": [],
+    "pandas.tests.indexes.multi.test_integrity.test_hash_collisions": [],
+    "pandas.tests.indexes.multi.test_integrity.test_dims": [],
+    "pandas.tests.indexes.multi.test_integrity.test_take_invalid_kwargs": [],
+    "pandas.tests.indexes.multi.test_integrity.test_isna_behavior": [],
+    "pandas.tests.indexes.multi.test_integrity.test_large_multiindex_error": [],
+    "pandas.tests.indexes.multi.test_integrity.test_million_record_attribute_error": [],
+    "pandas.tests.indexes.multi.test_integrity.test_can_hold_identifiers": [],
+    "pandas.tests.indexes.multi.test_integrity.test_metadata_immutable": [],
+    "pandas.tests.indexes.multi.test_integrity.test_level_setting_resets_attributes": [],
+    "pandas.tests.indexes.multi.test_integrity.test_rangeindex_fallback_coercion_bug": [],
+    "pandas.tests.indexes.multi.test_integrity.test_memory_usage": [],
+    "pandas.tests.indexes.multi.test_integrity.test_nlevels": []
+}

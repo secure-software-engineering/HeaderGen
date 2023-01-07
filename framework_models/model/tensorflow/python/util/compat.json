@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.util.compat.as_bytes": [],
+    "tensorflow.python.util.compat.as_text": [],
+    "tensorflow.python.util.compat.as_str": [],
+    "tensorflow.python.util.compat.as_str_any": [],
+    "tensorflow.python.util.compat.path_to_str": [],
+    "tensorflow.python.util.compat.path_to_bytes": []
+}

@@ -1,0 +1,17 @@
+{
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_from_sequence_from_cls": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_array_from_scalars": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_series_constructor": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_series_constructor_no_data_with_index": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_series_constructor_scalar_na_with_index": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_series_constructor_scalar_with_index": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_dataframe_constructor_from_dict": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_dataframe_from_series": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_series_given_mismatched_index_raises": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_from_dtype": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_pandas_array": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_pandas_array_dtype": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_construct_empty_dataframe": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests.test_empty": [],
+    "pandas.tests.extension.base.constructors.BaseConstructorsTests": []
+}

@@ -1,0 +1,15 @@
+{
+    "plotly.figure_factory._violin.calc_stats": [],
+    "plotly.figure_factory._violin.make_half_violin": [],
+    "plotly.figure_factory._violin.make_violin_rugplot": [],
+    "plotly.figure_factory._violin.make_non_outlier_interval": [],
+    "plotly.figure_factory._violin.make_quartiles": [],
+    "plotly.figure_factory._violin.make_median": [],
+    "plotly.figure_factory._violin.make_XAxis": [],
+    "plotly.figure_factory._violin.make_YAxis": [],
+    "plotly.figure_factory._violin.violinplot": [],
+    "plotly.figure_factory._violin.violin_no_colorscale": [],
+    "plotly.figure_factory._violin.violin_colorscale": [],
+    "plotly.figure_factory._violin.violin_dict": [],
+    "plotly.figure_factory._violin.create_violin": []
+}

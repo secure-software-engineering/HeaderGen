@@ -1,0 +1,13 @@
+{
+    "pandas.tests.io.parser.test_compression.buffer": [],
+    "pandas.tests.io.parser.test_compression.parser_and_data": [],
+    "pandas.tests.io.parser.test_compression.test_zip": [],
+    "pandas.tests.io.parser.test_compression.test_zip_error_multiple_files": [],
+    "pandas.tests.io.parser.test_compression.test_zip_error_no_files": [],
+    "pandas.tests.io.parser.test_compression.test_zip_error_invalid_zip": [],
+    "pandas.tests.io.parser.test_compression.test_compression": [],
+    "pandas.tests.io.parser.test_compression.test_infer_compression": [],
+    "pandas.tests.io.parser.test_compression.test_compression_utf_encoding": [],
+    "pandas.tests.io.parser.test_compression.test_invalid_compression": [],
+    "pandas.tests.io.parser.test_compression.test_ignore_compression_extension": []
+}

@@ -1,0 +1,17 @@
+{
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.__init__": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.compute_output_shape": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.compute_output_signature": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.update_state": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.finalize_state": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.reset_state": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.get_vocabulary": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.vocabulary_size": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.get_config": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.set_vocabulary": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.build": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization._preprocess": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization.call": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization._trackable_saved_model_saver": [],
+    "keras.layers.preprocessing.text_vectorization.TextVectorization": []
+}

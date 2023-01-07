@@ -1,0 +1,10 @@
+{
+    "matplotlib.tri.trifinder.TriFinder.__init__": [],
+    "matplotlib.tri.trifinder.TrapezoidMapTriFinder.__init__": [],
+    "matplotlib.tri.trifinder.TrapezoidMapTriFinder.__call__": [],
+    "matplotlib.tri.trifinder.TrapezoidMapTriFinder._get_tree_stats": [],
+    "matplotlib.tri.trifinder.TrapezoidMapTriFinder._initialize": [],
+    "matplotlib.tri.trifinder.TrapezoidMapTriFinder._print_tree": [],
+    "matplotlib.tri.trifinder.TriFinder": [],
+    "matplotlib.tri.trifinder.TrapezoidMapTriFinder": []
+}

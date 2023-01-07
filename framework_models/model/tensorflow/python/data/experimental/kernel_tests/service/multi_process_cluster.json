@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.test_main": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster._RemoteWorkerProcess.__init__": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster._RemoteWorkerProcess.run": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster._RemoteWorkerProcess.start_worker": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.__init__": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster._start_dispatcher": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster._start_local_workers": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster._start_remote_workers": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.start_local_worker": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.start_remote_worker": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.restart_dispatcher": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.restart_local_workers": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.dispatcher_address": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.local_worker_addresses": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.remote_worker_addresses": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster._stop": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster.__del__": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster._RemoteWorkerProcess": [],
+    "tensorflow.python.data.experimental.kernel_tests.service.multi_process_cluster.MultiProcessCluster": []
+}

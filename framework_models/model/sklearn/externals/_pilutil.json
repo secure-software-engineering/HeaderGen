@@ -1,0 +1,8 @@
+{
+    "sklearn.externals._pilutil.bytescale": [],
+    "sklearn.externals._pilutil.imread": [],
+    "sklearn.externals._pilutil.imsave": [],
+    "sklearn.externals._pilutil.fromimage": [],
+    "sklearn.externals._pilutil.toimage": [],
+    "sklearn.externals._pilutil.imresize": []
+}

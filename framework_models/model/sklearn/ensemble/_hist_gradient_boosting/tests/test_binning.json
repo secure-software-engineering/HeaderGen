@@ -1,0 +1,23 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_find_binning_thresholds_regular_data": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_find_binning_thresholds_small_regular_data": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_find_binning_thresholds_random_data": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_find_binning_thresholds_low_n_bins": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_invalid_n_bins": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_bin_mapper_n_features_transform": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_map_to_bins": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_bin_mapper_random_data": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_bin_mapper_small_random_data": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_bin_mapper_identity_repeated_values": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_bin_mapper_repeated_values_invariance": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_bin_mapper_identity_small": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_bin_mapper_idempotence": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_n_bins_non_missing": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_subsample": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_missing_values_support": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_infinite_values": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_categorical_feature": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_categorical_with_numerical_features": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_make_known_categories_bitsets": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_binning.test_categorical_parameters": []
+}

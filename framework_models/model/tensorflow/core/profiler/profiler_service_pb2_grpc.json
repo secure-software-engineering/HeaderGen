@@ -1,0 +1,9 @@
+{
+    "tensorflow.core.profiler.profiler_service_pb2_grpc.add_ProfilerServiceServicer_to_server": [],
+    "tensorflow.core.profiler.profiler_service_pb2_grpc.ProfilerServiceStub.__init__": [],
+    "tensorflow.core.profiler.profiler_service_pb2_grpc.ProfilerServiceServicer.Profile": [],
+    "tensorflow.core.profiler.profiler_service_pb2_grpc.ProfilerServiceServicer.Terminate": [],
+    "tensorflow.core.profiler.profiler_service_pb2_grpc.ProfilerServiceServicer.Monitor": [],
+    "tensorflow.core.profiler.profiler_service_pb2_grpc.ProfilerServiceStub": [],
+    "tensorflow.core.profiler.profiler_service_pb2_grpc.ProfilerServiceServicer": []
+}

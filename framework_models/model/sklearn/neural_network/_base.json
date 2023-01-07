@@ -1,0 +1,14 @@
+{
+    "sklearn.neural_network._base.inplace_identity": [],
+    "sklearn.neural_network._base.inplace_logistic": [],
+    "sklearn.neural_network._base.inplace_tanh": [],
+    "sklearn.neural_network._base.inplace_relu": [],
+    "sklearn.neural_network._base.inplace_softmax": [],
+    "sklearn.neural_network._base.inplace_identity_derivative": [],
+    "sklearn.neural_network._base.inplace_logistic_derivative": [],
+    "sklearn.neural_network._base.inplace_tanh_derivative": [],
+    "sklearn.neural_network._base.inplace_relu_derivative": [],
+    "sklearn.neural_network._base.squared_loss": [],
+    "sklearn.neural_network._base.log_loss": [],
+    "sklearn.neural_network._base.binary_log_loss": []
+}

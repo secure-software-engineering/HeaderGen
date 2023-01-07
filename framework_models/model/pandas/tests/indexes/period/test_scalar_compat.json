@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.period.test_scalar_compat.TestPeriodIndexOps.test_start_time": [],
+    "pandas.tests.indexes.period.test_scalar_compat.TestPeriodIndexOps.test_end_time": [],
+    "pandas.tests.indexes.period.test_scalar_compat.TestPeriodIndexOps.test_end_time_business_friday": [],
+    "pandas.tests.indexes.period.test_scalar_compat.TestPeriodIndexOps": []
+}

@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.saved_model.registration.get_registered_name": [],
+    "tensorflow.python.saved_model.registration.get_registered_class": [],
+    "tensorflow.python.saved_model.registration.register_serializable": []
+}

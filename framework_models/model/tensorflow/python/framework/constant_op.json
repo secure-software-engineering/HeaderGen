@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.framework.constant_op._eager_reshape": [],
+    "tensorflow.python.framework.constant_op._eager_fill": [],
+    "tensorflow.python.framework.constant_op._eager_identity": [],
+    "tensorflow.python.framework.constant_op._eager_const": [],
+    "tensorflow.python.framework.constant_op.convert_to_eager_tensor": [],
+    "tensorflow.python.framework.constant_op.constant_v1": [],
+    "tensorflow.python.framework.constant_op.constant": [],
+    "tensorflow.python.framework.constant_op._constant_impl": [],
+    "tensorflow.python.framework.constant_op._constant_eager_impl": [],
+    "tensorflow.python.framework.constant_op.is_constant": [],
+    "tensorflow.python.framework.constant_op._constant_tensor_conversion_function": [],
+    "tensorflow.python.framework.constant_op._tensor_shape_tensor_conversion_function": [],
+    "tensorflow.python.framework.constant_op._dimension_tensor_conversion_function": []
+}

@@ -1,0 +1,13 @@
+from distutils.log import *
+from distutils.log import Log as old_Log
+from numpy.distutils.misc_util import cyan_text as cyan_text, default_text as default_text, green_text as green_text, is_sequence as is_sequence, is_string as is_string, red_text as red_text
+from typing import Any
+
+class Log(old_Log):
+    def good(self, msg, *args) -> None: ...
+
+good: Any
+
+def set_threshold(level, force: bool = ...): ...
+def get_threshold(): ...
+def set_verbosity(v, force: bool = ...): ...

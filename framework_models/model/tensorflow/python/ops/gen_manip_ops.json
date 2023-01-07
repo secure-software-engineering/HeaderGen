@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.ops.gen_manip_ops.roll": [],
+    "tensorflow.python.ops.gen_manip_ops.roll_eager_fallback": []
+}

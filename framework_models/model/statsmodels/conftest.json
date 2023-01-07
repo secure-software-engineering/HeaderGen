@@ -1,0 +1,7 @@
+{
+    "statsmodels.conftest.pytest_addoption": [],
+    "statsmodels.conftest.pytest_runtest_setup": [],
+    "statsmodels.conftest.pytest_configure": [],
+    "statsmodels.conftest.close_figures": [],
+    "statsmodels.conftest.reset_randomstate": []
+}

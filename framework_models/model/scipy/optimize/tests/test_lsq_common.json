@@ -1,0 +1,16 @@
+{
+    "scipy.optimize.tests.test_lsq_common.test_reflective_transformation": [],
+    "scipy.optimize.tests.test_lsq_common.test_linear_operators": [],
+    "scipy.optimize.tests.test_lsq_common.TestBounds.test_step_size_to_bounds": [],
+    "scipy.optimize.tests.test_lsq_common.TestBounds.test_find_active_constraints": [],
+    "scipy.optimize.tests.test_lsq_common.TestBounds.test_make_strictly_feasible": [],
+    "scipy.optimize.tests.test_lsq_common.TestBounds.test_scaling_vector": [],
+    "scipy.optimize.tests.test_lsq_common.TestQuadraticFunction.setup_method": [],
+    "scipy.optimize.tests.test_lsq_common.TestQuadraticFunction.test_build_quadratic_1d": [],
+    "scipy.optimize.tests.test_lsq_common.TestQuadraticFunction.test_minimize_quadratic_1d": [],
+    "scipy.optimize.tests.test_lsq_common.TestQuadraticFunction.test_evaluate_quadratic": [],
+    "scipy.optimize.tests.test_lsq_common.TestTrustRegion.test_intersect": [],
+    "scipy.optimize.tests.test_lsq_common.TestBounds": [],
+    "scipy.optimize.tests.test_lsq_common.TestQuadraticFunction": [],
+    "scipy.optimize.tests.test_lsq_common.TestTrustRegion": []
+}

@@ -1,0 +1,7 @@
+{
+    "keras.layers.core.flatten.Flatten.__init__": ["MODEL_TRAINING"],
+    "keras.layers.core.flatten.Flatten.call": ["MODEL_TRAINING"],
+    "keras.layers.core.flatten.Flatten.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.layers.core.flatten.Flatten.get_config": ["MODEL_TRAINING"],
+    "keras.layers.core.flatten.Flatten": ["MODEL_TRAINING"]
+}

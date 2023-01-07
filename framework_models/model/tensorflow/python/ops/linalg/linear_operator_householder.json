@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._check_reflection_axis": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._assert_non_singular": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._assert_positive_definite": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._assert_self_adjoint": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._trace": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._log_abs_determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._solve": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._to_dense": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._diag_part": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._eigvals": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._cond": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder.reflection_axis": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_householder.LinearOperatorHouseholder": []
+}

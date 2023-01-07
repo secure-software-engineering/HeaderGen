@@ -1,0 +1,18 @@
+{
+    "numpy.core.tests.test_scalar_ctors.TestFromString.test_floating": [],
+    "numpy.core.tests.test_scalar_ctors.TestFromString.test_floating_overflow": [],
+    "numpy.core.tests.test_scalar_ctors.TestExtraArgs.test_superclass": [],
+    "numpy.core.tests.test_scalar_ctors.TestExtraArgs.test_datetime": [],
+    "numpy.core.tests.test_scalar_ctors.TestExtraArgs.test_bool": [],
+    "numpy.core.tests.test_scalar_ctors.TestExtraArgs.test_void": [],
+    "numpy.core.tests.test_scalar_ctors.TestFromInt.test_intp": [],
+    "numpy.core.tests.test_scalar_ctors.TestFromInt.test_uint64_from_negative": [],
+    "numpy.core.tests.test_scalar_ctors.TestArrayFromScalar._do_test": [],
+    "numpy.core.tests.test_scalar_ctors.TestArrayFromScalar.test_integers": [],
+    "numpy.core.tests.test_scalar_ctors.TestArrayFromScalar.test_reals": [],
+    "numpy.core.tests.test_scalar_ctors.TestArrayFromScalar.test_complex": [],
+    "numpy.core.tests.test_scalar_ctors.TestFromString": [],
+    "numpy.core.tests.test_scalar_ctors.TestExtraArgs": [],
+    "numpy.core.tests.test_scalar_ctors.TestFromInt": [],
+    "numpy.core.tests.test_scalar_ctors.TestArrayFromScalar": []
+}

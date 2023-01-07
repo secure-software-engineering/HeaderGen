@@ -1,0 +1,7 @@
+{
+    "pandas.tests.io.excel.test_xlrd.skip_ods_and_xlsb_files": [],
+    "pandas.tests.io.excel.test_xlrd.test_read_xlrd_book": [],
+    "pandas.tests.io.excel.test_xlrd.test_excel_file_warning_with_xlsx_file": [],
+    "pandas.tests.io.excel.test_xlrd.test_read_excel_warning_with_xlsx_file": [],
+    "pandas.tests.io.excel.test_xlrd.test_read_old_xls_files": []
+}

@@ -1,0 +1,5 @@
+{
+    "sklearn.metrics._base._average_binary_score": [],
+    "sklearn.metrics._base._average_multiclass_ovo_score": [],
+    "sklearn.metrics._base._check_pos_label_consistency": []
+}

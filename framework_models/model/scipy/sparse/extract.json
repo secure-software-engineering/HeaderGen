@@ -1,0 +1,6 @@
+{
+    "scipy.sparse.extract.find": [],
+    "scipy.sparse.extract.tril": [],
+    "scipy.sparse.extract.triu": [],
+    "scipy.sparse.extract._masked_coo": []
+}

@@ -1,0 +1,12 @@
+{
+    "sklearn.decomposition.tests.test_fastica.center_and_norm": [],
+    "sklearn.decomposition.tests.test_fastica.test_gs": [],
+    "sklearn.decomposition.tests.test_fastica.test_fastica_simple": [],
+    "sklearn.decomposition.tests.test_fastica.test_fastica_nowhiten": [],
+    "sklearn.decomposition.tests.test_fastica.test_fastica_convergence_fail": [],
+    "sklearn.decomposition.tests.test_fastica.test_non_square_fastica": [],
+    "sklearn.decomposition.tests.test_fastica.test_fit_transform": [],
+    "sklearn.decomposition.tests.test_fastica.test_inverse_transform": [],
+    "sklearn.decomposition.tests.test_fastica.test_fastica_errors": [],
+    "sklearn.decomposition.tests.test_fastica.test_fastica_output_shape": []
+}

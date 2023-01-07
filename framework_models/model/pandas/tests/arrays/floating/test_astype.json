@@ -1,0 +1,9 @@
+{
+    "pandas.tests.arrays.floating.test_astype.test_astype": [],
+    "pandas.tests.arrays.floating.test_astype.test_astype_to_floating_array": [],
+    "pandas.tests.arrays.floating.test_astype.test_astype_to_boolean_array": [],
+    "pandas.tests.arrays.floating.test_astype.test_astype_to_integer_array": [],
+    "pandas.tests.arrays.floating.test_astype.test_astype_str": [],
+    "pandas.tests.arrays.floating.test_astype.test_astype_copy": [],
+    "pandas.tests.arrays.floating.test_astype.test_astype_object": []
+}

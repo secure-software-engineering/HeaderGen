@@ -1,0 +1,6 @@
+{
+    "pandas.tests.io.pytables.test_keys.test_keys": [],
+    "pandas.tests.io.pytables.test_keys.test_non_pandas_keys": [],
+    "pandas.tests.io.pytables.test_keys.test_keys_illegal_include_keyword_value": [],
+    "pandas.tests.io.pytables.test_keys.test_keys_ignore_hdf_softlink": []
+}

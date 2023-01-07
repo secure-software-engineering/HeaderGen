@@ -1,0 +1,9 @@
+{
+    "matplotlib.backends.qt_compat._setup_pyqt5plus": [],
+    "matplotlib.backends.qt_compat._enum": [],
+    "matplotlib.backends.qt_compat._exec": [],
+    "matplotlib.backends.qt_compat._devicePixelRatioF": [],
+    "matplotlib.backends.qt_compat._setDevicePixelRatio": [],
+    "matplotlib.backends.qt_compat._maybe_allow_interrupt": [],
+    "matplotlib.backends.qt_compat.__getattr__": []
+}

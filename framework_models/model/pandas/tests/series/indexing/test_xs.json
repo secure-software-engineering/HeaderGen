@@ -1,0 +1,9 @@
+{
+    "pandas.tests.series.indexing.test_xs.test_xs_datetimelike_wrapping": [],
+    "pandas.tests.series.indexing.test_xs.TestXSWithMultiIndex.test_xs_level_series": [],
+    "pandas.tests.series.indexing.test_xs.TestXSWithMultiIndex.test_series_getitem_multiindex_xs_by_label": [],
+    "pandas.tests.series.indexing.test_xs.TestXSWithMultiIndex.test_series_getitem_multiindex_xs": [],
+    "pandas.tests.series.indexing.test_xs.TestXSWithMultiIndex.test_series_xs_droplevel_false": [],
+    "pandas.tests.series.indexing.test_xs.TestXSWithMultiIndex.test_xs_key_as_list": [],
+    "pandas.tests.series.indexing.test_xs.TestXSWithMultiIndex": []
+}

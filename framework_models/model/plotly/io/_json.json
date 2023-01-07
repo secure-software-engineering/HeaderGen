@@ -1,0 +1,14 @@
+{
+    "plotly.io._json.coerce_to_strict": [],
+    "plotly.io._json.to_json_plotly": [],
+    "plotly.io._json.to_json": [],
+    "plotly.io._json.write_json": [],
+    "plotly.io._json.from_json_plotly": [],
+    "plotly.io._json.from_json": [],
+    "plotly.io._json.read_json": [],
+    "plotly.io._json.clean_to_json_compatible": [],
+    "plotly.io._json.JsonConfig.__init__": [],
+    "plotly.io._json.JsonConfig.default_engine": [],
+    "plotly.io._json.JsonConfig.validate_orjson": [],
+    "plotly.io._json.JsonConfig": []
+}

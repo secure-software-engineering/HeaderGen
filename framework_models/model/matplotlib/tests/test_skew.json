@@ -1,0 +1,18 @@
+{
+    "matplotlib.tests.test_skew.test_set_line_coll_dash_image": [],
+    "matplotlib.tests.test_skew.test_skew_rectangle": [],
+    "matplotlib.tests.test_skew.SkewXTick.draw": [],
+    "matplotlib.tests.test_skew.SkewXTick.get_view_interval": [],
+    "matplotlib.tests.test_skew.SkewXAxis._get_tick": [],
+    "matplotlib.tests.test_skew.SkewXAxis.get_view_interval": [],
+    "matplotlib.tests.test_skew.SkewSpine._adjust_location": [],
+    "matplotlib.tests.test_skew.SkewXAxes._init_axis": [],
+    "matplotlib.tests.test_skew.SkewXAxes._gen_axes_spines": [],
+    "matplotlib.tests.test_skew.SkewXAxes._set_lim_and_transforms": [],
+    "matplotlib.tests.test_skew.SkewXAxes.lower_xlim": [],
+    "matplotlib.tests.test_skew.SkewXAxes.upper_xlim": [],
+    "matplotlib.tests.test_skew.SkewXTick": [],
+    "matplotlib.tests.test_skew.SkewXAxis": [],
+    "matplotlib.tests.test_skew.SkewSpine": [],
+    "matplotlib.tests.test_skew.SkewXAxes": []
+}

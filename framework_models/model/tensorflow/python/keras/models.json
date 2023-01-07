@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.keras.models.share_weights": [],
+    "tensorflow.python.keras.models._clone_layer": [],
+    "tensorflow.python.keras.models._insert_ancillary_layers": [],
+    "tensorflow.python.keras.models._make_new_nodes": [],
+    "tensorflow.python.keras.models._clone_functional_model": [],
+    "tensorflow.python.keras.models._clone_layers_and_model_config": [],
+    "tensorflow.python.keras.models._remove_ancillary_layers": [],
+    "tensorflow.python.keras.models._clone_sequential_model": [],
+    "tensorflow.python.keras.models.clone_model": [],
+    "tensorflow.python.keras.models._in_place_subclassed_model_reset": [],
+    "tensorflow.python.keras.models._reset_build_compile_trackers": [],
+    "tensorflow.python.keras.models.in_place_subclassed_model_state_restoration": [],
+    "tensorflow.python.keras.models.clone_and_build_model": []
+}

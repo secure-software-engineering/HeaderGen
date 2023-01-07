@@ -1,0 +1,10 @@
+{
+    "keras.layers.preprocessing.hashing.Hashing.__init__": [],
+    "keras.layers.preprocessing.hashing.Hashing.call": [],
+    "keras.layers.preprocessing.hashing.Hashing._hash_values_to_bins": [],
+    "keras.layers.preprocessing.hashing.Hashing._get_string_to_hash_bucket_fn": [],
+    "keras.layers.preprocessing.hashing.Hashing.compute_output_shape": [],
+    "keras.layers.preprocessing.hashing.Hashing.compute_output_signature": [],
+    "keras.layers.preprocessing.hashing.Hashing.get_config": [],
+    "keras.layers.preprocessing.hashing.Hashing": []
+}

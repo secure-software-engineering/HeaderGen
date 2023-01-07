@@ -1,0 +1,11 @@
+{
+    "pandas.tests.groupby.test_min_max.test_max_min_non_numeric": [],
+    "pandas.tests.groupby.test_min_max.test_max_min_object_multiple_columns": [],
+    "pandas.tests.groupby.test_min_max.test_min_date_with_nans": [],
+    "pandas.tests.groupby.test_min_max.test_max_inat": [],
+    "pandas.tests.groupby.test_min_max.test_max_inat_not_all_na": [],
+    "pandas.tests.groupby.test_min_max.test_groupby_aggregate_period_column": [],
+    "pandas.tests.groupby.test_min_max.test_groupby_aggregate_period_frame": [],
+    "pandas.tests.groupby.test_min_max.test_aggregate_numeric_object_dtype": [],
+    "pandas.tests.groupby.test_min_max.test_aggregate_categorical_lost_index": []
+}

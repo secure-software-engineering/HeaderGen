@@ -1,0 +1,5 @@
+{
+    "pandas.tests.series.methods.test_to_dict.TestSeriesToDict.test_to_dict": [],
+    "pandas.tests.series.methods.test_to_dict.TestSeriesToDict.test_to_dict_return_types": [],
+    "pandas.tests.series.methods.test_to_dict.TestSeriesToDict": []
+}

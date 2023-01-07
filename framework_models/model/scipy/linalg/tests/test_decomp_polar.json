@@ -1,0 +1,6 @@
+{
+    "scipy.linalg.tests.test_decomp_polar.check_precomputed_polar": [],
+    "scipy.linalg.tests.test_decomp_polar.verify_polar": [],
+    "scipy.linalg.tests.test_decomp_polar.test_precomputed_cases": [],
+    "scipy.linalg.tests.test_decomp_polar.test_verify_cases": []
+}

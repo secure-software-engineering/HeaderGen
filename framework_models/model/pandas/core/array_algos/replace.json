@@ -1,0 +1,5 @@
+{
+    "pandas.core.array_algos.replace.should_use_regex": [],
+    "pandas.core.array_algos.replace.compare_or_regex_search": [],
+    "pandas.core.array_algos.replace.replace_regex": []
+}

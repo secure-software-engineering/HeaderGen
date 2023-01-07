@@ -1,0 +1,14 @@
+{
+    "sklearn.neighbors._classification.KNeighborsClassifier.__init__": [],
+    "sklearn.neighbors._classification.KNeighborsClassifier.fit": ["MODEL_TRAINING"],
+    "sklearn.neighbors._classification.KNeighborsClassifier.predict": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.neighbors._classification.KNeighborsClassifier.predict_proba": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.neighbors._classification.KNeighborsClassifier._more_tags": [],
+    "sklearn.neighbors._classification.RadiusNeighborsClassifier.__init__": [],
+    "sklearn.neighbors._classification.RadiusNeighborsClassifier.fit": ["MODEL_TRAINING"],
+    "sklearn.neighbors._classification.RadiusNeighborsClassifier.predict": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.neighbors._classification.RadiusNeighborsClassifier.predict_proba": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.neighbors._classification.RadiusNeighborsClassifier._more_tags": [],
+    "sklearn.neighbors._classification.KNeighborsClassifier": ["MODEL_BUILDING_AND_TRAINING"],
+    "sklearn.neighbors._classification.RadiusNeighborsClassifier": ["MODEL_BUILDING_AND_TRAINING"]
+}

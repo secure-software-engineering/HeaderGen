@@ -1,0 +1,13 @@
+{
+    "numpy.tests.test_public_api.check_dir": [],
+    "numpy.tests.test_public_api.test_numpy_namespace": [],
+    "numpy.tests.test_public_api.test_import_lazy_import": [],
+    "numpy.tests.test_public_api.test_dir_testing": [],
+    "numpy.tests.test_public_api.test_numpy_linalg": [],
+    "numpy.tests.test_public_api.test_numpy_fft": [],
+    "numpy.tests.test_public_api.test_NPY_NO_EXPORT": [],
+    "numpy.tests.test_public_api.is_unexpected": [],
+    "numpy.tests.test_public_api.test_all_modules_are_expected": [],
+    "numpy.tests.test_public_api.test_all_modules_are_expected_2": [],
+    "numpy.tests.test_public_api.test_api_importable": []
+}

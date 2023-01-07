@@ -1,0 +1,10 @@
+{
+    "keras.layers.kernelized._get_random_features_initializer": [],
+    "keras.layers.kernelized._get_default_scale": [],
+    "keras.layers.kernelized.RandomFourierFeatures.__init__": [],
+    "keras.layers.kernelized.RandomFourierFeatures.build": [],
+    "keras.layers.kernelized.RandomFourierFeatures.call": [],
+    "keras.layers.kernelized.RandomFourierFeatures.compute_output_shape": [],
+    "keras.layers.kernelized.RandomFourierFeatures.get_config": [],
+    "keras.layers.kernelized.RandomFourierFeatures": []
+}

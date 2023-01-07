@@ -1,0 +1,10 @@
+{
+  "3": [
+    "main_nb.B:1.funcb:1",
+    "main_nb.A:2.func:2"
+  ],
+  "4": [
+    "main_nb.A:2.funca:2",
+    "main_nb.A:2.func:2"
+  ]
+}

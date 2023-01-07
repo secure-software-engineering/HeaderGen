@@ -1,0 +1,7 @@
+{
+    "sklearn.utils.tests.test_tags.test_safe_tags_error": [],
+    "sklearn.utils.tests.test_tags.test_safe_tags_no_get_tags": [],
+    "sklearn.utils.tests.test_tags.MoreTagsEstimator._more_tags": [],
+    "sklearn.utils.tests.test_tags.NoTagsEstimator": [],
+    "sklearn.utils.tests.test_tags.MoreTagsEstimator": []
+}

@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.gen_set_ops.dense_to_dense_set_operation": [],
+    "tensorflow.python.ops.gen_set_ops.dense_to_dense_set_operation_eager_fallback": [],
+    "tensorflow.python.ops.gen_set_ops.dense_to_sparse_set_operation": [],
+    "tensorflow.python.ops.gen_set_ops.dense_to_sparse_set_operation_eager_fallback": [],
+    "tensorflow.python.ops.gen_set_ops.set_size": [],
+    "tensorflow.python.ops.gen_set_ops.set_size_eager_fallback": [],
+    "tensorflow.python.ops.gen_set_ops.sparse_to_sparse_set_operation": [],
+    "tensorflow.python.ops.gen_set_ops.sparse_to_sparse_set_operation_eager_fallback": []
+}

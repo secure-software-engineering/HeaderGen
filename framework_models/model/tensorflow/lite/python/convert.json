@@ -1,0 +1,22 @@
+{
+    "tensorflow.lite.python.convert._requires_input_stats": [],
+    "tensorflow.lite.python.convert.convert_tensor_tf_type_to_tflite_type": [],
+    "tensorflow.lite.python.convert.convert_inference_tf_type_to_tflite_type": [],
+    "tensorflow.lite.python.convert._try_convert_to_unicode": [],
+    "tensorflow.lite.python.convert.mlir_quantize": [],
+    "tensorflow.lite.python.convert.mlir_sparsify": [],
+    "tensorflow.lite.python.convert.register_custom_opdefs": [],
+    "tensorflow.lite.python.convert.toco_convert_protos": [],
+    "tensorflow.lite.python.convert._run_toco_binary": [],
+    "tensorflow.lite.python.convert.build_toco_flags": [],
+    "tensorflow.lite.python.convert.build_toco_convert_protos": [],
+    "tensorflow.lite.python.convert.toco_convert_graph_def": [],
+    "tensorflow.lite.python.convert.toco_convert_impl": [],
+    "tensorflow.lite.python.convert.convert_saved_model": [],
+    "tensorflow.lite.python.convert.convert_jax_hlo": [],
+    "tensorflow.lite.python.convert.toco_convert": [],
+    "tensorflow.lite.python.convert.deduplicate_readonly_buffers": [],
+    "tensorflow.lite.python.convert.OpsSet.__str__": [],
+    "tensorflow.lite.python.convert.OpsSet.get_options": [],
+    "tensorflow.lite.python.convert.OpsSet": []
+}

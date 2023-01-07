@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.keras.engine.node.is_keras_tensor": [],
+    "tensorflow.python.keras.engine.node.Node.__init__": [],
+    "tensorflow.python.keras.engine.node.Node.keras_inputs": [],
+    "tensorflow.python.keras.engine.node.Node.parent_nodes": [],
+    "tensorflow.python.keras.engine.node.Node.iterate_inbound": [],
+    "tensorflow.python.keras.engine.node.Node.map_arguments": [],
+    "tensorflow.python.keras.engine.node.Node.serialize": [],
+    "tensorflow.python.keras.engine.node.Node.input_tensors": [],
+    "tensorflow.python.keras.engine.node.Node.output_tensors": [],
+    "tensorflow.python.keras.engine.node.Node.input_shapes": [],
+    "tensorflow.python.keras.engine.node.Node.output_shapes": [],
+    "tensorflow.python.keras.engine.node.Node.outbound_layer": [],
+    "tensorflow.python.keras.engine.node.Node.inbound_layers": [],
+    "tensorflow.python.keras.engine.node.Node": [],
+    "tensorflow.python.keras.engine.node.KerasHistory": []
+}

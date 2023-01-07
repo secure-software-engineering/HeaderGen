@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.framework.graph_util_impl._is_variable_op": [],
+    "tensorflow.python.framework.graph_util_impl.must_run_on_cpu": [],
+    "tensorflow.python.framework.graph_util_impl._node_name": [],
+    "tensorflow.python.framework.graph_util_impl._get_colocated_node_name": [],
+    "tensorflow.python.framework.graph_util_impl._extract_graph_summary": [],
+    "tensorflow.python.framework.graph_util_impl._assert_nodes_are_present": [],
+    "tensorflow.python.framework.graph_util_impl._bfs_for_reachable_nodes": [],
+    "tensorflow.python.framework.graph_util_impl.extract_sub_graph": [],
+    "tensorflow.python.framework.graph_util_impl.tensor_shape_from_node_def_name": [],
+    "tensorflow.python.framework.graph_util_impl.convert_variables_to_constants": [],
+    "tensorflow.python.framework.graph_util_impl.remove_training_nodes": [],
+    "tensorflow.python.framework.graph_util_impl.graph_defs_equal": []
+}

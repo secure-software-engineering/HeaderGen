@@ -1,0 +1,12 @@
+{
+    "matplotlib.type1font.Type1Font.__init__": [],
+    "matplotlib.type1font.Type1Font._read": [],
+    "matplotlib.type1font.Type1Font._split": [],
+    "matplotlib.type1font.Type1Font._decrypt": [],
+    "matplotlib.type1font.Type1Font._encrypt": [],
+    "matplotlib.type1font.Type1Font._tokens": [],
+    "matplotlib.type1font.Type1Font._parse": [],
+    "matplotlib.type1font.Type1Font._transformer": [],
+    "matplotlib.type1font.Type1Font.transform": [],
+    "matplotlib.type1font.Type1Font": []
+}

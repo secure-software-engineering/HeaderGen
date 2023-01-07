@@ -1,0 +1,23 @@
+{
+    "scipy.spatial.kdtree.minkowski_distance_p": [],
+    "scipy.spatial.kdtree.minkowski_distance": [],
+    "scipy.spatial.kdtree.distance_matrix": [],
+    "scipy.spatial.kdtree.Rectangle.__init__": [],
+    "scipy.spatial.kdtree.Rectangle.__repr__": [],
+    "scipy.spatial.kdtree.Rectangle.volume": [],
+    "scipy.spatial.kdtree.Rectangle.split": [],
+    "scipy.spatial.kdtree.Rectangle.min_distance_point": [],
+    "scipy.spatial.kdtree.Rectangle.max_distance_point": [],
+    "scipy.spatial.kdtree.Rectangle.min_distance_rectangle": [],
+    "scipy.spatial.kdtree.Rectangle.max_distance_rectangle": [],
+    "scipy.spatial.kdtree.KDTree.tree": [],
+    "scipy.spatial.kdtree.KDTree.__init__": [],
+    "scipy.spatial.kdtree.KDTree.query": [],
+    "scipy.spatial.kdtree.KDTree.query_ball_point": [],
+    "scipy.spatial.kdtree.KDTree.query_ball_tree": [],
+    "scipy.spatial.kdtree.KDTree.query_pairs": [],
+    "scipy.spatial.kdtree.KDTree.count_neighbors": [],
+    "scipy.spatial.kdtree.KDTree.sparse_distance_matrix": [],
+    "scipy.spatial.kdtree.Rectangle": [],
+    "scipy.spatial.kdtree.KDTree": []
+}

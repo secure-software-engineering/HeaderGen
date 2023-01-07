@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.data.experimental.ops.batching.dense_to_ragged_batch": [],
+    "tensorflow.python.data.experimental.ops.batching.dense_to_sparse_batch": [],
+    "tensorflow.python.data.experimental.ops.batching.map_and_batch_with_legacy_function": [],
+    "tensorflow.python.data.experimental.ops.batching.map_and_batch": [],
+    "tensorflow.python.data.experimental.ops.batching.unbatch": [],
+    "tensorflow.python.data.experimental.ops.batching._DenseToSparseBatchDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.batching._DenseToSparseBatchDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.batching._MapAndBatchDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.batching._MapAndBatchDataset._functions": [],
+    "tensorflow.python.data.experimental.ops.batching._MapAndBatchDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.batching._DenseToRaggedDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.batching._DenseToRaggedDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.batching._DenseToSparseBatchDataset": [],
+    "tensorflow.python.data.experimental.ops.batching._MapAndBatchDataset": [],
+    "tensorflow.python.data.experimental.ops.batching._DenseToRaggedDataset": []
+}

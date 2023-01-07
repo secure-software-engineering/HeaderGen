@@ -1,0 +1,16 @@
+{
+    "scipy.io.matlab.tests.test_streams.setup_test_file": [],
+    "scipy.io.matlab.tests.test_streams.test_make_stream": [],
+    "scipy.io.matlab.tests.test_streams.test_tell_seek": [],
+    "scipy.io.matlab.tests.test_streams.test_read": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream._get_data": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream.test_read": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream.test_read_max_length": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream.test_read_bad_checksum": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream.test_seek": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream.test_seek_bad_checksum": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream.test_all_data_read": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream.test_all_data_read_overlap": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream.test_all_data_read_bad_checksum": [],
+    "scipy.io.matlab.tests.test_streams.TestZlibInputStream": []
+}

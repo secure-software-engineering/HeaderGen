@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.util.keras_deps.register_call_context_function": [],
+    "tensorflow.python.util.keras_deps.register_clear_session_function": [],
+    "tensorflow.python.util.keras_deps.register_get_session_function": [],
+    "tensorflow.python.util.keras_deps.register_load_model_function": [],
+    "tensorflow.python.util.keras_deps.get_call_context_function": [],
+    "tensorflow.python.util.keras_deps.get_clear_session_function": [],
+    "tensorflow.python.util.keras_deps.get_get_session_function": [],
+    "tensorflow.python.util.keras_deps.get_load_model_function": []
+}

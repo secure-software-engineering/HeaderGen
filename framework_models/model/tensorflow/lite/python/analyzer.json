@@ -1,0 +1,4 @@
+{
+    "tensorflow.lite.python.analyzer.ModelAnalyzer.analyze": [],
+    "tensorflow.lite.python.analyzer.ModelAnalyzer": []
+}

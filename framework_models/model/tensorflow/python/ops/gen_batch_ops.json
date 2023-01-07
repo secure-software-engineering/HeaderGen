@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.gen_batch_ops.batch": [],
+    "tensorflow.python.ops.gen_batch_ops.batch_eager_fallback": [],
+    "tensorflow.python.ops.gen_batch_ops.batch_function": [],
+    "tensorflow.python.ops.gen_batch_ops.batch_function_eager_fallback": [],
+    "tensorflow.python.ops.gen_batch_ops.unbatch": [],
+    "tensorflow.python.ops.gen_batch_ops.unbatch_eager_fallback": [],
+    "tensorflow.python.ops.gen_batch_ops.unbatch_grad": [],
+    "tensorflow.python.ops.gen_batch_ops.unbatch_grad_eager_fallback": []
+}

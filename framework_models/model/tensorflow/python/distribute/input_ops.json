@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.distribute.input_ops.auto_shard_dataset": [],
+    "tensorflow.python.distribute.input_ops._clone_dataset": [],
+    "tensorflow.python.distribute.input_ops._get_op_def": [],
+    "tensorflow.python.distribute.input_ops._clone_helper": []
+}

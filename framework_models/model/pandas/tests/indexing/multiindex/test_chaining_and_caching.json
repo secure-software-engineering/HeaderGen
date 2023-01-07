@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexing.multiindex.test_chaining_and_caching.test_detect_chained_assignment": [],
+    "pandas.tests.indexing.multiindex.test_chaining_and_caching.test_cache_updating": [],
+    "pandas.tests.indexing.multiindex.test_chaining_and_caching.test_indexer_caching": []
+}

@@ -1,0 +1,9 @@
+{
+    "statsmodels.regression.tests.test_processreg.model1": [],
+    "statsmodels.regression.tests.test_processreg.setup1": [],
+    "statsmodels.regression.tests.test_processreg.run_arrays": [],
+    "statsmodels.regression.tests.test_processreg.test_arrays": [],
+    "statsmodels.regression.tests.test_processreg.run_formula": [],
+    "statsmodels.regression.tests.test_processreg.test_formulas": [],
+    "statsmodels.regression.tests.test_processreg.test_score_numdiff": []
+}

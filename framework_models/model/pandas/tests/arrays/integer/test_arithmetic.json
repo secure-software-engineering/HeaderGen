@@ -1,0 +1,18 @@
+{
+    "pandas.tests.arrays.integer.test_arithmetic.test_add_mul": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_sub": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_div": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_divide_by_zero": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_floordiv": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_mod": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_pow_scalar": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_pow_array": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_rpow_one_to_na": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_numpy_zero_dim_ndarray": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_error_invalid_values": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_arith_coerce_scalar": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_arithmetic_conversion": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_cross_type_arithmetic": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_reduce_to_float": [],
+    "pandas.tests.arrays.integer.test_arithmetic.test_unary_int_operators": []
+}

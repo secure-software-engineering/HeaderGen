@@ -1,0 +1,4 @@
+{
+    "numpy.distutils.command.develop.develop.install_for_development": [],
+    "numpy.distutils.command.develop.develop": []
+}

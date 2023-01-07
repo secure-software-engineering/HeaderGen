@@ -1,0 +1,8 @@
+{
+    "scipy.special.tests.test_spfun_stats._check_multigammaln_array_result": [],
+    "scipy.special.tests.test_spfun_stats.test_multigammaln_array_arg": [],
+    "scipy.special.tests.test_spfun_stats.TestMultiGammaLn.test1": [],
+    "scipy.special.tests.test_spfun_stats.TestMultiGammaLn.test2": [],
+    "scipy.special.tests.test_spfun_stats.TestMultiGammaLn.test_bararg": [],
+    "scipy.special.tests.test_spfun_stats.TestMultiGammaLn": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.arrays.timedeltas.test_constructors.TestTimedeltaArrayConstructor.test_only_1dim_accepted": [],
+    "pandas.tests.arrays.timedeltas.test_constructors.TestTimedeltaArrayConstructor.test_freq_validation": [],
+    "pandas.tests.arrays.timedeltas.test_constructors.TestTimedeltaArrayConstructor.test_non_array_raises": [],
+    "pandas.tests.arrays.timedeltas.test_constructors.TestTimedeltaArrayConstructor.test_other_type_raises": [],
+    "pandas.tests.arrays.timedeltas.test_constructors.TestTimedeltaArrayConstructor.test_incorrect_dtype_raises": [],
+    "pandas.tests.arrays.timedeltas.test_constructors.TestTimedeltaArrayConstructor.test_copy": [],
+    "pandas.tests.arrays.timedeltas.test_constructors.TestTimedeltaArrayConstructor.test_from_sequence_dtype": [],
+    "pandas.tests.arrays.timedeltas.test_constructors.TestTimedeltaArrayConstructor": []
+}

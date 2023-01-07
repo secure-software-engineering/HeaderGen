@@ -1,0 +1,17 @@
+{
+    "sklearn.tests.test_kernel_approximation.test_polynomial_count_sketch_raises_if_degree_lower_than_one": [],
+    "sklearn.tests.test_kernel_approximation.test_polynomial_count_sketch": [],
+    "sklearn.tests.test_kernel_approximation._linear_kernel": [],
+    "sklearn.tests.test_kernel_approximation.test_additive_chi2_sampler": [],
+    "sklearn.tests.test_kernel_approximation.test_skewed_chi2_sampler": [],
+    "sklearn.tests.test_kernel_approximation.test_additive_chi2_sampler_exceptions": [],
+    "sklearn.tests.test_kernel_approximation.test_rbf_sampler": [],
+    "sklearn.tests.test_kernel_approximation.test_input_validation": [],
+    "sklearn.tests.test_kernel_approximation.test_nystroem_approximation": [],
+    "sklearn.tests.test_kernel_approximation.test_nystroem_default_parameters": [],
+    "sklearn.tests.test_kernel_approximation.test_nystroem_singular_kernel": [],
+    "sklearn.tests.test_kernel_approximation.test_nystroem_poly_kernel_params": [],
+    "sklearn.tests.test_kernel_approximation.test_nystroem_callable": [],
+    "sklearn.tests.test_kernel_approximation.test_nystroem_precomputed_kernel": [],
+    "sklearn.tests.test_kernel_approximation.test_nystroem_component_indices": []
+}

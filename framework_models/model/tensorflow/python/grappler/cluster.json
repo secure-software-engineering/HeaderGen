@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.grappler.cluster.Provision": [],
+    "tensorflow.python.grappler.cluster.Cluster.__init__": [],
+    "tensorflow.python.grappler.cluster.Cluster.Shutdown": [],
+    "tensorflow.python.grappler.cluster.Cluster.__del__": [],
+    "tensorflow.python.grappler.cluster.Cluster.tf_cluster": [],
+    "tensorflow.python.grappler.cluster.Cluster.ListDevices": [],
+    "tensorflow.python.grappler.cluster.Cluster.ListAvailableOps": [],
+    "tensorflow.python.grappler.cluster.Cluster.GetSupportedDevices": [],
+    "tensorflow.python.grappler.cluster.Cluster.EstimatePerformance": [],
+    "tensorflow.python.grappler.cluster.Cluster.MeasureCosts": [],
+    "tensorflow.python.grappler.cluster.Cluster.DeterminePeakMemoryUsage": [],
+    "tensorflow.python.grappler.cluster.Cluster": []
+}

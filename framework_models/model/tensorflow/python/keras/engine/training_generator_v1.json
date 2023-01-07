@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.keras.engine.training_generator_v1.model_iteration": [],
+    "tensorflow.python.keras.engine.training_generator_v1._get_next_batch": [],
+    "tensorflow.python.keras.engine.training_generator_v1._validate_arguments": [],
+    "tensorflow.python.keras.engine.training_generator_v1.convert_to_generator_like": [],
+    "tensorflow.python.keras.engine.training_generator_v1._make_enqueued_generator": [],
+    "tensorflow.python.keras.engine.training_generator_v1._make_execution_function": [],
+    "tensorflow.python.keras.engine.training_generator_v1._get_num_samples_or_steps": [],
+    "tensorflow.python.keras.engine.training_generator_v1.GeneratorOrSequenceTrainingLoop.fit": [],
+    "tensorflow.python.keras.engine.training_generator_v1.GeneratorOrSequenceTrainingLoop.evaluate": [],
+    "tensorflow.python.keras.engine.training_generator_v1.GeneratorOrSequenceTrainingLoop.predict": [],
+    "tensorflow.python.keras.engine.training_generator_v1.EagerDatasetOrIteratorTrainingLoop.fit": [],
+    "tensorflow.python.keras.engine.training_generator_v1.EagerDatasetOrIteratorTrainingLoop.evaluate": [],
+    "tensorflow.python.keras.engine.training_generator_v1.EagerDatasetOrIteratorTrainingLoop.predict": [],
+    "tensorflow.python.keras.engine.training_generator_v1.GeneratorLikeTrainingLoop.fit": [],
+    "tensorflow.python.keras.engine.training_generator_v1.GeneratorLikeTrainingLoop.evaluate": [],
+    "tensorflow.python.keras.engine.training_generator_v1.GeneratorLikeTrainingLoop.predict": [],
+    "tensorflow.python.keras.engine.training_generator_v1.GeneratorOrSequenceTrainingLoop": [],
+    "tensorflow.python.keras.engine.training_generator_v1.EagerDatasetOrIteratorTrainingLoop": [],
+    "tensorflow.python.keras.engine.training_generator_v1.GeneratorLikeTrainingLoop": []
+}

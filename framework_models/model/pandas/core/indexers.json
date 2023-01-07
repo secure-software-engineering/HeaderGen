@@ -1,0 +1,15 @@
+{
+    "pandas.core.indexers.is_valid_positional_slice": [],
+    "pandas.core.indexers.is_list_like_indexer": [],
+    "pandas.core.indexers.is_scalar_indexer": [],
+    "pandas.core.indexers.is_empty_indexer": [],
+    "pandas.core.indexers.check_setitem_lengths": [],
+    "pandas.core.indexers.validate_indices": [],
+    "pandas.core.indexers.maybe_convert_indices": [],
+    "pandas.core.indexers.is_exact_shape_match": [],
+    "pandas.core.indexers.length_of_indexer": [],
+    "pandas.core.indexers.deprecate_ndim_indexing": [],
+    "pandas.core.indexers.unpack_1tuple": [],
+    "pandas.core.indexers.check_key_length": [],
+    "pandas.core.indexers.check_array_indexer": []
+}

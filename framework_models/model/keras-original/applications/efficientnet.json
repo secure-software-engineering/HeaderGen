@@ -1,0 +1,14 @@
+{
+    "keras.applications.efficientnet.EfficientNet": [],
+    "keras.applications.efficientnet.block": [],
+    "keras.applications.efficientnet.EfficientNetB0": [],
+    "keras.applications.efficientnet.EfficientNetB1": [],
+    "keras.applications.efficientnet.EfficientNetB2": [],
+    "keras.applications.efficientnet.EfficientNetB3": [],
+    "keras.applications.efficientnet.EfficientNetB4": [],
+    "keras.applications.efficientnet.EfficientNetB5": [],
+    "keras.applications.efficientnet.EfficientNetB6": [],
+    "keras.applications.efficientnet.EfficientNetB7": [],
+    "keras.applications.efficientnet.preprocess_input": [],
+    "keras.applications.efficientnet.decode_predictions": []
+}

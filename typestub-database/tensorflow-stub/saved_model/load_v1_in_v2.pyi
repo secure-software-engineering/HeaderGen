@@ -1,0 +1,19 @@
+from tensorflow.python.eager import context as context, lift_to_graph as lift_to_graph, wrap_function as wrap_function
+from tensorflow.python.framework import composite_tensor as composite_tensor, constant_op as constant_op, dtypes as dtypes, func_graph as func_graph, ops as ops, sparse_tensor as sparse_tensor
+from tensorflow.python.ops import array_ops as array_ops
+from tensorflow.python.saved_model import function_deserialization as function_deserialization, loader_impl as loader_impl, signature_serialization as signature_serialization
+from tensorflow.python.saved_model.pywrap_saved_model import metrics as metrics
+from tensorflow.python.training import monitored_session as monitored_session
+from tensorflow.python.training.tracking import tracking as tracking
+from tensorflow.python.util import nest as nest
+
+class _Initializer(tracking.CapturableResource):
+    def __init__(self, init_fn, asset_paths) -> None: ...
+
+class _EagerSavedModelLoader(loader_impl.SavedModelLoader):
+    def get_meta_graph_def_from_tags(self, tags): ...
+    def load_graph(self, returns, meta_graph_def) -> None: ...
+    def restore_variables(self, wrapped, restore_from_saver) -> None: ...
+    def load(self, tags): ...
+
+def load(export_dir, tags): ...

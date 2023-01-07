@@ -1,0 +1,22 @@
+{
+    "sklearn.linear_model._glm.link.BaseLink.__call__": [],
+    "sklearn.linear_model._glm.link.BaseLink.derivative": [],
+    "sklearn.linear_model._glm.link.BaseLink.inverse": [],
+    "sklearn.linear_model._glm.link.BaseLink.inverse_derivative": [],
+    "sklearn.linear_model._glm.link.IdentityLink.__call__": [],
+    "sklearn.linear_model._glm.link.IdentityLink.derivative": [],
+    "sklearn.linear_model._glm.link.IdentityLink.inverse": [],
+    "sklearn.linear_model._glm.link.IdentityLink.inverse_derivative": [],
+    "sklearn.linear_model._glm.link.LogLink.__call__": [],
+    "sklearn.linear_model._glm.link.LogLink.derivative": [],
+    "sklearn.linear_model._glm.link.LogLink.inverse": [],
+    "sklearn.linear_model._glm.link.LogLink.inverse_derivative": [],
+    "sklearn.linear_model._glm.link.LogitLink.__call__": [],
+    "sklearn.linear_model._glm.link.LogitLink.derivative": [],
+    "sklearn.linear_model._glm.link.LogitLink.inverse": [],
+    "sklearn.linear_model._glm.link.LogitLink.inverse_derivative": [],
+    "sklearn.linear_model._glm.link.BaseLink": [],
+    "sklearn.linear_model._glm.link.IdentityLink": [],
+    "sklearn.linear_model._glm.link.LogLink": [],
+    "sklearn.linear_model._glm.link.LogitLink": []
+}

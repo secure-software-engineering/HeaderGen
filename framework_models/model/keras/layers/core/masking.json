@@ -1,0 +1,8 @@
+{
+    "keras.layers.core.masking.Masking.__init__": [],
+    "keras.layers.core.masking.Masking.compute_mask": [],
+    "keras.layers.core.masking.Masking.call": [],
+    "keras.layers.core.masking.Masking.compute_output_shape": [],
+    "keras.layers.core.masking.Masking.get_config": [],
+    "keras.layers.core.masking.Masking": []
+}

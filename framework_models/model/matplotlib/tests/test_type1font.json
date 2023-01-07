@@ -1,0 +1,5 @@
+{
+    "matplotlib.tests.test_type1font.test_Type1Font": [],
+    "matplotlib.tests.test_type1font.test_overprecision": [],
+    "matplotlib.tests.test_type1font.test_encrypt_decrypt_roundtrip": []
+}

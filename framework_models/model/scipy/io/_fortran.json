@@ -1,0 +1,14 @@
+{
+    "scipy.io._fortran.FortranFile.__init__": [],
+    "scipy.io._fortran.FortranFile._read_size": [],
+    "scipy.io._fortran.FortranFile.write_record": [],
+    "scipy.io._fortran.FortranFile.read_record": [],
+    "scipy.io._fortran.FortranFile.read_ints": [],
+    "scipy.io._fortran.FortranFile.read_reals": [],
+    "scipy.io._fortran.FortranFile.close": [],
+    "scipy.io._fortran.FortranFile.__enter__": [],
+    "scipy.io._fortran.FortranFile.__exit__": [],
+    "scipy.io._fortran.FortranEOFError": [],
+    "scipy.io._fortran.FortranFormattingError": [],
+    "scipy.io._fortran.FortranFile": []
+}

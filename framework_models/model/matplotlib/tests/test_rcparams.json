@@ -1,0 +1,21 @@
+{
+    "matplotlib.tests.test_rcparams.test_rcparams": [],
+    "matplotlib.tests.test_rcparams.test_RcParams_class": [],
+    "matplotlib.tests.test_rcparams.test_rcparams_update": [],
+    "matplotlib.tests.test_rcparams.test_rcparams_init": [],
+    "matplotlib.tests.test_rcparams.test_Bug_2543": [],
+    "matplotlib.tests.test_rcparams.test_legend_colors": [],
+    "matplotlib.tests.test_rcparams.test_mfc_rcparams": [],
+    "matplotlib.tests.test_rcparams.test_mec_rcparams": [],
+    "matplotlib.tests.test_rcparams.test_axes_titlecolor_rcparams": [],
+    "matplotlib.tests.test_rcparams.test_Issue_1713": [],
+    "matplotlib.tests.test_rcparams.test_animation_frame_formats": [],
+    "matplotlib.tests.test_rcparams.generate_validator_testcases": [],
+    "matplotlib.tests.test_rcparams.test_validator_valid": [],
+    "matplotlib.tests.test_rcparams.test_validator_invalid": [],
+    "matplotlib.tests.test_rcparams.test_validate_fontweight": [],
+    "matplotlib.tests.test_rcparams.test_keymaps": [],
+    "matplotlib.tests.test_rcparams.test_rcparams_reset_after_fail": [],
+    "matplotlib.tests.test_rcparams.test_backend_fallback_headless": [],
+    "matplotlib.tests.test_rcparams.test_backend_fallback_headful": []
+}

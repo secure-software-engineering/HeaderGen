@@ -1,0 +1,21 @@
+{
+    "matplotlib.tests.test_simplification.test_clipping": [],
+    "matplotlib.tests.test_simplification.test_overflow": [],
+    "matplotlib.tests.test_simplification.test_diamond": [],
+    "matplotlib.tests.test_simplification.test_clipping_out_of_bounds": [],
+    "matplotlib.tests.test_simplification.test_noise": [],
+    "matplotlib.tests.test_simplification.test_antiparallel_simplification": [],
+    "matplotlib.tests.test_simplification.test_angled_antiparallel": [],
+    "matplotlib.tests.test_simplification.test_sine_plus_noise": [],
+    "matplotlib.tests.test_simplification.test_simplify_curve": [],
+    "matplotlib.tests.test_simplification.test_closed_path_nan_removal": [],
+    "matplotlib.tests.test_simplification.test_closed_path_clipping": [],
+    "matplotlib.tests.test_simplification.test_hatch": [],
+    "matplotlib.tests.test_simplification.test_fft_peaks": [],
+    "matplotlib.tests.test_simplification.test_start_with_moveto": [],
+    "matplotlib.tests.test_simplification.test_throw_rendering_complexity_exceeded": [],
+    "matplotlib.tests.test_simplification.test_clipper": [],
+    "matplotlib.tests.test_simplification.test_para_equal_perp": [],
+    "matplotlib.tests.test_simplification.test_clipping_with_nans": [],
+    "matplotlib.tests.test_simplification.test_clipping_full": []
+}

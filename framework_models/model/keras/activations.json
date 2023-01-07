@@ -1,0 +1,18 @@
+{
+    "keras.activations.softmax": [],
+    "keras.activations.elu": [],
+    "keras.activations.selu": [],
+    "keras.activations.softplus": [],
+    "keras.activations.softsign": [],
+    "keras.activations.swish": [],
+    "keras.activations.relu": [],
+    "keras.activations.gelu": [],
+    "keras.activations.tanh": [],
+    "keras.activations.sigmoid": [],
+    "keras.activations.exponential": [],
+    "keras.activations.hard_sigmoid": [],
+    "keras.activations.linear": [],
+    "keras.activations.serialize": [],
+    "keras.activations.deserialize": [],
+    "keras.activations.get": []
+}

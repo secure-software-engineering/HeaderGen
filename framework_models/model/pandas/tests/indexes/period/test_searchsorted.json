@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.period.test_searchsorted.TestSearchsorted.test_searchsorted": [],
+    "pandas.tests.indexes.period.test_searchsorted.TestSearchsorted.test_searchsorted_different_argument_classes": [],
+    "pandas.tests.indexes.period.test_searchsorted.TestSearchsorted.test_searchsorted_invalid": [],
+    "pandas.tests.indexes.period.test_searchsorted.TestSearchsorted": []
+}

@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.ops.stateless_random_ops.convert_alg_to_int": [],
+    "tensorflow.python.ops.stateless_random_ops._resolve_alg": [],
+    "tensorflow.python.ops.stateless_random_ops._get_key_counter": [],
+    "tensorflow.python.ops.stateless_random_ops._get_key_counter_alg": [],
+    "tensorflow.python.ops.stateless_random_ops._philox_scramble_seed": [],
+    "tensorflow.python.ops.stateless_random_ops.uint32s_to_uint64": [],
+    "tensorflow.python.ops.stateless_random_ops.split": [],
+    "tensorflow.python.ops.stateless_random_ops.fold_in": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_random_uniform": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_random_binomial": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_random_gamma": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_random_poisson": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_random_normal": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_truncated_normal": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_multinomial": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_categorical": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_multinomial_categorical_impl": [],
+    "tensorflow.python.ops.stateless_random_ops.stateless_parameterized_truncated_normal": [],
+    "tensorflow.python.ops.stateless_random_ops.Algorithm": []
+}

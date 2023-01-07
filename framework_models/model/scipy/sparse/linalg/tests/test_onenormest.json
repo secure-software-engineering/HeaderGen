@@ -1,0 +1,19 @@
+{
+    "scipy.sparse.linalg.tests.test_onenormest.MatrixProductOperator.__init__": [],
+    "scipy.sparse.linalg.tests.test_onenormest.MatrixProductOperator._matvec": [],
+    "scipy.sparse.linalg.tests.test_onenormest.MatrixProductOperator._rmatvec": [],
+    "scipy.sparse.linalg.tests.test_onenormest.MatrixProductOperator._matmat": [],
+    "scipy.sparse.linalg.tests.test_onenormest.MatrixProductOperator.T": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest.test_onenormest_table_3_t_2": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest.test_onenormest_table_4_t_7": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest.test_onenormest_table_5_t_1": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest.test_onenormest_table_6_t_1": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest._help_product_norm_slow": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest._help_product_norm_fast": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest.test_onenormest_linear_operator": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest.test_returns": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestAlgorithm_2_2.test_randn_inv": [],
+    "scipy.sparse.linalg.tests.test_onenormest.MatrixProductOperator": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestOnenormest": [],
+    "scipy.sparse.linalg.tests.test_onenormest.TestAlgorithm_2_2": []
+}

@@ -1,0 +1,4 @@
+{
+    "pandas.tests.arithmetic.test_categorical.TestCategoricalComparisons.test_categorical_nan_equality": [],
+    "pandas.tests.arithmetic.test_categorical.TestCategoricalComparisons": []
+}

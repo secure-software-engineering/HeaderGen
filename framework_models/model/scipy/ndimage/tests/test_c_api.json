@@ -1,0 +1,5 @@
+{
+    "scipy.ndimage.tests.test_c_api.test_generic_filter": [],
+    "scipy.ndimage.tests.test_c_api.test_generic_filter1d": [],
+    "scipy.ndimage.tests.test_c_api.test_geometric_transform": []
+}

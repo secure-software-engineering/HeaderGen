@@ -1,0 +1,14 @@
+{
+    "sklearn.cluster.tests.test_spectral.test_spectral_clustering": [],
+    "sklearn.cluster.tests.test_spectral.test_spectral_unknown_mode": [],
+    "sklearn.cluster.tests.test_spectral.test_spectral_unknown_assign_labels": [],
+    "sklearn.cluster.tests.test_spectral.test_spectral_clustering_sparse": [],
+    "sklearn.cluster.tests.test_spectral.test_precomputed_nearest_neighbors_filtering": [],
+    "sklearn.cluster.tests.test_spectral.test_affinities": [],
+    "sklearn.cluster.tests.test_spectral.test_discretize": [],
+    "sklearn.cluster.tests.test_spectral.test_spectral_clustering_with_arpack_amg_solvers": [],
+    "sklearn.cluster.tests.test_spectral.test_n_components": [],
+    "sklearn.cluster.tests.test_spectral.test_verbose": [],
+    "sklearn.cluster.tests.test_spectral.test_pairwise_is_deprecated": [],
+    "sklearn.cluster.tests.test_spectral.test_spectral_clustering_np_matrix_raises": []
+}

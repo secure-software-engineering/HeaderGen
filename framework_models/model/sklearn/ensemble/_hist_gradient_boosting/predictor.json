@@ -1,0 +1,9 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor.__init__": [],
+    "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor.get_n_leaf_nodes": [],
+    "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor.get_max_depth": [],
+    "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor.predict": [],
+    "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor.predict_binned": [],
+    "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor.compute_partial_dependence": [],
+    "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor": []
+}

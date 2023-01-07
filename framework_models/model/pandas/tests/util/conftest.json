@@ -1,0 +1,7 @@
+{
+    "pandas.tests.util.conftest.check_dtype": [],
+    "pandas.tests.util.conftest.check_exact": [],
+    "pandas.tests.util.conftest.check_index_type": [],
+    "pandas.tests.util.conftest.rtol": [],
+    "pandas.tests.util.conftest.check_categorical": []
+}

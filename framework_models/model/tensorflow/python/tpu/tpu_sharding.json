@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.__init__": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.__str__": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy._fill_default_values": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.freeze": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.number_of_shards": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.set_number_of_shards": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.number_of_partitions": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.set_number_of_partitions": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.shard_dimension": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.set_shard_dimension": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.merge": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.get_unpartitioned_shape": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.get_sharded_shape": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy._unshard_shape": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy.get_unsharded_shape": [],
+    "tensorflow.python.tpu.tpu_sharding.ShardingPolicy": []
+}

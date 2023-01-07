@@ -1,0 +1,110 @@
+{
+    "1": [
+        "warnings.filterwarnings",
+        "pandas.io.parsers.readers.read_csv",
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "2": [
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "3": [
+        "pandas.core.series.Series.fillna",
+        "pandas.core.frame.DataFrame.drop",
+        "pandas.core.series.Series.replace",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.median",
+        "pandas.core.series.Series.map",
+        "01-keras-deep-learning-to-solve-titanic.<lambda1>:1",
+        "re.search",
+        "re.Match.group"
+    ],
+    "4": [
+        "01-keras-deep-learning-to-solve-titanic.preprocess:3",
+        "01-keras-deep-learning-to-solve-titanic.group_titles:3",
+        "pandas.core.generic.NDFrame.copy",
+        "pandas.core.frame.DataFrame.drop",
+        "pandas.core.series.Series.fillna",
+        "pandas.core.frame.DataFrame.drop",
+        "pandas.core.series.Series.replace",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.median",
+        "pandas.core.series.Series.map",
+        "01-keras-deep-learning-to-solve-titanic.<lambda1>:1",
+        "re.search",
+        "re.Match.group",
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "5": [
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "6": [
+        "matplotlib.pyplot.figure",
+        "seaborn.categorical.countplot"
+    ],
+    "7": [
+        "sklearn.model_selection._split.train_test_split",
+        "<builtin>.print"
+    ],
+    "8": [
+        "matplotlib.pyplot.figure",
+        "seaborn.categorical.countplot",
+        "matplotlib.pyplot.title"
+    ],
+    "10": [
+        "keras.engine.sequential.Sequential",
+        "keras.engine.sequential.Sequential.add",
+        "keras.layers.core.dense.Dense",
+        "keras.layers.normalization.batch_normalization.BatchNormalization",
+        "keras.layers.core.dropout.Dropout",
+        "keras.optimizer_v2.adam.Adam",
+        "keras.engine.training.Model.compile",
+        "keras.engine.training.Model.fit",
+        "keras.engine.training.Model.evaluate",
+        "<builtin>.print"
+    ],
+    "11": [
+        "matplotlib.pyplot.plot",
+        "matplotlib.pyplot.xlabel",
+        "matplotlib.pyplot.ylabel",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.show"
+    ],
+    "12": [
+        "keras.engine.training.Model.predict",
+        "numpy.ndarray.astype",
+        "numpy.ndarray.reshape",
+        "sklearn.metrics._classification.confusion_matrix",
+        "matplotlib.pyplot.subplots",
+        "seaborn.matrix.heatmap",
+        "matplotlib.pyplot.xlabel",
+        "matplotlib.pyplot.ylabel",
+        "matplotlib.pyplot.title",
+        "matplotlib.pyplot.show"
+    ],
+    "14": [
+        "01-keras-deep-learning-to-solve-titanic.preprocess:3",
+        "01-keras-deep-learning-to-solve-titanic.group_titles:3",
+        "pandas.core.generic.NDFrame.copy",
+        "pandas.core.series.Series.fillna",
+        "pandas.core.frame.DataFrame.drop",
+        "pandas.core.series.Series.replace",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.median",
+        "pandas.core.series.Series.map",
+        "01-keras-deep-learning-to-solve-titanic.<lambda1>:1",
+        "re.search",
+        "re.Match.group",
+        "pandas.core.generic.NDFrame.head",
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "15": [
+        "seaborn.categorical.countplot"
+    ],
+    "16": [
+        "keras.engine.training.Model.predict",
+        "numpy.ndarray.astype",
+        "numpy.ndarray.reshape",
+        "pandas.core.frame.DataFrame",
+        "pandas.core.generic.NDFrame.to_csv",
+        "matplotlib.pyplot.figure",
+        "seaborn.categorical.countplot",
+        "matplotlib.pyplot.title"
+    ]
+}

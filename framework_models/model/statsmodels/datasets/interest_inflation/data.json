@@ -1,0 +1,6 @@
+{
+    "statsmodels.datasets.interest_inflation.data.load": [],
+    "statsmodels.datasets.interest_inflation.data.load_pandas": [],
+    "statsmodels.datasets.interest_inflation.data._get_data": [],
+    "statsmodels.datasets.interest_inflation.data.__str__": []
+}

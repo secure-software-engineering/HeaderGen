@@ -1,0 +1,4 @@
+{
+    "pandas.tests.indexes.conftest.sort": [],
+    "pandas.tests.indexes.conftest.freq_sample": []
+}

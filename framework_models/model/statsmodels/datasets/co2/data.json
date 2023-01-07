@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.co2.data.load_pandas": [],
+    "statsmodels.datasets.co2.data.load": [],
+    "statsmodels.datasets.co2.data._get_data": []
+}

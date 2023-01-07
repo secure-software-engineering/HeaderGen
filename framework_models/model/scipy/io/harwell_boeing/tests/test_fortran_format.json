@@ -1,0 +1,18 @@
+{
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser.setup_method": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser._test_equal": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser.test_simple_int": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser.test_simple_repeated_int": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser.test_simple_exp": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser.test_exp_exp": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser.test_repeat_exp": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser.test_repeat_exp_exp": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser.test_wrong_formats": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestIntFormat.test_to_fortran": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestIntFormat.test_from_number": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestExpFormat.test_to_fortran": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestExpFormat.test_from_number": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestFortranFormatParser": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestIntFormat": [],
+    "scipy.io.harwell_boeing.tests.test_fortran_format.TestExpFormat": []
+}

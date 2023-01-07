@@ -1,0 +1,6 @@
+{
+    "statsmodels.sandbox.nonparametric.tests.test_kernel_extras.KernelExtrasTestBase.setup_class": [],
+    "statsmodels.sandbox.nonparametric.tests.test_kernel_extras.TestSemiLinear.test_basic": [],
+    "statsmodels.sandbox.nonparametric.tests.test_kernel_extras.KernelExtrasTestBase": [],
+    "statsmodels.sandbox.nonparametric.tests.test_kernel_extras.TestSemiLinear": []
+}

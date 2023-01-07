@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.ops.rnn._transpose_batch_time": [],
+    "tensorflow.python.ops.rnn._best_effort_input_batch_size": [],
+    "tensorflow.python.ops.rnn._infer_state_dtype": [],
+    "tensorflow.python.ops.rnn._maybe_tensor_shape_from_tensor": [],
+    "tensorflow.python.ops.rnn._should_cache": [],
+    "tensorflow.python.ops.rnn._rnn_step": [],
+    "tensorflow.python.ops.rnn._reverse_seq": [],
+    "tensorflow.python.ops.rnn.bidirectional_dynamic_rnn": [],
+    "tensorflow.python.ops.rnn.dynamic_rnn": [],
+    "tensorflow.python.ops.rnn._dynamic_rnn_loop": [],
+    "tensorflow.python.ops.rnn.raw_rnn": [],
+    "tensorflow.python.ops.rnn.static_rnn": [],
+    "tensorflow.python.ops.rnn.static_state_saving_rnn": [],
+    "tensorflow.python.ops.rnn.static_bidirectional_rnn": []
+}

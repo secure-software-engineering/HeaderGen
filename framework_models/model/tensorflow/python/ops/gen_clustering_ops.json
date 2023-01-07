@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.gen_clustering_ops.kmc2_chain_initialization": [],
+    "tensorflow.python.ops.gen_clustering_ops.kmc2_chain_initialization_eager_fallback": [],
+    "tensorflow.python.ops.gen_clustering_ops.kmeans_plus_plus_initialization": [],
+    "tensorflow.python.ops.gen_clustering_ops.kmeans_plus_plus_initialization_eager_fallback": [],
+    "tensorflow.python.ops.gen_clustering_ops.nearest_neighbors": [],
+    "tensorflow.python.ops.gen_clustering_ops.nearest_neighbors_eager_fallback": []
+}

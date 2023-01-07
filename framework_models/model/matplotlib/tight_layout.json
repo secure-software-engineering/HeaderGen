@@ -1,0 +1,7 @@
+{
+    "matplotlib.tight_layout._auto_adjust_subplotpars": [],
+    "matplotlib.tight_layout.auto_adjust_subplotpars": [],
+    "matplotlib.tight_layout.get_renderer": [],
+    "matplotlib.tight_layout.get_subplotspec_list": [],
+    "matplotlib.tight_layout.get_tight_layout_figure": []
+}

@@ -1,0 +1,16 @@
+{
+    "pandas.tests.series.methods.test_nlargest.s_main_dtypes": [],
+    "pandas.tests.series.methods.test_nlargest.s_main_dtypes_split": [],
+    "pandas.tests.series.methods.test_nlargest.assert_check_nselect_boundary": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_error": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nsmallest_nlargest": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_misc": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_n": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_boundary_integer": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_boundary_float": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_boundary_datetimelike": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_duplicate_keep_all_ties": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_boolean": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest.test_nlargest_nullable": [],
+    "pandas.tests.series.methods.test_nlargest.TestSeriesNLargestNSmallest": []
+}

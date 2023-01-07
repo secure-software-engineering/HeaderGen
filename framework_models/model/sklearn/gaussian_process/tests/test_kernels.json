@@ -1,0 +1,19 @@
+{
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_gradient": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_theta": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_auto_vs_cross": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_diag": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_operator_commutative": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_anisotropic": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_stationary": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_input_type": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_compound_kernel_input_type": [],
+    "sklearn.gaussian_process.tests.test_kernels.check_hyperparameters_equal": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_clone": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_clone_after_set_params": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_matern_kernel": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_kernel_versus_pairwise": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_set_get_params": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_repr_kernels": [],
+    "sklearn.gaussian_process.tests.test_kernels.test_rational_quadratic_kernel": []
+}

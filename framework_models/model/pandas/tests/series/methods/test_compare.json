@@ -1,0 +1,8 @@
+{
+    "pandas.tests.series.methods.test_compare.test_compare_axis": [],
+    "pandas.tests.series.methods.test_compare.test_compare_various_formats": [],
+    "pandas.tests.series.methods.test_compare.test_compare_with_equal_nulls": [],
+    "pandas.tests.series.methods.test_compare.test_compare_with_non_equal_nulls": [],
+    "pandas.tests.series.methods.test_compare.test_compare_multi_index": [],
+    "pandas.tests.series.methods.test_compare.test_compare_unaligned_objects": []
+}

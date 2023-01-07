@@ -1,0 +1,8 @@
+{
+    "matplotlib.backends.backend_gtk4agg.FigureCanvasGTK4Agg.__init__": [],
+    "matplotlib.backends.backend_gtk4agg.FigureCanvasGTK4Agg.on_draw_event": [],
+    "matplotlib.backends.backend_gtk4agg.FigureCanvasGTK4Agg.draw": [],
+    "matplotlib.backends.backend_gtk4agg.FigureCanvasGTK4Agg": [],
+    "matplotlib.backends.backend_gtk4agg.FigureManagerGTK4Agg": [],
+    "matplotlib.backends.backend_gtk4agg._BackendGTK4Agg": []
+}

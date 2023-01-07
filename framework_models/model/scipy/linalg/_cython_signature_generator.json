@@ -1,0 +1,6 @@
+{
+    "scipy.linalg._cython_signature_generator.get_type": [],
+    "scipy.linalg._cython_signature_generator.make_signature": [],
+    "scipy.linalg._cython_signature_generator.get_sig_name": [],
+    "scipy.linalg._cython_signature_generator.sigs_from_dir": []
+}

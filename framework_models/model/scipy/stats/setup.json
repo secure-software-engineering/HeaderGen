@@ -1,0 +1,4 @@
+{
+    "scipy.stats.setup.pre_build_hook": [],
+    "scipy.stats.setup.configuration": []
+}

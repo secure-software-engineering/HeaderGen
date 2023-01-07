@@ -1,0 +1,7 @@
+{
+    "statsmodels.multivariate.tests.test_manova.test_manova_sas_example": [],
+    "statsmodels.multivariate.tests.test_manova.test_manova_no_formula": [],
+    "statsmodels.multivariate.tests.test_manova.test_manova_no_formula_no_hypothesis": [],
+    "statsmodels.multivariate.tests.test_manova.test_manova_test_input_validation": [],
+    "statsmodels.multivariate.tests.test_manova.test_endog_1D_array": []
+}

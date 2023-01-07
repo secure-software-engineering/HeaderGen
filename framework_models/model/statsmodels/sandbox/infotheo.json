@@ -1,0 +1,16 @@
+{
+    "statsmodels.sandbox.infotheo.logsumexp": [],
+    "statsmodels.sandbox.infotheo._isproperdist": [],
+    "statsmodels.sandbox.infotheo.discretize": [],
+    "statsmodels.sandbox.infotheo.logbasechange": [],
+    "statsmodels.sandbox.infotheo.natstobits": [],
+    "statsmodels.sandbox.infotheo.bitstonats": [],
+    "statsmodels.sandbox.infotheo.shannonentropy": [],
+    "statsmodels.sandbox.infotheo.shannoninfo": [],
+    "statsmodels.sandbox.infotheo.condentropy": [],
+    "statsmodels.sandbox.infotheo.mutualinfo": [],
+    "statsmodels.sandbox.infotheo.corrent": [],
+    "statsmodels.sandbox.infotheo.covent": [],
+    "statsmodels.sandbox.infotheo.renyientropy": [],
+    "statsmodels.sandbox.infotheo.gencrossentropy": []
+}

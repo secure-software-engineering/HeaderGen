@@ -1,0 +1,8 @@
+{
+    "statsmodels.stats.gof.powerdiscrepancy": [],
+    "statsmodels.stats.gof.gof_chisquare_discrete": [],
+    "statsmodels.stats.gof.gof_binning_discrete": [],
+    "statsmodels.stats.gof.chisquare": [],
+    "statsmodels.stats.gof.chisquare_power": [],
+    "statsmodels.stats.gof.chisquare_effectsize": []
+}

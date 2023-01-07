@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.training.coordinator.Coordinator.__init__": [],
+    "tensorflow.python.training.coordinator.Coordinator._filter_exception": [],
+    "tensorflow.python.training.coordinator.Coordinator.request_stop": [],
+    "tensorflow.python.training.coordinator.Coordinator.clear_stop": [],
+    "tensorflow.python.training.coordinator.Coordinator.should_stop": [],
+    "tensorflow.python.training.coordinator.Coordinator.stop_on_exception": [],
+    "tensorflow.python.training.coordinator.Coordinator.wait_for_stop": [],
+    "tensorflow.python.training.coordinator.Coordinator.register_thread": [],
+    "tensorflow.python.training.coordinator.Coordinator.join": [],
+    "tensorflow.python.training.coordinator.Coordinator.joined": [],
+    "tensorflow.python.training.coordinator.Coordinator.raise_requested_exception": [],
+    "tensorflow.python.training.coordinator.LooperThread.__init__": [],
+    "tensorflow.python.training.coordinator.LooperThread.loop": [],
+    "tensorflow.python.training.coordinator.LooperThread.run": [],
+    "tensorflow.python.training.coordinator.LooperThread.start_loop": [],
+    "tensorflow.python.training.coordinator.LooperThread.stop_loop": [],
+    "tensorflow.python.training.coordinator.LooperThread.run_loop": [],
+    "tensorflow.python.training.coordinator.Coordinator": [],
+    "tensorflow.python.training.coordinator.LooperThread": []
+}

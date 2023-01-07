@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.fertility.data.load": [],
+    "statsmodels.datasets.fertility.data.load_pandas": [],
+    "statsmodels.datasets.fertility.data._get_data": []
+}

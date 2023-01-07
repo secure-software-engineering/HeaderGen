@@ -1,0 +1,20 @@
+{
+    "statsmodels.tools.tests.test_grouputils.test_init_api": [],
+    "statsmodels.tools.tests.test_grouputils.test_combine_indices": [],
+    "statsmodels.tools.tests.test_grouputils.test_group_sums": [],
+    "statsmodels.tools.tests.test_grouputils.test_group_class": [],
+    "statsmodels.tools.tests.test_grouputils.test_dummy_sparse": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping.test_reindex": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping.test_count_categories": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping.test_sort": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping.test_transform_dataframe": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping.test_transform_array": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping.test_transform_slices": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping.test_dummies_groups": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping.test_dummy_sparse": [],
+    "statsmodels.tools.tests.test_grouputils.TestMultiIndexGrouping.setup_class": [],
+    "statsmodels.tools.tests.test_grouputils.TestIndexGrouping.setup_class": [],
+    "statsmodels.tools.tests.test_grouputils.CheckGrouping": [],
+    "statsmodels.tools.tests.test_grouputils.TestMultiIndexGrouping": [],
+    "statsmodels.tools.tests.test_grouputils.TestIndexGrouping": []
+}

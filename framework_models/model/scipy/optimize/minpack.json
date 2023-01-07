@@ -1,0 +1,15 @@
+{
+    "scipy.optimize.minpack._check_func": [],
+    "scipy.optimize.minpack.fsolve": [],
+    "scipy.optimize.minpack._root_hybr": [],
+    "scipy.optimize.minpack.leastsq": [],
+    "scipy.optimize.minpack._wrap_func": [],
+    "scipy.optimize.minpack._wrap_jac": [],
+    "scipy.optimize.minpack._initialize_feasible": [],
+    "scipy.optimize.minpack.curve_fit": [],
+    "scipy.optimize.minpack.check_gradient": [],
+    "scipy.optimize.minpack._del2": [],
+    "scipy.optimize.minpack._relerr": [],
+    "scipy.optimize.minpack._fixed_point_helper": [],
+    "scipy.optimize.minpack.fixed_point": []
+}

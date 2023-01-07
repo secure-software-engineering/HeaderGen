@@ -1,0 +1,9 @@
+{
+    "pandas.tests.frame.methods.test_pct_change.test_pct_change_with_duplicated_indices": [],
+    "pandas.tests.frame.methods.test_pct_change.TestDataFramePctChange.test_pct_change_with_nas": [],
+    "pandas.tests.frame.methods.test_pct_change.TestDataFramePctChange.test_pct_change_numeric": [],
+    "pandas.tests.frame.methods.test_pct_change.TestDataFramePctChange.test_pct_change": [],
+    "pandas.tests.frame.methods.test_pct_change.TestDataFramePctChange.test_pct_change_shift_over_nas": [],
+    "pandas.tests.frame.methods.test_pct_change.TestDataFramePctChange.test_pct_change_periods_freq": [],
+    "pandas.tests.frame.methods.test_pct_change.TestDataFramePctChange": []
+}

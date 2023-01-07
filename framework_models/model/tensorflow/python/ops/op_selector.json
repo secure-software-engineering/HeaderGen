@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.ops.op_selector.is_differentiable": [],
+    "tensorflow.python.ops.op_selector.is_iterable": [],
+    "tensorflow.python.ops.op_selector.concatenate_unique": [],
+    "tensorflow.python.ops.op_selector.get_tensors": [],
+    "tensorflow.python.ops.op_selector.get_unique_graph": [],
+    "tensorflow.python.ops.op_selector.check_graphs": [],
+    "tensorflow.python.ops.op_selector.make_list_of_t": [],
+    "tensorflow.python.ops.op_selector.get_generating_ops": [],
+    "tensorflow.python.ops.op_selector.get_consuming_ops": [],
+    "tensorflow.python.ops.op_selector.make_list_of_op": [],
+    "tensorflow.python.ops.op_selector._get_inputs": [],
+    "tensorflow.python.ops.op_selector.get_backward_walk_ops": [],
+    "tensorflow.python.ops.op_selector._as_operation": [],
+    "tensorflow.python.ops.op_selector.graph_inputs": [],
+    "tensorflow.python.ops.op_selector._path_from": [],
+    "tensorflow.python.ops.op_selector.map_subgraph": [],
+    "tensorflow.python.ops.op_selector.UnliftableError": []
+}

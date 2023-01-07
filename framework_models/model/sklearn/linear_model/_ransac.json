@@ -1,0 +1,9 @@
+{
+    "sklearn.linear_model._ransac._dynamic_max_trials": [],
+    "sklearn.linear_model._ransac.RANSACRegressor.__init__": [],
+    "sklearn.linear_model._ransac.RANSACRegressor.fit": [],
+    "sklearn.linear_model._ransac.RANSACRegressor.predict": [],
+    "sklearn.linear_model._ransac.RANSACRegressor.score": [],
+    "sklearn.linear_model._ransac.RANSACRegressor._more_tags": [],
+    "sklearn.linear_model._ransac.RANSACRegressor": []
+}

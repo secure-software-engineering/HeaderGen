@@ -1,0 +1,20 @@
+{
+    "pandas.tests.indexing.test_floats.gen_obj": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.check": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_scalar_non_numeric": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_scalar_non_numeric_series_fallback": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_scalar_with_mixed": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_scalar_integer": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_scalar_integer_contains_float": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_scalar_float": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_slice_non_numeric": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_slice_integer": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_integer_positional_indexing": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_slice_integer_frame_getitem": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_float_slice_getitem_with_integer_index_raises": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_slice_float": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_floating_index_doc_example": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_floating_misc": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers.test_float64index_slicing_bug": [],
+    "pandas.tests.indexing.test_floats.TestFloatIndexers": []
+}

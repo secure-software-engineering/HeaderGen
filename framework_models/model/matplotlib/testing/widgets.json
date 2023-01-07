@@ -1,0 +1,5 @@
+{
+    "matplotlib.testing.widgets.get_ax": [],
+    "matplotlib.testing.widgets.mock_event": [],
+    "matplotlib.testing.widgets.do_event": []
+}

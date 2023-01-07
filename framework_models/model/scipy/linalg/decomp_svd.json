@@ -1,0 +1,8 @@
+{
+    "scipy.linalg.decomp_svd.svd": [],
+    "scipy.linalg.decomp_svd.svdvals": [],
+    "scipy.linalg.decomp_svd.diagsvd": [],
+    "scipy.linalg.decomp_svd.orth": [],
+    "scipy.linalg.decomp_svd.null_space": [],
+    "scipy.linalg.decomp_svd.subspace_angles": []
+}

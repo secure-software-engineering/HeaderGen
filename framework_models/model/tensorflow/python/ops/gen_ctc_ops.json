@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.gen_ctc_ops.ctc_beam_search_decoder": [],
+    "tensorflow.python.ops.gen_ctc_ops.ctc_beam_search_decoder_eager_fallback": [],
+    "tensorflow.python.ops.gen_ctc_ops.ctc_greedy_decoder": [],
+    "tensorflow.python.ops.gen_ctc_ops.ctc_greedy_decoder_eager_fallback": [],
+    "tensorflow.python.ops.gen_ctc_ops.ctc_loss": [],
+    "tensorflow.python.ops.gen_ctc_ops.ctc_loss_eager_fallback": [],
+    "tensorflow.python.ops.gen_ctc_ops.ctc_loss_v2": [],
+    "tensorflow.python.ops.gen_ctc_ops.ctc_loss_v2_eager_fallback": []
+}

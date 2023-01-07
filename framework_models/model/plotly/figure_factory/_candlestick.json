@@ -1,0 +1,9 @@
+{
+    "plotly.figure_factory._candlestick.make_increasing_candle": [],
+    "plotly.figure_factory._candlestick.make_decreasing_candle": [],
+    "plotly.figure_factory._candlestick.create_candlestick": [],
+    "plotly.figure_factory._candlestick._Candlestick.__init__": [],
+    "plotly.figure_factory._candlestick._Candlestick.get_candle_increase": [],
+    "plotly.figure_factory._candlestick._Candlestick.get_candle_decrease": [],
+    "plotly.figure_factory._candlestick._Candlestick": []
+}

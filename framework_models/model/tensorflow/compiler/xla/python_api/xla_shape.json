@@ -1,0 +1,13 @@
+{
+    "tensorflow.compiler.xla.python_api.xla_shape._CreateShapeFromNumpy": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.CreateShapeFromNumpy": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.CreateShapeFromDtypeAndTuple": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.Shape.__init__": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.Shape.element_type": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.Shape.is_tuple": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.Shape.dimensions": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.Shape.tuple_shapes": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.Shape.layout": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.Shape.from_pyval": [],
+    "tensorflow.compiler.xla.python_api.xla_shape.Shape": []
+}

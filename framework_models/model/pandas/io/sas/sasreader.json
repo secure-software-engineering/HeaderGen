@@ -1,0 +1,8 @@
+{
+    "pandas.io.sas.sasreader.read_sas": [],
+    "pandas.io.sas.sasreader.ReaderBase.read": [],
+    "pandas.io.sas.sasreader.ReaderBase.close": [],
+    "pandas.io.sas.sasreader.ReaderBase.__enter__": [],
+    "pandas.io.sas.sasreader.ReaderBase.__exit__": [],
+    "pandas.io.sas.sasreader.ReaderBase": []
+}

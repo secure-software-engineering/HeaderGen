@@ -1,0 +1,6 @@
+from typing import Any
+
+BASE_COLORS: Any
+TABLEAU_COLORS: Any
+XKCD_COLORS: Any
+CSS4_COLORS: Any

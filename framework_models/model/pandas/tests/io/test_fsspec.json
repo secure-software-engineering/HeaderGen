@@ -1,0 +1,23 @@
+{
+    "pandas.tests.io.test_fsspec.cleared_fs": [],
+    "pandas.tests.io.test_fsspec.test_read_csv": [],
+    "pandas.tests.io.test_fsspec.test_reasonable_error": [],
+    "pandas.tests.io.test_fsspec.test_to_csv": [],
+    "pandas.tests.io.test_fsspec.test_to_excel": [],
+    "pandas.tests.io.test_fsspec.test_to_csv_fsspec_object": [],
+    "pandas.tests.io.test_fsspec.test_csv_options": [],
+    "pandas.tests.io.test_fsspec.test_excel_options": [],
+    "pandas.tests.io.test_fsspec.test_to_parquet_new_file": [],
+    "pandas.tests.io.test_fsspec.test_arrowparquet_options": [],
+    "pandas.tests.io.test_fsspec.test_fastparquet_options": [],
+    "pandas.tests.io.test_fsspec.test_from_s3_csv": [],
+    "pandas.tests.io.test_fsspec.test_s3_protocols": [],
+    "pandas.tests.io.test_fsspec.test_s3_parquet": [],
+    "pandas.tests.io.test_fsspec.test_not_present_exception": [],
+    "pandas.tests.io.test_fsspec.test_feather_options": [],
+    "pandas.tests.io.test_fsspec.test_pickle_options": [],
+    "pandas.tests.io.test_fsspec.test_json_options": [],
+    "pandas.tests.io.test_fsspec.test_stata_options": [],
+    "pandas.tests.io.test_fsspec.test_markdown_options": [],
+    "pandas.tests.io.test_fsspec.test_non_fsspec_options": []
+}

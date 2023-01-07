@@ -1,0 +1,5 @@
+{
+    "pandas.tests.series.test_npfuncs.test_numpy_unique": [],
+    "pandas.tests.series.test_npfuncs.TestPtp.test_ptp": [],
+    "pandas.tests.series.test_npfuncs.TestPtp": []
+}

@@ -1,0 +1,10 @@
+{
+    "matplotlib.tests.test_bbox_tight.test_bbox_inches_tight": [],
+    "matplotlib.tests.test_bbox_tight.test_bbox_inches_tight_suptile_legend": [],
+    "matplotlib.tests.test_bbox_tight.test_bbox_inches_tight_suptitle_non_default": [],
+    "matplotlib.tests.test_bbox_tight.test_bbox_inches_tight_clipping": [],
+    "matplotlib.tests.test_bbox_tight.test_bbox_inches_tight_raster": [],
+    "matplotlib.tests.test_bbox_tight.test_only_on_non_finite_bbox": [],
+    "matplotlib.tests.test_bbox_tight.test_tight_pcolorfast": [],
+    "matplotlib.tests.test_bbox_tight.test_noop_tight_bbox": []
+}

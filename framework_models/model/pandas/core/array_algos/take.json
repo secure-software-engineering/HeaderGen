@@ -1,0 +1,13 @@
+{
+    "pandas.core.array_algos.take.take_nd": [],
+    "pandas.core.array_algos.take._take_nd_ndarray": [],
+    "pandas.core.array_algos.take.take_1d": [],
+    "pandas.core.array_algos.take.take_2d_multi": [],
+    "pandas.core.array_algos.take._get_take_nd_function_cached": [],
+    "pandas.core.array_algos.take._get_take_nd_function": [],
+    "pandas.core.array_algos.take._view_wrapper": [],
+    "pandas.core.array_algos.take._convert_wrapper": [],
+    "pandas.core.array_algos.take._take_nd_object": [],
+    "pandas.core.array_algos.take._take_2d_multi_object": [],
+    "pandas.core.array_algos.take._take_preprocess_indexer_and_fill_value": []
+}

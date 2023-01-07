@@ -1,0 +1,16 @@
+{
+    "scipy.stats._mannwhitneyu._broadcast_concatenate": [],
+    "scipy.stats._mannwhitneyu._tie_term": [],
+    "scipy.stats._mannwhitneyu._get_mwu_z": [],
+    "scipy.stats._mannwhitneyu._mwu_input_validation": [],
+    "scipy.stats._mannwhitneyu._tie_check": [],
+    "scipy.stats._mannwhitneyu._mwu_choose_method": [],
+    "scipy.stats._mannwhitneyu.mannwhitneyu": [],
+    "scipy.stats._mannwhitneyu._MWU.__init__": [],
+    "scipy.stats._mannwhitneyu._MWU.pmf": [],
+    "scipy.stats._mannwhitneyu._MWU.cdf": [],
+    "scipy.stats._mannwhitneyu._MWU.sf": [],
+    "scipy.stats._mannwhitneyu._MWU._resize_fmnks": [],
+    "scipy.stats._mannwhitneyu._MWU._f": [],
+    "scipy.stats._mannwhitneyu._MWU": []
+}

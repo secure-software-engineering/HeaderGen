@@ -1,0 +1,20 @@
+{
+    "scipy.io.matlab.miobase.convert_dtypes": [],
+    "scipy.io.matlab.miobase.read_dtype": [],
+    "scipy.io.matlab.miobase.get_matfile_version": [],
+    "scipy.io.matlab.miobase.matdims": [],
+    "scipy.io.matlab.miobase.arr_dtype_number": [],
+    "scipy.io.matlab.miobase.arr_to_chars": [],
+    "scipy.io.matlab.miobase.MatVarReader.__init__": [],
+    "scipy.io.matlab.miobase.MatVarReader.read_header": [],
+    "scipy.io.matlab.miobase.MatVarReader.array_from_header": [],
+    "scipy.io.matlab.miobase.MatFileReader.__init__": [],
+    "scipy.io.matlab.miobase.MatFileReader.set_matlab_compatible": [],
+    "scipy.io.matlab.miobase.MatFileReader.guess_byte_order": [],
+    "scipy.io.matlab.miobase.MatFileReader.end_of_stream": [],
+    "scipy.io.matlab.miobase.MatReadError": [],
+    "scipy.io.matlab.miobase.MatWriteError": [],
+    "scipy.io.matlab.miobase.MatReadWarning": [],
+    "scipy.io.matlab.miobase.MatVarReader": [],
+    "scipy.io.matlab.miobase.MatFileReader": []
+}

@@ -1,0 +1,9 @@
+{
+    "pandas.tests.frame.methods.test_dtypes._check_cast": [],
+    "pandas.tests.frame.methods.test_dtypes.TestDataFrameDataTypes.test_empty_frame_dtypes": [],
+    "pandas.tests.frame.methods.test_dtypes.TestDataFrameDataTypes.test_datetime_with_tz_dtypes": [],
+    "pandas.tests.frame.methods.test_dtypes.TestDataFrameDataTypes.test_dtypes_are_correct_after_column_slice": [],
+    "pandas.tests.frame.methods.test_dtypes.TestDataFrameDataTypes.test_dtypes_gh8722": [],
+    "pandas.tests.frame.methods.test_dtypes.TestDataFrameDataTypes.test_dtypes_timedeltas": [],
+    "pandas.tests.frame.methods.test_dtypes.TestDataFrameDataTypes": []
+}

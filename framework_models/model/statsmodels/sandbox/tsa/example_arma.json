@@ -1,0 +1,16 @@
+{
+    "statsmodels.sandbox.tsa.example_arma.detrend": [],
+    "statsmodels.sandbox.tsa.example_arma.demean": [],
+    "statsmodels.sandbox.tsa.example_arma.detrend_mean": [],
+    "statsmodels.sandbox.tsa.example_arma.detrend_none": [],
+    "statsmodels.sandbox.tsa.example_arma.detrend_linear": [],
+    "statsmodels.sandbox.tsa.example_arma.acovf_explicit": [],
+    "statsmodels.sandbox.tsa.example_arma.acovf_arma11": [],
+    "statsmodels.sandbox.tsa.example_arma.acovf_ma2": [],
+    "statsmodels.sandbox.tsa.example_arma.acovf_ma1": [],
+    "statsmodels.sandbox.tsa.example_arma.ar_generator": [],
+    "statsmodels.sandbox.tsa.example_arma.autocorr": [],
+    "statsmodels.sandbox.tsa.example_arma.norm_corr": [],
+    "statsmodels.sandbox.tsa.example_arma.pltacorr": [],
+    "statsmodels.sandbox.tsa.example_arma.pltxcorr": []
+}

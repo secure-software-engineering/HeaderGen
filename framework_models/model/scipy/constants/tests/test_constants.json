@@ -1,0 +1,5 @@
+{
+    "scipy.constants.tests.test_constants.test_convert_temperature": [],
+    "scipy.constants.tests.test_constants.test_lambda_to_nu": [],
+    "scipy.constants.tests.test_constants.test_nu_to_lambda": []
+}

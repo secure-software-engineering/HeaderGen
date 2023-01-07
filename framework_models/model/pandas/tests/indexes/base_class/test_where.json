@@ -1,0 +1,4 @@
+{
+    "pandas.tests.indexes.base_class.test_where.TestWhere.test_where_intlike_str_doesnt_cast_ints": [],
+    "pandas.tests.indexes.base_class.test_where.TestWhere": []
+}

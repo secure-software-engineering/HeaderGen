@@ -1,0 +1,9 @@
+{
+    "sklearn.manifold.tests.test_locally_linear.test_barycenter_kneighbors_graph": [],
+    "sklearn.manifold.tests.test_locally_linear.test_lle_simple_grid": [],
+    "sklearn.manifold.tests.test_locally_linear.test_lle_manifold": [],
+    "sklearn.manifold.tests.test_locally_linear.test_lle_init_parameters": [],
+    "sklearn.manifold.tests.test_locally_linear.test_pipeline": [],
+    "sklearn.manifold.tests.test_locally_linear.test_singular_matrix": [],
+    "sklearn.manifold.tests.test_locally_linear.test_integer_input": []
+}

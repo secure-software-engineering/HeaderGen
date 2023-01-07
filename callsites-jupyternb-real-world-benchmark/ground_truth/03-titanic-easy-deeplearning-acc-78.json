@@ -1,0 +1,35 @@
+{
+    "1": [
+        "<builtin>.print",
+        "pandas.io.parsers.readers.read_csv",
+        "pandas.core.generic.NDFrame.astype",
+        "numpy.array",
+        "pandas.core.frame.DataFrame.replace",
+        "pandas.core.series.Series.replace",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.mean",
+        "pandas.core.tools.numeric.to_numeric"
+    ],
+    "2": [
+        "keras.callbacks.Callback.__init__"
+    ],
+    "3": [
+        "keras.engine.sequential.Sequential",
+        "keras.layers.core.dense.Dense",
+        "keras.engine.training.Model.fit",
+        "keras.engine.training.Model.compile"
+    ],
+    "4": [
+        "pandas.io.parsers.readers.read_csv",
+        "pandas.core.generic.NDFrame.astype",
+        "pandas.core.frame.DataFrame.replace",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.mean",
+        "pandas.core.tools.numeric.to_numeric",
+        "pandas.core.series.Series.replace",
+        "numpy.core._multiarray_umath.where",
+        "pandas.core.frame.DataFrame",
+        "numpy.array",
+        "numpy.ndarray.astype",
+        "pandas.core.generic.NDFrame.to_csv"
+    ]
+}
+

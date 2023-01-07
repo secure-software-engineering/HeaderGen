@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing.__init__": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing._preprocess_single_input": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing._preprocess_inputs": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing.call": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing._hash_values_to_bins": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing._get_string_to_hash_bucket_fn": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing.compute_output_shape": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing.compute_output_signature": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing.get_config": [],
+    "tensorflow.python.keras.layers.preprocessing.hashing.Hashing": []
+}

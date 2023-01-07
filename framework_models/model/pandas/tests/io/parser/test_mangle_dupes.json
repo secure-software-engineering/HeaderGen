@@ -1,0 +1,8 @@
+{
+    "pandas.tests.io.parser.test_mangle_dupes.test_basic": [],
+    "pandas.tests.io.parser.test_mangle_dupes.test_basic_names": [],
+    "pandas.tests.io.parser.test_mangle_dupes.test_basic_names_raise": [],
+    "pandas.tests.io.parser.test_mangle_dupes.test_thorough_mangle_columns": [],
+    "pandas.tests.io.parser.test_mangle_dupes.test_thorough_mangle_names": [],
+    "pandas.tests.io.parser.test_mangle_dupes.test_mangled_unnamed_placeholders": []
+}

@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_from_variant": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_from_variant_eager_fallback": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_to_sparse": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_to_sparse_eager_fallback": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_to_tensor": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_to_tensor_eager_fallback": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_to_variant": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_to_variant_eager_fallback": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_to_variant_gradient": [],
+    "tensorflow.python.ops.gen_ragged_conversion_ops.ragged_tensor_to_variant_gradient_eager_fallback": []
+}

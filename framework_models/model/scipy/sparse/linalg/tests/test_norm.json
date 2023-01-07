@@ -1,0 +1,12 @@
+{
+    "scipy.sparse.linalg.tests.test_norm.TestNorm.setup_method": [],
+    "scipy.sparse.linalg.tests.test_norm.TestNorm.test_matrix_norm": [],
+    "scipy.sparse.linalg.tests.test_norm.TestNorm.test_matrix_norm_axis": [],
+    "scipy.sparse.linalg.tests.test_norm.TestNorm.test_vector_norm": [],
+    "scipy.sparse.linalg.tests.test_norm.TestNorm.test_norm_exceptions": [],
+    "scipy.sparse.linalg.tests.test_norm.TestVsNumpyNorm.test_sparse_matrix_norms": [],
+    "scipy.sparse.linalg.tests.test_norm.TestVsNumpyNorm.test_sparse_matrix_norms_with_axis": [],
+    "scipy.sparse.linalg.tests.test_norm.TestVsNumpyNorm.test_sparse_vector_norms": [],
+    "scipy.sparse.linalg.tests.test_norm.TestNorm": [],
+    "scipy.sparse.linalg.tests.test_norm.TestVsNumpyNorm": []
+}

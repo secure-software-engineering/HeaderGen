@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.ops.map_fn.map_fn": [],
+    "tensorflow.python.ops.map_fn._dtype_to_spec": [],
+    "tensorflow.python.ops.map_fn._most_general_compatible_type": [],
+    "tensorflow.python.ops.map_fn._result_flat_signature_to_batchable_tensor_spec": [],
+    "tensorflow.python.ops.map_fn._elems_flat_to_batchable": [],
+    "tensorflow.python.ops.map_fn._elems_value_batchable_to_flat": [],
+    "tensorflow.python.ops.map_fn._result_value_flat_to_batchable": [],
+    "tensorflow.python.ops.map_fn._result_batchable_to_flat": [],
+    "tensorflow.python.ops.map_fn.map_fn_v2": []
+}

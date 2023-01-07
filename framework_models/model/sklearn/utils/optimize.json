@@ -1,0 +1,7 @@
+{
+    "sklearn.utils.optimize._line_search_wolfe12": [],
+    "sklearn.utils.optimize._cg": [],
+    "sklearn.utils.optimize._newton_cg": [],
+    "sklearn.utils.optimize._check_optimize_result": [],
+    "sklearn.utils.optimize._LineSearchError": []
+}

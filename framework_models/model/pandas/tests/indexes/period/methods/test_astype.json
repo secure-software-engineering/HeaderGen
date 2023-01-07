@@ -1,0 +1,11 @@
+{
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType.test_astype_raises": [],
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType.test_astype_conversion": [],
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType.test_astype_uint": [],
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType.test_astype_object": [],
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType.test_astype_object2": [],
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType.test_astype_category": [],
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType.test_astype_array_fallback": [],
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType.test_period_astype_to_timestamp": [],
+    "pandas.tests.indexes.period.methods.test_astype.TestPeriodIndexAsType": []
+}

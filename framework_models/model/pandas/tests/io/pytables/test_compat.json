@@ -1,0 +1,8 @@
+{
+    "pandas.tests.io.pytables.test_compat.pytables_hdf5_file": [],
+    "pandas.tests.io.pytables.test_compat.TestReadPyTablesHDF5.test_read_complete": [],
+    "pandas.tests.io.pytables.test_compat.TestReadPyTablesHDF5.test_read_with_start": [],
+    "pandas.tests.io.pytables.test_compat.TestReadPyTablesHDF5.test_read_with_stop": [],
+    "pandas.tests.io.pytables.test_compat.TestReadPyTablesHDF5.test_read_with_startstop": [],
+    "pandas.tests.io.pytables.test_compat.TestReadPyTablesHDF5": []
+}

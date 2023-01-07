@@ -1,0 +1,6 @@
+{
+    "statsmodels.regression.tests.test_tools.TestMinimalWLS.setup_class": [],
+    "statsmodels.regression.tests.test_tools.TestMinimalWLS.test_equivalence_with_wls": [],
+    "statsmodels.regression.tests.test_tools.TestMinimalWLS.test_inf_nan": [],
+    "statsmodels.regression.tests.test_tools.TestMinimalWLS": []
+}

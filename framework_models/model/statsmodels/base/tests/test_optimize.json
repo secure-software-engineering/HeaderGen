@@ -1,0 +1,11 @@
+{
+    "statsmodels.base.tests.test_optimize.dummy_func": [],
+    "statsmodels.base.tests.test_optimize.dummy_score": [],
+    "statsmodels.base.tests.test_optimize.dummy_hess": [],
+    "statsmodels.base.tests.test_optimize.dummy_bounds_constraint_func": [],
+    "statsmodels.base.tests.test_optimize.dummy_bounds": [],
+    "statsmodels.base.tests.test_optimize.dummy_constraints": [],
+    "statsmodels.base.tests.test_optimize.test_full_output_false": [],
+    "statsmodels.base.tests.test_optimize.test_full_output": [],
+    "statsmodels.base.tests.test_optimize.test_minimize_scipy_slsqp": []
+}

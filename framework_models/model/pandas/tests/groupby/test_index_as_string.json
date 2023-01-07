@@ -1,0 +1,6 @@
+{
+    "pandas.tests.groupby.test_index_as_string.frame": [],
+    "pandas.tests.groupby.test_index_as_string.series": [],
+    "pandas.tests.groupby.test_index_as_string.test_grouper_index_level_as_string": [],
+    "pandas.tests.groupby.test_index_as_string.test_grouper_index_level_as_string_series": []
+}

@@ -1,0 +1,16 @@
+{
+    "keras.layers.preprocessing.table_utils.num_tokens_in_file": [],
+    "keras.layers.preprocessing.table_utils.get_vocabulary_from_file": [],
+    "keras.layers.preprocessing.table_utils.find_repeated_tokens": [],
+    "keras.layers.preprocessing.table_utils.TableHandler.__init__": [],
+    "keras.layers.preprocessing.table_utils.TableHandler.table_size": [],
+    "keras.layers.preprocessing.table_utils.TableHandler.clear": [],
+    "keras.layers.preprocessing.table_utils.TableHandler.insert": [],
+    "keras.layers.preprocessing.table_utils.TableHandler._replace_oov_buckets": [],
+    "keras.layers.preprocessing.table_utils.TableHandler._lookup_and_mask": [],
+    "keras.layers.preprocessing.table_utils.TableHandler._ragged_lookup": [],
+    "keras.layers.preprocessing.table_utils.TableHandler._sparse_lookup": [],
+    "keras.layers.preprocessing.table_utils.TableHandler._tensor_lookup": [],
+    "keras.layers.preprocessing.table_utils.TableHandler.lookup": [],
+    "keras.layers.preprocessing.table_utils.TableHandler": []
+}

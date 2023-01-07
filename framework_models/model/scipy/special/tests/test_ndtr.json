@@ -1,0 +1,7 @@
+{
+    "scipy.special.tests.test_ndtr.test_ndtr": [],
+    "scipy.special.tests.test_ndtr.TestNdtri.test_zero": [],
+    "scipy.special.tests.test_ndtr.TestNdtri.test_asymptotes": [],
+    "scipy.special.tests.test_ndtr.TestNdtri.test_outside_of_domain": [],
+    "scipy.special.tests.test_ndtr.TestNdtri": []
+}

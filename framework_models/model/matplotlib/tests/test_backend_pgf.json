@@ -1,0 +1,19 @@
+{
+    "matplotlib.tests.test_backend_pgf.compare_figure": [],
+    "matplotlib.tests.test_backend_pgf.create_figure": [],
+    "matplotlib.tests.test_backend_pgf.test_common_texification": [],
+    "matplotlib.tests.test_backend_pgf.test_xelatex": [],
+    "matplotlib.tests.test_backend_pgf.test_pdflatex": [],
+    "matplotlib.tests.test_backend_pgf.test_rcupdate": [],
+    "matplotlib.tests.test_backend_pgf.test_pathclip": [],
+    "matplotlib.tests.test_backend_pgf.test_mixedmode": [],
+    "matplotlib.tests.test_backend_pgf.test_bbox_inches": [],
+    "matplotlib.tests.test_backend_pgf.test_pdf_pages": [],
+    "matplotlib.tests.test_backend_pgf.test_pdf_pages_metadata_check": [],
+    "matplotlib.tests.test_backend_pgf.test_tex_restart_after_error": [],
+    "matplotlib.tests.test_backend_pgf.test_bbox_inches_tight": [],
+    "matplotlib.tests.test_backend_pgf.test_png": [],
+    "matplotlib.tests.test_backend_pgf.test_unknown_font": [],
+    "matplotlib.tests.test_backend_pgf.test_minus_signs_with_tex": [],
+    "matplotlib.tests.test_backend_pgf.test_sketch_params": []
+}

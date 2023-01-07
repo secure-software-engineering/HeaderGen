@@ -1,0 +1,8 @@
+{
+    "tensorflow.lite.python.convert_saved_model._log_tensor_details": [],
+    "tensorflow.lite.python.convert_saved_model.get_meta_graph_def": [],
+    "tensorflow.lite.python.convert_saved_model.get_signature_def": [],
+    "tensorflow.lite.python.convert_saved_model.get_inputs_outputs": [],
+    "tensorflow.lite.python.convert_saved_model._get_tensors": [],
+    "tensorflow.lite.python.convert_saved_model.freeze_saved_model": []
+}

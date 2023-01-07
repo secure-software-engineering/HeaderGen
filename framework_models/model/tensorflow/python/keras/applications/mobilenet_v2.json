@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.keras.applications.mobilenet_v2.MobileNetV2": [],
+    "tensorflow.python.keras.applications.mobilenet_v2._inverted_res_block": [],
+    "tensorflow.python.keras.applications.mobilenet_v2._make_divisible": [],
+    "tensorflow.python.keras.applications.mobilenet_v2.preprocess_input": [],
+    "tensorflow.python.keras.applications.mobilenet_v2.decode_predictions": []
+}

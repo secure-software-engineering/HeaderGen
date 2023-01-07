@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.multi.test_isin.test_isin_nan": [],
+    "pandas.tests.indexes.multi.test_isin.test_isin": [],
+    "pandas.tests.indexes.multi.test_isin.test_isin_level_kwarg": [],
+    "pandas.tests.indexes.multi.test_isin.test_isin_multi_index_with_missing_value": []
+}

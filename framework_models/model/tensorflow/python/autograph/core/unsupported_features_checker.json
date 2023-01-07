@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.autograph.core.unsupported_features_checker.verify": [],
+    "tensorflow.python.autograph.core.unsupported_features_checker.UnsupportedFeaturesChecker.visit_Attribute": [],
+    "tensorflow.python.autograph.core.unsupported_features_checker.UnsupportedFeaturesChecker.visit_For": [],
+    "tensorflow.python.autograph.core.unsupported_features_checker.UnsupportedFeaturesChecker.visit_While": [],
+    "tensorflow.python.autograph.core.unsupported_features_checker.UnsupportedFeaturesChecker.visit_Yield": [],
+    "tensorflow.python.autograph.core.unsupported_features_checker.UnsupportedFeaturesChecker.visit_YieldFrom": [],
+    "tensorflow.python.autograph.core.unsupported_features_checker.UnsupportedFeaturesChecker": []
+}

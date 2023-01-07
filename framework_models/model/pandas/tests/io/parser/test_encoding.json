@@ -1,0 +1,16 @@
+{
+    "pandas.tests.io.parser.test_encoding.test_bytes_io_input": [],
+    "pandas.tests.io.parser.test_encoding.test_read_csv_unicode": [],
+    "pandas.tests.io.parser.test_encoding.test_utf16_bom_skiprows": [],
+    "pandas.tests.io.parser.test_encoding.test_utf16_example": [],
+    "pandas.tests.io.parser.test_encoding.test_unicode_encoding": [],
+    "pandas.tests.io.parser.test_encoding.test_utf8_bom": [],
+    "pandas.tests.io.parser.test_encoding.test_read_csv_utf_aliases": [],
+    "pandas.tests.io.parser.test_encoding.test_binary_mode_file_buffers": [],
+    "pandas.tests.io.parser.test_encoding.test_encoding_temp_file": [],
+    "pandas.tests.io.parser.test_encoding.test_encoding_named_temp_file": [],
+    "pandas.tests.io.parser.test_encoding.test_parse_encoded_special_characters": [],
+    "pandas.tests.io.parser.test_encoding.test_encoding_memory_map": [],
+    "pandas.tests.io.parser.test_encoding.test_chunk_splits_multibyte_char": [],
+    "pandas.tests.io.parser.test_encoding.test_not_readable": []
+}

@@ -1,0 +1,14 @@
+{
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_reductions_empty": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_sum_empty": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_min_max": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_sum": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_np_sum": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_npsum": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_sum_2d_skipna_false": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_std": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_median": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_mean": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions.test_mean_2d": [],
+    "pandas.tests.arrays.timedeltas.test_reductions.TestReductions": []
+}

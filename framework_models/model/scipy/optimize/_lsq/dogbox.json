@@ -1,0 +1,6 @@
+{
+    "scipy.optimize._lsq.dogbox.lsmr_operator": [],
+    "scipy.optimize._lsq.dogbox.find_intersection": [],
+    "scipy.optimize._lsq.dogbox.dogleg_step": [],
+    "scipy.optimize._lsq.dogbox.dogbox": []
+}

@@ -1,0 +1,5 @@
+{
+    "sklearn.neighbors.tests.test_graph.test_transformer_result": [],
+    "sklearn.neighbors.tests.test_graph._has_explicit_diagonal": [],
+    "sklearn.neighbors.tests.test_graph.test_explicit_diagonal": []
+}

@@ -1,0 +1,20 @@
+{
+    "sklearn.model_selection._search_successive_halving._top_k": [],
+    "sklearn.model_selection._search_successive_halving._SubsampleMetaSplitter.__init__": [],
+    "sklearn.model_selection._search_successive_halving._SubsampleMetaSplitter.split": [],
+    "sklearn.model_selection._search_successive_halving.BaseSuccessiveHalving.__init__": [],
+    "sklearn.model_selection._search_successive_halving.BaseSuccessiveHalving._check_input_parameters": [],
+    "sklearn.model_selection._search_successive_halving.BaseSuccessiveHalving._select_best_index": [],
+    "sklearn.model_selection._search_successive_halving.BaseSuccessiveHalving.fit": [],
+    "sklearn.model_selection._search_successive_halving.BaseSuccessiveHalving._run_search": [],
+    "sklearn.model_selection._search_successive_halving.BaseSuccessiveHalving._generate_candidate_params": [],
+    "sklearn.model_selection._search_successive_halving.BaseSuccessiveHalving._more_tags": [],
+    "sklearn.model_selection._search_successive_halving.HalvingGridSearchCV.__init__": [],
+    "sklearn.model_selection._search_successive_halving.HalvingGridSearchCV._generate_candidate_params": [],
+    "sklearn.model_selection._search_successive_halving.HalvingRandomSearchCV.__init__": [],
+    "sklearn.model_selection._search_successive_halving.HalvingRandomSearchCV._generate_candidate_params": [],
+    "sklearn.model_selection._search_successive_halving._SubsampleMetaSplitter": [],
+    "sklearn.model_selection._search_successive_halving.BaseSuccessiveHalving": [],
+    "sklearn.model_selection._search_successive_halving.HalvingGridSearchCV": [],
+    "sklearn.model_selection._search_successive_halving.HalvingRandomSearchCV": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.tests.extension.arrow.test_timestamp.test_constructor_extensionblock": [],
+    "pandas.tests.extension.arrow.test_timestamp.ArrowTimestampUSDtype.construct_array_type": [],
+    "pandas.tests.extension.arrow.test_timestamp.ArrowTimestampUSArray.__init__": [],
+    "pandas.tests.extension.arrow.test_timestamp.ArrowTimestampUSDtype": [],
+    "pandas.tests.extension.arrow.test_timestamp.ArrowTimestampUSArray": []
+}

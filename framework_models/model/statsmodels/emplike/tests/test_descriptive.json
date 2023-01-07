@@ -1,0 +1,23 @@
+{
+    "statsmodels.emplike.tests.test_descriptive.GenRes.setup_class": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.setup_class": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_test_mean": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_test_mean_weights": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_ci_mean": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_test_var": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_test_var_weights": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_ci_var": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_mv_test_mean": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_mv_test_mean_weights": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_test_skew": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_ci_skew": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_ci_skew_weights": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_test_kurt": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_ci_kurt": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_joint_skew_kurt": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_test_corr": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_ci_corr": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics.test_test_corr_weights": [],
+    "statsmodels.emplike.tests.test_descriptive.GenRes": [],
+    "statsmodels.emplike.tests.test_descriptive.TestDescriptiveStatistics": []
+}

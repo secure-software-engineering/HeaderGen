@@ -1,0 +1,16 @@
+{
+    "numpy.ma.timer_comparison.ModuleTester.__init__": [],
+    "numpy.ma.timer_comparison.ModuleTester.assert_array_compare": [],
+    "numpy.ma.timer_comparison.ModuleTester.assert_array_equal": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_0": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_1": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_2": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_3": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_4": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_5": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_6": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_7": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_99": [],
+    "numpy.ma.timer_comparison.ModuleTester.test_A": [],
+    "numpy.ma.timer_comparison.ModuleTester": []
+}

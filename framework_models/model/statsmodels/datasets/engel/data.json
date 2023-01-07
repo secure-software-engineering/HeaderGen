@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.engel.data.load": [],
+    "statsmodels.datasets.engel.data.load_pandas": [],
+    "statsmodels.datasets.engel.data._get_data": []
+}

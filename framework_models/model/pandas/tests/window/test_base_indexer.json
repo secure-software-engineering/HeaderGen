@@ -1,0 +1,16 @@
+{
+    "pandas.tests.window.test_base_indexer.test_bad_get_window_bounds_signature": [],
+    "pandas.tests.window.test_base_indexer.test_expanding_indexer": [],
+    "pandas.tests.window.test_base_indexer.test_indexer_constructor_arg": [],
+    "pandas.tests.window.test_base_indexer.test_indexer_accepts_rolling_args": [],
+    "pandas.tests.window.test_base_indexer.test_rolling_forward_window": [],
+    "pandas.tests.window.test_base_indexer.test_rolling_forward_skewness": [],
+    "pandas.tests.window.test_base_indexer.test_rolling_forward_cov_corr": [],
+    "pandas.tests.window.test_base_indexer.test_non_fixed_variable_window_indexer": [],
+    "pandas.tests.window.test_base_indexer.test_fixed_forward_indexer_count": [],
+    "pandas.tests.window.test_base_indexer.test_indexer_quantile_sum": [],
+    "pandas.tests.window.test_base_indexer.test_indexers_are_reusable_after_groupby_rolling": [],
+    "pandas.tests.window.test_base_indexer.test_fixed_forward_indexer_bounds": [],
+    "pandas.tests.window.test_base_indexer.test_rolling_groupby_with_fixed_forward_specific": [],
+    "pandas.tests.window.test_base_indexer.test_rolling_groupby_with_fixed_forward_many": []
+}

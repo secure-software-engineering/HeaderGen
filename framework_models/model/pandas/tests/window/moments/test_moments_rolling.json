@@ -1,0 +1,21 @@
+{
+    "pandas.tests.window.moments.test_moments_rolling.test_centered_axis_validation": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_mean": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window_corner": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window_frame": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window_na_min_periods": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window_regular": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window_regular_linear_range": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window_regular_missing_data": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window_special": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_cmov_window_special_linear_range": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_rolling_min_min_periods": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_rolling_max_min_periods": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_rolling_quantile_np_percentile": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_rolling_quantile_interpolation_options": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_invalid_quantile_value": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_rolling_quantile_param": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_rolling_std_1obs": [],
+    "pandas.tests.window.moments.test_moments_rolling.test_rolling_std_neg_sqrt": []
+}

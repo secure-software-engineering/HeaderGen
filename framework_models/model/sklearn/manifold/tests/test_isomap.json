@@ -1,0 +1,12 @@
+{
+    "sklearn.manifold.tests.test_isomap.test_isomap_simple_grid": [],
+    "sklearn.manifold.tests.test_isomap.test_isomap_reconstruction_error": [],
+    "sklearn.manifold.tests.test_isomap.test_transform": [],
+    "sklearn.manifold.tests.test_isomap.test_pipeline": [],
+    "sklearn.manifold.tests.test_isomap.test_pipeline_with_nearest_neighbors_transformer": [],
+    "sklearn.manifold.tests.test_isomap.test_different_metric": [],
+    "sklearn.manifold.tests.test_isomap.test_isomap_clone_bug": [],
+    "sklearn.manifold.tests.test_isomap.test_sparse_input": [],
+    "sklearn.manifold.tests.test_isomap.test_multiple_connected_components": [],
+    "sklearn.manifold.tests.test_isomap.test_multiple_connected_components_metric_precomputed": []
+}

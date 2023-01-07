@@ -1,0 +1,6 @@
+{
+    "pandas.tests.frame.methods.test_swapaxes.TestSwapAxes.test_swapaxes": [],
+    "pandas.tests.frame.methods.test_swapaxes.TestSwapAxes.test_swapaxes_noop": [],
+    "pandas.tests.frame.methods.test_swapaxes.TestSwapAxes.test_swapaxes_invalid_axis": [],
+    "pandas.tests.frame.methods.test_swapaxes.TestSwapAxes": []
+}

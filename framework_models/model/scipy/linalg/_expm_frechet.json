@@ -1,0 +1,12 @@
+{
+    "scipy.linalg._expm_frechet.expm_frechet": [],
+    "scipy.linalg._expm_frechet.expm_frechet_block_enlarge": [],
+    "scipy.linalg._expm_frechet._diff_pade3": [],
+    "scipy.linalg._expm_frechet._diff_pade5": [],
+    "scipy.linalg._expm_frechet._diff_pade7": [],
+    "scipy.linalg._expm_frechet._diff_pade9": [],
+    "scipy.linalg._expm_frechet.expm_frechet_algo_64": [],
+    "scipy.linalg._expm_frechet.vec": [],
+    "scipy.linalg._expm_frechet.expm_frechet_kronform": [],
+    "scipy.linalg._expm_frechet.expm_cond": []
+}

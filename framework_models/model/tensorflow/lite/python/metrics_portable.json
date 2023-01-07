@@ -1,0 +1,15 @@
+{
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics.__init__": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics.increase_counter_debugger_creation": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics.increase_counter_interpreter_creation": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics.increase_counter_converter_attempt": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics.increase_counter_converter_success": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics.set_converter_param": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics.set_converter_error": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics.set_converter_latency": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteConverterMetrics.__del__": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteConverterMetrics.set_export_required": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteConverterMetrics.export_metrics": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteMetrics": [],
+    "tensorflow.lite.python.metrics_portable.TFLiteConverterMetrics": []
+}

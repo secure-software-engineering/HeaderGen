@@ -1,0 +1,18 @@
+{
+    "scipy.interpolate._rbfinterp_pythran.linear": [],
+    "scipy.interpolate._rbfinterp_pythran.thin_plate_spline": [],
+    "scipy.interpolate._rbfinterp_pythran.cubic": [],
+    "scipy.interpolate._rbfinterp_pythran.quintic": [],
+    "scipy.interpolate._rbfinterp_pythran.multiquadric": [],
+    "scipy.interpolate._rbfinterp_pythran.inverse_multiquadric": [],
+    "scipy.interpolate._rbfinterp_pythran.inverse_quadratic": [],
+    "scipy.interpolate._rbfinterp_pythran.gaussian": [],
+    "scipy.interpolate._rbfinterp_pythran.kernel_vector": [],
+    "scipy.interpolate._rbfinterp_pythran.polynomial_vector": [],
+    "scipy.interpolate._rbfinterp_pythran.kernel_matrix": [],
+    "scipy.interpolate._rbfinterp_pythran.polynomial_matrix": [],
+    "scipy.interpolate._rbfinterp_pythran._kernel_matrix": [],
+    "scipy.interpolate._rbfinterp_pythran._polynomial_matrix": [],
+    "scipy.interpolate._rbfinterp_pythran._build_system": [],
+    "scipy.interpolate._rbfinterp_pythran._evaluate": []
+}

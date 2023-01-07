@@ -1,0 +1,16 @@
+{
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_pairwise_cov_corr": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_corr_cov": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_corr_cov_min_periods": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_different_input_array_raise_exception": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.create_mock_weights": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.create_mock_series_weights": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_consistency_mean": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_consistency_consistent": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_consistency_var_debiasing_factors": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_moments_consistency_var": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_moments_consistency_var_constant": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_consistency_std": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_consistency_cov": [],
+    "pandas.tests.window.moments.test_moments_consistency_ewm.test_ewm_consistency_series_cov_corr": []
+}

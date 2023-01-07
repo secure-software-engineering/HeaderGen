@@ -1,0 +1,13 @@
+{
+    "matplotlib.style.core._remove_blacklisted_style_params": [],
+    "matplotlib.style.core._apply_style": [],
+    "matplotlib.style.core.use": [],
+    "matplotlib.style.core.context": [],
+    "matplotlib.style.core.load_base_library": [],
+    "matplotlib.style.core.iter_user_libraries": [],
+    "matplotlib.style.core.update_user_library": [],
+    "matplotlib.style.core.read_style_directory": [],
+    "matplotlib.style.core.update_nested_dict": [],
+    "matplotlib.style.core.reload_library": [],
+    "matplotlib.style.core.__getattr__": []
+}

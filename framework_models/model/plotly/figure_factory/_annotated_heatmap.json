@@ -1,0 +1,10 @@
+{
+    "plotly.figure_factory._annotated_heatmap.validate_annotated_heatmap": [],
+    "plotly.figure_factory._annotated_heatmap.create_annotated_heatmap": [],
+    "plotly.figure_factory._annotated_heatmap.to_rgb_color_list": [],
+    "plotly.figure_factory._annotated_heatmap.should_use_black_text": [],
+    "plotly.figure_factory._annotated_heatmap._AnnotatedHeatmap.__init__": [],
+    "plotly.figure_factory._annotated_heatmap._AnnotatedHeatmap.get_text_color": [],
+    "plotly.figure_factory._annotated_heatmap._AnnotatedHeatmap.make_annotations": [],
+    "plotly.figure_factory._annotated_heatmap._AnnotatedHeatmap": []
+}

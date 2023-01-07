@@ -1,0 +1,9 @@
+{
+    "sklearn.utils.tests.test_shortest_path.test_graph_shortest_path_deprecation": [],
+    "sklearn.utils.tests.test_shortest_path.floyd_warshall_slow": [],
+    "sklearn.utils.tests.test_shortest_path.generate_graph": [],
+    "sklearn.utils.tests.test_shortest_path.test_floyd_warshall": [],
+    "sklearn.utils.tests.test_shortest_path.test_dijkstra": [],
+    "sklearn.utils.tests.test_shortest_path.test_shortest_path": [],
+    "sklearn.utils.tests.test_shortest_path.test_dijkstra_bug_fix": []
+}

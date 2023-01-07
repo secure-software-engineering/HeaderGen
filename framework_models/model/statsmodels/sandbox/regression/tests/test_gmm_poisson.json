@@ -1,0 +1,22 @@
+{
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.get_data": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.moment_exponential_add": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.moment_exponential_mult": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.CheckGMM.test_basic": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.CheckGMM.test_other": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.CheckGMM.test_summary": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMAddOnestep.setup_class": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMAddTwostep.setup_class": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultOnestep.setup_class": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultTwostep.setup_class": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultTwostepDefault.setup_class": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultTwostepCenter.setup_class": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultTwostepCenter.test_more": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.CheckGMM": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMAddOnestep": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMAddTwostep": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultOnestep": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultTwostep": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultTwostepDefault": [],
+    "statsmodels.sandbox.regression.tests.test_gmm_poisson.TestGMMMultTwostepCenter": []
+}

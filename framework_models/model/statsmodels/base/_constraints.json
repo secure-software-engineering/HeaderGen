@@ -1,0 +1,15 @@
+{
+    "statsmodels.base._constraints.transform_params_constraint": [],
+    "statsmodels.base._constraints.fit_constrained": [],
+    "statsmodels.base._constraints.fit_constrained_wrap": [],
+    "statsmodels.base._constraints.LinearConstraints.__init__": [],
+    "statsmodels.base._constraints.LinearConstraints.__iter__": [],
+    "statsmodels.base._constraints.LinearConstraints.__getitem__": [],
+    "statsmodels.base._constraints.LinearConstraints.__str__": [],
+    "statsmodels.base._constraints.LinearConstraints.from_patsy": [],
+    "statsmodels.base._constraints.TransformRestriction.__init__": [],
+    "statsmodels.base._constraints.TransformRestriction.expand": [],
+    "statsmodels.base._constraints.TransformRestriction.reduce": [],
+    "statsmodels.base._constraints.LinearConstraints": [],
+    "statsmodels.base._constraints.TransformRestriction": []
+}

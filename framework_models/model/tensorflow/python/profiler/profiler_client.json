@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.profiler.profiler_client.trace": [],
+    "tensorflow.python.profiler.profiler_client.monitor": [],
+    "tensorflow.python.profiler.profiler_client._strip_prefix": [],
+    "tensorflow.python.profiler.profiler_client._strip_addresses": []
+}

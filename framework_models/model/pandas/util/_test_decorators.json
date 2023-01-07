@@ -1,0 +1,14 @@
+{
+    "pandas.util._test_decorators.safe_import": [],
+    "pandas.util._test_decorators._skip_if_no_mpl": [],
+    "pandas.util._test_decorators._skip_if_has_locale": [],
+    "pandas.util._test_decorators._skip_if_not_us_locale": [],
+    "pandas.util._test_decorators._skip_if_no_scipy": [],
+    "pandas.util._test_decorators.skip_if_installed": [],
+    "pandas.util._test_decorators.skip_if_no": [],
+    "pandas.util._test_decorators.skip_if_np_lt": [],
+    "pandas.util._test_decorators.parametrize_fixture_doc": [],
+    "pandas.util._test_decorators.check_file_leaks": [],
+    "pandas.util._test_decorators.file_leak_context": [],
+    "pandas.util._test_decorators.async_mark": []
+}

@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.debug.wrappers.grpc_wrapper.publish_traceback": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper._signal_handler": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper.register_signal_handler": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper.GrpcDebugWrapperSession.__init__": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper.GrpcDebugWrapperSession.prepare_run_debug_urls": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper.GrpcDebugWrapperSession._normalize_grpc_url": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper.TensorBoardDebugWrapperSession.__init__": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper.TensorBoardDebugWrapperSession.run": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper.GrpcDebugWrapperSession": [],
+    "tensorflow.python.debug.wrappers.grpc_wrapper.TensorBoardDebugWrapperSession": []
+}

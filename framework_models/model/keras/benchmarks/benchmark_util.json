@@ -1,0 +1,11 @@
+{
+    "keras.benchmarks.benchmark_util.get_benchmark_name": [],
+    "keras.benchmarks.benchmark_util.generate_benchmark_params_cpu_gpu": [],
+    "keras.benchmarks.benchmark_util.get_keras_examples_metadata": [],
+    "keras.benchmarks.benchmark_util.measure_performance": [],
+    "keras.benchmarks.benchmark_util.TimerCallBack.__init__": [],
+    "keras.benchmarks.benchmark_util.TimerCallBack.on_epoch_begin": [],
+    "keras.benchmarks.benchmark_util.TimerCallBack.on_epoch_end": [],
+    "keras.benchmarks.benchmark_util.TimerCallBack.on_batch_end": [],
+    "keras.benchmarks.benchmark_util.TimerCallBack": []
+}

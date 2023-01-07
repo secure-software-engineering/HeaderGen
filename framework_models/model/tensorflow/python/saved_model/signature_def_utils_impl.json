@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.saved_model.signature_def_utils_impl.build_signature_def": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl.regression_signature_def": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl.classification_signature_def": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl.predict_signature_def": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl.supervised_train_signature_def": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl.supervised_eval_signature_def": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl._supervised_signature_def": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl.is_valid_signature": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl._is_valid_predict_signature": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl._is_valid_regression_signature": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl._is_valid_classification_signature": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl.op_signature_def": [],
+    "tensorflow.python.saved_model.signature_def_utils_impl.load_op_from_signature_def": []
+}

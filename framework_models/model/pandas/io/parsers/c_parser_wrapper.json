@@ -1,0 +1,12 @@
+{
+    "pandas.io.parsers.c_parser_wrapper._concatenate_chunks": [],
+    "pandas.io.parsers.c_parser_wrapper.ensure_dtype_objs": [],
+    "pandas.io.parsers.c_parser_wrapper.CParserWrapper.__init__": [],
+    "pandas.io.parsers.c_parser_wrapper.CParserWrapper.close": [],
+    "pandas.io.parsers.c_parser_wrapper.CParserWrapper._set_noconvert_columns": [],
+    "pandas.io.parsers.c_parser_wrapper.CParserWrapper.read": [],
+    "pandas.io.parsers.c_parser_wrapper.CParserWrapper._filter_usecols": [],
+    "pandas.io.parsers.c_parser_wrapper.CParserWrapper._get_index_names": [],
+    "pandas.io.parsers.c_parser_wrapper.CParserWrapper._maybe_parse_dates": [],
+    "pandas.io.parsers.c_parser_wrapper.CParserWrapper": []
+}

@@ -1,0 +1,19 @@
+{
+    "matplotlib.tests.test_backend_ps.test_savefig_to_stringio": [],
+    "matplotlib.tests.test_backend_ps.test_patheffects": [],
+    "matplotlib.tests.test_backend_ps.test_tilde_in_tempfilename": [],
+    "matplotlib.tests.test_backend_ps.test_transparency": [],
+    "matplotlib.tests.test_backend_ps.test_transparency_tex": [],
+    "matplotlib.tests.test_backend_ps.test_bbox": [],
+    "matplotlib.tests.test_backend_ps.test_failing_latex": [],
+    "matplotlib.tests.test_backend_ps.test_partial_usetex": [],
+    "matplotlib.tests.test_backend_ps.test_usetex_preamble": [],
+    "matplotlib.tests.test_backend_ps.test_useafm": [],
+    "matplotlib.tests.test_backend_ps.test_type3_font": [],
+    "matplotlib.tests.test_backend_ps.test_text_clip": [],
+    "matplotlib.tests.test_backend_ps.test_d_glyph": [],
+    "matplotlib.tests.test_backend_ps.test_type42_font_without_prep": [],
+    "matplotlib.tests.test_backend_ps.test_fonttype": [],
+    "matplotlib.tests.test_backend_ps.test_linedash": [],
+    "matplotlib.tests.test_backend_ps.test_no_duplicate_definition": []
+}

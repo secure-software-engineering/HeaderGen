@@ -1,0 +1,11 @@
+{
+    "main": [
+        "pycg_external_module.ext.Cls.__init__",
+        "main.fn"
+    ],
+    "main.fn": [
+        "pycg_external_module.ext.Cls.fun"
+    ],
+    "pycg_external_module.ext.Cls.__init__": [],
+    "pycg_external_module.ext.Cls.fun": []
+}

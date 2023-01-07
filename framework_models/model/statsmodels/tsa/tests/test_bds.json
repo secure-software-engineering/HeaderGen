@@ -1,0 +1,13 @@
+{
+    "statsmodels.tsa.tests.test_bds.CheckBDS.test_stat": [],
+    "statsmodels.tsa.tests.test_bds.CheckBDS.test_pvalue": [],
+    "statsmodels.tsa.tests.test_bds.TestBDSSequence.setup_class": [],
+    "statsmodels.tsa.tests.test_bds.TestBDSNormal.setup_class": [],
+    "statsmodels.tsa.tests.test_bds.TestBDSCombined.setup_class": [],
+    "statsmodels.tsa.tests.test_bds.TestBDSGDPC1.setup_class": [],
+    "statsmodels.tsa.tests.test_bds.CheckBDS": [],
+    "statsmodels.tsa.tests.test_bds.TestBDSSequence": [],
+    "statsmodels.tsa.tests.test_bds.TestBDSNormal": [],
+    "statsmodels.tsa.tests.test_bds.TestBDSCombined": [],
+    "statsmodels.tsa.tests.test_bds.TestBDSGDPC1": []
+}

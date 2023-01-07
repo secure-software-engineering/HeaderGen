@@ -1,0 +1,15 @@
+{
+    "scipy.signal.tests.test_bsplines.test_sepfir2d_invalid_filter": [],
+    "scipy.signal.tests.test_bsplines.test_sepfir2d_invalid_image": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_spline_filter": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_bspline": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_gauss_spline": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_gauss_spline_list": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_cubic": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_quadratic": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_cspline1d": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_qspline1d": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_cspline1d_eval": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines.test_qspline1d_eval": [],
+    "scipy.signal.tests.test_bsplines.TestBSplines": []
+}

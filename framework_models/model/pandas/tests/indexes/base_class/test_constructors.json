@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.base_class.test_constructors.TestIndexConstructor.test_constructor_corner": [],
+    "pandas.tests.indexes.base_class.test_constructors.TestIndexConstructor.test_construction_list_mixed_tuples": [],
+    "pandas.tests.indexes.base_class.test_constructors.TestIndexConstructor.test_constructor_wrong_kwargs": [],
+    "pandas.tests.indexes.base_class.test_constructors.TestIndexConstructor.test_constructor_cast": [],
+    "pandas.tests.indexes.base_class.test_constructors.TestIndexConstructor": []
+}

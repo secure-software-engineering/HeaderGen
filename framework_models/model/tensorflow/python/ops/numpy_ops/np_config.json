@@ -1,0 +1,3 @@
+{
+    "tensorflow.python.ops.numpy_ops.np_config.enable_numpy_behavior": []
+}

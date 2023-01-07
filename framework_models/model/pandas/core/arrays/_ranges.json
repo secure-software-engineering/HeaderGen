@@ -1,0 +1,5 @@
+{
+    "pandas.core.arrays._ranges.generate_regular_range": [],
+    "pandas.core.arrays._ranges._generate_range_overflow_safe": [],
+    "pandas.core.arrays._ranges._generate_range_overflow_safe_signed": []
+}

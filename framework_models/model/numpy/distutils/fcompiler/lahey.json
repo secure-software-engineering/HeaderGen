@@ -1,0 +1,7 @@
+{
+    "numpy.distutils.fcompiler.lahey.LaheyFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.lahey.LaheyFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.lahey.LaheyFCompiler.get_library_dirs": [],
+    "numpy.distutils.fcompiler.lahey.LaheyFCompiler.get_libraries": [],
+    "numpy.distutils.fcompiler.lahey.LaheyFCompiler": []
+}

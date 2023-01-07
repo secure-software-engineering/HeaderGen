@@ -1,0 +1,11 @@
+{
+    "statsmodels.sandbox.distributions.tests.check_moments.mc2mvsk": [],
+    "statsmodels.sandbox.distributions.tests.check_moments.mnc2mvsk": [],
+    "statsmodels.sandbox.distributions.tests.check_moments.mom_nc0": [],
+    "statsmodels.sandbox.distributions.tests.check_moments.mom_nc1": [],
+    "statsmodels.sandbox.distributions.tests.check_moments.mom_nc2": [],
+    "statsmodels.sandbox.distributions.tests.check_moments.mom_nc3": [],
+    "statsmodels.sandbox.distributions.tests.check_moments.mom_nc4": [],
+    "statsmodels.sandbox.distributions.tests.check_moments.check_cont_basic": [],
+    "statsmodels.sandbox.distributions.tests.check_moments.nct_kurt_bug": []
+}

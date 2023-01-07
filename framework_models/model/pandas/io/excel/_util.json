@@ -1,0 +1,12 @@
+{
+    "pandas.io.excel._util.register_writer": [],
+    "pandas.io.excel._util.get_default_engine": [],
+    "pandas.io.excel._util.get_writer": [],
+    "pandas.io.excel._util._excel2num": [],
+    "pandas.io.excel._util._range2cols": [],
+    "pandas.io.excel._util.maybe_convert_usecols": [],
+    "pandas.io.excel._util.validate_freeze_panes": [],
+    "pandas.io.excel._util.fill_mi_header": [],
+    "pandas.io.excel._util.pop_header_name": [],
+    "pandas.io.excel._util.combine_kwargs": []
+}

@@ -1,0 +1,20 @@
+{
+  "2": [
+    "<builtin>.map",
+    "main_nb.func"
+  ],
+  "3": [
+    "main_nb.func"
+  ],
+  "4": [
+    "<builtin>.map",
+    "main_nb.func2",
+    "main_nb.func"
+  ],
+  "6": [
+    "<builtin>.map"
+  ],
+  "7": [
+    "main_nb.func3.func"
+  ]
+}

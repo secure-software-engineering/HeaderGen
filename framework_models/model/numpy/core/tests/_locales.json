@@ -1,0 +1,8 @@
+{
+    "numpy.core.tests._locales.find_comma_decimal_point_locale": [],
+    "numpy.core.tests._locales.CommaDecimalPointLocale.setup": [],
+    "numpy.core.tests._locales.CommaDecimalPointLocale.teardown": [],
+    "numpy.core.tests._locales.CommaDecimalPointLocale.__enter__": [],
+    "numpy.core.tests._locales.CommaDecimalPointLocale.__exit__": [],
+    "numpy.core.tests._locales.CommaDecimalPointLocale": []
+}

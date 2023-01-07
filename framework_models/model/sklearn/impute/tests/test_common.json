@@ -1,0 +1,6 @@
+{
+    "sklearn.impute.tests.test_common.test_imputation_missing_value_in_test_array": [],
+    "sklearn.impute.tests.test_common.test_imputers_add_indicator": [],
+    "sklearn.impute.tests.test_common.test_imputers_add_indicator_sparse": [],
+    "sklearn.impute.tests.test_common.test_imputers_pandas_na_integer_array_support": []
+}

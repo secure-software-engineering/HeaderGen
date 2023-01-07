@@ -1,0 +1,11 @@
+{
+    "statsmodels.multivariate.tests.test_ml_factor._toy": [],
+    "statsmodels.multivariate.tests.test_ml_factor.test_loglike": [],
+    "statsmodels.multivariate.tests.test_ml_factor.test_score": [],
+    "statsmodels.multivariate.tests.test_ml_factor.test_exact": [],
+    "statsmodels.multivariate.tests.test_ml_factor.test_exact_em": [],
+    "statsmodels.multivariate.tests.test_ml_factor.test_fit_ml_em_random_state": [],
+    "statsmodels.multivariate.tests.test_ml_factor.test_em": [],
+    "statsmodels.multivariate.tests.test_ml_factor.test_1factor": [],
+    "statsmodels.multivariate.tests.test_ml_factor.test_2factor": []
+}

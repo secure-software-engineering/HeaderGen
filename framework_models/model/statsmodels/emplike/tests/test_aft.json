@@ -1,0 +1,10 @@
+{
+    "statsmodels.emplike.tests.test_aft.GenRes.setup_class": [],
+    "statsmodels.emplike.tests.test_aft.Test_AFTModel.test_params": [],
+    "statsmodels.emplike.tests.test_aft.Test_AFTModel.test_beta0": [],
+    "statsmodels.emplike.tests.test_aft.Test_AFTModel.test_beta1": [],
+    "statsmodels.emplike.tests.test_aft.Test_AFTModel.test_beta_vect": [],
+    "statsmodels.emplike.tests.test_aft.Test_AFTModel.test_betaci": [],
+    "statsmodels.emplike.tests.test_aft.GenRes": [],
+    "statsmodels.emplike.tests.test_aft.Test_AFTModel": []
+}

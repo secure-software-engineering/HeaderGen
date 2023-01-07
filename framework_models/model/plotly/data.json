@@ -1,0 +1,14 @@
+{
+    "plotly.data.gapminder": [],
+    "plotly.data.tips": [],
+    "plotly.data.iris": [],
+    "plotly.data.wind": [],
+    "plotly.data.election": [],
+    "plotly.data.election_geojson": [],
+    "plotly.data.carshare": [],
+    "plotly.data.stocks": [],
+    "plotly.data.experiment": [],
+    "plotly.data.medals_wide": [],
+    "plotly.data.medals_long": [],
+    "plotly.data._get_dataset": []
+}

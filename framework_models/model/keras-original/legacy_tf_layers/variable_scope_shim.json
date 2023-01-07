@@ -1,0 +1,20 @@
+{
+    "keras.legacy_tf_layers.variable_scope_shim.as_shape": [],
+    "keras.legacy_tf_layers.variable_scope_shim._is_callable_object": [],
+    "keras.legacy_tf_layers.variable_scope_shim._has_kwargs": [],
+    "keras.legacy_tf_layers.variable_scope_shim.fn_args": [],
+    "keras.legacy_tf_layers.variable_scope_shim._is_bound_method": [],
+    "keras.legacy_tf_layers.variable_scope_shim.validate_synchronization_aggregation_trainable": [],
+    "keras.legacy_tf_layers.variable_scope_shim.track_tf1_style_variables": [],
+    "keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore.__init__": [],
+    "keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore.scope": [],
+    "keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore.get_variable": [],
+    "keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore._get_single_variable": [],
+    "keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore.add_regularizer": [],
+    "keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore._get_default_initializer": [],
+    "keras.legacy_tf_layers.variable_scope_shim.VariableScopeLayer._call_full_argspec": [],
+    "keras.legacy_tf_layers.variable_scope_shim.VariableScopeLayer.forward_pass": [],
+    "keras.legacy_tf_layers.variable_scope_shim.VariableScopeLayer.call": [],
+    "keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore": [],
+    "keras.legacy_tf_layers.variable_scope_shim.VariableScopeLayer": []
+}

@@ -1,0 +1,18 @@
+{
+    "pandas.tests.util.test_assert_produces_warning.category": [],
+    "pandas.tests.util.test_assert_produces_warning.pair_different_warnings": [],
+    "pandas.tests.util.test_assert_produces_warning.f": [],
+    "pandas.tests.util.test_assert_produces_warning.test_assert_produces_warning_honors_filter": [],
+    "pandas.tests.util.test_assert_produces_warning.test_catch_warning_category_and_match": [],
+    "pandas.tests.util.test_assert_produces_warning.test_fail_to_match": [],
+    "pandas.tests.util.test_assert_produces_warning.test_fail_to_catch_actual_warning": [],
+    "pandas.tests.util.test_assert_produces_warning.test_ignore_extra_warning": [],
+    "pandas.tests.util.test_assert_produces_warning.test_raise_on_extra_warning": [],
+    "pandas.tests.util.test_assert_produces_warning.test_same_category_different_messages_first_match": [],
+    "pandas.tests.util.test_assert_produces_warning.test_same_category_different_messages_last_match": [],
+    "pandas.tests.util.test_assert_produces_warning.test_right_category_wrong_match_raises": [],
+    "pandas.tests.util.test_assert_produces_warning.TestFalseOrNoneExpectedWarning.test_raise_on_warning": [],
+    "pandas.tests.util.test_assert_produces_warning.TestFalseOrNoneExpectedWarning.test_no_raise_without_warning": [],
+    "pandas.tests.util.test_assert_produces_warning.TestFalseOrNoneExpectedWarning.test_no_raise_with_false_raise_on_extra": [],
+    "pandas.tests.util.test_assert_produces_warning.TestFalseOrNoneExpectedWarning": []
+}

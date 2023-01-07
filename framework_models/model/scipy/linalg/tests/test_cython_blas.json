@@ -1,0 +1,10 @@
+{
+    "scipy.linalg.tests.test_cython_blas.TestDGEMM.test_transposes": [],
+    "scipy.linalg.tests.test_cython_blas.TestDGEMM.test_shapes": [],
+    "scipy.linalg.tests.test_cython_blas.TestWfuncPointers.test_complex_args": [],
+    "scipy.linalg.tests.test_cython_blas.TestWfuncPointers.test_double_args": [],
+    "scipy.linalg.tests.test_cython_blas.TestWfuncPointers.test_float_args": [],
+    "scipy.linalg.tests.test_cython_blas.TestWfuncPointers.test_double_complex_args": [],
+    "scipy.linalg.tests.test_cython_blas.TestDGEMM": [],
+    "scipy.linalg.tests.test_cython_blas.TestWfuncPointers": []
+}

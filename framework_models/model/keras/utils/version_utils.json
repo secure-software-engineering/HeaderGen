@@ -1,0 +1,12 @@
+{
+    "keras.utils.version_utils.should_use_v2": [],
+    "keras.utils.version_utils.swap_class": [],
+    "keras.utils.version_utils.disallow_legacy_graph": [],
+    "keras.utils.version_utils.is_v1_layer_or_model": [],
+    "keras.utils.version_utils.ModelVersionSelector.__new__": [],
+    "keras.utils.version_utils.LayerVersionSelector.__new__": [],
+    "keras.utils.version_utils.TensorBoardVersionSelector.__new__": [],
+    "keras.utils.version_utils.ModelVersionSelector": [],
+    "keras.utils.version_utils.LayerVersionSelector": [],
+    "keras.utils.version_utils.TensorBoardVersionSelector": []
+}

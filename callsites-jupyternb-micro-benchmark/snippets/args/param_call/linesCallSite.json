@@ -1,0 +1,10 @@
+{
+  "13": [
+    "main.func:1",
+    "main.func2:5",
+    "main.func3:9"
+  ],
+  "2": [
+    "main.func3:9"
+  ]
+}

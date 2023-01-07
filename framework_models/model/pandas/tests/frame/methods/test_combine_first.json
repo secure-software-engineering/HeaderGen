@@ -1,0 +1,21 @@
+{
+    "pandas.tests.frame.methods.test_combine_first.test_combine_first_timestamp_bug": [],
+    "pandas.tests.frame.methods.test_combine_first.test_combine_first_timestamp_bug_NaT": [],
+    "pandas.tests.frame.methods.test_combine_first.test_combine_first_with_nan_multiindex": [],
+    "pandas.tests.frame.methods.test_combine_first.test_combine_preserve_dtypes": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_mixed": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_mixed_bug": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_same_as_in_update": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_doc_example": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_return_obj_type_with_bools": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_convert_datatime_correctly": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_align_nan": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_timezone": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_timedelta": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_period": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_int": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_with_asymmetric_other": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst.test_combine_first_string_dtype_only_na": [],
+    "pandas.tests.frame.methods.test_combine_first.TestDataFrameCombineFirst": []
+}

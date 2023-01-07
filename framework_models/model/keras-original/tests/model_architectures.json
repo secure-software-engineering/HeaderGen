@@ -1,0 +1,22 @@
+{
+    "keras.tests.model_architectures.basic_sequential": [],
+    "keras.tests.model_architectures.basic_sequential_deferred": [],
+    "keras.tests.model_architectures.stacked_rnn": [],
+    "keras.tests.model_architectures.lstm": [],
+    "keras.tests.model_architectures.multi_input_multi_output": [],
+    "keras.tests.model_architectures.nested_sequential_in_functional": [],
+    "keras.tests.model_architectures.seq_to_seq": [],
+    "keras.tests.model_architectures.shared_layer_functional": [],
+    "keras.tests.model_architectures.shared_sequential": [],
+    "keras.tests.model_architectures.nested_subclassed_model": [],
+    "keras.tests.model_architectures.nested_subclassed_in_functional_model": [],
+    "keras.tests.model_architectures.nested_functional_in_subclassed_model": [],
+    "keras.tests.model_architectures.shared_layer_subclassed_model": [],
+    "keras.tests.model_architectures.functional_with_keyword_args": [],
+    "keras.tests.model_architectures.get_models": [],
+    "keras.tests.model_architectures.MySubclassModel.__init__": [],
+    "keras.tests.model_architectures.MySubclassModel.call": [],
+    "keras.tests.model_architectures.MySubclassModel.get_config": [],
+    "keras.tests.model_architectures.MySubclassModel.from_config": [],
+    "keras.tests.model_architectures.MySubclassModel": []
+}

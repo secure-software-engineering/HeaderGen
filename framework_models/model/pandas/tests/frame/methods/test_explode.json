@@ -1,0 +1,12 @@
+{
+    "pandas.tests.frame.methods.test_explode.test_error": [],
+    "pandas.tests.frame.methods.test_explode.test_error_multi_columns": [],
+    "pandas.tests.frame.methods.test_explode.test_basic": [],
+    "pandas.tests.frame.methods.test_explode.test_multi_index_rows": [],
+    "pandas.tests.frame.methods.test_explode.test_multi_index_columns": [],
+    "pandas.tests.frame.methods.test_explode.test_usecase": [],
+    "pandas.tests.frame.methods.test_explode.test_duplicate_index": [],
+    "pandas.tests.frame.methods.test_explode.test_ignore_index": [],
+    "pandas.tests.frame.methods.test_explode.test_explode_sets": [],
+    "pandas.tests.frame.methods.test_explode.test_multi_columns": []
+}

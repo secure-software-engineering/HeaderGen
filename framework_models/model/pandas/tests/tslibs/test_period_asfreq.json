@@ -1,0 +1,7 @@
+{
+    "pandas.tests.tslibs.test_period_asfreq.get_freq_code": [],
+    "pandas.tests.tslibs.test_period_asfreq.test_intra_day_conversion_factors": [],
+    "pandas.tests.tslibs.test_period_asfreq.test_period_ordinal_start_values": [],
+    "pandas.tests.tslibs.test_period_asfreq.test_period_ordinal_week": [],
+    "pandas.tests.tslibs.test_period_asfreq.test_period_ordinal_business_day": []
+}

@@ -1,0 +1,12 @@
+{
+    "sklearn.feature_selection.tests.test_sequential.test_bad_n_features_to_select": [],
+    "sklearn.feature_selection.tests.test_sequential.test_bad_direction": [],
+    "sklearn.feature_selection.tests.test_sequential.test_n_features_to_select": [],
+    "sklearn.feature_selection.tests.test_sequential.test_n_features_to_select_float": [],
+    "sklearn.feature_selection.tests.test_sequential.test_sanity": [],
+    "sklearn.feature_selection.tests.test_sequential.test_sparse_support": [],
+    "sklearn.feature_selection.tests.test_sequential.test_nan_support": [],
+    "sklearn.feature_selection.tests.test_sequential.test_pipeline_support": [],
+    "sklearn.feature_selection.tests.test_sequential.test_unsupervised_model_fit": [],
+    "sklearn.feature_selection.tests.test_sequential.test_no_y_validation_model_fit": []
+}

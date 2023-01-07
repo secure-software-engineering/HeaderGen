@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.kernel_tests.random.util.test_moment_matching": [],
+    "tensorflow.python.kernel_tests.random.util.chi_squared": [],
+    "tensorflow.python.kernel_tests.random.util.normal_cdf": [],
+    "tensorflow.python.kernel_tests.random.util.anderson_darling": [],
+    "tensorflow.python.kernel_tests.random.util.test_truncated_normal": []
+}

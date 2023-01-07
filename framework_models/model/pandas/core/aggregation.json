@@ -1,0 +1,10 @@
+{
+    "pandas.core.aggregation.reconstruct_func": [],
+    "pandas.core.aggregation.is_multi_agg_with_relabel": [],
+    "pandas.core.aggregation.normalize_keyword_aggregation": [],
+    "pandas.core.aggregation._make_unique_kwarg_list": [],
+    "pandas.core.aggregation._managle_lambda_list": [],
+    "pandas.core.aggregation.maybe_mangle_lambdas": [],
+    "pandas.core.aggregation.relabel_result": [],
+    "pandas.core.aggregation.validate_func_kwargs": []
+}

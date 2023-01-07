@@ -1,0 +1,6 @@
+{
+    "scipy.sparse.csgraph._laplacian.laplacian": [],
+    "scipy.sparse.csgraph._laplacian._setdiag_dense": [],
+    "scipy.sparse.csgraph._laplacian._laplacian_sparse": [],
+    "scipy.sparse.csgraph._laplacian._laplacian_dense": []
+}

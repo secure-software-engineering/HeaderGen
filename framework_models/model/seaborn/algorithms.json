@@ -1,0 +1,5 @@
+{
+    "seaborn.algorithms.bootstrap": [],
+    "seaborn.algorithms._structured_bootstrap": [],
+    "seaborn.algorithms._handle_random_seed": []
+}

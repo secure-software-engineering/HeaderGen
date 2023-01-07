@@ -1,0 +1,15 @@
+{
+    "statsmodels.genmod.families.tests.test_link.get_domainvalue": [],
+    "statsmodels.genmod.families.tests.test_link.test_inverse": [],
+    "statsmodels.genmod.families.tests.test_link.test_deriv": [],
+    "statsmodels.genmod.families.tests.test_link.test_deriv2": [],
+    "statsmodels.genmod.families.tests.test_link.test_inverse_deriv": [],
+    "statsmodels.genmod.families.tests.test_link.test_inverse_deriv2": [],
+    "statsmodels.genmod.families.tests.test_link.test_invlogit_stability": [],
+    "statsmodels.genmod.families.tests.test_link.test_cdflink": [],
+    "statsmodels.genmod.families.tests.test_link.MyCLogLog.__call__": [],
+    "statsmodels.genmod.families.tests.test_link.MyCLogLog.inverse": [],
+    "statsmodels.genmod.families.tests.test_link.MyCLogLog.deriv": [],
+    "statsmodels.genmod.families.tests.test_link.MyCLogLog": [],
+    "statsmodels.genmod.families.tests.test_link.CasesCDFLink": []
+}

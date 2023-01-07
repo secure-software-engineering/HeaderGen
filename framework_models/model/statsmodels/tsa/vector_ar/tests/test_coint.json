@@ -1,0 +1,18 @@
+{
+    "statsmodels.tsa.vector_ar.tests.test_coint.test_coint_johansen_0lag": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.CheckCointJoh.test_basic": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.CheckCointJoh.test_table_trace": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.CheckCointJoh.test_table_maxeval": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.CheckCointJoh.test_normalization": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJoh12.setup_class": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJoh12.test_evec": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJoh12.test_evals": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJoh09.setup_class": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJohMin18.setup_class": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJoh25.setup_class": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.CheckCointJoh": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJoh12": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJoh09": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJohMin18": [],
+    "statsmodels.tsa.vector_ar.tests.test_coint.TestCointJoh25": []
+}

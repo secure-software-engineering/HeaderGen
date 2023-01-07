@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.autograph.core.converter_testing.allowlist": [],
+    "tensorflow.python.autograph.core.converter_testing.is_inside_generated_code": [],
+    "tensorflow.python.autograph.core.converter_testing.TestingTranspiler.__init__": [],
+    "tensorflow.python.autograph.core.converter_testing.TestingTranspiler.get_extra_locals": [],
+    "tensorflow.python.autograph.core.converter_testing.TestingTranspiler.transform_ast": [],
+    "tensorflow.python.autograph.core.converter_testing.TestCase.setUp": [],
+    "tensorflow.python.autograph.core.converter_testing.TestCase.tearDown": [],
+    "tensorflow.python.autograph.core.converter_testing.TestCase.assertPrints": [],
+    "tensorflow.python.autograph.core.converter_testing.TestCase.transform": [],
+    "tensorflow.python.autograph.core.converter_testing.TestingTranspiler": [],
+    "tensorflow.python.autograph.core.converter_testing.TestCase": []
+}

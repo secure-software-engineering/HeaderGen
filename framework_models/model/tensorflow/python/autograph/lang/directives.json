@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.autograph.lang.directives.set_element_type": [],
+    "tensorflow.python.autograph.lang.directives.set_loop_options": []
+}

@@ -1,0 +1,15 @@
+{
+    "pandas.tests.window.moments.test_moments_ewm.test_ewma_series": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewma_frame": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewma_adjust": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewma_cases": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewma_nan_handling": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewma_nan_handling_cases": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewma_span_com_args": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewma_halflife_arg": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewm_alpha": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewm_alpha_arg": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ewm_domain_checks": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ew_empty_series": [],
+    "pandas.tests.window.moments.test_moments_ewm.test_ew_min_periods": []
+}

@@ -1,0 +1,12 @@
+{
+    "keras.distribute.keras_rnn_model_correctness_test._DistributionStrategyRnnModelCorrectnessTest._get_layer_class": [],
+    "keras.distribute.keras_rnn_model_correctness_test._DistributionStrategyRnnModelCorrectnessTest.get_model": [],
+    "keras.distribute.keras_rnn_model_correctness_test.DistributionStrategyGruModelCorrectnessTest._get_layer_class": [],
+    "keras.distribute.keras_rnn_model_correctness_test.DistributionStrategyGruModelCorrectnessTest.test_gru_model_correctness": [],
+    "keras.distribute.keras_rnn_model_correctness_test.DistributionStrategyLstmModelCorrectnessTest._get_layer_class": [],
+    "keras.distribute.keras_rnn_model_correctness_test.DistributionStrategyLstmModelCorrectnessTest.test_lstm_model_correctness": [],
+    "keras.distribute.keras_rnn_model_correctness_test.DistributionStrategyLstmModelCorrectnessTest.test_lstm_model_correctness_mixed_precision": [],
+    "keras.distribute.keras_rnn_model_correctness_test._DistributionStrategyRnnModelCorrectnessTest": [],
+    "keras.distribute.keras_rnn_model_correctness_test.DistributionStrategyGruModelCorrectnessTest": [],
+    "keras.distribute.keras_rnn_model_correctness_test.DistributionStrategyLstmModelCorrectnessTest": []
+}

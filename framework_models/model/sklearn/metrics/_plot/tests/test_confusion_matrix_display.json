@@ -1,0 +1,11 @@
+{
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_confusion_matrix_display_validation": [],
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_confusion_matrix_display_invalid_option": [],
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_confusion_matrix_display_custom_labels": [],
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_confusion_matrix_display_plotting": [],
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_confusion_matrix_display": [],
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_confusion_matrix_contrast": [],
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_confusion_matrix_pipeline": [],
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_confusion_matrix_with_unknown_labels": [],
+    "sklearn.metrics._plot.tests.test_confusion_matrix_display.test_colormap_max": []
+}

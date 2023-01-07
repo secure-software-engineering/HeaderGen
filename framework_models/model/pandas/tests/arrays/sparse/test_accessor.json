@@ -1,0 +1,15 @@
+{
+    "pandas.tests.arrays.sparse.test_accessor.TestSeriesAccessor.test_to_dense": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_accessor_raises": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_from_spmatrix": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_from_spmatrix_including_explicit_zero": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_from_spmatrix_columns": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_to_coo": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_to_dense": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_density": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_series_from_coo": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_series_from_coo_incorrect_format_raises": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor.test_with_column_named_sparse": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestSeriesAccessor": [],
+    "pandas.tests.arrays.sparse.test_accessor.TestFrameAccessor": []
+}

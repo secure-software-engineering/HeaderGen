@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.gen_audio_ops.audio_spectrogram": [],
+    "tensorflow.python.ops.gen_audio_ops.audio_spectrogram_eager_fallback": [],
+    "tensorflow.python.ops.gen_audio_ops.decode_wav": [],
+    "tensorflow.python.ops.gen_audio_ops.decode_wav_eager_fallback": [],
+    "tensorflow.python.ops.gen_audio_ops.encode_wav": [],
+    "tensorflow.python.ops.gen_audio_ops.encode_wav_eager_fallback": [],
+    "tensorflow.python.ops.gen_audio_ops.mfcc": [],
+    "tensorflow.python.ops.gen_audio_ops.mfcc_eager_fallback": []
+}

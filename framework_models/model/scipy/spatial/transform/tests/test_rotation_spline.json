@@ -1,0 +1,9 @@
+{
+    "scipy.spatial.transform.tests.test_rotation_spline.test_angular_rate_to_rotvec_conversions": [],
+    "scipy.spatial.transform.tests.test_rotation_spline.test_angular_rate_nonlinear_term": [],
+    "scipy.spatial.transform.tests.test_rotation_spline.test_create_block_3_diagonal_matrix": [],
+    "scipy.spatial.transform.tests.test_rotation_spline.test_spline_2_rotations": [],
+    "scipy.spatial.transform.tests.test_rotation_spline.test_constant_attitude": [],
+    "scipy.spatial.transform.tests.test_rotation_spline.test_spline_properties": [],
+    "scipy.spatial.transform.tests.test_rotation_spline.test_error_handling": []
+}

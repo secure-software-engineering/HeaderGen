@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.partitioned_variables.variable_axis_size_partitioner": [],
+    "tensorflow.python.ops.partitioned_variables.min_max_variable_partitioner": [],
+    "tensorflow.python.ops.partitioned_variables.fixed_size_partitioner": [],
+    "tensorflow.python.ops.partitioned_variables.create_partitioned_variables": []
+}

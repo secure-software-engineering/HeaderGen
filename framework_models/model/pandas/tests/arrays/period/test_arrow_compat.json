@@ -1,0 +1,8 @@
+{
+    "pandas.tests.arrays.period.test_arrow_compat.test_arrow_extension_type": [],
+    "pandas.tests.arrays.period.test_arrow_compat.test_arrow_array": [],
+    "pandas.tests.arrays.period.test_arrow_compat.test_arrow_array_missing": [],
+    "pandas.tests.arrays.period.test_arrow_compat.test_arrow_table_roundtrip": [],
+    "pandas.tests.arrays.period.test_arrow_compat.test_arrow_load_from_zero_chunks": [],
+    "pandas.tests.arrays.period.test_arrow_compat.test_arrow_table_roundtrip_without_metadata": []
+}

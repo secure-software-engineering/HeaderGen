@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.period.test_period_range.TestPeriodRange.test_required_arguments": [],
+    "pandas.tests.indexes.period.test_period_range.TestPeriodRange.test_construction_from_string": [],
+    "pandas.tests.indexes.period.test_period_range.TestPeriodRange.test_construction_from_period": [],
+    "pandas.tests.indexes.period.test_period_range.TestPeriodRange.test_errors": [],
+    "pandas.tests.indexes.period.test_period_range.TestPeriodRange": []
+}

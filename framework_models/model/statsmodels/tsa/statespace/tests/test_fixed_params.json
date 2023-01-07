@@ -1,0 +1,17 @@
+{
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_fix_params": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_nested_fix_params": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_results_append": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_results_extend": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_results_apply": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_mle_validate": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_sarimax_validate": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_structural_validate": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_dynamic_factor_validate": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_varmax_validate": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.check_results": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_sarimax_nonconsecutive": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_structural": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_dynamic_factor_diag_error_cov": [],
+    "statsmodels.tsa.statespace.tests.test_fixed_params.test_score_shape": []
+}

@@ -1,0 +1,21 @@
+{
+    "sklearn.model_selection._validation.cross_validate": [],
+    "sklearn.model_selection._validation._insert_error_scores": [],
+    "sklearn.model_selection._validation._normalize_score_results": [],
+    "sklearn.model_selection._validation._warn_about_fit_failures": [],
+    "sklearn.model_selection._validation.cross_val_score": [],
+    "sklearn.model_selection._validation._fit_and_score": [],
+    "sklearn.model_selection._validation._score": [],
+    "sklearn.model_selection._validation.cross_val_predict": [],
+    "sklearn.model_selection._validation._fit_and_predict": [],
+    "sklearn.model_selection._validation._enforce_prediction_order": [],
+    "sklearn.model_selection._validation._check_is_permutation": [],
+    "sklearn.model_selection._validation.permutation_test_score": [],
+    "sklearn.model_selection._validation._permutation_test_score": [],
+    "sklearn.model_selection._validation._shuffle": [],
+    "sklearn.model_selection._validation.learning_curve": [],
+    "sklearn.model_selection._validation._translate_train_sizes": [],
+    "sklearn.model_selection._validation._incremental_fit_estimator": [],
+    "sklearn.model_selection._validation.validation_curve": [],
+    "sklearn.model_selection._validation._aggregate_score_dicts": []
+}

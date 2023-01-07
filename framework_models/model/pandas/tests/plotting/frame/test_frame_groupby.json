@@ -1,0 +1,8 @@
+{
+    "pandas.tests.plotting.frame.test_frame_groupby.TestDataFramePlotsGroupby.setup_method": [],
+    "pandas.tests.plotting.frame.test_frame_groupby.TestDataFramePlotsGroupby._assert_ytickslabels_visibility": [],
+    "pandas.tests.plotting.frame.test_frame_groupby.TestDataFramePlotsGroupby._assert_xtickslabels_visibility": [],
+    "pandas.tests.plotting.frame.test_frame_groupby.TestDataFramePlotsGroupby.test_groupby_boxplot_sharey": [],
+    "pandas.tests.plotting.frame.test_frame_groupby.TestDataFramePlotsGroupby.test_groupby_boxplot_sharex": [],
+    "pandas.tests.plotting.frame.test_frame_groupby.TestDataFramePlotsGroupby": []
+}

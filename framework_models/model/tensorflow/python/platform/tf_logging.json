@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.platform.tf_logging._get_caller": [],
+    "tensorflow.python.platform.tf_logging.get_logger": [],
+    "tensorflow.python.platform.tf_logging.log": [],
+    "tensorflow.python.platform.tf_logging.debug": [],
+    "tensorflow.python.platform.tf_logging.error": [],
+    "tensorflow.python.platform.tf_logging.fatal": [],
+    "tensorflow.python.platform.tf_logging.info": [],
+    "tensorflow.python.platform.tf_logging.warn": [],
+    "tensorflow.python.platform.tf_logging.warning": [],
+    "tensorflow.python.platform.tf_logging.TaskLevelStatusMessage": [],
+    "tensorflow.python.platform.tf_logging.flush": [],
+    "tensorflow.python.platform.tf_logging.vlog": [],
+    "tensorflow.python.platform.tf_logging._GetNextLogCountPerToken": [],
+    "tensorflow.python.platform.tf_logging.log_every_n": [],
+    "tensorflow.python.platform.tf_logging.log_first_n": [],
+    "tensorflow.python.platform.tf_logging.log_if": [],
+    "tensorflow.python.platform.tf_logging._GetFileAndLine": [],
+    "tensorflow.python.platform.tf_logging.google2_log_prefix": [],
+    "tensorflow.python.platform.tf_logging.get_verbosity": [],
+    "tensorflow.python.platform.tf_logging.set_verbosity": [],
+    "tensorflow.python.platform.tf_logging._get_thread_id": []
+}

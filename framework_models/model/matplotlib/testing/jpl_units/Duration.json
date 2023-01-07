@@ -1,0 +1,16 @@
+{
+    "matplotlib.testing.jpl_units.Duration.Duration.__init__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.frame": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.__abs__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.__neg__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.seconds": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.__bool__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration._cmp": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.__add__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.__sub__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.__mul__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.__str__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.__repr__": [],
+    "matplotlib.testing.jpl_units.Duration.Duration.checkSameFrame": [],
+    "matplotlib.testing.jpl_units.Duration.Duration": []
+}

@@ -1,0 +1,15 @@
+{
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_intersection_mismatched_dtype": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_intersection_empty": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_intersection": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_intersection_non_overlapping_gcd": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_union_noncomparable": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.unions": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_union_sorted": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_difference": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_difference_mismatched_step": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_symmetric_difference": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_putmask_range_cast": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps.test_where_range_cast": [],
+    "pandas.tests.indexes.ranges.test_setops.TestRangeIndexSetOps": []
+}

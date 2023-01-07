@@ -1,0 +1,16 @@
+from tensorflow.core.framework import node_def_pb2 as node_def_pb2
+from tensorflow.python.training import server_lib as server_lib
+from tensorflow.python.util.tf_export import tf_export as tf_export
+from typing import Any
+
+STANDARD_PS_OPS: Any
+
+class _RoundRobinStrategy:
+    def __init__(self, num_tasks) -> None: ...
+    def __call__(self, unused_op): ...
+
+class _ReplicaDeviceChooser:
+    def __init__(self, ps_tasks, ps_device, worker_device, merge_devices, ps_ops, ps_strategy) -> None: ...
+    def device_function(self, op): ...
+
+def replica_device_setter(ps_tasks: int = ..., ps_device: str = ..., worker_device: str = ..., merge_devices: bool = ..., cluster: Any | None = ..., ps_ops: Any | None = ..., ps_strategy: Any | None = ...): ...

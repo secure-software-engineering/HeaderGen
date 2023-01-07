@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.training.rmsprop.RMSPropOptimizer.__init__": [],
+    "tensorflow.python.training.rmsprop.RMSPropOptimizer._create_slots": [],
+    "tensorflow.python.training.rmsprop.RMSPropOptimizer._prepare": [],
+    "tensorflow.python.training.rmsprop.RMSPropOptimizer._apply_dense": [],
+    "tensorflow.python.training.rmsprop.RMSPropOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.rmsprop.RMSPropOptimizer._apply_sparse": [],
+    "tensorflow.python.training.rmsprop.RMSPropOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.rmsprop.RMSPropOptimizer": []
+}

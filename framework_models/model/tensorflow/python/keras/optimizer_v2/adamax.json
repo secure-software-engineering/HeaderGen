@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.keras.optimizer_v2.adamax.Adamax.__init__": [],
+    "tensorflow.python.keras.optimizer_v2.adamax.Adamax._create_slots": [],
+    "tensorflow.python.keras.optimizer_v2.adamax.Adamax._prepare_local": [],
+    "tensorflow.python.keras.optimizer_v2.adamax.Adamax._resource_apply_dense": [],
+    "tensorflow.python.keras.optimizer_v2.adamax.Adamax._resource_apply_sparse": [],
+    "tensorflow.python.keras.optimizer_v2.adamax.Adamax.get_config": [],
+    "tensorflow.python.keras.optimizer_v2.adamax.Adamax": []
+}

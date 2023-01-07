@@ -1,0 +1,21 @@
+{
+    "pandas.tests.indexing.multiindex.test_getitem.test_series_getitem_multiindex": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_series_getitem_duplicates_multiindex": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_series_getitem": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_series_getitem_returns_scalar": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_series_getitem_indexing_errors": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_series_getitem_corner_generator": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_getitem_simple": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_getitem_simple_key_error": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_getitem_multicolumn_empty_level": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_getitem_toplevel": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_mixed_depth_get": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_getitem_nan_multiindex": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_getitem_nan_cols_multiindex": [],
+    "pandas.tests.indexing.multiindex.test_getitem.dataframe_with_duplicate_index": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_mi_access": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_mi_access_returns_series": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_mi_access_returns_frame": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_frame_mi_empty_slice": [],
+    "pandas.tests.indexing.multiindex.test_getitem.test_loc_empty_multiindex": []
+}

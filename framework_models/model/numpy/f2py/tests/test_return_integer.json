@@ -1,0 +1,8 @@
+{
+    "numpy.f2py.tests.test_return_integer.TestReturnInteger.check_function": [],
+    "numpy.f2py.tests.test_return_integer.TestF77ReturnInteger.test_all": [],
+    "numpy.f2py.tests.test_return_integer.TestF90ReturnInteger.test_all": [],
+    "numpy.f2py.tests.test_return_integer.TestReturnInteger": [],
+    "numpy.f2py.tests.test_return_integer.TestF77ReturnInteger": [],
+    "numpy.f2py.tests.test_return_integer.TestF90ReturnInteger": []
+}

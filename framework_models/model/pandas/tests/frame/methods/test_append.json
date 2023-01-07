@@ -1,0 +1,14 @@
+{
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_multiindex": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_empty_list": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_series_dict": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_list_of_series_dicts": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_missing_cols": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_empty_dataframe": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_dtypes": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_timestamps_aware_or_naive": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_other_dtypes": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_append_numpy_bug_1681": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend.test_multiindex_column_append_multiple": [],
+    "pandas.tests.frame.methods.test_append.TestDataFrameAppend": []
+}

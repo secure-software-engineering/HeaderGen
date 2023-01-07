@@ -1,0 +1,8 @@
+{
+    "scipy.optimize.lbfgsb.fmin_l_bfgs_b": [],
+    "scipy.optimize.lbfgsb._minimize_lbfgsb": [],
+    "scipy.optimize.lbfgsb.LbfgsInvHessProduct.__init__": [],
+    "scipy.optimize.lbfgsb.LbfgsInvHessProduct._matvec": [],
+    "scipy.optimize.lbfgsb.LbfgsInvHessProduct.todense": [],
+    "scipy.optimize.lbfgsb.LbfgsInvHessProduct": []
+}

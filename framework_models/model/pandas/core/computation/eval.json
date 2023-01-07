@@ -1,0 +1,9 @@
+{
+    "pandas.core.computation.eval._check_engine": [],
+    "pandas.core.computation.eval._check_parser": [],
+    "pandas.core.computation.eval._check_resolvers": [],
+    "pandas.core.computation.eval._check_expression": [],
+    "pandas.core.computation.eval._convert_expression": [],
+    "pandas.core.computation.eval._check_for_locals": [],
+    "pandas.core.computation.eval.eval": []
+}

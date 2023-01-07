@@ -1,0 +1,10 @@
+{
+    "lightgbm.engine.train": ["MODEL_TRAINING"],
+    "lightgbm.engine._make_n_folds": [],
+    "lightgbm.engine._agg_cv_result": [],
+    "lightgbm.engine.cv": [],
+    "lightgbm.engine.CVBooster.__init__": [],
+    "lightgbm.engine.CVBooster._append": [],
+    "lightgbm.engine.CVBooster.__getattr__": [],
+    "lightgbm.engine.CVBooster": []
+}

@@ -1,0 +1,11 @@
+{
+    "pandas.tests.indexes.ranges.test_indexing.TestGetIndexer.test_get_indexer": [],
+    "pandas.tests.indexes.ranges.test_indexing.TestGetIndexer.test_get_indexer_pad": [],
+    "pandas.tests.indexes.ranges.test_indexing.TestGetIndexer.test_get_indexer_backfill": [],
+    "pandas.tests.indexes.ranges.test_indexing.TestGetIndexer.test_get_indexer_limit": [],
+    "pandas.tests.indexes.ranges.test_indexing.TestGetIndexer.test_get_indexer_decreasing": [],
+    "pandas.tests.indexes.ranges.test_indexing.TestTake.test_take_preserve_name": [],
+    "pandas.tests.indexes.ranges.test_indexing.TestTake.test_take_fill_value": [],
+    "pandas.tests.indexes.ranges.test_indexing.TestGetIndexer": [],
+    "pandas.tests.indexes.ranges.test_indexing.TestTake": []
+}

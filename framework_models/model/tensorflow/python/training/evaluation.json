@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.training.evaluation._get_or_create_eval_step": [],
+    "tensorflow.python.training.evaluation._get_latest_eval_step_value": [],
+    "tensorflow.python.training.evaluation._evaluate_once": [],
+    "tensorflow.python.training.evaluation._MultiStepStopAfterNEvalsHook.__init__": [],
+    "tensorflow.python.training.evaluation._MultiStepStopAfterNEvalsHook._set_evals_completed_tensor": [],
+    "tensorflow.python.training.evaluation._MultiStepStopAfterNEvalsHook.begin": [],
+    "tensorflow.python.training.evaluation._MultiStepStopAfterNEvalsHook.after_create_session": [],
+    "tensorflow.python.training.evaluation._MultiStepStopAfterNEvalsHook.before_run": [],
+    "tensorflow.python.training.evaluation._MultiStepStopAfterNEvalsHook.after_run": [],
+    "tensorflow.python.training.evaluation._StopAfterNEvalsHook.__init__": [],
+    "tensorflow.python.training.evaluation._StopAfterNEvalsHook._set_evals_completed_tensor": [],
+    "tensorflow.python.training.evaluation._StopAfterNEvalsHook.before_run": [],
+    "tensorflow.python.training.evaluation._StopAfterNEvalsHook.after_run": [],
+    "tensorflow.python.training.evaluation._MultiStepStopAfterNEvalsHook": [],
+    "tensorflow.python.training.evaluation._StopAfterNEvalsHook": []
+}

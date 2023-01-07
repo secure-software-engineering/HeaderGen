@@ -1,0 +1,7 @@
+{
+    "main": [
+        "from_mod.func"
+    ],
+    "from_mod.func": [],
+    "from_mod": []
+}

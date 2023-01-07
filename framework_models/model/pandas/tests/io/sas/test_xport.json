@@ -1,0 +1,12 @@
+{
+    "pandas.tests.io.sas.test_xport.numeric_as_float": [],
+    "pandas.tests.io.sas.test_xport.TestXport.setup_method": [],
+    "pandas.tests.io.sas.test_xport.TestXport.test1_basic": [],
+    "pandas.tests.io.sas.test_xport.TestXport.test1_index": [],
+    "pandas.tests.io.sas.test_xport.TestXport.test1_incremental": [],
+    "pandas.tests.io.sas.test_xport.TestXport.test2": [],
+    "pandas.tests.io.sas.test_xport.TestXport.test2_binary": [],
+    "pandas.tests.io.sas.test_xport.TestXport.test_multiple_types": [],
+    "pandas.tests.io.sas.test_xport.TestXport.test_truncated_float_support": [],
+    "pandas.tests.io.sas.test_xport.TestXport": []
+}

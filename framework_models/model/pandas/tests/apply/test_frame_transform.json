@@ -1,0 +1,17 @@
+{
+    "pandas.tests.apply.test_frame_transform.unpack_obj": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_ufunc": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_groupby_kernel": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_listlike": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_empty_listlike": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_dictlike": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_dictlike_mixed": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_empty_dictlike": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_udf": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_method_name": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_bad_dtype": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_partial_failure_typeerror": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_partial_failure_valueerror": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_passes_args": [],
+    "pandas.tests.apply.test_frame_transform.test_transform_empty_dataframe": []
+}

@@ -1,0 +1,10 @@
+{
+    "lightgbm.plotting._check_not_tuple_of_2_elements": [],
+    "lightgbm.plotting._float2str": [],
+    "lightgbm.plotting.plot_importance": [],
+    "lightgbm.plotting.plot_split_value_histogram": [],
+    "lightgbm.plotting.plot_metric": [],
+    "lightgbm.plotting._to_graphviz": [],
+    "lightgbm.plotting.create_tree_digraph": [],
+    "lightgbm.plotting.plot_tree": []
+}

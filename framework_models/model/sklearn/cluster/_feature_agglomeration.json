@@ -1,0 +1,5 @@
+{
+    "sklearn.cluster._feature_agglomeration.AgglomerationTransform.transform": [],
+    "sklearn.cluster._feature_agglomeration.AgglomerationTransform.inverse_transform": [],
+    "sklearn.cluster._feature_agglomeration.AgglomerationTransform": []
+}

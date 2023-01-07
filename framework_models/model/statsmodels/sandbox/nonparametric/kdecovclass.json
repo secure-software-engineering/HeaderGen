@@ -1,0 +1,12 @@
+{
+    "statsmodels.sandbox.nonparametric.kdecovclass.plotkde": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.test_kde_1d": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.gaussian_kde_set_covariance.__init__": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.gaussian_kde_set_covariance._compute_covariance": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.gaussian_kde_covfact.__init__": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.gaussian_kde_covfact._compute_covariance_": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.gaussian_kde_covfact.covariance_factor": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.gaussian_kde_covfact.reset_covfact": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.gaussian_kde_set_covariance": [],
+    "statsmodels.sandbox.nonparametric.kdecovclass.gaussian_kde_covfact": []
+}

@@ -1,0 +1,14 @@
+{
+    "numpy.core.tests.test_print.test_float_types": [],
+    "numpy.core.tests.test_print.test_nan_inf_float": [],
+    "numpy.core.tests.test_print.test_complex_types": [],
+    "numpy.core.tests.test_print.test_complex_inf_nan": [],
+    "numpy.core.tests.test_print._test_redirected_print": [],
+    "numpy.core.tests.test_print.test_float_type_print": [],
+    "numpy.core.tests.test_print.test_complex_type_print": [],
+    "numpy.core.tests.test_print.test_scalar_format": [],
+    "numpy.core.tests.test_print.TestCommaDecimalPointLocale.test_locale_single": [],
+    "numpy.core.tests.test_print.TestCommaDecimalPointLocale.test_locale_double": [],
+    "numpy.core.tests.test_print.TestCommaDecimalPointLocale.test_locale_longdouble": [],
+    "numpy.core.tests.test_print.TestCommaDecimalPointLocale": []
+}

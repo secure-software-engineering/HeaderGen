@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.debug.cli.base_ui.BaseUI.__init__": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI.set_help_intro": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI.register_command_handler": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI.register_tab_comp_context": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI.run_ui": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI._parse_command": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI._analyze_tab_complete_input": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI.config": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI._config_command_handler": [],
+    "tensorflow.python.debug.cli.base_ui.BaseUI": []
+}

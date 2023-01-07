@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.clip_ops.clip_by_value": [],
+    "tensorflow.python.ops.clip_ops._clip_by_value_grad": [],
+    "tensorflow.python.ops.clip_ops.clip_by_norm": [],
+    "tensorflow.python.ops.clip_ops.global_norm": [],
+    "tensorflow.python.ops.clip_ops.clip_by_global_norm": [],
+    "tensorflow.python.ops.clip_ops.clip_by_average_norm": []
+}

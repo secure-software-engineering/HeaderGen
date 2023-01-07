@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.gen_composite_tensor_ops.composite_tensor_variant_from_components": [],
+    "tensorflow.python.ops.gen_composite_tensor_ops.composite_tensor_variant_from_components_eager_fallback": [],
+    "tensorflow.python.ops.gen_composite_tensor_ops.composite_tensor_variant_to_components": [],
+    "tensorflow.python.ops.gen_composite_tensor_ops.composite_tensor_variant_to_components_eager_fallback": []
+}

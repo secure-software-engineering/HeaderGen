@@ -1,0 +1,12 @@
+{
+    "pandas.tests.frame.conftest.close_open_fixture": [],
+    "pandas.tests.frame.conftest.float_frame_with_na": [],
+    "pandas.tests.frame.conftest.bool_frame_with_na": [],
+    "pandas.tests.frame.conftest.float_string_frame": [],
+    "pandas.tests.frame.conftest.mixed_float_frame": [],
+    "pandas.tests.frame.conftest.mixed_int_frame": [],
+    "pandas.tests.frame.conftest.timezone_frame": [],
+    "pandas.tests.frame.conftest.uint64_frame": [],
+    "pandas.tests.frame.conftest.simple_frame": [],
+    "pandas.tests.frame.conftest.frame_of_index_cols": []
+}

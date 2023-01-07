@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.__init__": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard._init_writer": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard._make_histogram_ops": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.set_model": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard._fetch_callback": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard._write_custom_summaries": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_train_batch_begin": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_train_batch_end": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_test_begin": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_test_end": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_batch_end": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_train_begin": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_epoch_begin": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_epoch_end": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard.on_train_end": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard._start_profiler": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard._stop_profiler": [],
+    "tensorflow.python.keras.callbacks_v1.TensorBoard": []
+}

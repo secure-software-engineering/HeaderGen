@@ -1,0 +1,5 @@
+{
+    "pandas.tests.window.test_dtypes.get_dtype": [],
+    "pandas.tests.window.test_dtypes.test_series_dtypes": [],
+    "pandas.tests.window.test_dtypes.test_dataframe_dtypes": []
+}

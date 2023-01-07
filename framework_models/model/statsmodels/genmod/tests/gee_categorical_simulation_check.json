@@ -1,0 +1,14 @@
+{
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.gendat_ordinal": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.gendat_nominal": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.ordinal_simulator.true_params": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.ordinal_simulator.starting_values": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.ordinal_simulator.print_dparams": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.ordinal_simulator.simulate": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.nominal_simulator.starting_values": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.nominal_simulator.true_params": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.nominal_simulator.print_dparams": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.nominal_simulator.simulate": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.ordinal_simulator": [],
+    "statsmodels.genmod.tests.gee_categorical_simulation_check.nominal_simulator": []
+}

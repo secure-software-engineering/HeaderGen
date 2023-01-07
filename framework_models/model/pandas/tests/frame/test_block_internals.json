@@ -1,0 +1,23 @@
+{
+    "pandas.tests.frame.test_block_internals.test_update_inplace_sets_valid_block_values": [],
+    "pandas.tests.frame.test_block_internals.test_nonconsolidated_item_cache_take": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_setitem_invalidates_datetime_index_freq": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_cast_internals": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_consolidate": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_consolidate_inplace": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_values_consolidate": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_modify_values": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_boolean_set_uncons": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_constructor_with_convert": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_construction_with_mixed": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_construction_with_conversions": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_constructor_compound_dtypes": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_pickle": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_consolidate_datetime64": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_is_mixed_type": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_stale_cached_series_bug_473": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_strange_column_corruption_issue": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_constructor_no_pandas_array": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals.test_add_column_with_pandas_array": [],
+    "pandas.tests.frame.test_block_internals.TestDataFrameBlockInternals": []
+}

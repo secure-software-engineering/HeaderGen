@@ -1,0 +1,18 @@
+{
+    "statsmodels.tsa.statespace.tests.test_news.check_impact_indices": [],
+    "statsmodels.tsa.statespace.tests.test_news.check_revision_indices": [],
+    "statsmodels.tsa.statespace.tests.test_news.check_update_indices": [],
+    "statsmodels.tsa.statespace.tests.test_news.check_news_indices": [],
+    "statsmodels.tsa.statespace.tests.test_news.check_news": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_sarimax_time_invariant": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_sarimax_time_varying": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_unobserved_components_time_varying": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_varmax_time_invariant": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_varmax_time_varying": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_dynamic_factor_time_varying": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_defaults": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_comparison_types": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_start_end_dates": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_start_end_int": [],
+    "statsmodels.tsa.statespace.tests.test_news.test_invalid": []
+}

@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.framework.importer._IsControlInput": [],
+    "tensorflow.python.framework.importer._ParseTensorName": [],
+    "tensorflow.python.framework.importer._MaybeDevice": [],
+    "tensorflow.python.framework.importer._ProcessGraphDefParam": [],
+    "tensorflow.python.framework.importer._ProcessInputMapParam": [],
+    "tensorflow.python.framework.importer._ProcessReturnElementsParam": [],
+    "tensorflow.python.framework.importer._FindAttrInOpDef": [],
+    "tensorflow.python.framework.importer._RemoveDefaultAttrs": [],
+    "tensorflow.python.framework.importer._ConvertInputMapValues": [],
+    "tensorflow.python.framework.importer._PopulateTFImportGraphDefOptions": [],
+    "tensorflow.python.framework.importer._ProcessNewOps": [],
+    "tensorflow.python.framework.importer._GetColocationNames": [],
+    "tensorflow.python.framework.importer._GatherReturnElements": [],
+    "tensorflow.python.framework.importer._SetDefaultAttrValues": [],
+    "tensorflow.python.framework.importer.import_graph_def": [],
+    "tensorflow.python.framework.importer.import_graph_def_for_function": [],
+    "tensorflow.python.framework.importer._import_graph_def_internal": []
+}

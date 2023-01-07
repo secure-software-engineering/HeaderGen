@@ -1,0 +1,6 @@
+{
+    "numpy.f2py.tests.test_mixed._path": [],
+    "numpy.f2py.tests.test_mixed.TestMixed.test_all": [],
+    "numpy.f2py.tests.test_mixed.TestMixed.test_docstring": [],
+    "numpy.f2py.tests.test_mixed.TestMixed": []
+}

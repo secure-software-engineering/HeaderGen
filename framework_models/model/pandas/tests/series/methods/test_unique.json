@@ -1,0 +1,8 @@
+{
+    "pandas.tests.series.methods.test_unique.TestUnique.test_unique_data_ownership": [],
+    "pandas.tests.series.methods.test_unique.TestUnique.test_unique": [],
+    "pandas.tests.series.methods.test_unique.TestUnique.test_unique_nan_object_dtype": [],
+    "pandas.tests.series.methods.test_unique.TestUnique.test_unique_none": [],
+    "pandas.tests.series.methods.test_unique.TestUnique.test_unique_categorical": [],
+    "pandas.tests.series.methods.test_unique.TestUnique": []
+}

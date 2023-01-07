@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.debug.cli.evaluator._parse_debug_tensor_name": [],
+    "tensorflow.python.debug.cli.evaluator.ExpressionEvaluator.__init__": [],
+    "tensorflow.python.debug.cli.evaluator.ExpressionEvaluator.evaluate": [],
+    "tensorflow.python.debug.cli.evaluator.ExpressionEvaluator": []
+}

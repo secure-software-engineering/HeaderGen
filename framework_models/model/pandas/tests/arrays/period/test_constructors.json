@@ -1,0 +1,9 @@
+{
+    "pandas.tests.arrays.period.test_constructors.test_period_array_ok": [],
+    "pandas.tests.arrays.period.test_constructors.test_period_array_readonly_object": [],
+    "pandas.tests.arrays.period.test_constructors.test_from_datetime64_freq_changes": [],
+    "pandas.tests.arrays.period.test_constructors.test_period_array_raises": [],
+    "pandas.tests.arrays.period.test_constructors.test_period_array_non_period_series_raies": [],
+    "pandas.tests.arrays.period.test_constructors.test_period_array_freq_mismatch": [],
+    "pandas.tests.arrays.period.test_constructors.test_from_sequence_disallows_i8": []
+}

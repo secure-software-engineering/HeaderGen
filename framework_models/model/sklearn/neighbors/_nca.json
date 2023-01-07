@@ -1,0 +1,11 @@
+{
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis.__init__": [],
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis.fit": [],
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis.transform": [],
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis._validate_params": [],
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis._initialize": [],
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis._callback": [],
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis._loss_grad_lbfgs": [],
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis._more_tags": [],
+    "sklearn.neighbors._nca.NeighborhoodComponentsAnalysis": []
+}

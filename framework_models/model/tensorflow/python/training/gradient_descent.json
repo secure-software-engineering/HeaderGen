@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.training.gradient_descent.GradientDescentOptimizer.__init__": [],
+    "tensorflow.python.training.gradient_descent.GradientDescentOptimizer._apply_dense": [],
+    "tensorflow.python.training.gradient_descent.GradientDescentOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.gradient_descent.GradientDescentOptimizer._resource_apply_sparse_duplicate_indices": [],
+    "tensorflow.python.training.gradient_descent.GradientDescentOptimizer._apply_sparse_duplicate_indices": [],
+    "tensorflow.python.training.gradient_descent.GradientDescentOptimizer._prepare": [],
+    "tensorflow.python.training.gradient_descent.GradientDescentOptimizer": []
+}

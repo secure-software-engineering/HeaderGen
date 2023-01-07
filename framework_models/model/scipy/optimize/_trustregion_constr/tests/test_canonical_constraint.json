@@ -1,0 +1,9 @@
+{
+    "scipy.optimize._trustregion_constr.tests.test_canonical_constraint.create_quadratic_function": [],
+    "scipy.optimize._trustregion_constr.tests.test_canonical_constraint.test_bounds_cases": [],
+    "scipy.optimize._trustregion_constr.tests.test_canonical_constraint.test_nonlinear_constraint": [],
+    "scipy.optimize._trustregion_constr.tests.test_canonical_constraint.test_concatenation": [],
+    "scipy.optimize._trustregion_constr.tests.test_canonical_constraint.test_empty": [],
+    "scipy.optimize._trustregion_constr.tests.test_canonical_constraint.test_initial_constraints_as_canonical": [],
+    "scipy.optimize._trustregion_constr.tests.test_canonical_constraint.test_initial_constraints_as_canonical_empty": []
+}

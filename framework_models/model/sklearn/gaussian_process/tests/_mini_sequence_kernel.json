@@ -1,0 +1,10 @@
+{
+    "sklearn.gaussian_process.tests._mini_sequence_kernel.MiniSeqKernel.__init__": [],
+    "sklearn.gaussian_process.tests._mini_sequence_kernel.MiniSeqKernel.hyperparameter_baseline_similarity": [],
+    "sklearn.gaussian_process.tests._mini_sequence_kernel.MiniSeqKernel._f": [],
+    "sklearn.gaussian_process.tests._mini_sequence_kernel.MiniSeqKernel._g": [],
+    "sklearn.gaussian_process.tests._mini_sequence_kernel.MiniSeqKernel.__call__": [],
+    "sklearn.gaussian_process.tests._mini_sequence_kernel.MiniSeqKernel.diag": [],
+    "sklearn.gaussian_process.tests._mini_sequence_kernel.MiniSeqKernel.clone_with_theta": [],
+    "sklearn.gaussian_process.tests._mini_sequence_kernel.MiniSeqKernel": []
+}

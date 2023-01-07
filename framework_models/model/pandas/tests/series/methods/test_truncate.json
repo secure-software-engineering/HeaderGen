@@ -1,0 +1,6 @@
+{
+    "pandas.tests.series.methods.test_truncate.TestTruncate.test_truncate_datetimeindex_tz": [],
+    "pandas.tests.series.methods.test_truncate.TestTruncate.test_truncate_periodindex": [],
+    "pandas.tests.series.methods.test_truncate.TestTruncate.test_truncate_one_element_series": [],
+    "pandas.tests.series.methods.test_truncate.TestTruncate": []
+}

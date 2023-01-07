@@ -1,0 +1,13 @@
+{
+    "sklearn.utils.tests.test_class_weight.test_compute_class_weight": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_class_weight_not_present": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_class_weight_dict": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_class_weight_invariance": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_class_weight_balanced_negative": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_class_weight_balanced_unordered": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_class_weight_default": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_sample_weight": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_sample_weight_with_subsample": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_sample_weight_errors": [],
+    "sklearn.utils.tests.test_class_weight.test_compute_sample_weight_more_than_32": []
+}

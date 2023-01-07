@@ -1,0 +1,11 @@
+{
+    "scipy.sparse.linalg.isolve.iterative._stoptest": [],
+    "scipy.sparse.linalg.isolve.iterative._get_atol": [],
+    "scipy.sparse.linalg.isolve.iterative.set_docstring": [],
+    "scipy.sparse.linalg.isolve.iterative.bicg": [],
+    "scipy.sparse.linalg.isolve.iterative.bicgstab": [],
+    "scipy.sparse.linalg.isolve.iterative.cg": [],
+    "scipy.sparse.linalg.isolve.iterative.cgs": [],
+    "scipy.sparse.linalg.isolve.iterative.gmres": [],
+    "scipy.sparse.linalg.isolve.iterative.qmr": []
+}

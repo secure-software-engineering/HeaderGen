@@ -1,0 +1,4 @@
+{
+    "pandas.tests.internals.test_managers.test_dataframe_creation": [],
+    "pandas.tests.internals.test_managers.test_series_creation": []
+}

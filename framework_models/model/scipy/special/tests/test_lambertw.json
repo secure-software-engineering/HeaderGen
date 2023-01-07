@@ -1,0 +1,5 @@
+{
+    "scipy.special.tests.test_lambertw.test_values": [],
+    "scipy.special.tests.test_lambertw.test_ufunc": [],
+    "scipy.special.tests.test_lambertw.test_lambertw_ufunc_loop_selection": []
+}

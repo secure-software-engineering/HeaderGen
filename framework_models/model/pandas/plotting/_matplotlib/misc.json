@@ -1,0 +1,10 @@
+{
+    "pandas.plotting._matplotlib.misc.scatter_matrix": [],
+    "pandas.plotting._matplotlib.misc._get_marker_compat": [],
+    "pandas.plotting._matplotlib.misc.radviz": [],
+    "pandas.plotting._matplotlib.misc.andrews_curves": [],
+    "pandas.plotting._matplotlib.misc.bootstrap_plot": [],
+    "pandas.plotting._matplotlib.misc.parallel_coordinates": [],
+    "pandas.plotting._matplotlib.misc.lag_plot": [],
+    "pandas.plotting._matplotlib.misc.autocorrelation_plot": []
+}

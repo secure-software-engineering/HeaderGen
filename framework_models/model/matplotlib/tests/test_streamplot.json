@@ -1,0 +1,12 @@
+{
+    "matplotlib.tests.test_streamplot.velocity_field": [],
+    "matplotlib.tests.test_streamplot.swirl_velocity_field": [],
+    "matplotlib.tests.test_streamplot.test_startpoints": [],
+    "matplotlib.tests.test_streamplot.test_colormap": [],
+    "matplotlib.tests.test_streamplot.test_linewidth": [],
+    "matplotlib.tests.test_streamplot.test_masks_and_nans": [],
+    "matplotlib.tests.test_streamplot.test_maxlength": [],
+    "matplotlib.tests.test_streamplot.test_direction": [],
+    "matplotlib.tests.test_streamplot.test_streamplot_limits": [],
+    "matplotlib.tests.test_streamplot.test_streamplot_grid": []
+}

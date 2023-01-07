@@ -1,0 +1,5 @@
+{
+    "matplotlib.tests.test_determinism._save_figure": [],
+    "matplotlib.tests.test_determinism.test_determinism_check": [],
+    "matplotlib.tests.test_determinism.test_determinism_source_date_epoch": []
+}

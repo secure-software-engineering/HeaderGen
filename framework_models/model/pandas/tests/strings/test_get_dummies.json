@@ -1,0 +1,6 @@
+{
+    "pandas.tests.strings.test_get_dummies.test_get_dummies": [],
+    "pandas.tests.strings.test_get_dummies.test_get_dummies_index": [],
+    "pandas.tests.strings.test_get_dummies.test_get_dummies_with_name_dummy": [],
+    "pandas.tests.strings.test_get_dummies.test_get_dummies_with_name_dummy_index": []
+}

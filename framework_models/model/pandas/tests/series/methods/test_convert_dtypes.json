@@ -1,0 +1,7 @@
+{
+    "pandas.tests.series.methods.test_convert_dtypes.TestSeriesConvertDtypes.test_convert_dtypes": [],
+    "pandas.tests.series.methods.test_convert_dtypes.TestSeriesConvertDtypes.test_convert_string_dtype": [],
+    "pandas.tests.series.methods.test_convert_dtypes.TestSeriesConvertDtypes.test_convert_bool_dtype": [],
+    "pandas.tests.series.methods.test_convert_dtypes.TestSeriesConvertDtypes.test_convert_byte_string_dtype": [],
+    "pandas.tests.series.methods.test_convert_dtypes.TestSeriesConvertDtypes": []
+}

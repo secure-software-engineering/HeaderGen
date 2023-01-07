@@ -1,0 +1,11 @@
+{
+    "scipy.interpolate.fitpack.splprep": [],
+    "scipy.interpolate.fitpack.splrep": [],
+    "scipy.interpolate.fitpack.splev": [],
+    "scipy.interpolate.fitpack.splint": [],
+    "scipy.interpolate.fitpack.sproot": [],
+    "scipy.interpolate.fitpack.spalde": [],
+    "scipy.interpolate.fitpack.insert": [],
+    "scipy.interpolate.fitpack.splder": [],
+    "scipy.interpolate.fitpack.splantider": []
+}

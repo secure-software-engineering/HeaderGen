@@ -1,0 +1,7 @@
+{
+    "scipy.fft.tests.test_real_transforms.test_identity_1d": [],
+    "scipy.fft.tests.test_real_transforms.test_identity_1d_overwrite": [],
+    "scipy.fft.tests.test_real_transforms.test_identity_nd": [],
+    "scipy.fft.tests.test_real_transforms.test_identity_nd_overwrite": [],
+    "scipy.fft.tests.test_real_transforms.test_fftpack_equivalience": []
+}

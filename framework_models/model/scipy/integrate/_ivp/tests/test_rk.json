@@ -1,0 +1,6 @@
+{
+    "scipy.integrate._ivp.tests.test_rk.test_coefficient_properties": [],
+    "scipy.integrate._ivp.tests.test_rk.test_coefficient_properties_dop853": [],
+    "scipy.integrate._ivp.tests.test_rk.test_error_estimation": [],
+    "scipy.integrate._ivp.tests.test_rk.test_error_estimation_complex": []
+}

@@ -1,0 +1,16 @@
+{
+    "pandas.tests.series.methods.test_explode.test_basic": [],
+    "pandas.tests.series.methods.test_explode.test_mixed_type": [],
+    "pandas.tests.series.methods.test_explode.test_empty": [],
+    "pandas.tests.series.methods.test_explode.test_nested_lists": [],
+    "pandas.tests.series.methods.test_explode.test_multi_index": [],
+    "pandas.tests.series.methods.test_explode.test_large": [],
+    "pandas.tests.series.methods.test_explode.test_invert_array": [],
+    "pandas.tests.series.methods.test_explode.non_object_dtype": [],
+    "pandas.tests.series.methods.test_explode.test_typical_usecase": [],
+    "pandas.tests.series.methods.test_explode.test_nested_EA": [],
+    "pandas.tests.series.methods.test_explode.test_duplicate_index": [],
+    "pandas.tests.series.methods.test_explode.test_ignore_index": [],
+    "pandas.tests.series.methods.test_explode.test_explode_sets": [],
+    "pandas.tests.series.methods.test_explode.test_explode_scalars_can_ignore_index": []
+}

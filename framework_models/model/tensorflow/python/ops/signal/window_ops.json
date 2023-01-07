@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.ops.signal.window_ops._check_params": [],
+    "tensorflow.python.ops.signal.window_ops.kaiser_window": [],
+    "tensorflow.python.ops.signal.window_ops.kaiser_bessel_derived_window": [],
+    "tensorflow.python.ops.signal.window_ops.vorbis_window": [],
+    "tensorflow.python.ops.signal.window_ops.hann_window": [],
+    "tensorflow.python.ops.signal.window_ops.hamming_window": [],
+    "tensorflow.python.ops.signal.window_ops._raised_cosine_window": []
+}

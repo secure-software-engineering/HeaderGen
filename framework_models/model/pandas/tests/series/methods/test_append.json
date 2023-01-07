@@ -1,0 +1,17 @@
+{
+    "pandas.tests.series.methods.test_append.TestSeriesAppend.test_append_preserve_name": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppend.test_append": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppend.test_append_many": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppend.test_append_duplicates": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppend.test_append_tuples": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppend.test_append_dataframe_raises": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppendWithDatetimeIndex.test_append": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppendWithDatetimeIndex.test_append_tz": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppendWithDatetimeIndex.test_append_tz_explicit_pytz": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppendWithDatetimeIndex.test_append_tz_dateutil": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppendWithDatetimeIndex.test_series_append_aware": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppendWithDatetimeIndex.test_series_append_aware_naive": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppendWithDatetimeIndex.test_series_append_dst": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppend": [],
+    "pandas.tests.series.methods.test_append.TestSeriesAppendWithDatetimeIndex": []
+}

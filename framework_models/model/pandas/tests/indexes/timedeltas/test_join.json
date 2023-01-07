@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.timedeltas.test_join.TestJoin.test_append_join_nondatetimeindex": [],
+    "pandas.tests.indexes.timedeltas.test_join.TestJoin.test_join_self": [],
+    "pandas.tests.indexes.timedeltas.test_join.TestJoin.test_does_not_convert_mixed_integer": [],
+    "pandas.tests.indexes.timedeltas.test_join.TestJoin.test_join_preserves_freq": [],
+    "pandas.tests.indexes.timedeltas.test_join.TestJoin": []
+}

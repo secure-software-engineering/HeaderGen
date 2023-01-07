@@ -1,0 +1,8 @@
+{
+    "pandas.tests.test_flags.TestFlags.test_equality": [],
+    "pandas.tests.test_flags.TestFlags.test_set": [],
+    "pandas.tests.test_flags.TestFlags.test_repr": [],
+    "pandas.tests.test_flags.TestFlags.test_obj_ref": [],
+    "pandas.tests.test_flags.TestFlags.test_getitem": [],
+    "pandas.tests.test_flags.TestFlags": []
+}

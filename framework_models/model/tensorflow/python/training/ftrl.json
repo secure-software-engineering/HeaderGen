@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.training.ftrl.FtrlOptimizer.__init__": [],
+    "tensorflow.python.training.ftrl.FtrlOptimizer._create_slots": [],
+    "tensorflow.python.training.ftrl.FtrlOptimizer._prepare": [],
+    "tensorflow.python.training.ftrl.FtrlOptimizer._apply_dense": [],
+    "tensorflow.python.training.ftrl.FtrlOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.ftrl.FtrlOptimizer._apply_sparse": [],
+    "tensorflow.python.training.ftrl.FtrlOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.ftrl.FtrlOptimizer": []
+}

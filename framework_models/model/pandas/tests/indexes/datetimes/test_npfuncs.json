@@ -1,0 +1,4 @@
+{
+    "pandas.tests.indexes.datetimes.test_npfuncs.TestSplit.test_split_non_utc": [],
+    "pandas.tests.indexes.datetimes.test_npfuncs.TestSplit": []
+}

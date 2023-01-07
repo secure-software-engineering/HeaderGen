@@ -1,0 +1,6 @@
+{
+    "xgboost.config.config_doc": [],
+    "xgboost.config.set_config": [],
+    "xgboost.config.get_config": [],
+    "xgboost.config.config_context": []
+}

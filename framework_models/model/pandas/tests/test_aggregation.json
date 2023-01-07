@@ -1,0 +1,8 @@
+{
+    "pandas.tests.test_aggregation.test_maybe_mangle_lambdas_passthrough": [],
+    "pandas.tests.test_aggregation.test_maybe_mangle_lambdas_listlike": [],
+    "pandas.tests.test_aggregation.test_maybe_mangle_lambdas": [],
+    "pandas.tests.test_aggregation.test_maybe_mangle_lambdas_args": [],
+    "pandas.tests.test_aggregation.test_maybe_mangle_lambdas_named": [],
+    "pandas.tests.test_aggregation.test_make_unique": []
+}

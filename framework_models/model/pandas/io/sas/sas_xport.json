@@ -1,0 +1,16 @@
+{
+    "pandas.io.sas.sas_xport._parse_date": [],
+    "pandas.io.sas.sas_xport._split_line": [],
+    "pandas.io.sas.sas_xport._handle_truncated_float_vec": [],
+    "pandas.io.sas.sas_xport._parse_float_vec": [],
+    "pandas.io.sas.sas_xport.XportReader.__init__": [],
+    "pandas.io.sas.sas_xport.XportReader.close": [],
+    "pandas.io.sas.sas_xport.XportReader._get_row": [],
+    "pandas.io.sas.sas_xport.XportReader._read_header": [],
+    "pandas.io.sas.sas_xport.XportReader.__next__": [],
+    "pandas.io.sas.sas_xport.XportReader._record_count": [],
+    "pandas.io.sas.sas_xport.XportReader.get_chunk": [],
+    "pandas.io.sas.sas_xport.XportReader._missing_double": [],
+    "pandas.io.sas.sas_xport.XportReader.read": [],
+    "pandas.io.sas.sas_xport.XportReader": []
+}

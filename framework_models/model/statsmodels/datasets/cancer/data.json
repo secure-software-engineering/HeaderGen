@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.cancer.data.load_pandas": [],
+    "statsmodels.datasets.cancer.data.load": [],
+    "statsmodels.datasets.cancer.data._get_data": []
+}

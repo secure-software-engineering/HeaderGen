@@ -1,0 +1,16 @@
+{
+    "matplotlib.tests.test_scale.test_log_scales": [],
+    "matplotlib.tests.test_scale.test_symlog_mask_nan": [],
+    "matplotlib.tests.test_scale.test_logit_scales": [],
+    "matplotlib.tests.test_scale.test_log_scatter": [],
+    "matplotlib.tests.test_scale.test_logscale_subs": [],
+    "matplotlib.tests.test_scale.test_logscale_mask": [],
+    "matplotlib.tests.test_scale.test_extra_kwargs_raise": [],
+    "matplotlib.tests.test_scale.test_logscale_invert_transform": [],
+    "matplotlib.tests.test_scale.test_logscale_transform_repr": [],
+    "matplotlib.tests.test_scale.test_logscale_nonpos_values": [],
+    "matplotlib.tests.test_scale.test_invalid_log_lims": [],
+    "matplotlib.tests.test_scale.test_function_scale": [],
+    "matplotlib.tests.test_scale.test_pass_scale": [],
+    "matplotlib.tests.test_scale.test_scale_deepcopy": []
+}

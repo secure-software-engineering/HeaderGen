@@ -1,0 +1,10 @@
+{
+    "scipy.fftpack.basic.fft": [],
+    "scipy.fftpack.basic.ifft": [],
+    "scipy.fftpack.basic.rfft": [],
+    "scipy.fftpack.basic.irfft": [],
+    "scipy.fftpack.basic.fftn": [],
+    "scipy.fftpack.basic.ifftn": [],
+    "scipy.fftpack.basic.fft2": [],
+    "scipy.fftpack.basic.ifft2": []
+}

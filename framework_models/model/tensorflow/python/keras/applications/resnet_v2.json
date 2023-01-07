@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.keras.applications.resnet_v2.ResNet50V2": [],
+    "tensorflow.python.keras.applications.resnet_v2.ResNet101V2": [],
+    "tensorflow.python.keras.applications.resnet_v2.ResNet152V2": [],
+    "tensorflow.python.keras.applications.resnet_v2.preprocess_input": [],
+    "tensorflow.python.keras.applications.resnet_v2.decode_predictions": []
+}

@@ -1,0 +1,13 @@
+{
+    "keras.layers.core.lambda_layer.Lambda.__init__": [],
+    "keras.layers.core.lambda_layer.Lambda.compute_output_shape": [],
+    "keras.layers.core.lambda_layer.Lambda.call": [],
+    "keras.layers.core.lambda_layer.Lambda._check_variables": [],
+    "keras.layers.core.lambda_layer.Lambda._warn": [],
+    "keras.layers.core.lambda_layer.Lambda.compute_mask": [],
+    "keras.layers.core.lambda_layer.Lambda.get_config": [],
+    "keras.layers.core.lambda_layer.Lambda._serialize_function_to_config": [],
+    "keras.layers.core.lambda_layer.Lambda.from_config": [],
+    "keras.layers.core.lambda_layer.Lambda._parse_function_from_config": [],
+    "keras.layers.core.lambda_layer.Lambda": []
+}

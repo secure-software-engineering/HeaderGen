@@ -1,0 +1,11 @@
+{
+    "statsmodels.sandbox.rls.RLS.__init__": [],
+    "statsmodels.sandbox.rls.RLS.rwexog": [],
+    "statsmodels.sandbox.rls.RLS.inv_rwexog": [],
+    "statsmodels.sandbox.rls.RLS.rwendog": [],
+    "statsmodels.sandbox.rls.RLS.rnorm_cov_params": [],
+    "statsmodels.sandbox.rls.RLS.wrnorm_cov_params": [],
+    "statsmodels.sandbox.rls.RLS.coeffs": [],
+    "statsmodels.sandbox.rls.RLS.fit": [],
+    "statsmodels.sandbox.rls.RLS": []
+}

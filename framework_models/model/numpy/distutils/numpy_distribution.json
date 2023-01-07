@@ -1,0 +1,5 @@
+{
+    "numpy.distutils.numpy_distribution.NumpyDistribution.__init__": [],
+    "numpy.distutils.numpy_distribution.NumpyDistribution.has_scons_scripts": [],
+    "numpy.distutils.numpy_distribution.NumpyDistribution": []
+}

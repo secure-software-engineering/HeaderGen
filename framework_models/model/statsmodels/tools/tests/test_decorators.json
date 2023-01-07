@@ -1,0 +1,5 @@
+{
+    "statsmodels.tools.tests.test_decorators.test_cache_readonly": [],
+    "statsmodels.tools.tests.test_decorators.dummy_factory": [],
+    "statsmodels.tools.tests.test_decorators.test_deprecated_alias": []
+}

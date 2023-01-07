@@ -1,0 +1,7 @@
+{
+    "scipy.stats.tests.test_fit.cases_test_cont_fit": [],
+    "scipy.stats.tests.test_fit.test_cont_fit": [],
+    "scipy.stats.tests.test_fit._check_loc_scale_mle_fit": [],
+    "scipy.stats.tests.test_fit.test_non_default_loc_scale_mle_fit": [],
+    "scipy.stats.tests.test_fit.test_expon_fit": []
+}

@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.summary.plugin_asset.get_plugin_asset": [],
+    "tensorflow.python.summary.plugin_asset.get_all_plugin_assets": [],
+    "tensorflow.python.summary.plugin_asset.PluginAsset.assets": [],
+    "tensorflow.python.summary.plugin_asset.PluginAsset": []
+}

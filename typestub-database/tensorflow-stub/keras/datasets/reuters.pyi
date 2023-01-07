@@ -1,0 +1,6 @@
+from tensorflow.python.keras.utils.data_utils import get_file as get_file
+from tensorflow.python.util.tf_export import keras_export as keras_export
+from typing import Any
+
+def load_data(path: str = ..., num_words: Any | None = ..., skip_top: int = ..., maxlen: Any | None = ..., test_split: float = ..., seed: int = ..., start_char: int = ..., oov_char: int = ..., index_from: int = ..., **kwargs): ...
+def get_word_index(path: str = ...): ...

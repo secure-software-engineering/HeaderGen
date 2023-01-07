@@ -1,0 +1,19 @@
+{
+    "1": [
+        "Library Loading"
+    ],
+    "2": [
+        "Library Loading",
+        "Data Loading",
+        "Visualization",
+        "Data Profiling and Exploratory Data Analysis",
+        "Data Cleaning Filtering",
+        "Data Sub-sampling and Train-test Splitting",
+        "Feature Transformation",
+        "Feature Selection",
+        "Model Building and Training",
+        "Model Training",
+        "Model Validation and Assembling"
+    ],
+    "3": []
+}

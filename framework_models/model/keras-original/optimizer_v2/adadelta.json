@@ -1,0 +1,10 @@
+{
+    "keras.optimizer_v2.adadelta.Adadelta.__init__": [],
+    "keras.optimizer_v2.adadelta.Adadelta._create_slots": [],
+    "keras.optimizer_v2.adadelta.Adadelta._prepare_local": [],
+    "keras.optimizer_v2.adadelta.Adadelta.set_weights": [],
+    "keras.optimizer_v2.adadelta.Adadelta._resource_apply_dense": [],
+    "keras.optimizer_v2.adadelta.Adadelta._resource_apply_sparse": [],
+    "keras.optimizer_v2.adadelta.Adadelta.get_config": [],
+    "keras.optimizer_v2.adadelta.Adadelta": []
+}

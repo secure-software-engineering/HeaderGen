@@ -1,0 +1,4 @@
+{
+    "pandas.tests.series.methods.test_get_numeric_data.TestGetNumericData.test_get_numeric_data_preserve_dtype": [],
+    "pandas.tests.series.methods.test_get_numeric_data.TestGetNumericData": []
+}

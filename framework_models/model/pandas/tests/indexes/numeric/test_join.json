@@ -1,0 +1,16 @@
+{
+    "pandas.tests.indexes.numeric.test_join.TestJoinInt64Index.test_join_non_unique": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinInt64Index.test_join_inner": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinInt64Index.test_join_left": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinInt64Index.test_join_right": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinInt64Index.test_join_non_int_index": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinInt64Index.test_join_outer": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinUInt64Index.index_large": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinUInt64Index.test_join_inner": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinUInt64Index.test_join_left": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinUInt64Index.test_join_right": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinUInt64Index.test_join_non_int_index": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinUInt64Index.test_join_outer": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinInt64Index": [],
+    "pandas.tests.indexes.numeric.test_join.TestJoinUInt64Index": []
+}

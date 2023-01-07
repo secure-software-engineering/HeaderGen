@@ -1,0 +1,18 @@
+{
+    "statsmodels.stats.libqsturng.tests.test_qsturng.read_ch": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestQsturng.test_scalar": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestQsturng.test_vector": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestQsturng.test_invalid_parameters": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestQsturng.test_handful_to_tbl": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestQsturng.test_all_to_tbl": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestQsturng.test_handful_to_ch": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestQsturng.test_10000_to_ch": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestPsturng.test_scalar": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestPsturng.test_vector": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestPsturng.test_v_equal_one": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestPsturng.test_invalid_parameters": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestPsturng.test_handful_to_known_values": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestPsturng.test_100_random_values": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestQsturng": [],
+    "statsmodels.stats.libqsturng.tests.test_qsturng.TestPsturng": []
+}

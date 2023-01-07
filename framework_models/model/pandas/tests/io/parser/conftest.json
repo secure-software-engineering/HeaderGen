@@ -1,0 +1,20 @@
+{
+    "pandas.tests.io.parser.conftest.csv_dir_path": [],
+    "pandas.tests.io.parser.conftest.csv1": [],
+    "pandas.tests.io.parser.conftest.all_parsers": [],
+    "pandas.tests.io.parser.conftest.c_parser_only": [],
+    "pandas.tests.io.parser.conftest.python_parser_only": [],
+    "pandas.tests.io.parser.conftest._get_all_parser_float_precision_combinations": [],
+    "pandas.tests.io.parser.conftest.all_parsers_all_precisions": [],
+    "pandas.tests.io.parser.conftest.utf_value": [],
+    "pandas.tests.io.parser.conftest.encoding_fmt": [],
+    "pandas.tests.io.parser.conftest.numeric_decimal": [],
+    "pandas.tests.io.parser.conftest.BaseParser.update_kwargs": [],
+    "pandas.tests.io.parser.conftest.BaseParser.read_csv": [],
+    "pandas.tests.io.parser.conftest.BaseParser.read_table": [],
+    "pandas.tests.io.parser.conftest.BaseParser": [],
+    "pandas.tests.io.parser.conftest.CParser": [],
+    "pandas.tests.io.parser.conftest.CParserHighMemory": [],
+    "pandas.tests.io.parser.conftest.CParserLowMemory": [],
+    "pandas.tests.io.parser.conftest.PythonParser": []
+}

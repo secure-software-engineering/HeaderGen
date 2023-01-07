@@ -1,0 +1,19 @@
+{
+    "statsmodels.stats.oneway.effectsize_oneway": [],
+    "statsmodels.stats.oneway.convert_effectsize_fsqu": [],
+    "statsmodels.stats.oneway._fstat2effectsize": [],
+    "statsmodels.stats.oneway.wellek_to_f2": [],
+    "statsmodels.stats.oneway.f2_to_wellek": [],
+    "statsmodels.stats.oneway.fstat_to_wellek": [],
+    "statsmodels.stats.oneway.confint_noncentrality": [],
+    "statsmodels.stats.oneway.confint_effectsize_oneway": [],
+    "statsmodels.stats.oneway.anova_generic": [],
+    "statsmodels.stats.oneway.anova_oneway": [],
+    "statsmodels.stats.oneway.equivalence_oneway_generic": [],
+    "statsmodels.stats.oneway.equivalence_oneway": [],
+    "statsmodels.stats.oneway._power_equivalence_oneway_emp": [],
+    "statsmodels.stats.oneway.power_equivalence_oneway": [],
+    "statsmodels.stats.oneway.simulate_power_equivalence_oneway": [],
+    "statsmodels.stats.oneway.test_scale_oneway": [],
+    "statsmodels.stats.oneway.equivalence_scale_oneway": []
+}

@@ -1,0 +1,9 @@
+{
+    "sklearn.manifold._isomap.Isomap.__init__": [],
+    "sklearn.manifold._isomap.Isomap._fit_transform": [],
+    "sklearn.manifold._isomap.Isomap.reconstruction_error": [],
+    "sklearn.manifold._isomap.Isomap.fit": [],
+    "sklearn.manifold._isomap.Isomap.fit_transform": [],
+    "sklearn.manifold._isomap.Isomap.transform": [],
+    "sklearn.manifold._isomap.Isomap": []
+}

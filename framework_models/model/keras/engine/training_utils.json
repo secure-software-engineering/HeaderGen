@@ -1,0 +1,11 @@
+{
+    "keras.engine.training_utils.slice_arrays": [],
+    "keras.engine.training_utils.handle_partial_sample_weights": [],
+    "keras.engine.training_utils.get_input_shape_and_dtype": [],
+    "keras.engine.training_utils.get_static_batch_size": [],
+    "keras.engine.training_utils.list_to_tuple": [],
+    "keras.engine.training_utils.RespectCompiledTrainableState.__init__": [],
+    "keras.engine.training_utils.RespectCompiledTrainableState.__enter__": [],
+    "keras.engine.training_utils.RespectCompiledTrainableState.__exit__": [],
+    "keras.engine.training_utils.RespectCompiledTrainableState": []
+}

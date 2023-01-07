@@ -1,0 +1,15 @@
+{
+    "statsmodels.tsa.vector_ar.plotting.plot_mts": [],
+    "statsmodels.tsa.vector_ar.plotting.plot_var_forc": [],
+    "statsmodels.tsa.vector_ar.plotting.plot_with_error": [],
+    "statsmodels.tsa.vector_ar.plotting.plot_full_acorr": [],
+    "statsmodels.tsa.vector_ar.plotting.acorr_plot": [],
+    "statsmodels.tsa.vector_ar.plotting.plot_acorr_with_error": [],
+    "statsmodels.tsa.vector_ar.plotting.adjust_subplots": [],
+    "statsmodels.tsa.vector_ar.plotting.irf_grid_plot": [],
+    "statsmodels.tsa.vector_ar.plotting._get_irf_plot_config": [],
+    "statsmodels.tsa.vector_ar.plotting.MPLConfigurator.__init__": [],
+    "statsmodels.tsa.vector_ar.plotting.MPLConfigurator.revert": [],
+    "statsmodels.tsa.vector_ar.plotting.MPLConfigurator.set_fontsize": [],
+    "statsmodels.tsa.vector_ar.plotting.MPLConfigurator": []
+}

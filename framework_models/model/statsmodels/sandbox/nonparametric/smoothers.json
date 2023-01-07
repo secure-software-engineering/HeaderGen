@@ -1,0 +1,20 @@
+{
+    "statsmodels.sandbox.nonparametric.smoothers.KernelSmoother.__init__": [],
+    "statsmodels.sandbox.nonparametric.smoothers.KernelSmoother.fit": [],
+    "statsmodels.sandbox.nonparametric.smoothers.KernelSmoother.__call__": [],
+    "statsmodels.sandbox.nonparametric.smoothers.KernelSmoother.predict": [],
+    "statsmodels.sandbox.nonparametric.smoothers.KernelSmoother.conf": [],
+    "statsmodels.sandbox.nonparametric.smoothers.KernelSmoother.var": [],
+    "statsmodels.sandbox.nonparametric.smoothers.KernelSmoother.std": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.__init__": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.df_fit": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.df_model": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.gram": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.smooth": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.df_resid": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.__call__": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.predict": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother.fit": [],
+    "statsmodels.sandbox.nonparametric.smoothers.KernelSmoother": [],
+    "statsmodels.sandbox.nonparametric.smoothers.PolySmoother": []
+}

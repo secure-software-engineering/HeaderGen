@@ -1,0 +1,23 @@
+{
+    "sklearn.ensemble.tests.test_stacking.test_stacking_classifier_iris": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_classifier_drop_column_binary_classification": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_classifier_drop_estimator": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_regressor_drop_estimator": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_regressor_diabetes": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_regressor_sparse_passthrough": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_classifier_sparse_passthrough": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_classifier_drop_binary_prob": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_classifier_error": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_regressor_error": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_randomness": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_classifier_stratify_default": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_with_sample_weight": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_classifier_sample_weight_fit_param": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_cv_influence": [],
+    "sklearn.ensemble.tests.test_stacking.test_stacking_without_n_features_in": [],
+    "sklearn.ensemble.tests.test_stacking.NoWeightRegressor.fit": [],
+    "sklearn.ensemble.tests.test_stacking.NoWeightRegressor.predict": [],
+    "sklearn.ensemble.tests.test_stacking.NoWeightClassifier.fit": [],
+    "sklearn.ensemble.tests.test_stacking.NoWeightRegressor": [],
+    "sklearn.ensemble.tests.test_stacking.NoWeightClassifier": []
+}

@@ -1,0 +1,19 @@
+{
+    "sklearn.decomposition._lda._update_doc_distribution": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation.__init__": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._check_params": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._init_latent_vars": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._e_step": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._em_step": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._more_tags": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._check_non_neg_array": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation.partial_fit": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation.fit": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._unnormalized_transform": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation.transform": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._approx_bound": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation.score": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation._perplexity_precomp_distr": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation.perplexity": [],
+    "sklearn.decomposition._lda.LatentDirichletAllocation": []
+}

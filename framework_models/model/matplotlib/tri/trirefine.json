@@ -1,0 +1,9 @@
+{
+    "matplotlib.tri.trirefine.TriRefiner.__init__": [],
+    "matplotlib.tri.trirefine.UniformTriRefiner.__init__": [],
+    "matplotlib.tri.trirefine.UniformTriRefiner.refine_triangulation": [],
+    "matplotlib.tri.trirefine.UniformTriRefiner.refine_field": [],
+    "matplotlib.tri.trirefine.UniformTriRefiner._refine_triangulation_once": [],
+    "matplotlib.tri.trirefine.TriRefiner": [],
+    "matplotlib.tri.trirefine.UniformTriRefiner": []
+}

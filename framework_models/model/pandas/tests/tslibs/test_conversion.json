@@ -1,0 +1,13 @@
+{
+    "pandas.tests.tslibs.test_conversion._compare_utc_to_local": [],
+    "pandas.tests.tslibs.test_conversion._compare_local_to_utc": [],
+    "pandas.tests.tslibs.test_conversion.test_tz_convert_single_matches_tz_convert_hourly": [],
+    "pandas.tests.tslibs.test_conversion.test_tz_convert_single_matches_tz_convert": [],
+    "pandas.tests.tslibs.test_conversion.test_tz_convert_corner": [],
+    "pandas.tests.tslibs.test_conversion.test_tz_convert_readonly": [],
+    "pandas.tests.tslibs.test_conversion.test_length_zero_copy": [],
+    "pandas.tests.tslibs.test_conversion.test_ensure_datetime64ns_bigendian": [],
+    "pandas.tests.tslibs.test_conversion.test_ensure_timedelta64ns_overflows": [],
+    "pandas.tests.tslibs.test_conversion.test_localize_pydatetime_dt_types": [],
+    "pandas.tests.tslibs.test_conversion.SubDatetime": []
+}

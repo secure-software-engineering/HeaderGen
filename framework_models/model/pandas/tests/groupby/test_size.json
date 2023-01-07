@@ -1,0 +1,8 @@
+{
+    "pandas.tests.groupby.test_size.test_size": [],
+    "pandas.tests.groupby.test_size.test_size_sort": [],
+    "pandas.tests.groupby.test_size.test_size_series_dataframe": [],
+    "pandas.tests.groupby.test_size.test_size_groupby_all_null": [],
+    "pandas.tests.groupby.test_size.test_size_period_index": [],
+    "pandas.tests.groupby.test_size.test_size_on_categorical": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.indexes.numeric.test_astype.TestAstype.test_astype_float64_to_object": [],
+    "pandas.tests.indexes.numeric.test_astype.TestAstype.test_astype_float64_mixed_to_object": [],
+    "pandas.tests.indexes.numeric.test_astype.TestAstype.test_astype_float64_to_int_dtype": [],
+    "pandas.tests.indexes.numeric.test_astype.TestAstype.test_astype_float64_to_float_dtype": [],
+    "pandas.tests.indexes.numeric.test_astype.TestAstype.test_cannot_cast_to_datetimelike": [],
+    "pandas.tests.indexes.numeric.test_astype.TestAstype.test_cannot_cast_inf_to_int": [],
+    "pandas.tests.indexes.numeric.test_astype.TestAstype.test_astype_from_object": [],
+    "pandas.tests.indexes.numeric.test_astype.TestAstype": []
+}

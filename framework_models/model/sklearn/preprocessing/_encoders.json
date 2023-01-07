@@ -1,0 +1,23 @@
+{
+    "sklearn.preprocessing._encoders._BaseEncoder._check_X": [],
+    "sklearn.preprocessing._encoders._BaseEncoder._get_feature": [],
+    "sklearn.preprocessing._encoders._BaseEncoder._fit": [],
+    "sklearn.preprocessing._encoders._BaseEncoder._transform": [],
+    "sklearn.preprocessing._encoders._BaseEncoder._more_tags": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder.__init__": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder._validate_keywords": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder._compute_drop_idx": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder.fit": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder.fit_transform": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder.transform": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder.inverse_transform": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder.get_feature_names": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder.get_feature_names_out": [],
+    "sklearn.preprocessing._encoders.OrdinalEncoder.__init__": [],
+    "sklearn.preprocessing._encoders.OrdinalEncoder.fit": [],
+    "sklearn.preprocessing._encoders.OrdinalEncoder.transform": [],
+    "sklearn.preprocessing._encoders.OrdinalEncoder.inverse_transform": [],
+    "sklearn.preprocessing._encoders._BaseEncoder": [],
+    "sklearn.preprocessing._encoders.OneHotEncoder": [],
+    "sklearn.preprocessing._encoders.OrdinalEncoder": []
+}

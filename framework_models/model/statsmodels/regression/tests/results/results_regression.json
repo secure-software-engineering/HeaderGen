@@ -1,0 +1,13 @@
+{
+    "statsmodels.regression.tests.results.results_regression.Longley.__init__": [],
+    "statsmodels.regression.tests.results.results_regression.Longley.conf_int": [],
+    "statsmodels.regression.tests.results.results_regression.LongleyGls.__init__": [],
+    "statsmodels.regression.tests.results.results_regression.CCardWLS.__init__": [],
+    "statsmodels.regression.tests.results.results_regression.CCardWLS.conf_int": [],
+    "statsmodels.regression.tests.results.results_regression.LongleyRTO.__init__": [],
+    "statsmodels.regression.tests.results.results_regression.LongleyRTO.conf_int": [],
+    "statsmodels.regression.tests.results.results_regression.Longley": [],
+    "statsmodels.regression.tests.results.results_regression.LongleyGls": [],
+    "statsmodels.regression.tests.results.results_regression.CCardWLS": [],
+    "statsmodels.regression.tests.results.results_regression.LongleyRTO": []
+}

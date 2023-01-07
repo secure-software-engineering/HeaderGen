@@ -1,0 +1,16 @@
+{
+    "statsmodels.nonparametric.tests.test_asymmetric.CheckKernels.test_kernels": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.CheckKernels.test_kernels_vectorized": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.CheckKernels.test_kernels_weights": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsRplus.setup_class": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsRplus.test_kernels": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsRplus.test_kernels_vectorized": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsRplus.test_kernels_weights": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsUnit.setup_class": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsUnit.test_kernels": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsUnit.test_kernels_vectorized": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsUnit.test_kernels_weights": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.CheckKernels": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsRplus": [],
+    "statsmodels.nonparametric.tests.test_asymmetric.TestKernelsUnit": []
+}

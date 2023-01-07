@@ -1,0 +1,3 @@
+{
+    "pandas.tests.arrays.categorical.conftest.allow_fill": []
+}

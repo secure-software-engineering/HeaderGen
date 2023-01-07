@@ -1,0 +1,12 @@
+{
+    "pandas.tests.tslibs.test_to_offset.test_to_offset": [],
+    "pandas.tests.tslibs.test_to_offset.test_to_offset_negative": [],
+    "pandas.tests.tslibs.test_to_offset.test_to_offset_invalid": [],
+    "pandas.tests.tslibs.test_to_offset.test_to_offset_no_evaluate": [],
+    "pandas.tests.tslibs.test_to_offset.test_to_offset_tuple_unsupported": [],
+    "pandas.tests.tslibs.test_to_offset.test_to_offset_whitespace": [],
+    "pandas.tests.tslibs.test_to_offset.test_to_offset_leading_zero": [],
+    "pandas.tests.tslibs.test_to_offset.test_to_offset_leading_plus": [],
+    "pandas.tests.tslibs.test_to_offset.test_to_offset_pd_timedelta": [],
+    "pandas.tests.tslibs.test_to_offset.test_anchored_shortcuts": []
+}

@@ -1,0 +1,14 @@
+{
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.CheckDistribution.test_dist1": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.CheckDistribution.test_cdf_ppf_roundtrip": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.CheckExpandNorm.test_pdf": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.CheckExpandNorm.test_mvsk": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.TestExpandNormMom.setup_class": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.TestExpandNormSample.setup_class": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.TestExpandNormSample.test_ks": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.TestExpandNormSample.test_mvsk": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.CheckDistribution": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.CheckExpandNorm": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.TestExpandNormMom": [],
+    "statsmodels.sandbox.distributions.tests.test_norm_expan.TestExpandNormSample": []
+}

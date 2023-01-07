@@ -1,0 +1,7 @@
+{
+    "scipy.misc.tests.test_doccer.test_unindent": [],
+    "scipy.misc.tests.test_doccer.test_unindent_dict": [],
+    "scipy.misc.tests.test_doccer.test_docformat": [],
+    "scipy.misc.tests.test_doccer.test_decorator": [],
+    "scipy.misc.tests.test_doccer.test_inherit_docstring_from": []
+}

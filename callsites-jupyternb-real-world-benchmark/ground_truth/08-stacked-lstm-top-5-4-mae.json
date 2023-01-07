@@ -1,0 +1,64 @@
+{
+    "1": [
+        "<builtin>.print",
+        "os.path.join",
+        "os.walk"
+    ],
+    "3": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "4": [
+        "<builtin>.print"
+    ],
+    "5": [
+        "pandas.core.tools.datetimes.to_datetime"
+    ],
+    "6": [
+        "pandas.core.frame.DataFrame.pivot_table"
+    ],
+    "8": [
+        "pandas.core.frame.DataFrame.reset_index"
+    ],
+    "10": [
+        "pandas.core.reshape.merge.merge"
+    ],
+    "12": [
+        "pandas.core.frame.DataFrame.fillna"
+    ],
+    "13": [
+        "pandas.core.frame.DataFrame.drop",
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "14": [
+        "<builtin>.print",
+        "numpy.lib.shape_base.expand_dims"
+    ],
+    "16": [
+        "keras.layers.core.dropout.Dropout",
+        "keras.engine.training.Model.compile",
+        "keras.engine.sequential.Sequential.add",
+        "keras.layers.recurrent_v2.LSTM",
+        "keras.engine.training.Model.summary",
+        "keras.layers.core.dense.Dense",
+        "keras.engine.sequential.Sequential"
+    ],
+    "19": [
+        "keras.layers.core.dropout.Dropout",
+        "keras.engine.training.Model.compile",
+        "keras.engine.sequential.Sequential.add",
+        "keras.layers.recurrent_v2.LSTM",
+        "keras.engine.training.Model.summary",
+        "keras.layers.core.dense.Dense",
+        "keras.engine.sequential.Sequential"
+    ],
+    "20": [
+        "keras.engine.training.Model.fit"
+    ],
+    "21": [
+        "keras.engine.training.Model.predict",
+        "numpy.ndarray.clip",
+        "numpy.ndarray.ravel",
+        "pandas.core.frame.DataFrame",
+        "pandas.core.generic.NDFrame.to_csv"
+    ]
+}

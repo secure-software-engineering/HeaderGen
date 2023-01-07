@@ -1,0 +1,8 @@
+{
+    "keras.engine.input_layer._assert_other_arg_none": ["MODEL_TRAINING"],
+    "keras.engine.input_layer.Input": ["MODEL_TRAINING"],
+    "keras.engine.input_layer.InputLayer.__init__": ["MODEL_TRAINING"],
+    "keras.engine.input_layer.InputLayer.get_config": ["MODEL_TRAINING"],
+    "keras.engine.input_layer.InputLayer._trackable_saved_model_saver": ["MODEL_TRAINING"],
+    "keras.engine.input_layer.InputLayer": ["MODEL_TRAINING"]
+}

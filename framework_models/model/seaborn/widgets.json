@@ -1,0 +1,10 @@
+{
+    "seaborn.widgets._init_mutable_colormap": [],
+    "seaborn.widgets._update_lut": [],
+    "seaborn.widgets._show_cmap": [],
+    "seaborn.widgets.choose_colorbrewer_palette": [],
+    "seaborn.widgets.choose_dark_palette": [],
+    "seaborn.widgets.choose_light_palette": [],
+    "seaborn.widgets.choose_diverging_palette": [],
+    "seaborn.widgets.choose_cubehelix_palette": []
+}

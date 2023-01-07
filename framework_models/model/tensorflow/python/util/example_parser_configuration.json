@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.util.example_parser_configuration.extract_example_parser_configuration": [],
+    "tensorflow.python.util.example_parser_configuration._extract_from_parse_example": [],
+    "tensorflow.python.util.example_parser_configuration._extract_from_parse_example_v2": []
+}

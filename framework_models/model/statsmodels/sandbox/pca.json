@@ -1,0 +1,17 @@
+{
+    "statsmodels.sandbox.pca.Pca.__calc": [],
+    "statsmodels.sandbox.pca.Pca.__init__": [],
+    "statsmodels.sandbox.pca.Pca.getCovarianceMatrix": [],
+    "statsmodels.sandbox.pca.Pca.getEigensystem": [],
+    "statsmodels.sandbox.pca.Pca.getEigenvalues": [],
+    "statsmodels.sandbox.pca.Pca.getEigenvectors": [],
+    "statsmodels.sandbox.pca.Pca.getEnergies": [],
+    "statsmodels.sandbox.pca.Pca.plot2d": [],
+    "statsmodels.sandbox.pca.Pca.plot3d": [],
+    "statsmodels.sandbox.pca.Pca.sigclip": [],
+    "statsmodels.sandbox.pca.Pca.reset": [],
+    "statsmodels.sandbox.pca.Pca.project": [],
+    "statsmodels.sandbox.pca.Pca.deproject": [],
+    "statsmodels.sandbox.pca.Pca.subtractPC": [],
+    "statsmodels.sandbox.pca.Pca": []
+}

@@ -1,0 +1,4 @@
+{
+    "pandas.tests.series.methods.test_tz_convert.TestTZConvert.test_series_tz_convert_to_utc": [],
+    "pandas.tests.series.methods.test_tz_convert.TestTZConvert": []
+}

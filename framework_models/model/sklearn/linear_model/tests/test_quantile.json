@@ -1,0 +1,12 @@
+{
+    "sklearn.linear_model.tests.test_quantile.X_y_data": [],
+    "sklearn.linear_model.tests.test_quantile.test_init_parameters_validation": [],
+    "sklearn.linear_model.tests.test_quantile.test_too_new_solver_methods_raise_error": [],
+    "sklearn.linear_model.tests.test_quantile.test_quantile_toy_example": [],
+    "sklearn.linear_model.tests.test_quantile.test_quantile_equals_huber_for_low_epsilon": [],
+    "sklearn.linear_model.tests.test_quantile.test_quantile_estimates_calibration": [],
+    "sklearn.linear_model.tests.test_quantile.test_quantile_sample_weight": [],
+    "sklearn.linear_model.tests.test_quantile.test_asymmetric_error": [],
+    "sklearn.linear_model.tests.test_quantile.test_equivariance": [],
+    "sklearn.linear_model.tests.test_quantile.test_linprog_failure": []
+}

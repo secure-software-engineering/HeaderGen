@@ -1,0 +1,12 @@
+{
+    "numpy.typing.NBitBase.__init_subclass__": [],
+    "numpy.typing.NBitBase": [],
+    "numpy.typing._256Bit": [],
+    "numpy.typing._128Bit": [],
+    "numpy.typing._96Bit": [],
+    "numpy.typing._80Bit": [],
+    "numpy.typing._64Bit": [],
+    "numpy.typing._32Bit": [],
+    "numpy.typing._16Bit": [],
+    "numpy.typing._8Bit": []
+}

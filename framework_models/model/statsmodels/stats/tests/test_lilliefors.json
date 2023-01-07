@@ -1,0 +1,12 @@
+{
+    "statsmodels.stats.tests.test_lilliefors.test_get_lilliefors_errors": [],
+    "statsmodels.stats.tests.test_lilliefors.test_ksstat": [],
+    "statsmodels.stats.tests.test_lilliefors.TestLilliefors.test_normal": [],
+    "statsmodels.stats.tests.test_lilliefors.TestLilliefors.test_normal_table": [],
+    "statsmodels.stats.tests.test_lilliefors.TestLilliefors.test_expon": [],
+    "statsmodels.stats.tests.test_lilliefors.TestLilliefors.test_pval_bounds": [],
+    "statsmodels.stats.tests.test_lilliefors.TestLilliefors.test_min_nobs": [],
+    "statsmodels.stats.tests.test_lilliefors.TestLilliefors.test_large_sample": [],
+    "statsmodels.stats.tests.test_lilliefors.TestLilliefors.test_x_dims": [],
+    "statsmodels.stats.tests.test_lilliefors.TestLilliefors": []
+}

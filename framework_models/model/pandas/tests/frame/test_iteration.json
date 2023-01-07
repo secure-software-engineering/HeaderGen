@@ -1,0 +1,13 @@
+{
+    "pandas.tests.frame.test_iteration.TestIteration.test_keys": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_iteritems": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_items": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_items_names": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_iter": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_iterrows": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_iterrows_iso8601": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_iterrows_corner": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_itertuples": [],
+    "pandas.tests.frame.test_iteration.TestIteration.test_sequence_like_with_categorical": [],
+    "pandas.tests.frame.test_iteration.TestIteration": []
+}

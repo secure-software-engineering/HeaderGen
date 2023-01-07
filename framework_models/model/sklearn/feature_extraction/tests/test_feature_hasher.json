@@ -1,0 +1,13 @@
+{
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_feature_hasher_dicts": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_feature_hasher_strings": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_hashing_transform_seed": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_feature_hasher_pairs": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_feature_hasher_pairs_with_string_values": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_hash_empty_input": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_hasher_invalid_input": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_hasher_set_params": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_hasher_zeros": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_hasher_alternate_sign": [],
+    "sklearn.feature_extraction.tests.test_feature_hasher.test_hash_collisions": []
+}

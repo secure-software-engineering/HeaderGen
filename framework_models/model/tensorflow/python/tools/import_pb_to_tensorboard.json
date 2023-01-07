@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.tools.import_pb_to_tensorboard.import_to_tensorboard": [],
+    "tensorflow.python.tools.import_pb_to_tensorboard.main": []
+}

@@ -1,0 +1,5 @@
+{
+    "pandas.tests.api.test_types.TestTypes.test_types": [],
+    "pandas.tests.api.test_types.TestTypes.test_deprecated_from_api_types": [],
+    "pandas.tests.api.test_types.TestTypes": []
+}

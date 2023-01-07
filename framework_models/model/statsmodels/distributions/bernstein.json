@@ -1,0 +1,16 @@
+{
+    "statsmodels.distributions.bernstein.BernsteinDistribution.__init__": [],
+    "statsmodels.distributions.bernstein.BernsteinDistribution.from_data": [],
+    "statsmodels.distributions.bernstein.BernsteinDistribution.prob_grid": [],
+    "statsmodels.distributions.bernstein.BernsteinDistribution.cdf": [],
+    "statsmodels.distributions.bernstein.BernsteinDistribution.pdf": [],
+    "statsmodels.distributions.bernstein.BernsteinDistribution.get_marginal": [],
+    "statsmodels.distributions.bernstein.BernsteinDistribution.rvs": [],
+    "statsmodels.distributions.bernstein.BernsteinDistributionBV.cdf": [],
+    "statsmodels.distributions.bernstein.BernsteinDistributionBV.pdf": [],
+    "statsmodels.distributions.bernstein.BernsteinDistributionUV.cdf": [],
+    "statsmodels.distributions.bernstein.BernsteinDistributionUV.pdf": [],
+    "statsmodels.distributions.bernstein.BernsteinDistribution": [],
+    "statsmodels.distributions.bernstein.BernsteinDistributionBV": [],
+    "statsmodels.distributions.bernstein.BernsteinDistributionUV": []
+}

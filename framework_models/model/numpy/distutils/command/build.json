@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.command.build.build.initialize_options": [],
+    "numpy.distutils.command.build.build.finalize_options": [],
+    "numpy.distutils.command.build.build.run": [],
+    "numpy.distutils.command.build.build": []
+}

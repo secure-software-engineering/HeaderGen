@@ -1,0 +1,20 @@
+{
+    "sklearn.linear_model._glm.glm._safe_lin_pred": [],
+    "sklearn.linear_model._glm.glm._y_pred_deviance_derivative": [],
+    "sklearn.linear_model._glm.glm.GeneralizedLinearRegressor.__init__": [],
+    "sklearn.linear_model._glm.glm.GeneralizedLinearRegressor.fit": [],
+    "sklearn.linear_model._glm.glm.GeneralizedLinearRegressor._linear_predictor": [],
+    "sklearn.linear_model._glm.glm.GeneralizedLinearRegressor.predict": [],
+    "sklearn.linear_model._glm.glm.GeneralizedLinearRegressor.score": [],
+    "sklearn.linear_model._glm.glm.GeneralizedLinearRegressor._more_tags": [],
+    "sklearn.linear_model._glm.glm.PoissonRegressor.__init__": [],
+    "sklearn.linear_model._glm.glm.PoissonRegressor.family": [],
+    "sklearn.linear_model._glm.glm.GammaRegressor.__init__": [],
+    "sklearn.linear_model._glm.glm.GammaRegressor.family": [],
+    "sklearn.linear_model._glm.glm.TweedieRegressor.__init__": [],
+    "sklearn.linear_model._glm.glm.TweedieRegressor.family": [],
+    "sklearn.linear_model._glm.glm.GeneralizedLinearRegressor": [],
+    "sklearn.linear_model._glm.glm.PoissonRegressor": [],
+    "sklearn.linear_model._glm.glm.GammaRegressor": [],
+    "sklearn.linear_model._glm.glm.TweedieRegressor": []
+}

@@ -1,0 +1,10 @@
+{
+    "scipy.spatial.tests.test__procrustes.TestProcrustes.setup_method": [],
+    "scipy.spatial.tests.test__procrustes.TestProcrustes.test_procrustes": [],
+    "scipy.spatial.tests.test__procrustes.TestProcrustes.test_procrustes2": [],
+    "scipy.spatial.tests.test__procrustes.TestProcrustes.test_procrustes_shape_mismatch": [],
+    "scipy.spatial.tests.test__procrustes.TestProcrustes.test_procrustes_empty_rows_or_cols": [],
+    "scipy.spatial.tests.test__procrustes.TestProcrustes.test_procrustes_no_variation": [],
+    "scipy.spatial.tests.test__procrustes.TestProcrustes.test_procrustes_bad_number_of_dimensions": [],
+    "scipy.spatial.tests.test__procrustes.TestProcrustes": []
+}

@@ -1,0 +1,17 @@
+{
+    "pandas.tests.test_downstream.import_module": [],
+    "pandas.tests.test_downstream.df": [],
+    "pandas.tests.test_downstream.test_dask": [],
+    "pandas.tests.test_downstream.test_xarray": [],
+    "pandas.tests.test_downstream.test_xarray_cftimeindex_nearest": [],
+    "pandas.tests.test_downstream.test_oo_optimizable": [],
+    "pandas.tests.test_downstream.test_oo_optimized_datetime_index_unpickle": [],
+    "pandas.tests.test_downstream.test_statsmodels": [],
+    "pandas.tests.test_downstream.test_scikit_learn": [],
+    "pandas.tests.test_downstream.test_seaborn": [],
+    "pandas.tests.test_downstream.test_pandas_gbq": [],
+    "pandas.tests.test_downstream.test_pandas_datareader": [],
+    "pandas.tests.test_downstream.test_geopandas": [],
+    "pandas.tests.test_downstream.test_pyarrow": [],
+    "pandas.tests.test_downstream.test_missing_required_dependency": []
+}

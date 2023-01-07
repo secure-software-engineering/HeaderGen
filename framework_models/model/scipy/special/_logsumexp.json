@@ -1,0 +1,5 @@
+{
+    "scipy.special._logsumexp.logsumexp": [],
+    "scipy.special._logsumexp.softmax": [],
+    "scipy.special._logsumexp.log_softmax": []
+}

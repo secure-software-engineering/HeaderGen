@@ -1,0 +1,15 @@
+{
+    "sklearn.isotonic.check_increasing": [],
+    "sklearn.isotonic.isotonic_regression": [],
+    "sklearn.isotonic.IsotonicRegression.__init__": [],
+    "sklearn.isotonic.IsotonicRegression._check_input_data_shape": [],
+    "sklearn.isotonic.IsotonicRegression._build_f": [],
+    "sklearn.isotonic.IsotonicRegression._build_y": [],
+    "sklearn.isotonic.IsotonicRegression.fit": [],
+    "sklearn.isotonic.IsotonicRegression.transform": [],
+    "sklearn.isotonic.IsotonicRegression.predict": [],
+    "sklearn.isotonic.IsotonicRegression.__getstate__": [],
+    "sklearn.isotonic.IsotonicRegression.__setstate__": [],
+    "sklearn.isotonic.IsotonicRegression._more_tags": [],
+    "sklearn.isotonic.IsotonicRegression": []
+}

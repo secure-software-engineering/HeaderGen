@@ -1,0 +1,10 @@
+{
+    "statsmodels.tsa.arima_model.ARMA.__init__": [],
+    "statsmodels.tsa.arima_model.ARIMA.__init__": [],
+    "statsmodels.tsa.arima_model.ARMAResults.__init__": [],
+    "statsmodels.tsa.arima_model.ARIMAResults.__init__": [],
+    "statsmodels.tsa.arima_model.ARMA": [],
+    "statsmodels.tsa.arima_model.ARIMA": [],
+    "statsmodels.tsa.arima_model.ARMAResults": [],
+    "statsmodels.tsa.arima_model.ARIMAResults": []
+}

@@ -1,0 +1,92 @@
+{
+    "2": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "5": [
+        "numpy.core.fromnumeric.mean",
+        "numpy.core.fromnumeric.std",
+        "numpy.arange",
+        "numpy.sqrt",
+        "numpy.exp",
+        "numpy.lib.shape_base.apply_along_axis",
+        "15-nn-embedding.gaussian_estimation:5",
+        "15-nn-embedding.gaussian_normalization:5"
+    ],
+    "7": [
+        "random.Random.uniform",
+        "random.Random.choice",
+        "numpy.random.mtrand.RandomState.shuffle",
+        "numpy.array",
+        "numpy.zeros",
+        "<builtin>.range",
+        "<builtin>.int",
+        "<builtin>.list",
+        "<builtin>.len"
+    ],
+    "8": [
+        "15-nn-embedding.CyclicLR:8.__init__:8.<lambda1>:8",
+        "15-nn-embedding.CyclicLR:8.__init__:8.<lambda2>:8",
+        "15-nn-embedding.CyclicLR:8.__init__:8.<lambda3>:8",
+        "numpy.floor",
+        "numpy.abs",
+        "numpy.maximum",
+        "numpy.exp",
+        "15-nn-embedding.CyclicLR:8._reset:8",
+        "15-nn-embedding.CyclicLR:8.clr:8",
+        "keras.backend.set_value",
+        "<builtin>.super",
+        "keras.backend.get_value"        
+    ],
+    "11": [
+        "keras.backend.sigmoid",
+        "tensorflow.python.ops.math_ops.reduce_sum",
+        "tensorflow.python.ops.gen_math_ops.square",
+        "tensorflow.python.ops.math_ops.subtract",
+        "tensorflow.python.ops.math_ops.divide",
+        "keras.backend.tf.log"
+    ],
+    "12": [
+        "keras.engine.input_layer.Input",
+        "keras.layers.noise.GaussianNoise",
+        "keras.layers.core.dense.Dense",
+        "keras.layers.normalization.batch_normalization.BatchNormalization",
+        "keras.layers.core.activation.Activation",
+        "keras.engine.training.Model"
+    ],
+    "13": [
+        "15-nn-embedding.get_model:12",
+        "keras.engine.input_layer.Input",
+        "keras.layers.noise.GaussianNoise",
+        "keras.layers.core.dense.Dense",
+        "keras.layers.normalization.batch_normalization.BatchNormalization",
+        "keras.layers.core.activation.Activation",
+        "keras.engine.training.Model"
+    ],
+    "14": [
+        "keras.engine.input_layer.Input",
+        "keras.layers.merge.Concatenate",
+        "keras.engine.training.Model",
+        "keras.engine.training.Model.compile",
+        "keras.optimizer_v2.nadam.Nadam"
+    ],
+    "16": [
+        "keras.engine.training.Model.fit_generator",
+        "15-nn-embedding.DataGenerator:7.__init__:7",
+        "15-nn-embedding.CyclicLR:8.__init__:8",
+        "<builtin>.range",
+        "<builtin>.list",
+        "<builtin>.len"
+    ],
+    "17": [
+        "keras.engine.training.Model.predict",
+        "numpy.lib.npyio.savez"
+    ],
+    "20": [
+        "sklearn.decomposition._pca.PCA",
+        "sklearn.decomposition._pca.PCA.fit_transform"
+    ],
+    "23": [
+        "matplotlib.pyplot.scatter",
+        "matplotlib.pyplot.figure"
+    ]
+}

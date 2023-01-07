@@ -1,0 +1,15 @@
+{
+    "pandas.tests.tseries.offsets.common.assert_offset_equal": [],
+    "pandas.tests.tseries.offsets.common.assert_is_on_offset": [],
+    "pandas.tests.tseries.offsets.common.Base._get_offset": [],
+    "pandas.tests.tseries.offsets.common.Base.test_apply_out_of_range": [],
+    "pandas.tests.tseries.offsets.common.Base.test_offsets_compare_equal": [],
+    "pandas.tests.tseries.offsets.common.Base.test_rsub": [],
+    "pandas.tests.tseries.offsets.common.Base.test_radd": [],
+    "pandas.tests.tseries.offsets.common.Base.test_sub": [],
+    "pandas.tests.tseries.offsets.common.Base.testMult1": [],
+    "pandas.tests.tseries.offsets.common.Base.testMult2": [],
+    "pandas.tests.tseries.offsets.common.Base.test_compare_str": [],
+    "pandas.tests.tseries.offsets.common.WeekDay": [],
+    "pandas.tests.tseries.offsets.common.Base": []
+}

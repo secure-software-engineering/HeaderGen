@@ -1,0 +1,11 @@
+{
+  "3": [
+    "main_nb.MyClass:1.__init__:1",
+    "main_nb.MyClass2:2.__init__:2"
+  ],
+  "4": [
+    "main_nb.MyClass:1.func1:1",
+    "main_nb.MyClass:1.func2:1",
+    "main_nb.MyClass:1.func3:1"
+  ]
+}

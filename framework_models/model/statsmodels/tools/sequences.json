@@ -1,0 +1,7 @@
+{
+    "statsmodels.tools.sequences.discrepancy": [],
+    "statsmodels.tools.sequences.primes_from_2_to": [],
+    "statsmodels.tools.sequences.n_primes": [],
+    "statsmodels.tools.sequences.van_der_corput": [],
+    "statsmodels.tools.sequences.halton": []
+}

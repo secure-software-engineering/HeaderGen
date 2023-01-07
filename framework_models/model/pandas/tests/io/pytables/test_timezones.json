@@ -1,0 +1,17 @@
+{
+    "pandas.tests.io.pytables.test_timezones._compare_with_tz": [],
+    "pandas.tests.io.pytables.test_timezones.test_append_with_timezones": [],
+    "pandas.tests.io.pytables.test_timezones.test_append_with_timezones_as_index": [],
+    "pandas.tests.io.pytables.test_timezones.test_roundtrip_tz_aware_index": [],
+    "pandas.tests.io.pytables.test_timezones.test_store_index_name_with_tz": [],
+    "pandas.tests.io.pytables.test_timezones.test_tseries_select_index_column": [],
+    "pandas.tests.io.pytables.test_timezones.test_timezones_fixed_format_frame_non_empty": [],
+    "pandas.tests.io.pytables.test_timezones.test_timezones_fixed_format_empty": [],
+    "pandas.tests.io.pytables.test_timezones.test_timezones_fixed_format_series_nonempty": [],
+    "pandas.tests.io.pytables.test_timezones.test_fixed_offset_tz": [],
+    "pandas.tests.io.pytables.test_timezones.test_store_timezone": [],
+    "pandas.tests.io.pytables.test_timezones.test_legacy_datetimetz_object": [],
+    "pandas.tests.io.pytables.test_timezones.test_dst_transitions": [],
+    "pandas.tests.io.pytables.test_timezones.test_read_with_where_tz_aware_index": [],
+    "pandas.tests.io.pytables.test_timezones.test_py2_created_with_datetimez": []
+}

@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._DenseToCSRSparseMatrixGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._CSRSparseMatrixToDenseGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._SparseTensorToCSRSparseMatrixGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._CSRSparseMatrixToSparseTensorGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._PruneSparseTensor": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._PruneCSRMatrix": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._SparseMatrixAddGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._PrunedDenseMatrixMultiplication": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._SparseMatrixTransposeGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._SparseMatrixSoftmaxGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._SparseMatrixMatMulGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._SparseMatrixSparseMatMulGrad": [],
+    "tensorflow.python.ops.linalg.sparse.sparse_csr_matrix_grad._SparseMatrixMulGrad": []
+}

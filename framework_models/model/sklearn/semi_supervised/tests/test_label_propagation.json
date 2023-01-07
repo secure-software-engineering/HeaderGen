@@ -1,0 +1,13 @@
+{
+    "sklearn.semi_supervised.tests.test_label_propagation.test_fit_transduction": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_distribution": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_predict": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_predict_proba": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_label_spreading_closed_form": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_label_propagation_closed_form": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_valid_alpha": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_convergence_speed": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_convergence_warning": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_label_propagation_non_zero_normalizer": [],
+    "sklearn.semi_supervised.tests.test_label_propagation.test_predict_sparse_callable_kernel": []
+}

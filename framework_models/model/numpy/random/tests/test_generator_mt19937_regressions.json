@@ -1,0 +1,15 @@
+{
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_vonmises_range": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_hypergeometric_range": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_logseries_convergence": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_shuffle_mixed_dimension": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_call_within_randomstate": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_multivariate_normal_size_types": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_beta_small_parameters": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_choice_sum_of_probs_tolerance": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_shuffle_of_array_of_different_length_strings": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_shuffle_of_array_of_objects": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_permutation_subclass": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression.test_gamma_0": [],
+    "numpy.random.tests.test_generator_mt19937_regressions.TestRegression": []
+}

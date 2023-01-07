@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.line_endings.dos2unix": [],
+    "numpy.distutils.line_endings.dos2unix_one_dir": [],
+    "numpy.distutils.line_endings.dos2unix_dir": [],
+    "numpy.distutils.line_endings.unix2dos": [],
+    "numpy.distutils.line_endings.unix2dos_one_dir": [],
+    "numpy.distutils.line_endings.unix2dos_dir": []
+}

@@ -1,0 +1,5 @@
+{
+    "matplotlib.tests.test_png.test_pngsuite": [],
+    "matplotlib.tests.test_png.test_truncated_file": [],
+    "matplotlib.tests.test_png.test_truncated_buffer": []
+}

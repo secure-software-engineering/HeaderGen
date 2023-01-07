@@ -1,0 +1,13 @@
+{
+    "statsmodels.distributions.copula.other_copulas.rvs_kernel": [],
+    "statsmodels.distributions.copula.other_copulas._kernel_rvs_beta": [],
+    "statsmodels.distributions.copula.other_copulas._kernel_rvs_beta1": [],
+    "statsmodels.distributions.copula.other_copulas.IndependenceCopula.__init__": [],
+    "statsmodels.distributions.copula.other_copulas.IndependenceCopula._handle_args": [],
+    "statsmodels.distributions.copula.other_copulas.IndependenceCopula.rvs": [],
+    "statsmodels.distributions.copula.other_copulas.IndependenceCopula.pdf": [],
+    "statsmodels.distributions.copula.other_copulas.IndependenceCopula.cdf": [],
+    "statsmodels.distributions.copula.other_copulas.IndependenceCopula.tau": [],
+    "statsmodels.distributions.copula.other_copulas.IndependenceCopula.plot_pdf": [],
+    "statsmodels.distributions.copula.other_copulas.IndependenceCopula": []
+}

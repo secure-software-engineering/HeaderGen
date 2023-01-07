@@ -1,0 +1,13 @@
+{
+    "matplotlib._api.check_isinstance": [],
+    "matplotlib._api.check_in_list": [],
+    "matplotlib._api.check_shape": [],
+    "matplotlib._api.check_getitem": [],
+    "matplotlib._api.caching_module_getattr": [],
+    "matplotlib._api.select_matching_signature": [],
+    "matplotlib._api.warn_external": [],
+    "matplotlib._api.classproperty.__init__": [],
+    "matplotlib._api.classproperty.__get__": [],
+    "matplotlib._api.classproperty.fget": [],
+    "matplotlib._api.classproperty": []
+}

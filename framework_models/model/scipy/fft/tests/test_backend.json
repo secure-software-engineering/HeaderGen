@@ -1,0 +1,4 @@
+{
+    "scipy.fft.tests.test_backend.test_backend_call": [],
+    "scipy.fft.tests.test_backend.test_backend_plan": []
+}

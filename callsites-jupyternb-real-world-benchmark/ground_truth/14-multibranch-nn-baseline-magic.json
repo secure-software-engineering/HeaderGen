@@ -1,0 +1,134 @@
+{
+    "1": [
+        "posix.listdir",
+        "<builtin>.print",
+        "warnings.filterwarnings"
+    ],
+    "2": [
+        "sklearn.metrics._ranking.roc_auc_score",
+        "tensorflow.python.ops.script_ops.eager_py_func",
+        "matplotlib.pyplot.figure",
+        "matplotlib.pyplot.plot",
+        "matplotlib.lines.Line2D.get_color",
+        "matplotlib.pyplot.xlabel",
+        "matplotlib.pyplot.ylabel",
+        "<builtin>.max",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.show",
+        "matplotlib.pyplot.ylim",
+        "matplotlib.pyplot.xlim"
+    ],
+    "3": [
+        "pandas.io.parsers.readers.read_csv",
+        "numpy.ndarray.tolist"
+    ],
+    "4": [
+        "pandas.core.series.Series.map",
+        "pandas.core.base.IndexOpsMixin.value_counts",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.min",
+        "pandas.io.parsers.readers.read_csv",
+        "pandas.core.generic.NDFrame.astype",
+        "pandas.core.frame.DataFrame.append",
+        "pandas.core.frame.DataFrame.reset_index",
+        "gc.collect"
+    ],
+    "5": [
+        "tqdm.std.tqdm",
+        "pandas.core.base.IndexOpsMixin.value_counts",
+        "pandas.core.series.Series.map"
+    ],
+    "6": [
+        "tqdm.std.tqdm"
+    ],
+    "7": [
+        "pandas.core.frame.DataFrame.fillna",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.mean"
+    ],
+    "8": [
+        "tqdm.std.tqdm"
+    ],
+    "9": [
+        "pandas.core.frame.DataFrame.fillna",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.mean"
+    ],
+    "10": [
+        "pandas.core.series.Series.notnull",
+        "pandas.core.series.Series.isnull"
+    ],
+    "11": [
+        "sklearn.preprocessing._data.StandardScaler",
+        "sklearn.preprocessing._data.StandardScaler.fit",
+        "sklearn.preprocessing._data.StandardScaler.transform",
+        "pandas.core.frame.DataFrame"
+    ],
+    "12": [
+        "numpy.core.fromnumeric.reshape",
+        "<builtin>.len",
+        "numpy.array"
+    ],
+    "13": [
+        "14-multibranch-nn-baseline-magic.get_keras_data:12",
+        "numpy.core.fromnumeric.reshape",
+        "<builtin>.len",
+        "numpy.array"
+    ],
+    "14": [
+        "14-multibranch-nn-baseline-magic.Convnet:14",
+        "keras.engine.input_layer.Input",
+        "<builtin>.len",
+        "keras.layers.core.dense.Dense",
+        "keras.layers.core.activation.Activation",
+        "keras.layers.core.flatten.Flatten",
+        "keras.layers.merge.concatenate",
+        "keras.engine.training.Model",
+        "keras.engine.training.Model.summary"
+    ],
+    "15": [
+        "gc.collect"
+    ],
+    "16": [
+        "sklearn.model_selection._split.StratifiedKFold"
+    ],
+    "17": [
+        "pandas.core.frame.DataFrame",
+        "sklearn.model_selection._split.StratifiedKFold.split",
+        "numpy.core.fromnumeric.reshape",
+        "<builtin>.len",
+        "numpy.array",
+        "keras.engine.input_layer.Input",
+        "<builtin>.len",
+        "keras.layers.core.dense.Dense",
+        "keras.layers.core.activation.Activation",
+        "keras.layers.core.flatten.Flatten",
+        "keras.layers.merge.concatenate",
+        "keras.engine.training.Model",
+        "keras.engine.training.Model.compile",
+        "keras.callbacks.ModelCheckpoint",
+        "keras.callbacks.ReduceLROnPlateau",
+        "keras.callbacks.EarlyStopping",
+        "keras.engine.training.Model.fit",
+        "pandas.core.generic.NDFrame.to_csv",
+        "keras.engine.training.Model.load_weights",
+        "keras.engine.training.Model.predict",
+        "numpy.ndarray.ravel",
+        "sklearn.metrics._ranking.roc_curve",
+        "sklearn.metrics._ranking.roc_auc_score",
+        "14-multibranch-nn-baseline-magic.get_keras_data:12",
+        "14-multibranch-nn-baseline-magic.Convnet:14"
+    ],
+    "18": [
+        "<builtin>.print",
+        "<builtin>.range",
+        "<builtin>.len"
+    ],
+    "19": [
+        "<builtin>.print",
+        "numpy.core.fromnumeric.std",
+        "numpy.core.fromnumeric.mean",
+        "sklearn.metrics._ranking.roc_auc_score"
+    ],
+    "20": [
+        "pandas.core.generic.NDFrame.to_csv",
+        "numpy.core.fromnumeric.mean"
+    ]
+}

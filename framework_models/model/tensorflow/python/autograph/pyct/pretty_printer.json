@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.autograph.pyct.pretty_printer.fmt": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter.__init__": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter._color": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter._type": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter._field": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter._value": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter._warning": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter._indent": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter._print": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter.generic_visit": [],
+    "tensorflow.python.autograph.pyct.pretty_printer.PrettyPrinter": []
+}

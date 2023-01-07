@@ -1,0 +1,15 @@
+{
+    "numpy.core.einsumfunc._flop_count": [],
+    "numpy.core.einsumfunc._compute_size_by_dict": [],
+    "numpy.core.einsumfunc._find_contraction": [],
+    "numpy.core.einsumfunc._optimal_path": [],
+    "numpy.core.einsumfunc._parse_possible_contraction": [],
+    "numpy.core.einsumfunc._update_other_results": [],
+    "numpy.core.einsumfunc._greedy_path": [],
+    "numpy.core.einsumfunc._can_dot": [],
+    "numpy.core.einsumfunc._parse_einsum_input": [],
+    "numpy.core.einsumfunc._einsum_path_dispatcher": [],
+    "numpy.core.einsumfunc.einsum_path": [],
+    "numpy.core.einsumfunc._einsum_dispatcher": [],
+    "numpy.core.einsumfunc.einsum": []
+}

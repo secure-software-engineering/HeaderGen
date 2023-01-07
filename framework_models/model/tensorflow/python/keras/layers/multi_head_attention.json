@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.keras.layers.multi_head_attention._build_attention_equation": [],
+    "tensorflow.python.keras.layers.multi_head_attention._build_proj_equation": [],
+    "tensorflow.python.keras.layers.multi_head_attention._get_output_shape": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention.__init__": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention.get_config": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention.from_config": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention._build_from_signature": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention._make_output_dense": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention._build_attention": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention._masked_softmax": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention._compute_attention": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention.call": [],
+    "tensorflow.python.keras.layers.multi_head_attention.MultiHeadAttention": []
+}

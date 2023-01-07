@@ -1,0 +1,12 @@
+{
+    "pandas.tests.io.formats.style.test_non_unique.df": [],
+    "pandas.tests.io.formats.style.test_non_unique.styler": [],
+    "pandas.tests.io.formats.style.test_non_unique.test_format_non_unique": [],
+    "pandas.tests.io.formats.style.test_non_unique.test_apply_applymap_non_unique_raises": [],
+    "pandas.tests.io.formats.style.test_non_unique.test_table_styles_dict_non_unique_index": [],
+    "pandas.tests.io.formats.style.test_non_unique.test_table_styles_dict_non_unique_columns": [],
+    "pandas.tests.io.formats.style.test_non_unique.test_tooltips_non_unique_raises": [],
+    "pandas.tests.io.formats.style.test_non_unique.test_set_td_classes_non_unique_raises": [],
+    "pandas.tests.io.formats.style.test_non_unique.test_hide_columns_non_unique": [],
+    "pandas.tests.io.formats.style.test_non_unique.test_latex_non_unique": []
+}

@@ -1,0 +1,9 @@
+{
+  "10": [
+    "main.func:5.dec:6"
+  ],
+  "14": [
+    "main.func:5",
+    "main.func:5.dec:6"
+  ]
+}

@@ -1,0 +1,4 @@
+{
+    "sklearn.linear_model._glm.tests.test_link.test_link_properties": [],
+    "sklearn.linear_model._glm.tests.test_link.test_link_derivative": []
+}

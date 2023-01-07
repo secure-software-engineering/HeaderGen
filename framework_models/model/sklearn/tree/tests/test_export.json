@@ -1,0 +1,11 @@
+{
+    "sklearn.tree.tests.test_export.test_graphviz_toy": [],
+    "sklearn.tree.tests.test_export.test_graphviz_errors": [],
+    "sklearn.tree.tests.test_export.test_friedman_mse_in_graphviz": [],
+    "sklearn.tree.tests.test_export.test_precision": [],
+    "sklearn.tree.tests.test_export.test_export_text_errors": [],
+    "sklearn.tree.tests.test_export.test_export_text": [],
+    "sklearn.tree.tests.test_export.test_plot_tree_entropy": [],
+    "sklearn.tree.tests.test_export.test_plot_tree_gini": [],
+    "sklearn.tree.tests.test_export.test_not_fitted_tree": []
+}

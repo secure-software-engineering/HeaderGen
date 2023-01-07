@@ -1,0 +1,13 @@
+{
+    "pandas.tests.indexes.interval.test_interval_range.name": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_constructor_numeric": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_constructor_timestamp": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_constructor_timedelta": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_early_truncation": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_no_invalid_float_truncation": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_linspace_dst_transition": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_float_subtype": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_constructor_coverage": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange.test_errors": [],
+    "pandas.tests.indexes.interval.test_interval_range.TestIntervalRange": []
+}

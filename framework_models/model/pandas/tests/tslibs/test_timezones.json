@@ -1,0 +1,15 @@
+{
+    "pandas.tests.tslibs.test_timezones.test_is_utc": [],
+    "pandas.tests.tslibs.test_timezones.test_cache_keys_are_distinct_for_pytz_vs_dateutil": [],
+    "pandas.tests.tslibs.test_timezones.test_tzlocal_repr": [],
+    "pandas.tests.tslibs.test_timezones.test_tzlocal_maybe_get_tz": [],
+    "pandas.tests.tslibs.test_timezones.test_tzlocal_offset": [],
+    "pandas.tests.tslibs.test_timezones.test_tzlocal_is_not_utc": [],
+    "pandas.tests.tslibs.test_timezones.test_tz_compare_utc": [],
+    "pandas.tests.tslibs.test_timezones.infer_setup": [],
+    "pandas.tests.tslibs.test_timezones.test_infer_tz_compat": [],
+    "pandas.tests.tslibs.test_timezones.test_infer_tz_utc_localize": [],
+    "pandas.tests.tslibs.test_timezones.test_infer_tz_mismatch": [],
+    "pandas.tests.tslibs.test_timezones.test_maybe_get_tz_invalid_types": [],
+    "pandas.tests.tslibs.test_timezones.test_maybe_get_tz_offset_only": []
+}

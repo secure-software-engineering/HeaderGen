@@ -1,0 +1,21 @@
+{
+    "sklearn.preprocessing.tests.test_discretization.test_fit_transform": [],
+    "sklearn.preprocessing.tests.test_discretization.test_valid_n_bins": [],
+    "sklearn.preprocessing.tests.test_discretization.test_invalid_n_bins": [],
+    "sklearn.preprocessing.tests.test_discretization.test_invalid_n_bins_array": [],
+    "sklearn.preprocessing.tests.test_discretization.test_fit_transform_n_bins_array": [],
+    "sklearn.preprocessing.tests.test_discretization.test_same_min_max": [],
+    "sklearn.preprocessing.tests.test_discretization.test_transform_1d_behavior": [],
+    "sklearn.preprocessing.tests.test_discretization.test_numeric_stability": [],
+    "sklearn.preprocessing.tests.test_discretization.test_invalid_encode_option": [],
+    "sklearn.preprocessing.tests.test_discretization.test_encode_options": [],
+    "sklearn.preprocessing.tests.test_discretization.test_invalid_strategy_option": [],
+    "sklearn.preprocessing.tests.test_discretization.test_nonuniform_strategies": [],
+    "sklearn.preprocessing.tests.test_discretization.test_inverse_transform": [],
+    "sklearn.preprocessing.tests.test_discretization.test_transform_outside_fit_range": [],
+    "sklearn.preprocessing.tests.test_discretization.test_overwrite": [],
+    "sklearn.preprocessing.tests.test_discretization.test_redundant_bins": [],
+    "sklearn.preprocessing.tests.test_discretization.test_percentile_numeric_stability": [],
+    "sklearn.preprocessing.tests.test_discretization.test_consistent_dtype": [],
+    "sklearn.preprocessing.tests.test_discretization.test_32_equal_64": []
+}

@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.ops.sort_ops.sort": [],
+    "tensorflow.python.ops.sort_ops.argsort": [],
+    "tensorflow.python.ops.sort_ops._sort_or_argsort": [],
+    "tensorflow.python.ops.sort_ops._descending_sort": [],
+    "tensorflow.python.ops.sort_ops._ascending_sort": []
+}

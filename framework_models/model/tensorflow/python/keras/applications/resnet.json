@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.keras.applications.resnet.ResNet": [],
+    "tensorflow.python.keras.applications.resnet.block1": [],
+    "tensorflow.python.keras.applications.resnet.stack1": [],
+    "tensorflow.python.keras.applications.resnet.block2": [],
+    "tensorflow.python.keras.applications.resnet.stack2": [],
+    "tensorflow.python.keras.applications.resnet.block3": [],
+    "tensorflow.python.keras.applications.resnet.stack3": [],
+    "tensorflow.python.keras.applications.resnet.ResNet50": [],
+    "tensorflow.python.keras.applications.resnet.ResNet101": [],
+    "tensorflow.python.keras.applications.resnet.ResNet152": [],
+    "tensorflow.python.keras.applications.resnet.preprocess_input": [],
+    "tensorflow.python.keras.applications.resnet.decode_predictions": []
+}

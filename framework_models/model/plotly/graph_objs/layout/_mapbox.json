@@ -1,0 +1,15 @@
+{
+    "plotly.graph_objs.layout._mapbox.Mapbox.accesstoken": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.bearing": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.center": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.domain": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.layers": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.layerdefaults": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.pitch": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.style": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.uirevision": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.zoom": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox._prop_descriptions": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox.__init__": [],
+    "plotly.graph_objs.layout._mapbox.Mapbox": []
+}

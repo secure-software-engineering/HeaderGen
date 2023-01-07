@@ -1,0 +1,20 @@
+{
+    "keras.callbacks_v1.TensorBoard.__init__": [],
+    "keras.callbacks_v1.TensorBoard._init_writer": [],
+    "keras.callbacks_v1.TensorBoard._make_histogram_ops": [],
+    "keras.callbacks_v1.TensorBoard.set_model": [],
+    "keras.callbacks_v1.TensorBoard._fetch_callback": [],
+    "keras.callbacks_v1.TensorBoard._write_custom_summaries": [],
+    "keras.callbacks_v1.TensorBoard.on_train_batch_begin": [],
+    "keras.callbacks_v1.TensorBoard.on_train_batch_end": [],
+    "keras.callbacks_v1.TensorBoard.on_test_begin": [],
+    "keras.callbacks_v1.TensorBoard.on_test_end": [],
+    "keras.callbacks_v1.TensorBoard.on_batch_end": [],
+    "keras.callbacks_v1.TensorBoard.on_train_begin": [],
+    "keras.callbacks_v1.TensorBoard.on_epoch_begin": [],
+    "keras.callbacks_v1.TensorBoard.on_epoch_end": [],
+    "keras.callbacks_v1.TensorBoard.on_train_end": [],
+    "keras.callbacks_v1.TensorBoard._start_profiler": [],
+    "keras.callbacks_v1.TensorBoard._stop_profiler": [],
+    "keras.callbacks_v1.TensorBoard": []
+}

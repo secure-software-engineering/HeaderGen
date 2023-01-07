@@ -1,0 +1,14 @@
+{
+    "pandas.tests.util.test_deprecate_kwarg._f1": [],
+    "pandas.tests.util.test_deprecate_kwarg._f2": [],
+    "pandas.tests.util.test_deprecate_kwarg._f3_mapping": [],
+    "pandas.tests.util.test_deprecate_kwarg._f3": [],
+    "pandas.tests.util.test_deprecate_kwarg.test_deprecate_kwarg": [],
+    "pandas.tests.util.test_deprecate_kwarg.test_dict_deprecate_kwarg": [],
+    "pandas.tests.util.test_deprecate_kwarg.test_missing_deprecate_kwarg": [],
+    "pandas.tests.util.test_deprecate_kwarg.test_callable_deprecate_kwarg": [],
+    "pandas.tests.util.test_deprecate_kwarg.test_callable_deprecate_kwarg_fail": [],
+    "pandas.tests.util.test_deprecate_kwarg.test_bad_deprecate_kwarg": [],
+    "pandas.tests.util.test_deprecate_kwarg._f4": [],
+    "pandas.tests.util.test_deprecate_kwarg.test_deprecate_keyword": []
+}

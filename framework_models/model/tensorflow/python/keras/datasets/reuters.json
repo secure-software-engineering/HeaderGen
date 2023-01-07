@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.keras.datasets.reuters.load_data": [],
+    "tensorflow.python.keras.datasets.reuters.get_word_index": []
+}

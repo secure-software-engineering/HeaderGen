@@ -1,0 +1,20 @@
+{
+    "tensorflow.lite.tools.visualize.TensorTypeToName": [],
+    "tensorflow.lite.tools.visualize.BuiltinCodeToName": [],
+    "tensorflow.lite.tools.visualize.NameListToString": [],
+    "tensorflow.lite.tools.visualize.GenerateGraph": [],
+    "tensorflow.lite.tools.visualize.GenerateTableHtml": [],
+    "tensorflow.lite.tools.visualize.CamelCaseToSnakeCase": [],
+    "tensorflow.lite.tools.visualize.FlatbufferToDict": [],
+    "tensorflow.lite.tools.visualize.CreateDictFromFlatbuffer": [],
+    "tensorflow.lite.tools.visualize.create_html": [],
+    "tensorflow.lite.tools.visualize.main": [],
+    "tensorflow.lite.tools.visualize.OpCodeMapper.__init__": [],
+    "tensorflow.lite.tools.visualize.OpCodeMapper.__call__": [],
+    "tensorflow.lite.tools.visualize.DataSizeMapper.__call__": [],
+    "tensorflow.lite.tools.visualize.TensorMapper.__init__": [],
+    "tensorflow.lite.tools.visualize.TensorMapper.__call__": [],
+    "tensorflow.lite.tools.visualize.OpCodeMapper": [],
+    "tensorflow.lite.tools.visualize.DataSizeMapper": [],
+    "tensorflow.lite.tools.visualize.TensorMapper": []
+}

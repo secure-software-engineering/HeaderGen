@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.ops.losses.losses_impl._safe_mean": [],
+    "tensorflow.python.ops.losses.losses_impl._num_present": [],
+    "tensorflow.python.ops.losses.losses_impl._num_elements": [],
+    "tensorflow.python.ops.losses.losses_impl.compute_weighted_loss": [],
+    "tensorflow.python.ops.losses.losses_impl.absolute_difference": [],
+    "tensorflow.python.ops.losses.losses_impl.cosine_distance": [],
+    "tensorflow.python.ops.losses.losses_impl.hinge_loss": [],
+    "tensorflow.python.ops.losses.losses_impl.huber_loss": [],
+    "tensorflow.python.ops.losses.losses_impl.log_loss": [],
+    "tensorflow.python.ops.losses.losses_impl.mean_pairwise_squared_error": [],
+    "tensorflow.python.ops.losses.losses_impl.mean_squared_error": [],
+    "tensorflow.python.ops.losses.losses_impl.sigmoid_cross_entropy": [],
+    "tensorflow.python.ops.losses.losses_impl.softmax_cross_entropy": [],
+    "tensorflow.python.ops.losses.losses_impl._remove_squeezable_dimensions": [],
+    "tensorflow.python.ops.losses.losses_impl.sparse_softmax_cross_entropy": [],
+    "tensorflow.python.ops.losses.losses_impl.Reduction.all": [],
+    "tensorflow.python.ops.losses.losses_impl.Reduction.validate": [],
+    "tensorflow.python.ops.losses.losses_impl.Reduction": []
+}

@@ -1,0 +1,13 @@
+{
+    "statsmodels.robust.scale.mad": [],
+    "statsmodels.robust.scale.iqr": [],
+    "statsmodels.robust.scale.qn_scale": [],
+    "statsmodels.robust.scale._qn_naive": [],
+    "statsmodels.robust.scale.Huber.__init__": [],
+    "statsmodels.robust.scale.Huber.__call__": [],
+    "statsmodels.robust.scale.Huber._estimate_both": [],
+    "statsmodels.robust.scale.HuberScale.__init__": [],
+    "statsmodels.robust.scale.HuberScale.__call__": [],
+    "statsmodels.robust.scale.Huber": [],
+    "statsmodels.robust.scale.HuberScale": []
+}

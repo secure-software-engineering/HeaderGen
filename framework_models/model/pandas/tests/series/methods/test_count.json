@@ -1,0 +1,8 @@
+{
+    "pandas.tests.series.methods.test_count.TestSeriesCount.test_count_level_series": [],
+    "pandas.tests.series.methods.test_count.TestSeriesCount.test_count_multiindex": [],
+    "pandas.tests.series.methods.test_count.TestSeriesCount.test_count_level_without_multiindex": [],
+    "pandas.tests.series.methods.test_count.TestSeriesCount.test_count": [],
+    "pandas.tests.series.methods.test_count.TestSeriesCount.test_count_categorical": [],
+    "pandas.tests.series.methods.test_count.TestSeriesCount": []
+}

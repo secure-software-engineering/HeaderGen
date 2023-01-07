@@ -1,0 +1,15 @@
+{
+    "sklearn.decomposition.tests.test_truncated_svd.X_sparse": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_solvers": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_attributes": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_too_many_components": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_sparse_formats": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_inverse_transform": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_integers": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_explained_variance": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_explained_variance_components_10_20": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_singular_values_consistency": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_singular_values_expected": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_truncated_svd_eq_pca": [],
+    "sklearn.decomposition.tests.test_truncated_svd.test_fit_transform": []
+}

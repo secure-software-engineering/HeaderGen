@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._assert_non_singular": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._assert_positive_definite": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._assert_self_adjoint": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._possibly_broadcast_batch_shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._trace": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._diag_part": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros.add_to_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._check_domain_range_possibly_add_asserts": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._check_batch_shape_possibly_add_asserts": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._min_matrix_dim": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._min_matrix_dim_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._zeros_diag": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._eigvals": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._composite_tensor_prefer_static_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_zeros.LinearOperatorZeros": []
+}

@@ -1,0 +1,11 @@
+{
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE.test_num_lanes": [],
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE.test_type_name": [],
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE.test_raises": [],
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE.test_nomix": [],
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE.test_unsigned_overflow": [],
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE.test_signed_overflow": [],
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE.test_truncate_f32": [],
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE.test_compare": [],
+    "numpy.core.tests.test_simd_module.Test_SIMD_MODULE": []
+}

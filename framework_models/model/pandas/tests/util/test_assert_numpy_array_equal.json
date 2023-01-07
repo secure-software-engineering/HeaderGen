@@ -1,0 +1,18 @@
+{
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_shape_mismatch": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_bad_type": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_class_mismatch": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_value_mismatch1": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_value_mismatch2": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_value_mismatch3": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_value_mismatch4": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_value_mismatch5": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_value_mismatch6": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_assert_numpy_array_equal_shape_mismatch_override": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_numpy_array_equal_unicode": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_numpy_array_equal_object": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_numpy_array_equal_copy_flag": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_numpy_array_equal_contains_na": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_numpy_array_equal_identical_na": [],
+    "pandas.tests.util.test_assert_numpy_array_equal.test_numpy_array_equal_different_na": []
+}

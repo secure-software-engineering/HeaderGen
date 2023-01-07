@@ -1,0 +1,7 @@
+{
+    "numpy.f2py.tests.test_compile_function.setup_module": [],
+    "numpy.f2py.tests.test_compile_function.test_f2py_init_compile": [],
+    "numpy.f2py.tests.test_compile_function.test_f2py_init_compile_failure": [],
+    "numpy.f2py.tests.test_compile_function.test_f2py_init_compile_bad_cmd": [],
+    "numpy.f2py.tests.test_compile_function.test_compile_from_strings": []
+}

@@ -1,0 +1,17 @@
+{
+    "seaborn.rcmod.set_theme": [],
+    "seaborn.rcmod.set": [],
+    "seaborn.rcmod.reset_defaults": [],
+    "seaborn.rcmod.reset_orig": [],
+    "seaborn.rcmod.axes_style": [],
+    "seaborn.rcmod.set_style": [],
+    "seaborn.rcmod.plotting_context": [],
+    "seaborn.rcmod.set_context": [],
+    "seaborn.rcmod.set_palette": [],
+    "seaborn.rcmod._RCAesthetics.__enter__": [],
+    "seaborn.rcmod._RCAesthetics.__exit__": [],
+    "seaborn.rcmod._RCAesthetics.__call__": [],
+    "seaborn.rcmod._RCAesthetics": [],
+    "seaborn.rcmod._AxesStyle": [],
+    "seaborn.rcmod._PlottingContext": []
+}

@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.distribute.shared_variable_creator._canonicalize_variable_name": [],
+    "tensorflow.python.distribute.shared_variable_creator.make_fn": []
+}

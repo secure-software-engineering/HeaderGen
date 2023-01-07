@@ -1,0 +1,15 @@
+{
+    "pandas.io.formats.printing.adjoin": [],
+    "pandas.io.formats.printing.justify": [],
+    "pandas.io.formats.printing._pprint_seq": [],
+    "pandas.io.formats.printing._pprint_dict": [],
+    "pandas.io.formats.printing.pprint_thing": [],
+    "pandas.io.formats.printing.pprint_thing_encoded": [],
+    "pandas.io.formats.printing.enable_data_resource_formatter": [],
+    "pandas.io.formats.printing.default_pprint": [],
+    "pandas.io.formats.printing.format_object_summary": [],
+    "pandas.io.formats.printing._justify": [],
+    "pandas.io.formats.printing.format_object_attrs": [],
+    "pandas.io.formats.printing.PrettyDict.__repr__": [],
+    "pandas.io.formats.printing.PrettyDict": []
+}

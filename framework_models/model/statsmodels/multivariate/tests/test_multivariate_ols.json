@@ -1,0 +1,11 @@
+{
+    "statsmodels.multivariate.tests.test_multivariate_ols.compare_r_output_dogs_data": [],
+    "statsmodels.multivariate.tests.test_multivariate_ols.test_glm_dogs_example": [],
+    "statsmodels.multivariate.tests.test_multivariate_ols.test_specify_L_M_by_string": [],
+    "statsmodels.multivariate.tests.test_multivariate_ols.test_independent_variable_singular": [],
+    "statsmodels.multivariate.tests.test_multivariate_ols.test_from_formula_vs_no_formula": [],
+    "statsmodels.multivariate.tests.test_multivariate_ols.test_L_M_matrices_1D_array": [],
+    "statsmodels.multivariate.tests.test_multivariate_ols.test_exog_1D_array": [],
+    "statsmodels.multivariate.tests.test_multivariate_ols.test_endog_1D_array": [],
+    "statsmodels.multivariate.tests.test_multivariate_ols.test_affine_hypothesis": []
+}

@@ -1,0 +1,8 @@
+{
+    "numpy.linalg.tests.test_build.FindDependenciesLdd.__init__": [],
+    "numpy.linalg.tests.test_build.FindDependenciesLdd.get_dependencies": [],
+    "numpy.linalg.tests.test_build.FindDependenciesLdd.grep_dependencies": [],
+    "numpy.linalg.tests.test_build.TestF77Mismatch.test_lapack": [],
+    "numpy.linalg.tests.test_build.FindDependenciesLdd": [],
+    "numpy.linalg.tests.test_build.TestF77Mismatch": []
+}

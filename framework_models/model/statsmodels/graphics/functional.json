@@ -1,0 +1,12 @@
+{
+    "statsmodels.graphics.functional._inverse_transform": [],
+    "statsmodels.graphics.functional._curve_constrained": [],
+    "statsmodels.graphics.functional._min_max_band": [],
+    "statsmodels.graphics.functional.hdrboxplot": [],
+    "statsmodels.graphics.functional.fboxplot": [],
+    "statsmodels.graphics.functional.rainbowplot": [],
+    "statsmodels.graphics.functional.banddepth": [],
+    "statsmodels.graphics.functional.HdrResults.__init__": [],
+    "statsmodels.graphics.functional.HdrResults.__repr__": [],
+    "statsmodels.graphics.functional.HdrResults": []
+}

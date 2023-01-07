@@ -1,0 +1,12 @@
+{
+    "numpy.distutils.exec_command.filepath_from_subprocess_output": [],
+    "numpy.distutils.exec_command.forward_bytes_to_stdout": [],
+    "numpy.distutils.exec_command.temp_file_name": [],
+    "numpy.distutils.exec_command.get_pythonexe": [],
+    "numpy.distutils.exec_command.find_executable": [],
+    "numpy.distutils.exec_command._preserve_environment": [],
+    "numpy.distutils.exec_command._update_environment": [],
+    "numpy.distutils.exec_command.exec_command": [],
+    "numpy.distutils.exec_command._exec_command": [],
+    "numpy.distutils.exec_command._quote_arg": []
+}

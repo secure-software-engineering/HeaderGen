@@ -1,0 +1,5 @@
+{
+    "pandas.tests.series.methods.test_to_frame.TestToFrame.test_to_frame": [],
+    "pandas.tests.series.methods.test_to_frame.TestToFrame.test_to_frame_expanddim": [],
+    "pandas.tests.series.methods.test_to_frame.TestToFrame": []
+}

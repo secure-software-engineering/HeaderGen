@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.ops.control_flow_util_v2.in_defun": [],
+    "tensorflow.python.ops.control_flow_util_v2.in_while_loop_defun": [],
+    "tensorflow.python.ops.control_flow_util_v2.create_new_tf_function": [],
+    "tensorflow.python.ops.control_flow_util_v2.unique_fn_name": [],
+    "tensorflow.python.ops.control_flow_util_v2.unique_grad_fn_name": [],
+    "tensorflow.python.ops.control_flow_util_v2.maybe_set_lowering_attr": [],
+    "tensorflow.python.ops.control_flow_util_v2.maybe_propagate_compile_time_consts_in_xla": [],
+    "tensorflow.python.ops.control_flow_util_v2.resource_input_index": [],
+    "tensorflow.python.ops.control_flow_util_v2.clear_control_inputs": [],
+    "tensorflow.python.ops.control_flow_util_v2._is_tpu_strategy": [],
+    "tensorflow.python.ops.control_flow_util_v2._is_building_keras_layer": [],
+    "tensorflow.python.ops.control_flow_util_v2.output_all_intermediates": [],
+    "tensorflow.python.ops.control_flow_util_v2.get_func_graph": [],
+    "tensorflow.python.ops.control_flow_util_v2.get_op_and_outputs": [],
+    "tensorflow.python.ops.control_flow_util_v2.graph_wrapped_for_higher_order_tape_gradients": [],
+    "tensorflow.python.ops.control_flow_util_v2.run_as_function_for_tape_gradients": []
+}

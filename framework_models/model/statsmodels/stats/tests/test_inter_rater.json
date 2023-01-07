@@ -1,0 +1,17 @@
+{
+    "statsmodels.stats.tests.test_inter_rater.test_fleiss_kappa": [],
+    "statsmodels.stats.tests.test_inter_rater.test_fleis_randolph": [],
+    "statsmodels.stats.tests.test_inter_rater.test_cohenskappa_weights": [],
+    "statsmodels.stats.tests.test_inter_rater.test_cohens_kappa_irr": [],
+    "statsmodels.stats.tests.test_inter_rater.test_fleiss_kappa_irr": [],
+    "statsmodels.stats.tests.test_inter_rater.test_to_table": [],
+    "statsmodels.stats.tests.test_inter_rater.test_aggregate_raters": [],
+    "statsmodels.stats.tests.test_inter_rater.CheckCohens.test_results": [],
+    "statsmodels.stats.tests.test_inter_rater.TestUnweightedCohens.setup_class": [],
+    "statsmodels.stats.tests.test_inter_rater.TestUnweightedCohens.test_option": [],
+    "statsmodels.stats.tests.test_inter_rater.TestWeightedCohens.setup_class": [],
+    "statsmodels.stats.tests.test_inter_rater.TestWeightedCohens.test_option": [],
+    "statsmodels.stats.tests.test_inter_rater.CheckCohens": [],
+    "statsmodels.stats.tests.test_inter_rater.TestUnweightedCohens": [],
+    "statsmodels.stats.tests.test_inter_rater.TestWeightedCohens": []
+}

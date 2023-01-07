@@ -1,0 +1,9 @@
+from matplotlib import docstring as docstring
+from matplotlib.contour import ContourSet as ContourSet
+from matplotlib.tri.triangulation import Triangulation as Triangulation
+
+class TriContourSet(ContourSet):
+    def __init__(self, ax, *args, **kwargs) -> None: ...
+
+def tricontour(ax, *args, **kwargs): ...
+def tricontourf(ax, *args, **kwargs): ...

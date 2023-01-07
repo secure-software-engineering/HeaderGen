@@ -1,0 +1,15 @@
+{
+    "scipy.optimize.linesearch.line_search_wolfe1": [],
+    "scipy.optimize.linesearch.scalar_search_wolfe1": [],
+    "scipy.optimize.linesearch.line_search_wolfe2": [],
+    "scipy.optimize.linesearch.scalar_search_wolfe2": [],
+    "scipy.optimize.linesearch._cubicmin": [],
+    "scipy.optimize.linesearch._quadmin": [],
+    "scipy.optimize.linesearch._zoom": [],
+    "scipy.optimize.linesearch.line_search_armijo": [],
+    "scipy.optimize.linesearch.line_search_BFGS": [],
+    "scipy.optimize.linesearch.scalar_search_armijo": [],
+    "scipy.optimize.linesearch._nonmonotone_line_search_cruz": [],
+    "scipy.optimize.linesearch._nonmonotone_line_search_cheng": [],
+    "scipy.optimize.linesearch.LineSearchWarning": []
+}

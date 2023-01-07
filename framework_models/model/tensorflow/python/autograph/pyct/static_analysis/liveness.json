@@ -1,0 +1,22 @@
+{
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.resolve": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.Analyzer.__init__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.Analyzer.init_state": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.Analyzer.visit_node": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.__init__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator._analyze_function": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_Lambda": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_FunctionDef": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator._block_statement_live_out": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator._block_statement_live_in": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_If": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_For": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_While": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_Try": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_ExceptHandler": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_With": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator.visit_Expr": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.Analyzer": [],
+    "tensorflow.python.autograph.pyct.static_analysis.liveness.TreeAnnotator": []
+}

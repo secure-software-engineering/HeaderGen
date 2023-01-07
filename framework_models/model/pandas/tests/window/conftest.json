@@ -1,0 +1,23 @@
+{
+    "pandas.tests.window.conftest.raw": [],
+    "pandas.tests.window.conftest.win_types": [],
+    "pandas.tests.window.conftest.win_types_special": [],
+    "pandas.tests.window.conftest.arithmetic_win_operators": [],
+    "pandas.tests.window.conftest.arithmetic_numba_supported_operators": [],
+    "pandas.tests.window.conftest.closed": [],
+    "pandas.tests.window.conftest.center": [],
+    "pandas.tests.window.conftest.min_periods": [],
+    "pandas.tests.window.conftest.parallel": [],
+    "pandas.tests.window.conftest.nogil": [],
+    "pandas.tests.window.conftest.nopython": [],
+    "pandas.tests.window.conftest.adjust": [],
+    "pandas.tests.window.conftest.ignore_na": [],
+    "pandas.tests.window.conftest.engine": [],
+    "pandas.tests.window.conftest.engine_and_raw": [],
+    "pandas.tests.window.conftest.times_frame": [],
+    "pandas.tests.window.conftest.halflife_with_times": [],
+    "pandas.tests.window.conftest.dtypes": [],
+    "pandas.tests.window.conftest.pairwise_frames": [],
+    "pandas.tests.window.conftest.pairwise_target_frame": [],
+    "pandas.tests.window.conftest.pairwise_other_frame": []
+}

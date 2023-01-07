@@ -1,0 +1,6 @@
+{
+    "scipy.stats._stats_mstats_common.linregress": [],
+    "scipy.stats._stats_mstats_common.theilslopes": [],
+    "scipy.stats._stats_mstats_common._find_repeats": [],
+    "scipy.stats._stats_mstats_common.siegelslopes": []
+}

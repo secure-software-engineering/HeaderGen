@@ -1,0 +1,13 @@
+{
+    "numpy.testing._private.nosetester.get_package_name": [],
+    "numpy.testing._private.nosetester.run_module_suite": [],
+    "numpy.testing._private.nosetester._numpy_tester": [],
+    "numpy.testing._private.nosetester.NoseTester.__init__": [],
+    "numpy.testing._private.nosetester.NoseTester._test_argv": [],
+    "numpy.testing._private.nosetester.NoseTester._show_system_info": [],
+    "numpy.testing._private.nosetester.NoseTester._get_custom_doctester": [],
+    "numpy.testing._private.nosetester.NoseTester.prepare_test_args": [],
+    "numpy.testing._private.nosetester.NoseTester.test": [],
+    "numpy.testing._private.nosetester.NoseTester.bench": [],
+    "numpy.testing._private.nosetester.NoseTester": []
+}

@@ -1,0 +1,6 @@
+{
+    "scipy.linalg.decomp_qr.safecall": [],
+    "scipy.linalg.decomp_qr.qr": [],
+    "scipy.linalg.decomp_qr.qr_multiply": [],
+    "scipy.linalg.decomp_qr.rq": []
+}

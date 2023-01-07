@@ -1,0 +1,17 @@
+{
+    "scipy.optimize._root_scalar.root_scalar": [],
+    "scipy.optimize._root_scalar._root_scalar_brentq_doc": [],
+    "scipy.optimize._root_scalar._root_scalar_brenth_doc": [],
+    "scipy.optimize._root_scalar._root_scalar_toms748_doc": [],
+    "scipy.optimize._root_scalar._root_scalar_secant_doc": [],
+    "scipy.optimize._root_scalar._root_scalar_newton_doc": [],
+    "scipy.optimize._root_scalar._root_scalar_halley_doc": [],
+    "scipy.optimize._root_scalar._root_scalar_ridder_doc": [],
+    "scipy.optimize._root_scalar._root_scalar_bisect_doc": [],
+    "scipy.optimize._root_scalar.MemoizeDer.__init__": [],
+    "scipy.optimize._root_scalar.MemoizeDer.__call__": [],
+    "scipy.optimize._root_scalar.MemoizeDer.fprime": [],
+    "scipy.optimize._root_scalar.MemoizeDer.fprime2": [],
+    "scipy.optimize._root_scalar.MemoizeDer.ncalls": [],
+    "scipy.optimize._root_scalar.MemoizeDer": []
+}

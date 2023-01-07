@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.eager.executor.new_executor": [],
+    "tensorflow.python.eager.executor.Executor.__init__": [],
+    "tensorflow.python.eager.executor.Executor.__del__": [],
+    "tensorflow.python.eager.executor.Executor.is_async": [],
+    "tensorflow.python.eager.executor.Executor.handle": [],
+    "tensorflow.python.eager.executor.Executor.wait": [],
+    "tensorflow.python.eager.executor.Executor.clear_error": [],
+    "tensorflow.python.eager.executor.Executor": []
+}

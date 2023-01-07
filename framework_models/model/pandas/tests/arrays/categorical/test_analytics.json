@@ -1,0 +1,21 @@
+{
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_min_max_not_ordered_raises": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_min_max_ordered": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_min_max_ordered_empty": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_min_max_with_nan": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_min_max_only_nan": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_deprecate_numeric_only_min_max": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_numpy_min_max_raises": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_numpy_min_max_unsupported_kwargs_raises": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_numpy_min_max_axis_equals_none": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_mode": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_searchsorted": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_unique": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_unique_index_series": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_shift": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_nbytes": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_memory_usage": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_map": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics.test_validate_inplace_raises": [],
+    "pandas.tests.arrays.categorical.test_analytics.TestCategoricalAnalytics": []
+}

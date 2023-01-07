@@ -1,0 +1,9 @@
+{
+    "sklearn.datasets.tests.test_20news.test_20news": [],
+    "sklearn.datasets.tests.test_20news.test_20news_length_consistency": [],
+    "sklearn.datasets.tests.test_20news.test_20news_vectorized": [],
+    "sklearn.datasets.tests.test_20news.test_20news_normalization": [],
+    "sklearn.datasets.tests.test_20news.test_20news_as_frame": [],
+    "sklearn.datasets.tests.test_20news.test_as_frame_no_pandas": [],
+    "sklearn.datasets.tests.test_20news.test_outdated_pickle": []
+}

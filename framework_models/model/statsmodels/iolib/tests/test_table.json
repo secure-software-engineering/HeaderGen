@@ -1,0 +1,10 @@
+{
+    "statsmodels.iolib.tests.test_table.TestSimpleTable.test_simple_table_1": [],
+    "statsmodels.iolib.tests.test_table.TestSimpleTable.test_simple_table_2": [],
+    "statsmodels.iolib.tests.test_table.TestSimpleTable.test_simple_table_3": [],
+    "statsmodels.iolib.tests.test_table.TestSimpleTable.test_simple_table_4": [],
+    "statsmodels.iolib.tests.test_table.TestSimpleTable.test_simple_table_special_chars": [],
+    "statsmodels.iolib.tests.test_table.TestSimpleTable.test_regression_with_tuples": [],
+    "statsmodels.iolib.tests.test_table.TestSimpleTable.test_default_alignment": [],
+    "statsmodels.iolib.tests.test_table.TestSimpleTable": []
+}

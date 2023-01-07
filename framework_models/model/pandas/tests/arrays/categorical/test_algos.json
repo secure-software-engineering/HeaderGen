@@ -1,0 +1,8 @@
+{
+    "pandas.tests.arrays.categorical.test_algos.test_factorize": [],
+    "pandas.tests.arrays.categorical.test_algos.test_factorized_sort": [],
+    "pandas.tests.arrays.categorical.test_algos.test_factorized_sort_ordered": [],
+    "pandas.tests.arrays.categorical.test_algos.test_isin_cats": [],
+    "pandas.tests.arrays.categorical.test_algos.test_isin_empty": [],
+    "pandas.tests.arrays.categorical.test_algos.test_diff": []
+}

@@ -1,0 +1,5 @@
+{
+    "pandas.tests.frame.methods.test_head_tail.test_head_tail_generic": [],
+    "pandas.tests.frame.methods.test_head_tail.test_head_tail": [],
+    "pandas.tests.frame.methods.test_head_tail.test_head_tail_empty": []
+}

@@ -1,0 +1,11 @@
+{
+    "pandas.tests.frame.indexing.test_mask.test_mask_try_cast_deprecated": [],
+    "pandas.tests.frame.indexing.test_mask.test_mask_stringdtype": [],
+    "pandas.tests.frame.indexing.test_mask.TestDataFrameMask.test_mask": [],
+    "pandas.tests.frame.indexing.test_mask.TestDataFrameMask.test_mask_inplace": [],
+    "pandas.tests.frame.indexing.test_mask.TestDataFrameMask.test_mask_edge_case_1xN_frame": [],
+    "pandas.tests.frame.indexing.test_mask.TestDataFrameMask.test_mask_callable": [],
+    "pandas.tests.frame.indexing.test_mask.TestDataFrameMask.test_mask_dtype_bool_conversion": [],
+    "pandas.tests.frame.indexing.test_mask.TestDataFrameMask.test_mask_pos_args_deprecation": [],
+    "pandas.tests.frame.indexing.test_mask.TestDataFrameMask": []
+}

@@ -1,0 +1,12 @@
+{
+    "scipy.special.tests.test_logsumexp.test_logsumexp": [],
+    "scipy.special.tests.test_logsumexp.test_logsumexp_b": [],
+    "scipy.special.tests.test_logsumexp.test_logsumexp_sign": [],
+    "scipy.special.tests.test_logsumexp.test_logsumexp_sign_zero": [],
+    "scipy.special.tests.test_logsumexp.test_logsumexp_sign_shape": [],
+    "scipy.special.tests.test_logsumexp.test_logsumexp_shape": [],
+    "scipy.special.tests.test_logsumexp.test_logsumexp_b_zero": [],
+    "scipy.special.tests.test_logsumexp.test_logsumexp_b_shape": [],
+    "scipy.special.tests.test_logsumexp.test_softmax_fixtures": [],
+    "scipy.special.tests.test_logsumexp.test_softmax_multi_axes": []
+}

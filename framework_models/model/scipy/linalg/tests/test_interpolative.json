@@ -1,0 +1,22 @@
+{
+    "scipy.linalg.tests.test_interpolative.eps": [],
+    "scipy.linalg.tests.test_interpolative.A": [],
+    "scipy.linalg.tests.test_interpolative.L": [],
+    "scipy.linalg.tests.test_interpolative.rank": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_real_id_fixed_precision": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_real_id_fixed_rank": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_real_id_skel_and_interp_matrices": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_svd_fixed_precison": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_svd_fixed_rank": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_id_to_svd": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_estimate_spectral_norm": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_estimate_spectral_norm_diff": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_rank_estimates_array": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_rank_estimates_lin_op": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_rand": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_badcall": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_rank_too_large": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_full_rank": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition.test_bug_9793": [],
+    "scipy.linalg.tests.test_interpolative.TestInterpolativeDecomposition": []
+}

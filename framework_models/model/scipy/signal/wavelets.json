@@ -1,0 +1,9 @@
+{
+    "scipy.signal.wavelets.daub": [],
+    "scipy.signal.wavelets.qmf": [],
+    "scipy.signal.wavelets.cascade": [],
+    "scipy.signal.wavelets.morlet": [],
+    "scipy.signal.wavelets.ricker": [],
+    "scipy.signal.wavelets.morlet2": [],
+    "scipy.signal.wavelets.cwt": []
+}

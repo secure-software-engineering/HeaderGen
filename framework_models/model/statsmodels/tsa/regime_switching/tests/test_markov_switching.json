@@ -1,0 +1,9 @@
+{
+    "statsmodels.tsa.regime_switching.tests.test_markov_switching.test_params": [],
+    "statsmodels.tsa.regime_switching.tests.test_markov_switching.test_init_endog": [],
+    "statsmodels.tsa.regime_switching.tests.test_markov_switching.test_init_exog_tvtp": [],
+    "statsmodels.tsa.regime_switching.tests.test_markov_switching.test_transition_matrix": [],
+    "statsmodels.tsa.regime_switching.tests.test_markov_switching.test_initial_probabilities": [],
+    "statsmodels.tsa.regime_switching.tests.test_markov_switching.test_logistic": [],
+    "statsmodels.tsa.regime_switching.tests.test_markov_switching.test_partials_logistic": []
+}

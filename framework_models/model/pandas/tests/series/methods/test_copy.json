@@ -1,0 +1,7 @@
+{
+    "pandas.tests.series.methods.test_copy.TestCopy.test_copy": [],
+    "pandas.tests.series.methods.test_copy.TestCopy.test_copy_tzaware": [],
+    "pandas.tests.series.methods.test_copy.TestCopy.test_copy_name": [],
+    "pandas.tests.series.methods.test_copy.TestCopy.test_copy_index_name_checking": [],
+    "pandas.tests.series.methods.test_copy.TestCopy": []
+}

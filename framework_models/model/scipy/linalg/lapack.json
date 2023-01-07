@@ -1,0 +1,6 @@
+{
+    "scipy.linalg.lapack.backtickrepl": [],
+    "scipy.linalg.lapack.get_lapack_funcs": [],
+    "scipy.linalg.lapack._compute_lwork": [],
+    "scipy.linalg.lapack._check_work_float": []
+}

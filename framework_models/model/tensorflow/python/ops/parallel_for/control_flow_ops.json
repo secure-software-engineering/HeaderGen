@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.ops.parallel_for.control_flow_ops.for_loop": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._flatten_first_two_dims": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._is_under_xla_context": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops.pfor": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._should_expand_composite": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._composite_to_tensors": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._composite_from_tensors": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._loop_fn_has_config": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._pfor_impl": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._broadcasting_gather": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops._gather_from_tensor_or_composite": [],
+    "tensorflow.python.ops.parallel_for.control_flow_ops.vectorized_map": []
+}

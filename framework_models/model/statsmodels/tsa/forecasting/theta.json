@@ -1,0 +1,23 @@
+{
+    "statsmodels.tsa.forecasting.theta.extend_index": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel.__init__": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel._test_seasonality": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel._deseasonalize_data": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel.fit": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel.deseasonalize": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel.period": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel.use_test": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel.difference": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel.method": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.__init__": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.params": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.sigma2": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.model": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.forecast": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.forecast_components": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.summary": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.prediction_intervals": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults.plot_predict": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModel": [],
+    "statsmodels.tsa.forecasting.theta.ThetaModelResults": []
+}

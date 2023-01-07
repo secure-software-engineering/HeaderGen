@@ -1,0 +1,12 @@
+{
+    "pandas.tests.series.methods.test_reset_index.test_reset_index_dtypes_on_empty_series_with_multiindex": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex.test_reset_index_dti_round_trip": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex.test_reset_index": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex.test_reset_index_name": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex.test_reset_index_level": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex.test_reset_index_range": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex.test_reset_index_drop_errors": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex.test_reset_index_with_drop": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex.test_drop_pos_args_deprecation": [],
+    "pandas.tests.series.methods.test_reset_index.TestResetIndex": []
+}

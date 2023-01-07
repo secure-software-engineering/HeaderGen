@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.autograph.operators.data_structures.new_list": [],
+    "tensorflow.python.autograph.operators.data_structures.tf_tensor_array_new": [],
+    "tensorflow.python.autograph.operators.data_structures.tf_tensor_list_new": [],
+    "tensorflow.python.autograph.operators.data_structures._py_list_new": [],
+    "tensorflow.python.autograph.operators.data_structures.list_append": [],
+    "tensorflow.python.autograph.operators.data_structures._tf_tensor_list_append": [],
+    "tensorflow.python.autograph.operators.data_structures._tf_tensorarray_append": [],
+    "tensorflow.python.autograph.operators.data_structures._py_list_append": [],
+    "tensorflow.python.autograph.operators.data_structures.list_pop": [],
+    "tensorflow.python.autograph.operators.data_structures._tf_tensor_list_pop": [],
+    "tensorflow.python.autograph.operators.data_structures._py_list_pop": [],
+    "tensorflow.python.autograph.operators.data_structures.list_stack": [],
+    "tensorflow.python.autograph.operators.data_structures._tf_tensorarray_stack": [],
+    "tensorflow.python.autograph.operators.data_structures._tf_tensor_list_stack": [],
+    "tensorflow.python.autograph.operators.data_structures._py_list_stack": [],
+    "tensorflow.python.autograph.operators.data_structures.ListPopOpts": [],
+    "tensorflow.python.autograph.operators.data_structures.ListStackOpts": []
+}

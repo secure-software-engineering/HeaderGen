@@ -1,0 +1,6 @@
+{
+    "pandas.core.ops.methods._get_method_wrappers": [],
+    "pandas.core.ops.methods.add_flex_arithmetic_methods": [],
+    "pandas.core.ops.methods._create_methods": [],
+    "pandas.core.ops.methods._add_methods": []
+}

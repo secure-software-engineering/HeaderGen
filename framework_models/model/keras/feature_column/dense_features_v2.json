@@ -1,0 +1,8 @@
+{
+    "keras.feature_column.dense_features_v2.no_manual_dependency_tracking_scope": [],
+    "keras.feature_column.dense_features_v2.DenseFeatures.__init__": [],
+    "keras.feature_column.dense_features_v2.DenseFeatures.build": [],
+    "keras.feature_column.dense_features_v2._StateManagerImplV2.create_variable": [],
+    "keras.feature_column.dense_features_v2.DenseFeatures": [],
+    "keras.feature_column.dense_features_v2._StateManagerImplV2": []
+}

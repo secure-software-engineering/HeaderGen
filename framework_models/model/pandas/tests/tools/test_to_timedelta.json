@@ -1,0 +1,18 @@
+{
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_readonly": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_oob_non_nano": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_dataframe": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_invalid": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_unambiguous_timedelta_values": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_via_apply": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_inference_without_warning": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_on_missing_values": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_float": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_coerce_strings_unit": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_ignore_strings_unit": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_nullable_int64_dtype": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_precision_over_nanos": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas.test_to_timedelta_zerodim": [],
+    "pandas.tests.tools.test_to_timedelta.TestTimedeltas": []
+}

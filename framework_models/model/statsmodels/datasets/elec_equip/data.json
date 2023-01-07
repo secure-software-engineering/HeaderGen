@@ -1,0 +1,6 @@
+{
+    "statsmodels.datasets.elec_equip.data.load_pandas": [],
+    "statsmodels.datasets.elec_equip.data.load": [],
+    "statsmodels.datasets.elec_equip.data._get_data": [],
+    "statsmodels.datasets.elec_equip.data.__str__": []
+}

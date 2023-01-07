@@ -1,0 +1,19 @@
+{
+    "scipy.integrate.quadpack.quad_explain": [],
+    "scipy.integrate.quadpack.quad": [],
+    "scipy.integrate.quadpack._quad": [],
+    "scipy.integrate.quadpack._quad_weight": [],
+    "scipy.integrate.quadpack.dblquad": [],
+    "scipy.integrate.quadpack.tplquad": [],
+    "scipy.integrate.quadpack.nquad": [],
+    "scipy.integrate.quadpack._RangeFunc.__init__": [],
+    "scipy.integrate.quadpack._RangeFunc.__call__": [],
+    "scipy.integrate.quadpack._OptFunc.__init__": [],
+    "scipy.integrate.quadpack._OptFunc.__call__": [],
+    "scipy.integrate.quadpack._NQuad.__init__": [],
+    "scipy.integrate.quadpack._NQuad.integrate": [],
+    "scipy.integrate.quadpack.IntegrationWarning": [],
+    "scipy.integrate.quadpack._RangeFunc": [],
+    "scipy.integrate.quadpack._OptFunc": [],
+    "scipy.integrate.quadpack._NQuad": []
+}

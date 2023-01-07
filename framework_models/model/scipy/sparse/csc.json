@@ -1,0 +1,18 @@
+{
+    "scipy.sparse.csc.isspmatrix_csc": [],
+    "scipy.sparse.csc.csc_matrix.transpose": [],
+    "scipy.sparse.csc.csc_matrix.__iter__": [],
+    "scipy.sparse.csc.csc_matrix.tocsc": [],
+    "scipy.sparse.csc.csc_matrix.tocsr": [],
+    "scipy.sparse.csc.csc_matrix.nonzero": [],
+    "scipy.sparse.csc.csc_matrix.getrow": [],
+    "scipy.sparse.csc.csc_matrix.getcol": [],
+    "scipy.sparse.csc.csc_matrix._get_intXarray": [],
+    "scipy.sparse.csc.csc_matrix._get_intXslice": [],
+    "scipy.sparse.csc.csc_matrix._get_sliceXint": [],
+    "scipy.sparse.csc.csc_matrix._get_sliceXarray": [],
+    "scipy.sparse.csc.csc_matrix._get_arrayXint": [],
+    "scipy.sparse.csc.csc_matrix._get_arrayXslice": [],
+    "scipy.sparse.csc.csc_matrix._swap": [],
+    "scipy.sparse.csc.csc_matrix": []
+}

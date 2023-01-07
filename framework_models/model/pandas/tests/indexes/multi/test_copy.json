@@ -1,0 +1,10 @@
+{
+    "pandas.tests.indexes.multi.test_copy.assert_multiindex_copied": [],
+    "pandas.tests.indexes.multi.test_copy.test_copy": [],
+    "pandas.tests.indexes.multi.test_copy.test_shallow_copy": [],
+    "pandas.tests.indexes.multi.test_copy.test_view": [],
+    "pandas.tests.indexes.multi.test_copy.test_copy_and_deepcopy": [],
+    "pandas.tests.indexes.multi.test_copy.test_copy_method": [],
+    "pandas.tests.indexes.multi.test_copy.test_copy_method_kwargs": [],
+    "pandas.tests.indexes.multi.test_copy.test_copy_deprecated_parameters": []
+}

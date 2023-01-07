@@ -1,0 +1,7 @@
+{
+    "keras.utils.kernelized_utils._to_matrix": [],
+    "keras.utils.kernelized_utils._align_matrices": [],
+    "keras.utils.kernelized_utils.inner_product": [],
+    "keras.utils.kernelized_utils.exact_gaussian_kernel": [],
+    "keras.utils.kernelized_utils.exact_laplacian_kernel": []
+}

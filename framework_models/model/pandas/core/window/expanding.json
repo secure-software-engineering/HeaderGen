@@ -1,0 +1,23 @@
+{
+    "pandas.core.window.expanding.Expanding.__init__": [],
+    "pandas.core.window.expanding.Expanding._get_window_indexer": [],
+    "pandas.core.window.expanding.Expanding.aggregate": [],
+    "pandas.core.window.expanding.Expanding.count": [],
+    "pandas.core.window.expanding.Expanding.apply": [],
+    "pandas.core.window.expanding.Expanding.sum": [],
+    "pandas.core.window.expanding.Expanding.max": [],
+    "pandas.core.window.expanding.Expanding.min": [],
+    "pandas.core.window.expanding.Expanding.mean": [],
+    "pandas.core.window.expanding.Expanding.median": [],
+    "pandas.core.window.expanding.Expanding.std": [],
+    "pandas.core.window.expanding.Expanding.var": [],
+    "pandas.core.window.expanding.Expanding.sem": [],
+    "pandas.core.window.expanding.Expanding.skew": [],
+    "pandas.core.window.expanding.Expanding.kurt": [],
+    "pandas.core.window.expanding.Expanding.quantile": [],
+    "pandas.core.window.expanding.Expanding.cov": [],
+    "pandas.core.window.expanding.Expanding.corr": [],
+    "pandas.core.window.expanding.ExpandingGroupby._get_window_indexer": [],
+    "pandas.core.window.expanding.Expanding": [],
+    "pandas.core.window.expanding.ExpandingGroupby": []
+}

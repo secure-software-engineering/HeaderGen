@@ -1,0 +1,16 @@
+{
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_with_misspelled_column_name": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_with_duplicate_column_names": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_for_take_all": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_tuple": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_empty": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_NA": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_NA_for_take_all": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_inplace": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_ignore_index": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_null_in_object_column": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_series_vs_dataframe": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_non_boolean_ignore_index": [],
+    "pandas.tests.frame.methods.test_drop_duplicates.test_drop_duplicates_pos_args_deprecation": []
+}

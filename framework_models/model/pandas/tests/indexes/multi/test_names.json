@@ -1,0 +1,16 @@
+{
+    "pandas.tests.indexes.multi.test_names.check_level_names": [],
+    "pandas.tests.indexes.multi.test_names.test_slice_keep_name": [],
+    "pandas.tests.indexes.multi.test_names.test_index_name_retained": [],
+    "pandas.tests.indexes.multi.test_names.test_changing_names": [],
+    "pandas.tests.indexes.multi.test_names.test_take_preserve_name": [],
+    "pandas.tests.indexes.multi.test_names.test_copy_names": [],
+    "pandas.tests.indexes.multi.test_names.test_names": [],
+    "pandas.tests.indexes.multi.test_names.test_duplicate_level_names_access_raises": [],
+    "pandas.tests.indexes.multi.test_names.test_get_names_from_levels": [],
+    "pandas.tests.indexes.multi.test_names.test_setting_names_from_levels_raises": [],
+    "pandas.tests.indexes.multi.test_names.test_name_mi_with_dict_like_duplicate_names": [],
+    "pandas.tests.indexes.multi.test_names.test_name_mi_with_dict_like": [],
+    "pandas.tests.indexes.multi.test_names.test_index_name_with_dict_like_raising": [],
+    "pandas.tests.indexes.multi.test_names.test_multiindex_name_and_level_raising": []
+}

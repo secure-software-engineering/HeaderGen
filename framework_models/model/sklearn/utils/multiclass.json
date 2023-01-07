@@ -1,0 +1,12 @@
+{
+    "sklearn.utils.multiclass._unique_multiclass": [],
+    "sklearn.utils.multiclass._unique_indicator": [],
+    "sklearn.utils.multiclass.unique_labels": [],
+    "sklearn.utils.multiclass._is_integral_float": [],
+    "sklearn.utils.multiclass.is_multilabel": [],
+    "sklearn.utils.multiclass.check_classification_targets": [],
+    "sklearn.utils.multiclass.type_of_target": [],
+    "sklearn.utils.multiclass._check_partial_fit_first_call": [],
+    "sklearn.utils.multiclass.class_distribution": [],
+    "sklearn.utils.multiclass._ovr_decision_function": []
+}

@@ -1,0 +1,11 @@
+{
+    "statsmodels.tsa.statespace.tests.test_initialization.check_initialization": [],
+    "statsmodels.tsa.statespace.tests.test_initialization.test_global_known": [],
+    "statsmodels.tsa.statespace.tests.test_initialization.test_global_diffuse": [],
+    "statsmodels.tsa.statespace.tests.test_initialization.test_global_approximate_diffuse": [],
+    "statsmodels.tsa.statespace.tests.test_initialization.test_global_stationary": [],
+    "statsmodels.tsa.statespace.tests.test_initialization.test_mixed_basic": [],
+    "statsmodels.tsa.statespace.tests.test_initialization.test_mixed_stationary": [],
+    "statsmodels.tsa.statespace.tests.test_initialization.test_nested": [],
+    "statsmodels.tsa.statespace.tests.test_initialization.test_invalid": []
+}

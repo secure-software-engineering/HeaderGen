@@ -1,0 +1,9 @@
+{
+    "plotly.figure_factory._scatterplot.endpts_to_intervals": [],
+    "plotly.figure_factory._scatterplot.hide_tick_labels_from_box_subplots": [],
+    "plotly.figure_factory._scatterplot.validate_scatterplotmatrix": [],
+    "plotly.figure_factory._scatterplot.scatterplot": [],
+    "plotly.figure_factory._scatterplot.scatterplot_dict": [],
+    "plotly.figure_factory._scatterplot.scatterplot_theme": [],
+    "plotly.figure_factory._scatterplot.create_scatterplotmatrix": []
+}

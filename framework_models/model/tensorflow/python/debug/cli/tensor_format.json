@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.debug.cli.tensor_format.format_tensor": [],
+    "tensorflow.python.debug.cli.tensor_format._annotate_ndarray_lines": [],
+    "tensorflow.python.debug.cli.tensor_format.locate_tensor_element": [],
+    "tensorflow.python.debug.cli.tensor_format._validate_indices_list": [],
+    "tensorflow.python.debug.cli.tensor_format._locate_elements_in_line": [],
+    "tensorflow.python.debug.cli.tensor_format._pad_string_to_length": [],
+    "tensorflow.python.debug.cli.tensor_format.numeric_summary": [],
+    "tensorflow.python.debug.cli.tensor_format.HighlightOptions.__init__": [],
+    "tensorflow.python.debug.cli.tensor_format.HighlightOptions": []
+}

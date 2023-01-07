@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.compiler.xla.xla.compile": [],
+    "tensorflow.python.compiler.xla.xla._compile_internal": [],
+    "tensorflow.python.compiler.xla.xla.is_flat": [],
+    "tensorflow.python.compiler.xla.xla._postprocess_flat_outputs": [],
+    "tensorflow.python.compiler.xla.xla._postprocess_non_flat_outputs": [],
+    "tensorflow.python.compiler.xla.xla._disable_summary_context": [],
+    "tensorflow.python.compiler.xla.xla._get_scaffold": [],
+    "tensorflow.python.compiler.xla.xla.check_function_argument_count": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext.__init__": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext.report_unsupported_operations": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext._RemoveExternalControlEdges": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext.AddOp": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext.AddValue": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext.AddInnerOp": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext.grad_state": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext.back_prop": [],
+    "tensorflow.python.compiler.xla.xla._CapturedObject.__init__": [],
+    "tensorflow.python.compiler.xla.xla._CapturedObject.capture": [],
+    "tensorflow.python.compiler.xla.xla._CapturedObject.get": [],
+    "tensorflow.python.compiler.xla.xla.XLACompileContext": [],
+    "tensorflow.python.compiler.xla.xla._CapturedObject": []
+}

@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.composite_tensor_ops.composite_tensor_to_variants": [],
+    "tensorflow.python.ops.composite_tensor_ops.composite_tensor_from_variant": [],
+    "tensorflow.python.ops.composite_tensor_ops._composite_tensor_to_variants_grad": [],
+    "tensorflow.python.ops.composite_tensor_ops._composite_tensor_from_variant_grad": []
+}

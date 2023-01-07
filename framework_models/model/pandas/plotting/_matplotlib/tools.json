@@ -1,0 +1,15 @@
+{
+    "pandas.plotting._matplotlib.tools.do_adjust_figure": [],
+    "pandas.plotting._matplotlib.tools.maybe_adjust_figure": [],
+    "pandas.plotting._matplotlib.tools.format_date_labels": [],
+    "pandas.plotting._matplotlib.tools.table": [],
+    "pandas.plotting._matplotlib.tools._get_layout": [],
+    "pandas.plotting._matplotlib.tools.create_subplots": [],
+    "pandas.plotting._matplotlib.tools._remove_labels_from_axis": [],
+    "pandas.plotting._matplotlib.tools._has_externally_shared_axis": [],
+    "pandas.plotting._matplotlib.tools.handle_shared_axes": [],
+    "pandas.plotting._matplotlib.tools.flatten_axes": [],
+    "pandas.plotting._matplotlib.tools.set_ticks_props": [],
+    "pandas.plotting._matplotlib.tools.get_all_lines": [],
+    "pandas.plotting._matplotlib.tools.get_xlim": []
+}

@@ -1,0 +1,19 @@
+{
+    "pandas.core.accessor.delegate_names": [],
+    "pandas.core.accessor._register_accessor": [],
+    "pandas.core.accessor.register_dataframe_accessor": [],
+    "pandas.core.accessor.register_series_accessor": [],
+    "pandas.core.accessor.register_index_accessor": [],
+    "pandas.core.accessor.DirNamesMixin._dir_deletions": [],
+    "pandas.core.accessor.DirNamesMixin._dir_additions": [],
+    "pandas.core.accessor.DirNamesMixin.__dir__": [],
+    "pandas.core.accessor.PandasDelegate._delegate_property_get": [],
+    "pandas.core.accessor.PandasDelegate._delegate_property_set": [],
+    "pandas.core.accessor.PandasDelegate._delegate_method": [],
+    "pandas.core.accessor.PandasDelegate._add_delegate_accessors": [],
+    "pandas.core.accessor.CachedAccessor.__init__": [],
+    "pandas.core.accessor.CachedAccessor.__get__": [],
+    "pandas.core.accessor.DirNamesMixin": [],
+    "pandas.core.accessor.PandasDelegate": [],
+    "pandas.core.accessor.CachedAccessor": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.frame.methods.test_truncate.TestDataFrameTruncate.test_truncate": [],
+    "pandas.tests.frame.methods.test_truncate.TestDataFrameTruncate.test_truncate_copy": [],
+    "pandas.tests.frame.methods.test_truncate.TestDataFrameTruncate.test_truncate_nonsortedindex": [],
+    "pandas.tests.frame.methods.test_truncate.TestDataFrameTruncate.test_sort_values_nonsortedindex": [],
+    "pandas.tests.frame.methods.test_truncate.TestDataFrameTruncate.test_truncate_nonsortedindex_axis1": [],
+    "pandas.tests.frame.methods.test_truncate.TestDataFrameTruncate.test_truncate_decreasing_index": [],
+    "pandas.tests.frame.methods.test_truncate.TestDataFrameTruncate.test_truncate_multiindex": [],
+    "pandas.tests.frame.methods.test_truncate.TestDataFrameTruncate": []
+}

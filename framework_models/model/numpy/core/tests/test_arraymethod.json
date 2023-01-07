@@ -1,0 +1,6 @@
+{
+    "numpy.core.tests.test_arraymethod.TestResolveDescriptors.test_invalid_arguments": [],
+    "numpy.core.tests.test_arraymethod.TestSimpleStridedCall.test_invalid_arguments": [],
+    "numpy.core.tests.test_arraymethod.TestResolveDescriptors": [],
+    "numpy.core.tests.test_arraymethod.TestSimpleStridedCall": []
+}

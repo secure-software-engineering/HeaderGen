@@ -1,0 +1,18 @@
+{
+    "pandas.tests.io.test_gbq._skip_if_no_project_id": [],
+    "pandas.tests.io.test_gbq._skip_if_no_private_key_path": [],
+    "pandas.tests.io.test_gbq._get_project_id": [],
+    "pandas.tests.io.test_gbq._get_private_key_path": [],
+    "pandas.tests.io.test_gbq._get_credentials": [],
+    "pandas.tests.io.test_gbq._get_client": [],
+    "pandas.tests.io.test_gbq.generate_rand_str": [],
+    "pandas.tests.io.test_gbq.make_mixed_dataframe_v2": [],
+    "pandas.tests.io.test_gbq.test_read_gbq_without_deprecated_kwargs": [],
+    "pandas.tests.io.test_gbq.test_read_gbq_with_new_kwargs": [],
+    "pandas.tests.io.test_gbq.test_read_gbq_without_new_kwargs": [],
+    "pandas.tests.io.test_gbq.test_read_gbq_progress_bar_type_kwarg": [],
+    "pandas.tests.io.test_gbq.TestToGBQIntegrationWithServiceAccountKeyPath.gbq_dataset": [],
+    "pandas.tests.io.test_gbq.TestToGBQIntegrationWithServiceAccountKeyPath.test_roundtrip": [],
+    "pandas.tests.io.test_gbq.TestToGBQIntegrationWithServiceAccountKeyPath.test_gbq_if_exists": [],
+    "pandas.tests.io.test_gbq.TestToGBQIntegrationWithServiceAccountKeyPath": []
+}

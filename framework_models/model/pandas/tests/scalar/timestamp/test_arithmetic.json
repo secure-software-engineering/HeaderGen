@@ -1,0 +1,16 @@
+{
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_overflow_offset": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_overflow_offset_raises": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_overflow_timestamp_raises": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_delta_preserve_nanos": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_rsub_dtscalars": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_timestamp_sub_datetime": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_addition_subtraction_types": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_addition_subtraction_preserve_frequency": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_radd_tdscalar": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_timestamp_add_timedelta64_unit": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_add_int_with_freq": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_addsub_m8ndarray": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic.test_addsub_m8ndarray_tzaware": [],
+    "pandas.tests.scalar.timestamp.test_arithmetic.TestTimestampArithmetic": []
+}

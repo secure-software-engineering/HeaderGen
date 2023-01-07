@@ -1,0 +1,6 @@
+{
+    "scipy.fft.tests.test_fftlog.test_fht_agrees_with_fftlog": [],
+    "scipy.fft.tests.test_fftlog.test_fht_identity": [],
+    "scipy.fft.tests.test_fftlog.test_fht_special_cases": [],
+    "scipy.fft.tests.test_fftlog.test_fht_exact": []
+}

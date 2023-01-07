@@ -1,0 +1,3 @@
+from statsmodels.tools.validation import PandasWrapper as PandasWrapper, array_like as array_like
+
+def bkfilter(x, low: int = ..., high: int = ..., K: int = ...): ...

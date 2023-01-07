@@ -1,0 +1,21 @@
+{
+    "numpy.core.getlimits._fr0": [],
+    "numpy.core.getlimits._fr1": [],
+    "numpy.core.getlimits._register_type": [],
+    "numpy.core.getlimits._register_known_types": [],
+    "numpy.core.getlimits._get_machar": [],
+    "numpy.core.getlimits._discovered_machar": [],
+    "numpy.core.getlimits.MachArLike.__init__": [],
+    "numpy.core.getlimits.finfo.__new__": [],
+    "numpy.core.getlimits.finfo._init": [],
+    "numpy.core.getlimits.finfo.__str__": [],
+    "numpy.core.getlimits.finfo.__repr__": [],
+    "numpy.core.getlimits.iinfo.__init__": [],
+    "numpy.core.getlimits.iinfo.min": [],
+    "numpy.core.getlimits.iinfo.max": [],
+    "numpy.core.getlimits.iinfo.__str__": [],
+    "numpy.core.getlimits.iinfo.__repr__": [],
+    "numpy.core.getlimits.MachArLike": [],
+    "numpy.core.getlimits.finfo": [],
+    "numpy.core.getlimits.iinfo": []
+}

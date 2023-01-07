@@ -1,0 +1,9 @@
+{
+    "xgboost.compat.py_str": [],
+    "xgboost.compat.lazy_isinstance": [],
+    "xgboost.compat.LazyLoader.__init__": [],
+    "xgboost.compat.LazyLoader._load": [],
+    "xgboost.compat.LazyLoader.__getattr__": [],
+    "xgboost.compat.LazyLoader.__dir__": [],
+    "xgboost.compat.LazyLoader": []
+}

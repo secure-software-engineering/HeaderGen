@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.autograph.pyct.errors.PyCTError": [],
+    "tensorflow.python.autograph.pyct.errors.UnsupportedLanguageElementError": [],
+    "tensorflow.python.autograph.pyct.errors.InaccessibleSourceCodeError": []
+}

@@ -1,0 +1,13 @@
+from tensorflow.python import tf2 as tf2
+from tensorflow.python.keras.initializers import initializers_v1 as initializers_v1, initializers_v2 as initializers_v2
+from tensorflow.python.keras.utils import generic_utils as generic_utils
+from tensorflow.python.ops import init_ops as init_ops
+from tensorflow.python.util.tf_export import keras_export as keras_export
+from typing import Any
+
+LOCAL: Any
+
+def populate_deserializable_objects(): ...
+def serialize(initializer): ...
+def deserialize(config, custom_objects: Any | None = ...): ...
+def get(identifier): ...

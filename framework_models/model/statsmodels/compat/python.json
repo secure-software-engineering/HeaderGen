@@ -1,0 +1,9 @@
+{
+    "statsmodels.compat.python.asbytes": [],
+    "statsmodels.compat.python.asstr": [],
+    "statsmodels.compat.python.lrange": [],
+    "statsmodels.compat.python.lzip": [],
+    "statsmodels.compat.python.lmap": [],
+    "statsmodels.compat.python.lfilter": [],
+    "statsmodels.compat.python.with_metaclass": []
+}

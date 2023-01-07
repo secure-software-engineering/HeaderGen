@@ -1,0 +1,6 @@
+{
+    "sklearn.inspection._partial_dependence._grid_from_X": [],
+    "sklearn.inspection._partial_dependence._partial_dependence_recursion": [],
+    "sklearn.inspection._partial_dependence._partial_dependence_brute": [],
+    "sklearn.inspection._partial_dependence.partial_dependence": []
+}

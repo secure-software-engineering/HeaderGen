@@ -1,0 +1,6 @@
+{
+    "keras.legacy_tf_layers.normalization.batch_normalization": [],
+    "keras.legacy_tf_layers.normalization.BatchNormalization.__init__": [],
+    "keras.legacy_tf_layers.normalization.BatchNormalization.call": [],
+    "keras.legacy_tf_layers.normalization.BatchNormalization": []
+}

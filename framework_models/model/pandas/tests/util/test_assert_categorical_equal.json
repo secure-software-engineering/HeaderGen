@@ -1,0 +1,8 @@
+{
+    "pandas.tests.util.test_assert_categorical_equal.test_categorical_equal": [],
+    "pandas.tests.util.test_assert_categorical_equal.test_categorical_equal_order_mismatch": [],
+    "pandas.tests.util.test_assert_categorical_equal.test_categorical_equal_categories_mismatch": [],
+    "pandas.tests.util.test_assert_categorical_equal.test_categorical_equal_codes_mismatch": [],
+    "pandas.tests.util.test_assert_categorical_equal.test_categorical_equal_ordered_mismatch": [],
+    "pandas.tests.util.test_assert_categorical_equal.test_categorical_equal_object_override": []
+}

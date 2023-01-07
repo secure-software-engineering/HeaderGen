@@ -1,0 +1,7 @@
+{
+    "numpy.f2py.tests.test_size._path": [],
+    "numpy.f2py.tests.test_size.TestSizeSumExample.test_all": [],
+    "numpy.f2py.tests.test_size.TestSizeSumExample.test_transpose": [],
+    "numpy.f2py.tests.test_size.TestSizeSumExample.test_flatten": [],
+    "numpy.f2py.tests.test_size.TestSizeSumExample": []
+}

@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.training.saving.functional_saver.sharded_filename": [],
+    "tensorflow.python.training.saving.functional_saver._SingleDeviceSaver.__init__": [],
+    "tensorflow.python.training.saving.functional_saver._SingleDeviceSaver.save": [],
+    "tensorflow.python.training.saving.functional_saver._SingleDeviceSaver.restore": [],
+    "tensorflow.python.training.saving.functional_saver.MultiDeviceSaver.__init__": [],
+    "tensorflow.python.training.saving.functional_saver.MultiDeviceSaver.to_proto": [],
+    "tensorflow.python.training.saving.functional_saver.MultiDeviceSaver._traced_save": [],
+    "tensorflow.python.training.saving.functional_saver.MultiDeviceSaver._traced_restore": [],
+    "tensorflow.python.training.saving.functional_saver.MultiDeviceSaver.save": [],
+    "tensorflow.python.training.saving.functional_saver.MultiDeviceSaver.restore": [],
+    "tensorflow.python.training.saving.functional_saver._SingleDeviceSaver": [],
+    "tensorflow.python.training.saving.functional_saver.MultiDeviceSaver": []
+}

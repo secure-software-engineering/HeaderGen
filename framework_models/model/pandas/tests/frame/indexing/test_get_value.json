@@ -1,0 +1,5 @@
+{
+    "pandas.tests.frame.indexing.test_get_value.TestGetValue.test_get_set_value_no_partial_indexing": [],
+    "pandas.tests.frame.indexing.test_get_value.TestGetValue.test_get_value": [],
+    "pandas.tests.frame.indexing.test_get_value.TestGetValue": []
+}

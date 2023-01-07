@@ -1,0 +1,13 @@
+{
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropEmptyRows": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropIncompleteRows": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropna": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_drop_and_dropna_caching": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropna_corner": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropna_multiple_axes": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropna_tz_aware_datetime": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropna_categorical_interval_index": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropna_with_duplicate_columns": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData.test_dropna_pos_args_deprecation": [],
+    "pandas.tests.frame.methods.test_dropna.TestDataFrameMissingData": []
+}

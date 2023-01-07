@@ -1,0 +1,15 @@
+{
+    "pandas.tests.io.excel.test_openpyxl.test_to_excel_styleconverter": [],
+    "pandas.tests.io.excel.test_openpyxl.test_write_cells_merge_styled": [],
+    "pandas.tests.io.excel.test_openpyxl.test_kwargs": [],
+    "pandas.tests.io.excel.test_openpyxl.test_engine_kwargs": [],
+    "pandas.tests.io.excel.test_openpyxl.test_write_append_mode": [],
+    "pandas.tests.io.excel.test_openpyxl.test_if_sheet_exists_append_modes": [],
+    "pandas.tests.io.excel.test_openpyxl.test_if_sheet_exists_raises": [],
+    "pandas.tests.io.excel.test_openpyxl.test_to_excel_with_openpyxl_engine": [],
+    "pandas.tests.io.excel.test_openpyxl.test_read_workbook": [],
+    "pandas.tests.io.excel.test_openpyxl.test_read_with_bad_dimension": [],
+    "pandas.tests.io.excel.test_openpyxl.test_append_mode_file": [],
+    "pandas.tests.io.excel.test_openpyxl.test_read_with_empty_trailing_rows": [],
+    "pandas.tests.io.excel.test_openpyxl.test_read_empty_with_blank_row": []
+}

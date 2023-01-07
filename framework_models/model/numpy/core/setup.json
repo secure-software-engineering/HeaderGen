@@ -1,0 +1,18 @@
+{
+    "numpy.core.setup.pythonlib_dir": [],
+    "numpy.core.setup.is_npy_no_signal": [],
+    "numpy.core.setup.is_npy_no_smp": [],
+    "numpy.core.setup.win32_checks": [],
+    "numpy.core.setup.check_math_capabilities": [],
+    "numpy.core.setup.check_complex": [],
+    "numpy.core.setup.check_ieee_macros": [],
+    "numpy.core.setup.check_types": [],
+    "numpy.core.setup.check_mathlib": [],
+    "numpy.core.setup.visibility_define": [],
+    "numpy.core.setup.configuration": [],
+    "numpy.core.setup.CallOnceOnly.__init__": [],
+    "numpy.core.setup.CallOnceOnly.check_types": [],
+    "numpy.core.setup.CallOnceOnly.check_ieee_macros": [],
+    "numpy.core.setup.CallOnceOnly.check_complex": [],
+    "numpy.core.setup.CallOnceOnly": []
+}

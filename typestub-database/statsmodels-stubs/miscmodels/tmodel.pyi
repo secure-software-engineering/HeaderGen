@@ -1,0 +1,23 @@
+from statsmodels.base.model import GenericLikelihoodModel as GenericLikelihoodModel
+from statsmodels.tsa.arma_mle import Arma as Arma
+from typing import Any
+
+np_log: Any
+np_pi: Any
+sps_gamln: Any
+
+class TLinearModel(GenericLikelihoodModel):
+    k_vars: Any
+    fix_df: bool
+    fixed_params: Any
+    fixed_paramsmask: Any
+    k_params: Any
+    def initialize(self) -> None: ...
+    def loglike(self, params): ...
+    def nloglikeobs(self, params): ...
+    def predict(self, params, exog: Any | None = ...): ...
+
+class TArma(Arma):
+    def loglike(self, params): ...
+    def nloglikeobs(self, params): ...
+    def fit_mle(self, order, start_params: Any | None = ..., method: str = ..., maxiter: int = ..., tol: float = ..., **kwds): ...

@@ -1,0 +1,6 @@
+{
+    "numpy.random.__RandomState_ctor": ["DATA_CLEANING_PREPARATION"],
+    "numpy.random.mtrand.RandomState.choice": ["DATA_CLEANING_PREPARATION"],
+    "numpy.random.mtrand.RandomState.permutation": ["DATA_CLEANING_PREPARATION"],
+    "numpy.random.mtrand.RandomState.shuffle": ["DATA_CLEANING_PREPARATION", "FEATURE_TRANSFORMATION"]
+}

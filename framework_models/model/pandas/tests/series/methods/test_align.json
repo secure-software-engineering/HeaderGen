@@ -1,0 +1,10 @@
+{
+    "pandas.tests.series.methods.test_align.test_align": [],
+    "pandas.tests.series.methods.test_align.test_align_fill_method": [],
+    "pandas.tests.series.methods.test_align.test_align_nocopy": [],
+    "pandas.tests.series.methods.test_align.test_align_same_index": [],
+    "pandas.tests.series.methods.test_align.test_align_multiindex": [],
+    "pandas.tests.series.methods.test_align.test_align_with_dataframe_method": [],
+    "pandas.tests.series.methods.test_align.test_align_dt64tzindex_mismatched_tzs": [],
+    "pandas.tests.series.methods.test_align.test_align_periodindex": []
+}

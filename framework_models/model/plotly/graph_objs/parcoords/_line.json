@@ -1,0 +1,17 @@
+{
+    "plotly.graph_objs.parcoords._line.Line.autocolorscale": [],
+    "plotly.graph_objs.parcoords._line.Line.cauto": [],
+    "plotly.graph_objs.parcoords._line.Line.cmax": [],
+    "plotly.graph_objs.parcoords._line.Line.cmid": [],
+    "plotly.graph_objs.parcoords._line.Line.cmin": [],
+    "plotly.graph_objs.parcoords._line.Line.color": [],
+    "plotly.graph_objs.parcoords._line.Line.coloraxis": [],
+    "plotly.graph_objs.parcoords._line.Line.colorbar": [],
+    "plotly.graph_objs.parcoords._line.Line.colorscale": [],
+    "plotly.graph_objs.parcoords._line.Line.colorsrc": [],
+    "plotly.graph_objs.parcoords._line.Line.reversescale": [],
+    "plotly.graph_objs.parcoords._line.Line.showscale": [],
+    "plotly.graph_objs.parcoords._line.Line._prop_descriptions": [],
+    "plotly.graph_objs.parcoords._line.Line.__init__": [],
+    "plotly.graph_objs.parcoords._line.Line": []
+}

@@ -1,0 +1,16 @@
+{
+    "pandas.tests.series.test_ufunc.arrays_for_binary_ufunc": [],
+    "pandas.tests.series.test_ufunc.test_unary_ufunc": [],
+    "pandas.tests.series.test_ufunc.test_binary_ufunc_with_array": [],
+    "pandas.tests.series.test_ufunc.test_binary_ufunc_with_index": [],
+    "pandas.tests.series.test_ufunc.test_binary_ufunc_with_series": [],
+    "pandas.tests.series.test_ufunc.test_binary_ufunc_scalar": [],
+    "pandas.tests.series.test_ufunc.test_multiple_output_binary_ufuncs": [],
+    "pandas.tests.series.test_ufunc.test_multiple_output_ufunc": [],
+    "pandas.tests.series.test_ufunc.test_binary_ufunc_drops_series_name": [],
+    "pandas.tests.series.test_ufunc.test_object_series_ok": [],
+    "pandas.tests.series.test_ufunc.test_reduce": [],
+    "pandas.tests.series.test_ufunc.test_binary_ufunc_other_types": [],
+    "pandas.tests.series.test_ufunc.test_object_dtype_ok": [],
+    "pandas.tests.series.test_ufunc.test_outer": []
+}

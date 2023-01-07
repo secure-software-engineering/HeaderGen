@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.multi.test_monotonic.test_is_monotonic_increasing": [],
+    "pandas.tests.indexes.multi.test_monotonic.test_is_monotonic_decreasing": [],
+    "pandas.tests.indexes.multi.test_monotonic.test_is_strictly_monotonic_increasing": [],
+    "pandas.tests.indexes.multi.test_monotonic.test_is_strictly_monotonic_decreasing": [],
+    "pandas.tests.indexes.multi.test_monotonic.test_is_monotonic_with_nans": []
+}

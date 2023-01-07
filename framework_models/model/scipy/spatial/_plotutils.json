@@ -1,0 +1,7 @@
+{
+    "scipy.spatial._plotutils._held_figure": [],
+    "scipy.spatial._plotutils._adjust_bounds": [],
+    "scipy.spatial._plotutils.delaunay_plot_2d": [],
+    "scipy.spatial._plotutils.convex_hull_plot_2d": [],
+    "scipy.spatial._plotutils.voronoi_plot_2d": []
+}

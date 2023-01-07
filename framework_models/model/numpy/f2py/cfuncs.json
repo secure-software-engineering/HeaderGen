@@ -1,0 +1,5 @@
+{
+    "numpy.f2py.cfuncs.buildcfuncs": [],
+    "numpy.f2py.cfuncs.append_needs": [],
+    "numpy.f2py.cfuncs.get_needs": []
+}

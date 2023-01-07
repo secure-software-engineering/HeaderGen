@@ -1,0 +1,11 @@
+{
+    "numpy.f2py.f2py2e.scaninputline": [],
+    "numpy.f2py.f2py2e.callcrackfortran": [],
+    "numpy.f2py.f2py2e.buildmodules": [],
+    "numpy.f2py.f2py2e.dict_append": [],
+    "numpy.f2py.f2py2e.run_main": [],
+    "numpy.f2py.f2py2e.filter_files": [],
+    "numpy.f2py.f2py2e.get_prefix": [],
+    "numpy.f2py.f2py2e.run_compile": [],
+    "numpy.f2py.f2py2e.main": []
+}

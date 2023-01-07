@@ -1,0 +1,12 @@
+{
+    "pandas.tests.window.moments.test_moments_rolling_apply.f": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_series": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_frame": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_time_rule_series": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_time_rule_frame": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_nans": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_min_periods": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_center": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_center_reindex_series": [],
+    "pandas.tests.window.moments.test_moments_rolling_apply.test_center_reindex_frame": []
+}

@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.data.experimental.ops.iterator_ops._convert_external_state_policy_to_enum": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.make_saveable_from_iterator": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.CheckpointInputPipelineHook.__init__": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.CheckpointInputPipelineHook.begin": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.CheckpointInputPipelineHook.after_create_session": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.CheckpointInputPipelineHook._restore_or_save_initial_ckpt": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.CheckpointInputPipelineHook.before_run": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.CheckpointInputPipelineHook.after_run": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.CheckpointInputPipelineHook.end": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops._CustomSaver.__init__": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops._CustomSaver.save": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops.CheckpointInputPipelineHook": [],
+    "tensorflow.python.data.experimental.ops.iterator_ops._CustomSaver": []
+}

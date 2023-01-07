@@ -1,0 +1,8 @@
+{
+    "sklearn.datasets._lfw._check_fetch_lfw": [],
+    "sklearn.datasets._lfw._load_imgs": [],
+    "sklearn.datasets._lfw._fetch_lfw_people": [],
+    "sklearn.datasets._lfw.fetch_lfw_people": [],
+    "sklearn.datasets._lfw._fetch_lfw_pairs": [],
+    "sklearn.datasets._lfw.fetch_lfw_pairs": []
+}

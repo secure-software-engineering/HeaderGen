@@ -1,0 +1,16 @@
+{
+    "pandas.tests.groupby.aggregate.test_cython.test_cythonized_aggers": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_boolean": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_nothing_to_agg": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_nothing_to_agg_with_dates": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_frame_columns": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_return_dict": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_fail_agg": [],
+    "pandas.tests.groupby.aggregate.test_cython.test__cython_agg_general": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_empty_buckets": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_empty_buckets_nanops": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_with_timestamp_and_nat": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_read_only_buffer_source_agg": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_nullable_int": [],
+    "pandas.tests.groupby.aggregate.test_cython.test_cython_agg_EA_known_dtypes": []
+}

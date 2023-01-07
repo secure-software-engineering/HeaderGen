@@ -1,0 +1,7 @@
+{
+    "pandas.core.dtypes.concat.cast_to_common_type": [],
+    "pandas.core.dtypes.concat.concat_compat": [],
+    "pandas.core.dtypes.concat.union_categoricals": [],
+    "pandas.core.dtypes.concat._concatenate_2d": [],
+    "pandas.core.dtypes.concat._concat_datetime": []
+}

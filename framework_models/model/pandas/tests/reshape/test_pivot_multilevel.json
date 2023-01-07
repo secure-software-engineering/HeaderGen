@@ -1,0 +1,5 @@
+{
+    "pandas.tests.reshape.test_pivot_multilevel.test_pivot_list_like_index": [],
+    "pandas.tests.reshape.test_pivot_multilevel.test_pivot_list_like_columns": [],
+    "pandas.tests.reshape.test_pivot_multilevel.test_pivot_multiindexed_rows_and_cols": []
+}

@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.ops.string_ops.regex_full_match": [],
+    "tensorflow.python.ops.string_ops.regex_replace": [],
+    "tensorflow.python.ops.string_ops.string_format": [],
+    "tensorflow.python.ops.string_ops.string_split": [],
+    "tensorflow.python.ops.string_ops.string_split_v2": [],
+    "tensorflow.python.ops.string_ops._reduce_join_reduction_dims": [],
+    "tensorflow.python.ops.string_ops.reduce_join": [],
+    "tensorflow.python.ops.string_ops.reduce_join_v2": [],
+    "tensorflow.python.ops.string_ops.string_length": [],
+    "tensorflow.python.ops.string_ops.string_length_v2": [],
+    "tensorflow.python.ops.string_ops.substr_deprecated": [],
+    "tensorflow.python.ops.string_ops.substr": [],
+    "tensorflow.python.ops.string_ops.substr_v2": [],
+    "tensorflow.python.ops.string_ops.string_to_number": [],
+    "tensorflow.python.ops.string_ops.string_to_number_v1": [],
+    "tensorflow.python.ops.string_ops.string_to_hash_bucket": [],
+    "tensorflow.python.ops.string_ops.string_to_hash_bucket_v1": [],
+    "tensorflow.python.ops.string_ops.string_join": []
+}

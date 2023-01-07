@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_util.convert_nonref_to_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.base_dtype": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.dtype_name": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.check_dtype": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.is_ref": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.assert_not_ref_type": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.assert_no_entries_with_modulus_zero": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.assert_zero_imag_part": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.assert_compatible_matrix_dimensions": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.assert_is_batch_matrix": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.broadcast_matrix_batch_dims": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.matrix_solve_with_broadcast": [],
+    "tensorflow.python.ops.linalg.linear_operator_util._reshape_for_efficiency": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.use_operator_or_provided_hint_unless_contradicting": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.arg_is_blockwise": [],
+    "tensorflow.python.ops.linalg.linear_operator_util.split_arg_into_blocks": []
+}

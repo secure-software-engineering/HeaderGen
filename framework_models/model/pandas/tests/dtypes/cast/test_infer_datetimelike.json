@@ -1,0 +1,4 @@
+{
+    "pandas.tests.dtypes.cast.test_infer_datetimelike.test_maybe_infer_to_datetimelike_df_construct": [],
+    "pandas.tests.dtypes.cast.test_infer_datetimelike.test_maybe_infer_to_datetimelike_ser_construct": []
+}

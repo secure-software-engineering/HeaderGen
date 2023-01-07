@@ -1,0 +1,5 @@
+{
+    "pandas.tests.series.accessors.test_str_accessor.TestStrAccessor.test_str_attribute": [],
+    "pandas.tests.series.accessors.test_str_accessor.TestStrAccessor.test_str_accessor_updates_on_inplace": [],
+    "pandas.tests.series.accessors.test_str_accessor.TestStrAccessor": []
+}

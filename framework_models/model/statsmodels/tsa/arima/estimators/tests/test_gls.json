@@ -1,0 +1,12 @@
+{
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_brockwell_davis_example_661": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_brockwell_davis_example_662": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_integrated": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_integrated_invalid": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_results": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_iterations": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_misc": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_alternate_arma_estimators_valid": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_alternate_arma_estimators_invalid": [],
+    "statsmodels.tsa.arima.estimators.tests.test_gls.test_arma_kwargs": []
+}

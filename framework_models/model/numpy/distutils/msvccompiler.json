@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.msvccompiler._merge": [],
+    "numpy.distutils.msvccompiler.MSVCCompiler.__init__": [],
+    "numpy.distutils.msvccompiler.MSVCCompiler.initialize": [],
+    "numpy.distutils.msvccompiler.MSVCCompiler": []
+}

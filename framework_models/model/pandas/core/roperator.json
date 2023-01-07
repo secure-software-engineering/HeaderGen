@@ -1,0 +1,14 @@
+{
+    "pandas.core.roperator.radd": [],
+    "pandas.core.roperator.rsub": [],
+    "pandas.core.roperator.rmul": [],
+    "pandas.core.roperator.rdiv": [],
+    "pandas.core.roperator.rtruediv": [],
+    "pandas.core.roperator.rfloordiv": [],
+    "pandas.core.roperator.rmod": [],
+    "pandas.core.roperator.rdivmod": [],
+    "pandas.core.roperator.rpow": [],
+    "pandas.core.roperator.rand_": [],
+    "pandas.core.roperator.ror_": [],
+    "pandas.core.roperator.rxor": []
+}

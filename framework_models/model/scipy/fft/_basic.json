@@ -1,0 +1,22 @@
+{
+    "scipy.fft._basic._x_replacer": [],
+    "scipy.fft._basic._dispatch": [],
+    "scipy.fft._basic.fft": [],
+    "scipy.fft._basic.ifft": [],
+    "scipy.fft._basic.rfft": [],
+    "scipy.fft._basic.irfft": [],
+    "scipy.fft._basic.hfft": [],
+    "scipy.fft._basic.ihfft": [],
+    "scipy.fft._basic.fftn": [],
+    "scipy.fft._basic.ifftn": [],
+    "scipy.fft._basic.fft2": [],
+    "scipy.fft._basic.ifft2": [],
+    "scipy.fft._basic.rfftn": [],
+    "scipy.fft._basic.rfft2": [],
+    "scipy.fft._basic.irfftn": [],
+    "scipy.fft._basic.irfft2": [],
+    "scipy.fft._basic.hfftn": [],
+    "scipy.fft._basic.hfft2": [],
+    "scipy.fft._basic.ihfftn": [],
+    "scipy.fft._basic.ihfft2": []
+}

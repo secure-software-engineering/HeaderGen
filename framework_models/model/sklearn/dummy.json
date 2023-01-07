@@ -1,0 +1,18 @@
+{
+    "sklearn.dummy.DummyClassifier.__init__": [],
+    "sklearn.dummy.DummyClassifier.fit": [],
+    "sklearn.dummy.DummyClassifier.predict": [],
+    "sklearn.dummy.DummyClassifier.predict_proba": [],
+    "sklearn.dummy.DummyClassifier.predict_log_proba": [],
+    "sklearn.dummy.DummyClassifier._more_tags": [],
+    "sklearn.dummy.DummyClassifier.score": [],
+    "sklearn.dummy.DummyClassifier.n_features_in_": [],
+    "sklearn.dummy.DummyRegressor.__init__": [],
+    "sklearn.dummy.DummyRegressor.fit": [],
+    "sklearn.dummy.DummyRegressor.predict": [],
+    "sklearn.dummy.DummyRegressor._more_tags": [],
+    "sklearn.dummy.DummyRegressor.score": [],
+    "sklearn.dummy.DummyRegressor.n_features_in_": [],
+    "sklearn.dummy.DummyClassifier": [],
+    "sklearn.dummy.DummyRegressor": []
+}

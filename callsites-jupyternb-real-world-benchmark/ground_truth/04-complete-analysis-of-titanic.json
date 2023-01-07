@@ -1,0 +1,124 @@
+{
+    "1": [
+        "os.walk",
+        "os.path.join",
+        "<builtin>.print"
+    ],
+    "3": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "4": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "5": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "6": [
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum",
+        "pandas.core.frame.DataFrame.isnull"
+    ],
+    "7": [
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum",
+        "pandas.core.frame.DataFrame.isnull"
+    ],
+    "8": [
+        "pandas.core.base.IndexOpsMixin.value_counts",
+        "pandas.core.frame.DataFrame",
+        "pandas.plotting._core.PlotAccessor"
+    ],
+    "9": [
+        "04-complete-analysis-of-titanic.bar_chart:8",
+        "pandas.core.base.IndexOpsMixin.value_counts",
+        "pandas.core.frame.DataFrame",
+        "pandas.plotting._core.PlotAccessor"
+    ],
+    "10": [
+        "04-complete-analysis-of-titanic.bar_chart:8",
+        "pandas.core.base.IndexOpsMixin.value_counts",
+        "pandas.core.frame.DataFrame",
+        "pandas.plotting._core.PlotAccessor"
+    ],
+    "11": [
+        "04-complete-analysis-of-titanic.bar_chart:8",
+        "pandas.core.base.IndexOpsMixin.value_counts",
+        "pandas.core.frame.DataFrame",
+        "pandas.plotting._core.PlotAccessor"
+    ],
+    "12": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "13": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "14": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "17": [
+        "pandas.core.series.Series.fillna",
+        "pandas.core.series.Series.mode"
+    ],
+    "18": [
+        "seaborn.matrix.heatmap",
+        "pandas.core.frame.DataFrame.isnull"
+    ],
+    "19": [
+        "seaborn.matrix.heatmap",
+        "pandas.core.frame.DataFrame.isnull"
+    ],
+    "20": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "21": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "22": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "25": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "26": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "28": [
+        "sklearn.model_selection._split.train_test_split"
+    ],
+    "29": [
+        "pandas.core.frame.DataFrame.isnull",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum"
+    ],
+    "31": [
+        "pandas.core.generic.NDFrame.astype"
+    ],
+    "32": [
+        "pandas.core.frame.DataFrame.isnull",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum"
+    ],
+    "34": [
+        "sklearn.preprocessing._data.StandardScaler",
+        "sklearn.base.TransformerMixin.fit_transform"
+    ],
+    "36": [
+        "sklearn.preprocessing._data.StandardScaler",
+        "sklearn.base.TransformerMixin.fit_transform",
+        "sklearn.preprocessing._data.StandardScaler.transform"
+    ],
+    "38": [
+        "keras.engine.sequential.Sequential",
+        "keras.engine.sequential.Sequential.add",
+        "keras.layers.core.dense.Dense",
+        "keras.engine.training.Model.compile"
+    ],
+    "39": [
+        "keras.engine.training.Model.fit"
+    ],
+    "40": [
+        "keras.engine.training.Model.predict",
+        "numpy.ndarray.astype",
+        "numpy.asarray"
+    ],
+    "42": [
+        "pandas.core.frame.DataFrame",
+        "pandas.core.generic.NDFrame.to_csv"
+    ]
+}

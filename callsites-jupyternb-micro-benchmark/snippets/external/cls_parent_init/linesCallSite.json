@@ -1,0 +1,12 @@
+{
+  "5": [
+    "pycg_external_module.ext.ParentInit:12.parent_fun:16"
+  ],
+  "8": [
+    "pycg_external_module.ext.ParentInit:12.__init__:13"
+  ],
+  "9": [
+    "main.A_3.fn:4",
+    "pycg_external_module.ext.ParentInit:12.parent_fun:16"
+  ]  
+}

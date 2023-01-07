@@ -1,0 +1,19 @@
+{
+    "plotly.graph_objs.scatter3d._line.Line.autocolorscale": [],
+    "plotly.graph_objs.scatter3d._line.Line.cauto": [],
+    "plotly.graph_objs.scatter3d._line.Line.cmax": [],
+    "plotly.graph_objs.scatter3d._line.Line.cmid": [],
+    "plotly.graph_objs.scatter3d._line.Line.cmin": [],
+    "plotly.graph_objs.scatter3d._line.Line.color": [],
+    "plotly.graph_objs.scatter3d._line.Line.coloraxis": [],
+    "plotly.graph_objs.scatter3d._line.Line.colorbar": [],
+    "plotly.graph_objs.scatter3d._line.Line.colorscale": [],
+    "plotly.graph_objs.scatter3d._line.Line.colorsrc": [],
+    "plotly.graph_objs.scatter3d._line.Line.dash": [],
+    "plotly.graph_objs.scatter3d._line.Line.reversescale": [],
+    "plotly.graph_objs.scatter3d._line.Line.showscale": [],
+    "plotly.graph_objs.scatter3d._line.Line.width": [],
+    "plotly.graph_objs.scatter3d._line.Line._prop_descriptions": [],
+    "plotly.graph_objs.scatter3d._line.Line.__init__": [],
+    "plotly.graph_objs.scatter3d._line.Line": []
+}

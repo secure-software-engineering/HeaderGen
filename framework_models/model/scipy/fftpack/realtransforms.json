@@ -1,0 +1,10 @@
+{
+    "scipy.fftpack.realtransforms.dctn": [],
+    "scipy.fftpack.realtransforms.idctn": [],
+    "scipy.fftpack.realtransforms.dstn": [],
+    "scipy.fftpack.realtransforms.idstn": [],
+    "scipy.fftpack.realtransforms.dct": [],
+    "scipy.fftpack.realtransforms.idct": [],
+    "scipy.fftpack.realtransforms.dst": [],
+    "scipy.fftpack.realtransforms.idst": []
+}

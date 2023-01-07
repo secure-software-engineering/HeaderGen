@@ -1,0 +1,6 @@
+{
+    "pandas.tests.frame.methods.test_pipe.TestPipe.test_pipe": [],
+    "pandas.tests.frame.methods.test_pipe.TestPipe.test_pipe_tuple": [],
+    "pandas.tests.frame.methods.test_pipe.TestPipe.test_pipe_tuple_error": [],
+    "pandas.tests.frame.methods.test_pipe.TestPipe": []
+}

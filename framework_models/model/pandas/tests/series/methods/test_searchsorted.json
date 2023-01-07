@@ -1,0 +1,10 @@
+{
+    "pandas.tests.series.methods.test_searchsorted.TestSeriesSearchSorted.test_searchsorted": [],
+    "pandas.tests.series.methods.test_searchsorted.TestSeriesSearchSorted.test_searchsorted_numeric_dtypes_scalar": [],
+    "pandas.tests.series.methods.test_searchsorted.TestSeriesSearchSorted.test_searchsorted_numeric_dtypes_vector": [],
+    "pandas.tests.series.methods.test_searchsorted.TestSeriesSearchSorted.test_searchsorted_datetime64_scalar": [],
+    "pandas.tests.series.methods.test_searchsorted.TestSeriesSearchSorted.test_searchsorted_datetime64_scalar_mixed_timezones": [],
+    "pandas.tests.series.methods.test_searchsorted.TestSeriesSearchSorted.test_searchsorted_datetime64_list": [],
+    "pandas.tests.series.methods.test_searchsorted.TestSeriesSearchSorted.test_searchsorted_sorter": [],
+    "pandas.tests.series.methods.test_searchsorted.TestSeriesSearchSorted": []
+}

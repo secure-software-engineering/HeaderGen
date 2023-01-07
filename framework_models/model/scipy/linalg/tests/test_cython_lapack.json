@@ -1,0 +1,5 @@
+{
+    "scipy.linalg.tests.test_cython_lapack.TestLamch.test_slamch": [],
+    "scipy.linalg.tests.test_cython_lapack.TestLamch.test_dlamch": [],
+    "scipy.linalg.tests.test_cython_lapack.TestLamch": []
+}

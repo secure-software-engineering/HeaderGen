@@ -1,0 +1,6 @@
+{
+    "scipy.fft.tests.mock_backend.__ua_function__": [],
+    "scipy.fft.tests.mock_backend._MockFunction.__init__": [],
+    "scipy.fft.tests.mock_backend._MockFunction.__call__": [],
+    "scipy.fft.tests.mock_backend._MockFunction": []
+}

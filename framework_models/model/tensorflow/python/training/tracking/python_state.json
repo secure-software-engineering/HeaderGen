@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.training.tracking.python_state.PythonState.serialize": [],
+    "tensorflow.python.training.tracking.python_state.PythonState.deserialize": [],
+    "tensorflow.python.training.tracking.python_state.PythonState._gather_saveables_for_checkpoint": [],
+    "tensorflow.python.training.tracking.python_state.PythonState": []
+}

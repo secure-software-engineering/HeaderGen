@@ -1,0 +1,6 @@
+{
+    "pandas.core.array_algos.quantile.quantile_compat": [],
+    "pandas.core.array_algos.quantile._quantile_with_mask": [],
+    "pandas.core.array_algos.quantile._quantile_ea_compat": [],
+    "pandas.core.array_algos.quantile._quantile_ea_fallback": []
+}

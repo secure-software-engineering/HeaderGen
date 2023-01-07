@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.keras.layers.kernelized._get_random_features_initializer": [],
+    "tensorflow.python.keras.layers.kernelized._get_default_scale": [],
+    "tensorflow.python.keras.layers.kernelized.RandomFourierFeatures.__init__": [],
+    "tensorflow.python.keras.layers.kernelized.RandomFourierFeatures.build": [],
+    "tensorflow.python.keras.layers.kernelized.RandomFourierFeatures.call": [],
+    "tensorflow.python.keras.layers.kernelized.RandomFourierFeatures.compute_output_shape": [],
+    "tensorflow.python.keras.layers.kernelized.RandomFourierFeatures.get_config": [],
+    "tensorflow.python.keras.layers.kernelized.RandomFourierFeatures": []
+}

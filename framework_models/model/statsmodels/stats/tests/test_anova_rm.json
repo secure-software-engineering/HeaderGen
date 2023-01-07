@@ -1,0 +1,13 @@
+{
+    "statsmodels.stats.tests.test_anova_rm.test_single_factor_repeated_measures_anova": [],
+    "statsmodels.stats.tests.test_anova_rm.test_two_factors_repeated_measures_anova": [],
+    "statsmodels.stats.tests.test_anova_rm.test_three_factors_repeated_measures_anova": [],
+    "statsmodels.stats.tests.test_anova_rm.test_repeated_measures_invalid_factor_name": [],
+    "statsmodels.stats.tests.test_anova_rm.test_repeated_measures_collinearity": [],
+    "statsmodels.stats.tests.test_anova_rm.test_repeated_measures_unbalanced_data": [],
+    "statsmodels.stats.tests.test_anova_rm.test_repeated_measures_aggregation": [],
+    "statsmodels.stats.tests.test_anova_rm.test_repeated_measures_aggregation_one_subject_duplicated": [],
+    "statsmodels.stats.tests.test_anova_rm.test_repeated_measures_aggregate_func": [],
+    "statsmodels.stats.tests.test_anova_rm.test_repeated_measures_aggregate_func_mean": [],
+    "statsmodels.stats.tests.test_anova_rm.test_repeated_measures_aggregate_compare_with_ezANOVA": []
+}

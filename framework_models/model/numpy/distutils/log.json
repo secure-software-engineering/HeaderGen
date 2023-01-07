@@ -1,0 +1,9 @@
+{
+    "numpy.distutils.log._fix_args": [],
+    "numpy.distutils.log.set_threshold": [],
+    "numpy.distutils.log.get_threshold": [],
+    "numpy.distutils.log.set_verbosity": [],
+    "numpy.distutils.log.Log._log": [],
+    "numpy.distutils.log.Log.good": [],
+    "numpy.distutils.log.Log": []
+}

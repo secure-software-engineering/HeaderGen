@@ -1,0 +1,16 @@
+{
+    "numpy.distutils.fcompiler.pg.PGroupFCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.pg.PGroupFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.pg.PGroupFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.pg.PGroupFCompiler.runtime_library_dir_option": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler.get_libraries": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler.get_library_dirs": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler.get_flags_free": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler.get_flags_arch": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler.runtime_library_dir_option": [],
+    "numpy.distutils.fcompiler.pg.PGroupFCompiler": [],
+    "numpy.distutils.fcompiler.pg.PGroupFlangCompiler": []
+}

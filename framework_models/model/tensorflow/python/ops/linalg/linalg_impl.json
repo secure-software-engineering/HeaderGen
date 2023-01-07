@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.ops.linalg.linalg_impl.logdet": [],
+    "tensorflow.python.ops.linalg.linalg_impl.adjoint": [],
+    "tensorflow.python.ops.linalg.linalg_impl._matrix_exp_pade3": [],
+    "tensorflow.python.ops.linalg.linalg_impl._matrix_exp_pade5": [],
+    "tensorflow.python.ops.linalg.linalg_impl._matrix_exp_pade7": [],
+    "tensorflow.python.ops.linalg.linalg_impl._matrix_exp_pade9": [],
+    "tensorflow.python.ops.linalg.linalg_impl._matrix_exp_pade13": [],
+    "tensorflow.python.ops.linalg.linalg_impl.matrix_exponential": [],
+    "tensorflow.python.ops.linalg.linalg_impl.banded_triangular_solve": [],
+    "tensorflow.python.ops.linalg.linalg_impl.tridiagonal_solve": [],
+    "tensorflow.python.ops.linalg.linalg_impl._tridiagonal_solve_compact_format": [],
+    "tensorflow.python.ops.linalg.linalg_impl.tridiagonal_matmul": [],
+    "tensorflow.python.ops.linalg.linalg_impl._maybe_validate_matrix": [],
+    "tensorflow.python.ops.linalg.linalg_impl.matrix_rank": [],
+    "tensorflow.python.ops.linalg.linalg_impl.pinv": [],
+    "tensorflow.python.ops.linalg.linalg_impl.lu_solve": [],
+    "tensorflow.python.ops.linalg.linalg_impl.lu_matrix_inverse": [],
+    "tensorflow.python.ops.linalg.linalg_impl.lu_reconstruct": [],
+    "tensorflow.python.ops.linalg.linalg_impl.lu_reconstruct_assertions": [],
+    "tensorflow.python.ops.linalg.linalg_impl._lu_solve_assertions": [],
+    "tensorflow.python.ops.linalg.linalg_impl.eigh_tridiagonal": []
+}

@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN.__init__": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN.call": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN.get_config": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN.from_config": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN.trainable_weights": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN.non_trainable_weights": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN.losses": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN.get_losses_for": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNGRU.__init__": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNGRU.cell": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNGRU.build": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNGRU._process_batch": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNGRU.get_config": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNLSTM.__init__": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNLSTM.cell": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNLSTM.build": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNLSTM._process_batch": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNLSTM.get_config": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent._CuDNNRNN": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNGRU": [],
+    "tensorflow.python.keras.layers.cudnn_recurrent.CuDNNLSTM": []
+}

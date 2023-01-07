@@ -1,0 +1,17 @@
+{
+    "statsmodels.stats.tests.test_nonparametric._expand_table": [],
+    "statsmodels.stats.tests.test_nonparametric.test_mcnemar_exact": [],
+    "statsmodels.stats.tests.test_nonparametric.test_mcnemar_chisquare": [],
+    "statsmodels.stats.tests.test_nonparametric.test_mcnemar_vectorized": [],
+    "statsmodels.stats.tests.test_nonparametric.test_symmetry_bowker": [],
+    "statsmodels.stats.tests.test_nonparametric.test_cochransq": [],
+    "statsmodels.stats.tests.test_nonparametric.test_cochransq2": [],
+    "statsmodels.stats.tests.test_nonparametric.test_cochransq3": [],
+    "statsmodels.stats.tests.test_nonparametric.test_runstest": [],
+    "statsmodels.stats.tests.test_nonparametric.test_runstest_2sample": [],
+    "statsmodels.stats.tests.test_nonparametric.test_brunnermunzel_one_sided": [],
+    "statsmodels.stats.tests.test_nonparametric.test_brunnermunzel_two_sided": [],
+    "statsmodels.stats.tests.test_nonparametric.test_rank_compare_2indep1": [],
+    "statsmodels.stats.tests.test_nonparametric.test_rank_compare_ord": [],
+    "statsmodels.stats.tests.test_nonparametric.test_rank_compare_vectorized": []
+}

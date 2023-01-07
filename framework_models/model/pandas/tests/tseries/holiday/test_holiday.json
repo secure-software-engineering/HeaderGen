@@ -1,0 +1,10 @@
+{
+    "pandas.tests.tseries.holiday.test_holiday._check_holiday_results": [],
+    "pandas.tests.tseries.holiday.test_holiday.test_holiday_dates": [],
+    "pandas.tests.tseries.holiday.test_holiday.test_holidays_within_dates": [],
+    "pandas.tests.tseries.holiday.test_holiday.test_argument_types": [],
+    "pandas.tests.tseries.holiday.test_holiday.test_special_holidays": [],
+    "pandas.tests.tseries.holiday.test_holiday.test_get_calendar": [],
+    "pandas.tests.tseries.holiday.test_holiday.test_factory": [],
+    "pandas.tests.tseries.holiday.test_holiday.test_both_offset_observance_raises": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.util._print_versions._get_commit_hash": [],
+    "pandas.util._print_versions._get_sys_info": [],
+    "pandas.util._print_versions._get_dependency_info": [],
+    "pandas.util._print_versions.show_versions": [],
+    "pandas.util._print_versions.main": []
+}

@@ -1,0 +1,11 @@
+{
+    "pandas.tests.window.test_pairwise.TestPairwise.test_no_flex": [],
+    "pandas.tests.window.test_pairwise.TestPairwise.test_pairwise_with_self": [],
+    "pandas.tests.window.test_pairwise.TestPairwise.test_no_pairwise_with_self": [],
+    "pandas.tests.window.test_pairwise.TestPairwise.test_pairwise_with_other": [],
+    "pandas.tests.window.test_pairwise.TestPairwise.test_no_pairwise_with_other": [],
+    "pandas.tests.window.test_pairwise.TestPairwise.test_pairwise_with_series": [],
+    "pandas.tests.window.test_pairwise.TestPairwise.test_corr_freq_memory_error": [],
+    "pandas.tests.window.test_pairwise.TestPairwise.test_cov_mulittindex": [],
+    "pandas.tests.window.test_pairwise.TestPairwise": []
+}

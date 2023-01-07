@@ -1,0 +1,6 @@
+{
+    "scipy._lib._gcutils.set_gc_state": [],
+    "scipy._lib._gcutils.gc_state": [],
+    "scipy._lib._gcutils.assert_deallocated": [],
+    "scipy._lib._gcutils.ReferenceError": []
+}

@@ -1,0 +1,16 @@
+{
+    "numpy.core.tests.test_extint128.exc_iter": [],
+    "numpy.core.tests.test_extint128.test_safe_binop": [],
+    "numpy.core.tests.test_extint128.test_to_128": [],
+    "numpy.core.tests.test_extint128.test_to_64": [],
+    "numpy.core.tests.test_extint128.test_mul_64_64": [],
+    "numpy.core.tests.test_extint128.test_add_128": [],
+    "numpy.core.tests.test_extint128.test_sub_128": [],
+    "numpy.core.tests.test_extint128.test_neg_128": [],
+    "numpy.core.tests.test_extint128.test_shl_128": [],
+    "numpy.core.tests.test_extint128.test_shr_128": [],
+    "numpy.core.tests.test_extint128.test_gt_128": [],
+    "numpy.core.tests.test_extint128.test_divmod_128_64": [],
+    "numpy.core.tests.test_extint128.test_floordiv_128_64": [],
+    "numpy.core.tests.test_extint128.test_ceildiv_128_64": []
+}

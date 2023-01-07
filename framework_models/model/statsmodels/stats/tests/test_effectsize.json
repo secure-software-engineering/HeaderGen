@@ -1,0 +1,5 @@
+{
+    "statsmodels.stats.tests.test_effectsize.test_noncent_chi2": [],
+    "statsmodels.stats.tests.test_effectsize.test_noncent_f": [],
+    "statsmodels.stats.tests.test_effectsize.test_noncent_t": []
+}

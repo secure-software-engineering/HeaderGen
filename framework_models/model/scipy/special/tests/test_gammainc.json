@@ -1,0 +1,20 @@
+{
+    "scipy.special.tests.test_gammainc.TestGammainc.test_domain": [],
+    "scipy.special.tests.test_gammainc.TestGammainc.test_a_eq_0_x_gt_0": [],
+    "scipy.special.tests.test_gammainc.TestGammainc.test_infinite_arguments": [],
+    "scipy.special.tests.test_gammainc.TestGammainc.test_infinite_limits": [],
+    "scipy.special.tests.test_gammainc.TestGammainc.test_x_zero": [],
+    "scipy.special.tests.test_gammainc.TestGammainc.test_limit_check": [],
+    "scipy.special.tests.test_gammainc.TestGammainc.gammainc_line": [],
+    "scipy.special.tests.test_gammainc.TestGammainc.test_line": [],
+    "scipy.special.tests.test_gammainc.TestGammainc.test_roundtrip": [],
+    "scipy.special.tests.test_gammainc.TestGammaincc.test_domain": [],
+    "scipy.special.tests.test_gammainc.TestGammaincc.test_a_eq_0_x_gt_0": [],
+    "scipy.special.tests.test_gammainc.TestGammaincc.test_infinite_arguments": [],
+    "scipy.special.tests.test_gammainc.TestGammaincc.test_infinite_limits": [],
+    "scipy.special.tests.test_gammainc.TestGammaincc.test_limit_check": [],
+    "scipy.special.tests.test_gammainc.TestGammaincc.test_x_zero": [],
+    "scipy.special.tests.test_gammainc.TestGammaincc.test_roundtrip": [],
+    "scipy.special.tests.test_gammainc.TestGammainc": [],
+    "scipy.special.tests.test_gammainc.TestGammaincc": []
+}

@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.autograph.pyct.inspect_utils.islambda": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.isnamedtuple": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.isbuiltin": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.isconstructor": [],
+    "tensorflow.python.autograph.pyct.inspect_utils._fix_linecache_record": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.getimmediatesource": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.getnamespace": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.getqualifiedname": [],
+    "tensorflow.python.autograph.pyct.inspect_utils._get_unbound_function": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.getdefiningclass": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.getmethodclass": [],
+    "tensorflow.python.autograph.pyct.inspect_utils.getfutureimports": []
+}

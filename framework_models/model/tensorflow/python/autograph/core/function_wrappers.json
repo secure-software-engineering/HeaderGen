@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.autograph.core.function_wrappers.with_function_scope": [],
+    "tensorflow.python.autograph.core.function_wrappers.FunctionScope.__init__": [],
+    "tensorflow.python.autograph.core.function_wrappers.FunctionScope._sanitize": [],
+    "tensorflow.python.autograph.core.function_wrappers.FunctionScope.__enter__": [],
+    "tensorflow.python.autograph.core.function_wrappers.FunctionScope.__exit__": [],
+    "tensorflow.python.autograph.core.function_wrappers.FunctionScope.ret": [],
+    "tensorflow.python.autograph.core.function_wrappers.FunctionScope": []
+}

@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.copper.data._get_data": [],
+    "statsmodels.datasets.copper.data.load_pandas": [],
+    "statsmodels.datasets.copper.data.load": []
+}

@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.framework.extension_type_field.validate_field_value_type": [],
+    "tensorflow.python.framework.extension_type_field.convert_fields": [],
+    "tensorflow.python.framework.extension_type_field.convert_fields_for_spec": [],
+    "tensorflow.python.framework.extension_type_field._convert_fields": [],
+    "tensorflow.python.framework.extension_type_field._convert_value": [],
+    "tensorflow.python.framework.extension_type_field._convert_tensor": [],
+    "tensorflow.python.framework.extension_type_field._convert_composite_tensor": [],
+    "tensorflow.python.framework.extension_type_field._convert_tuple": [],
+    "tensorflow.python.framework.extension_type_field._convert_mapping": [],
+    "tensorflow.python.framework.extension_type_field._convert_union": [],
+    "tensorflow.python.framework.extension_type_field._report_field_mismatches": [],
+    "tensorflow.python.framework.extension_type_field.Sentinel.__init__": [],
+    "tensorflow.python.framework.extension_type_field.Sentinel.__repr__": [],
+    "tensorflow.python.framework.extension_type_field.ExtensionTypeField.__new__": [],
+    "tensorflow.python.framework.extension_type_field.ExtensionTypeField.is_reserved_name": [],
+    "tensorflow.python.framework.extension_type_field.Sentinel": [],
+    "tensorflow.python.framework.extension_type_field.ExtensionTypeField": [],
+    "tensorflow.python.framework.extension_type_field._ConversionContext": []
+}

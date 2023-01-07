@@ -1,0 +1,4 @@
+{
+    "pandas.tests.series.indexing.test_take.test_take": [],
+    "pandas.tests.series.indexing.test_take.test_take_categorical": []
+}

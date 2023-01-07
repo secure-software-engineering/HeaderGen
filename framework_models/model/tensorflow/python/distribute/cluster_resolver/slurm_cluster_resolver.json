@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.expand_hostlist": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.expand_tasks_per_node": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver._get_slurm_var": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver._get_num_slurm_tasks": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver._get_num_nvidia_gpus": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.get_num_gpus": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver.__init__": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver._resolve_own_rank": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver._resolve_num_tasks": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver._resolve_hostlist": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver._resolve_task_configuration": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver.cluster_spec": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver.get_task_info": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver.master": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver.num_accelerators": [],
+    "tensorflow.python.distribute.cluster_resolver.slurm_cluster_resolver.SlurmClusterResolver": []
+}

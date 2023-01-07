@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.training.py_checkpoint_reader.error_translator": [],
+    "tensorflow.python.training.py_checkpoint_reader.get_variable_to_dtype_map": [],
+    "tensorflow.python.training.py_checkpoint_reader.has_tensor": [],
+    "tensorflow.python.training.py_checkpoint_reader.get_tensor": [],
+    "tensorflow.python.training.py_checkpoint_reader.NewCheckpointReader": []
+}

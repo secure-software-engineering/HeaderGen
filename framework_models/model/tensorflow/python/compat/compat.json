@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.compat.compat._date_to_date_number": [],
+    "tensorflow.python.compat.compat._update_forward_compatibility_date_number": [],
+    "tensorflow.python.compat.compat.forward_compatible": [],
+    "tensorflow.python.compat.compat.forward_compatibility_horizon": []
+}

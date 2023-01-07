@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.keras.layers.preprocessing.table_utils.num_tokens_in_file": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.get_vocabulary_from_file": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.find_repeated_tokens": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler.__init__": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler.table_size": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler.clear": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler.insert": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler._replace_oov_buckets": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler._lookup_and_mask": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler._ragged_lookup": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler._sparse_lookup": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler._tensor_lookup": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler.lookup": [],
+    "tensorflow.python.keras.layers.preprocessing.table_utils.TableHandler": []
+}

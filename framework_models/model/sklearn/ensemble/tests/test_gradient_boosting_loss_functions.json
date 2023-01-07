@@ -1,0 +1,13 @@
+{
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_binomial_deviance": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_sample_weight_smoke": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_sample_weight_init_estimators": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_quantile_loss_function": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_sample_weight_deviance": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_multinomial_deviance": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_mdl_computation_weighted": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_mdl_exception": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_init_raw_predictions_shapes": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_init_raw_predictions_values": [],
+    "sklearn.ensemble.tests.test_gradient_boosting_loss_functions.test_lad_equals_quantiles": []
+}

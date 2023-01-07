@@ -1,0 +1,6 @@
+{
+    "keras.layers.core.activity_regularization.ActivityRegularization.__init__": [],
+    "keras.layers.core.activity_regularization.ActivityRegularization.compute_output_shape": [],
+    "keras.layers.core.activity_regularization.ActivityRegularization.get_config": [],
+    "keras.layers.core.activity_regularization.ActivityRegularization": []
+}

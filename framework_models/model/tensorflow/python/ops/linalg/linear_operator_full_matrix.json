@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix._check_matrix": [],
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix._solve": [],
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix._to_dense": [],
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_full_matrix.LinearOperatorFullMatrix": []
+}

@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.keras.optimizer_v2.nadam.Nadam.__init__": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.nadam.Nadam._create_slots": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.nadam.Nadam._prepare_local": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.nadam.Nadam._prepare": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.nadam.Nadam._resource_apply_dense": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.nadam.Nadam._resource_apply_sparse": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.nadam.Nadam.get_config": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.nadam.Nadam": ["MODEL_TRAINING"]
+}

@@ -1,0 +1,11 @@
+{
+    "pandas.tests.generic.test_to_xarray.TestDataFrameToXArray.df": [],
+    "pandas.tests.generic.test_to_xarray.TestDataFrameToXArray.test_to_xarray_index_types": [],
+    "pandas.tests.generic.test_to_xarray.TestDataFrameToXArray.test_to_xarray_empty": [],
+    "pandas.tests.generic.test_to_xarray.TestDataFrameToXArray.test_to_xarray_with_multiindex": [],
+    "pandas.tests.generic.test_to_xarray.TestSeriesToXArray.test_to_xarray_index_types": [],
+    "pandas.tests.generic.test_to_xarray.TestSeriesToXArray.test_to_xarray_empty": [],
+    "pandas.tests.generic.test_to_xarray.TestSeriesToXArray.test_to_xarray_with_multiindex": [],
+    "pandas.tests.generic.test_to_xarray.TestDataFrameToXArray": [],
+    "pandas.tests.generic.test_to_xarray.TestSeriesToXArray": []
+}

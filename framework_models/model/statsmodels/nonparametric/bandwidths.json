@@ -1,0 +1,7 @@
+{
+    "statsmodels.nonparametric.bandwidths._select_sigma": [],
+    "statsmodels.nonparametric.bandwidths.bw_scott": [],
+    "statsmodels.nonparametric.bandwidths.bw_silverman": [],
+    "statsmodels.nonparametric.bandwidths.bw_normal_reference": [],
+    "statsmodels.nonparametric.bandwidths.select_bandwidth": []
+}

@@ -1,0 +1,22 @@
+{
+    "sklearn.tests.test_common.test_all_estimator_no_base_class": [],
+    "sklearn.tests.test_common._sample_func": [],
+    "sklearn.tests.test_common.test_get_check_estimator_ids": [],
+    "sklearn.tests.test_common._tested_estimators": [],
+    "sklearn.tests.test_common.test_estimators": [],
+    "sklearn.tests.test_common.test_check_estimator_generate_only": [],
+    "sklearn.tests.test_common.test_configure": [],
+    "sklearn.tests.test_common._tested_linear_classifiers": [],
+    "sklearn.tests.test_common.test_class_weight_balanced_linear_classifiers": [],
+    "sklearn.tests.test_common.test_import_all_consistency": [],
+    "sklearn.tests.test_common.test_root_import_all_completeness": [],
+    "sklearn.tests.test_common.test_all_tests_are_importable": [],
+    "sklearn.tests.test_common.test_class_support_removed": [],
+    "sklearn.tests.test_common._generate_search_cv_instances": [],
+    "sklearn.tests.test_common.test_search_cv": [],
+    "sklearn.tests.test_common.test_valid_tag_types": [],
+    "sklearn.tests.test_common.test_check_n_features_in_after_fitting": [],
+    "sklearn.tests.test_common.test_pandas_column_name_consistency": [],
+    "sklearn.tests.test_common._include_in_get_feature_names_out_check": [],
+    "sklearn.tests.test_common.test_transformers_get_feature_names_out": []
+}

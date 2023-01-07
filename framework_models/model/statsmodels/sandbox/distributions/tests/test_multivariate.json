@@ -1,0 +1,13 @@
+{
+    "statsmodels.sandbox.distributions.tests.test_multivariate.Test_MVN_MVT_prob.setup_class": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.Test_MVN_MVT_prob.test_mvn_mvt_1": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.Test_MVN_MVT_prob.test_mvn_mvt_2": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.Test_MVN_MVT_prob.test_mvn_mvt_3": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.Test_MVN_MVT_prob.test_mvn_mvt_4": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.Test_MVN_MVT_prob.test_mvn_mvt_5": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.TestMVDistributions.setup_class": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.TestMVDistributions.test_mvn_pdf": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.TestMVDistributions.test_mvt_pdf": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.Test_MVN_MVT_prob": [],
+    "statsmodels.sandbox.distributions.tests.test_multivariate.TestMVDistributions": []
+}

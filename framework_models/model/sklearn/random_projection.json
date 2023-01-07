@@ -1,0 +1,18 @@
+{
+    "sklearn.random_projection.johnson_lindenstrauss_min_dim": [],
+    "sklearn.random_projection._check_density": [],
+    "sklearn.random_projection._check_input_size": [],
+    "sklearn.random_projection._gaussian_random_matrix": [],
+    "sklearn.random_projection._sparse_random_matrix": [],
+    "sklearn.random_projection.BaseRandomProjection.__init__": [],
+    "sklearn.random_projection.BaseRandomProjection._make_random_matrix": [],
+    "sklearn.random_projection.BaseRandomProjection.fit": [],
+    "sklearn.random_projection.BaseRandomProjection.transform": [],
+    "sklearn.random_projection.GaussianRandomProjection.__init__": [],
+    "sklearn.random_projection.GaussianRandomProjection._make_random_matrix": [],
+    "sklearn.random_projection.SparseRandomProjection.__init__": [],
+    "sklearn.random_projection.SparseRandomProjection._make_random_matrix": [],
+    "sklearn.random_projection.BaseRandomProjection": [],
+    "sklearn.random_projection.GaussianRandomProjection": [],
+    "sklearn.random_projection.SparseRandomProjection": []
+}

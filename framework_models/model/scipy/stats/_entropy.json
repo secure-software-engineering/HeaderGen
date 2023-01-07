@@ -1,0 +1,9 @@
+{
+    "scipy.stats._entropy.entropy": [],
+    "scipy.stats._entropy.differential_entropy": [],
+    "scipy.stats._entropy._pad_along_last_axis": [],
+    "scipy.stats._entropy._vasicek_entropy": [],
+    "scipy.stats._entropy._van_es_entropy": [],
+    "scipy.stats._entropy._ebrahimi_entropy": [],
+    "scipy.stats._entropy._correa_entropy": []
+}

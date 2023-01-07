@@ -1,0 +1,12 @@
+{
+    "statsmodels.emplike.tests.results.el_results.DescStatRes.__init__": [],
+    "statsmodels.emplike.tests.results.el_results.RegressionResults.__init__": [],
+    "statsmodels.emplike.tests.results.el_results.ANOVAResults.__init__": [],
+    "statsmodels.emplike.tests.results.el_results.AFTRes.__init__": [],
+    "statsmodels.emplike.tests.results.el_results.OriginResults.__init__": [],
+    "statsmodels.emplike.tests.results.el_results.DescStatRes": [],
+    "statsmodels.emplike.tests.results.el_results.RegressionResults": [],
+    "statsmodels.emplike.tests.results.el_results.ANOVAResults": [],
+    "statsmodels.emplike.tests.results.el_results.AFTRes": [],
+    "statsmodels.emplike.tests.results.el_results.OriginResults": []
+}

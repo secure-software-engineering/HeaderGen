@@ -1,0 +1,8 @@
+{
+    "statsmodels.graphics.boxplots.violinplot": [],
+    "statsmodels.graphics.boxplots._single_violin": [],
+    "statsmodels.graphics.boxplots._set_ticks_labels": [],
+    "statsmodels.graphics.boxplots.beanplot": [],
+    "statsmodels.graphics.boxplots._jitter_envelope": [],
+    "statsmodels.graphics.boxplots._show_legend": []
+}

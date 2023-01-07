@@ -1,0 +1,7 @@
+{
+    "scipy.optimize.slsqp.approx_jacobian": [],
+    "scipy.optimize.slsqp.fmin_slsqp": [],
+    "scipy.optimize.slsqp._minimize_slsqp": [],
+    "scipy.optimize.slsqp._eval_constraint": [],
+    "scipy.optimize.slsqp._eval_con_normals": []
+}

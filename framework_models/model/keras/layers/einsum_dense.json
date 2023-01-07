@@ -1,0 +1,10 @@
+{
+    "keras.layers.einsum_dense._analyze_einsum_string": [],
+    "keras.layers.einsum_dense._analyze_split_string": [],
+    "keras.layers.einsum_dense.EinsumDense.__init__": [],
+    "keras.layers.einsum_dense.EinsumDense.build": [],
+    "keras.layers.einsum_dense.EinsumDense.compute_output_shape": [],
+    "keras.layers.einsum_dense.EinsumDense.get_config": [],
+    "keras.layers.einsum_dense.EinsumDense.call": [],
+    "keras.layers.einsum_dense.EinsumDense": []
+}

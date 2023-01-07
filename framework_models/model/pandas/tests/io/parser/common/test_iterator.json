@@ -1,0 +1,7 @@
+{
+    "pandas.tests.io.parser.common.test_iterator.test_iterator": [],
+    "pandas.tests.io.parser.common.test_iterator.test_iterator2": [],
+    "pandas.tests.io.parser.common.test_iterator.test_iterator_stop_on_chunksize": [],
+    "pandas.tests.io.parser.common.test_iterator.test_iterator_skipfooter_errors": [],
+    "pandas.tests.io.parser.common.test_iterator.test_iteration_open_handle": []
+}

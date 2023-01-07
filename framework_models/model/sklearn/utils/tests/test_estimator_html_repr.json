@@ -1,0 +1,16 @@
+{
+    "sklearn.utils.tests.test_estimator_html_repr.test_write_label_html": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_get_visual_block_single_str_none": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_get_visual_block_single_estimator": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_get_visual_block_pipeline": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_get_visual_block_feature_union": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_get_visual_block_voting": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_get_visual_block_column_transformer": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_estimator_html_repr_pipeline": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_stacking_classsifer": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_stacking_regressor": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_birch_duck_typing_meta": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_ovo_classifier_duck_typing_meta": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_duck_typing_nested_estimator": [],
+    "sklearn.utils.tests.test_estimator_html_repr.test_one_estimator_print_change_only": []
+}

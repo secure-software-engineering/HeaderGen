@@ -1,0 +1,23 @@
+{
+    "statsmodels.stats.tests.test_pairwise.get_thsd": [],
+    "statsmodels.stats.tests.test_pairwise.CheckTuckeyHSDMixin.setup_class_": [],
+    "statsmodels.stats.tests.test_pairwise.CheckTuckeyHSDMixin.test_multicomptukey": [],
+    "statsmodels.stats.tests.test_pairwise.CheckTuckeyHSDMixin.test_group_tukey": [],
+    "statsmodels.stats.tests.test_pairwise.CheckTuckeyHSDMixin.test_shortcut_function": [],
+    "statsmodels.stats.tests.test_pairwise.CheckTuckeyHSDMixin.test_plot_simultaneous_ci": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2.setup_class": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2.test_table_names_default_group_order": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2.test_table_names_custom_group_order": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2Pandas.setup_class": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2Pandas.test_incorrect_output": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2s.setup_class": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD3.setup_class": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD4.setup_class": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD4.test_hochberg_intervals": [],
+    "statsmodels.stats.tests.test_pairwise.CheckTuckeyHSDMixin": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2Pandas": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD2s": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD3": [],
+    "statsmodels.stats.tests.test_pairwise.TestTuckeyHSD4": []
+}

@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.gen_checkpoint_ops.generate_vocab_remapping": [],
+    "tensorflow.python.ops.gen_checkpoint_ops.generate_vocab_remapping_eager_fallback": [],
+    "tensorflow.python.ops.gen_checkpoint_ops.load_and_remap_matrix": [],
+    "tensorflow.python.ops.gen_checkpoint_ops.load_and_remap_matrix_eager_fallback": []
+}

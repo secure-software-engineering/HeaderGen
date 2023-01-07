@@ -1,0 +1,14 @@
+{
+    "matplotlib.tests.test_subplots.check_shared": [],
+    "matplotlib.tests.test_subplots.check_visible": [],
+    "matplotlib.tests.test_subplots.test_shared": [],
+    "matplotlib.tests.test_subplots.test_label_outer_span": [],
+    "matplotlib.tests.test_subplots.test_shared_and_moved": [],
+    "matplotlib.tests.test_subplots.test_exceptions": [],
+    "matplotlib.tests.test_subplots.test_subplots_offsettext": [],
+    "matplotlib.tests.test_subplots.test_subplots_hide_ticklabels": [],
+    "matplotlib.tests.test_subplots.test_subplots_hide_axislabels": [],
+    "matplotlib.tests.test_subplots.test_get_gridspec": [],
+    "matplotlib.tests.test_subplots.test_dont_mutate_kwargs": [],
+    "matplotlib.tests.test_subplots.test_subplot_factory_reapplication": []
+}

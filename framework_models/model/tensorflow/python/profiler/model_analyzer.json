@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.profiler.model_analyzer._graph_string": [],
+    "tensorflow.python.profiler.model_analyzer._build_options": [],
+    "tensorflow.python.profiler.model_analyzer._build_advisor_options": [],
+    "tensorflow.python.profiler.model_analyzer.profile": [],
+    "tensorflow.python.profiler.model_analyzer.advise": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.__init__": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.__del__": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.add_step": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.profile_python": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.profile_operations": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.profile_name_scope": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.profile_graph": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.advise": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler.serialize_to_string": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler._write_profile": [],
+    "tensorflow.python.profiler.model_analyzer.Profiler": []
+}

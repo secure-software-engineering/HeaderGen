@@ -1,0 +1,5 @@
+{
+    "pandas.tests.arrays.boolean.test_astype.test_astype": [],
+    "pandas.tests.arrays.boolean.test_astype.test_astype_to_boolean_array": [],
+    "pandas.tests.arrays.boolean.test_astype.test_astype_to_integer_array": []
+}

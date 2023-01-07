@@ -1,0 +1,21 @@
+{
+    "scipy.optimize.tests.test_quadratic_assignment.chr12c": [],
+    "scipy.optimize.tests.test_quadratic_assignment._range_matrix": [],
+    "scipy.optimize.tests.test_quadratic_assignment._doubly_stochastic": [],
+    "scipy.optimize.tests.test_quadratic_assignment.QAPCommonTests.setup_method": [],
+    "scipy.optimize.tests.test_quadratic_assignment.QAPCommonTests.test_accuracy_1": [],
+    "scipy.optimize.tests.test_quadratic_assignment.QAPCommonTests.test_accuracy_2": [],
+    "scipy.optimize.tests.test_quadratic_assignment.QAPCommonTests.test_accuracy_3": [],
+    "scipy.optimize.tests.test_quadratic_assignment.QAPCommonTests.test_unknown_options": [],
+    "scipy.optimize.tests.test_quadratic_assignment.TestFAQ.test_options": [],
+    "scipy.optimize.tests.test_quadratic_assignment.TestFAQ.test_specific_input_validation": [],
+    "scipy.optimize.tests.test_quadratic_assignment.Test2opt.test_deterministic": [],
+    "scipy.optimize.tests.test_quadratic_assignment.Test2opt.test_partial_guess": [],
+    "scipy.optimize.tests.test_quadratic_assignment.Test2opt.test_specific_input_validation": [],
+    "scipy.optimize.tests.test_quadratic_assignment.TestQAPOnce.setup_method": [],
+    "scipy.optimize.tests.test_quadratic_assignment.TestQAPOnce.test_common_input_validation": [],
+    "scipy.optimize.tests.test_quadratic_assignment.QAPCommonTests": [],
+    "scipy.optimize.tests.test_quadratic_assignment.TestFAQ": [],
+    "scipy.optimize.tests.test_quadratic_assignment.Test2opt": [],
+    "scipy.optimize.tests.test_quadratic_assignment.TestQAPOnce": []
+}

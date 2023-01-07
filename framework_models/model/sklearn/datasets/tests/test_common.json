@@ -1,0 +1,11 @@
+{
+    "sklearn.datasets.tests.test_common.is_pillow_installed": [],
+    "sklearn.datasets.tests.test_common.check_pandas_dependency_message": [],
+    "sklearn.datasets.tests.test_common.check_return_X_y": [],
+    "sklearn.datasets.tests.test_common.check_as_frame": [],
+    "sklearn.datasets.tests.test_common._skip_network_tests": [],
+    "sklearn.datasets.tests.test_common._generate_func_supporting_param": [],
+    "sklearn.datasets.tests.test_common.test_common_check_return_X_y": [],
+    "sklearn.datasets.tests.test_common.test_common_check_as_frame": [],
+    "sklearn.datasets.tests.test_common.test_common_check_pandas_dependency": []
+}

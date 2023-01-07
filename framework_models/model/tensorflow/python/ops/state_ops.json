@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.ops.state_ops.variable_op": [],
+    "tensorflow.python.ops.state_ops.variable_op_v2": [],
+    "tensorflow.python.ops.state_ops.init_variable": [],
+    "tensorflow.python.ops.state_ops.is_variable_initialized": [],
+    "tensorflow.python.ops.state_ops.assign_sub": [],
+    "tensorflow.python.ops.state_ops.assign_add": [],
+    "tensorflow.python.ops.state_ops.assign": [],
+    "tensorflow.python.ops.state_ops.count_up_to": [],
+    "tensorflow.python.ops.state_ops.scatter_update": [],
+    "tensorflow.python.ops.state_ops.scatter_nd_update": [],
+    "tensorflow.python.ops.state_ops.scatter_add": [],
+    "tensorflow.python.ops.state_ops.scatter_nd_add": [],
+    "tensorflow.python.ops.state_ops.scatter_sub": [],
+    "tensorflow.python.ops.state_ops.scatter_nd_sub": [],
+    "tensorflow.python.ops.state_ops.scatter_mul": [],
+    "tensorflow.python.ops.state_ops.scatter_div": [],
+    "tensorflow.python.ops.state_ops.scatter_max": [],
+    "tensorflow.python.ops.state_ops.scatter_min": [],
+    "tensorflow.python.ops.state_ops.batch_scatter_update": []
+}

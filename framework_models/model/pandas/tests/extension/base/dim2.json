@@ -1,0 +1,15 @@
+{
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_swapaxes": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_delete_2d": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_take_2d": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_repr_2d": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_reshape": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_getitem_2d": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_iter_2d": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_concat_2d": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_fillna_2d_method": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_reductions_2d_axis_none": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_reductions_2d_axis0": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests.test_reductions_2d_axis1": [],
+    "pandas.tests.extension.base.dim2.Dim2CompatTests": []
+}

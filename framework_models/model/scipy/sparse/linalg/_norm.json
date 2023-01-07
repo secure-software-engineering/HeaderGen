@@ -1,0 +1,4 @@
+{
+    "scipy.sparse.linalg._norm._sparse_frobenius_norm": [],
+    "scipy.sparse.linalg._norm.norm": []
+}

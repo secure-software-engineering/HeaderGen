@@ -1,0 +1,20 @@
+{
+    "pandas.core.arrays._arrow_utils.pyarrow_array_to_numpy_and_mask": [],
+    "pandas.core.arrays._arrow_utils.ArrowPeriodType.__init__": [],
+    "pandas.core.arrays._arrow_utils.ArrowPeriodType.freq": [],
+    "pandas.core.arrays._arrow_utils.ArrowPeriodType.__arrow_ext_serialize__": [],
+    "pandas.core.arrays._arrow_utils.ArrowPeriodType.__arrow_ext_deserialize__": [],
+    "pandas.core.arrays._arrow_utils.ArrowPeriodType.__eq__": [],
+    "pandas.core.arrays._arrow_utils.ArrowPeriodType.__hash__": [],
+    "pandas.core.arrays._arrow_utils.ArrowPeriodType.to_pandas_dtype": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType.__init__": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType.subtype": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType.closed": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType.__arrow_ext_serialize__": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType.__arrow_ext_deserialize__": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType.__eq__": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType.__hash__": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType.to_pandas_dtype": [],
+    "pandas.core.arrays._arrow_utils.ArrowPeriodType": [],
+    "pandas.core.arrays._arrow_utils.ArrowIntervalType": []
+}

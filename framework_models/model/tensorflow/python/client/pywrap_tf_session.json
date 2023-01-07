@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.client.pywrap_tf_session.TF_NewSessionOptions": [],
+    "tensorflow.python.client.pywrap_tf_session.TF_Reset": []
+}

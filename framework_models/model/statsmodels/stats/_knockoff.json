@@ -1,0 +1,9 @@
+{
+    "statsmodels.stats._knockoff._design_knockoff_sdp": [],
+    "statsmodels.stats._knockoff._design_knockoff_equi": [],
+    "statsmodels.stats._knockoff._get_knmat": [],
+    "statsmodels.stats._knockoff.RegressionFDR.__init__": [],
+    "statsmodels.stats._knockoff.RegressionFDR.threshold": [],
+    "statsmodels.stats._knockoff.RegressionFDR.summary": [],
+    "statsmodels.stats._knockoff.RegressionFDR": []
+}

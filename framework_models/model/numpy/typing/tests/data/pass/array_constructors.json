@@ -1,0 +1,6 @@
+{
+    "numpy.typing.tests.data.pass.array_constructors.func": [],
+    "numpy.typing.tests.data.pass.array_constructors.Index.__index__": [],
+    "numpy.typing.tests.data.pass.array_constructors.Index": [],
+    "numpy.typing.tests.data.pass.array_constructors.SubClass": []
+}

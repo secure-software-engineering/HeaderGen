@@ -1,0 +1,6 @@
+from sklearn.datasets import load_iris as load_iris
+from sklearn.linear_model import LogisticRegression as LogisticRegression
+from sklearn.metrics import DetCurveDisplay as DetCurveDisplay, det_curve as det_curve
+
+def test_det_curve_display(pyplot, constructor_name, response_method, with_sample_weight, with_strings) -> None: ...
+def test_det_curve_display_default_name(pyplot, constructor_name, expected_clf_name) -> None: ...

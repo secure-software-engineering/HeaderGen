@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.keras.feature_column.dense_features.DenseFeatures.__init__": [],
+    "tensorflow.python.keras.feature_column.dense_features.DenseFeatures._is_feature_layer": [],
+    "tensorflow.python.keras.feature_column.dense_features.DenseFeatures._tracking_metadata": [],
+    "tensorflow.python.keras.feature_column.dense_features.DenseFeatures._target_shape": [],
+    "tensorflow.python.keras.feature_column.dense_features.DenseFeatures.call": [],
+    "tensorflow.python.keras.feature_column.dense_features.DenseFeatures": []
+}

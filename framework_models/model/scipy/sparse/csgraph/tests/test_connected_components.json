@@ -1,0 +1,8 @@
+{
+    "scipy.sparse.csgraph.tests.test_connected_components.test_weak_connections": [],
+    "scipy.sparse.csgraph.tests.test_connected_components.test_strong_connections": [],
+    "scipy.sparse.csgraph.tests.test_connected_components.test_strong_connections2": [],
+    "scipy.sparse.csgraph.tests.test_connected_components.test_weak_connections2": [],
+    "scipy.sparse.csgraph.tests.test_connected_components.test_ticket1876": [],
+    "scipy.sparse.csgraph.tests.test_connected_components.test_fully_connected_graph": []
+}

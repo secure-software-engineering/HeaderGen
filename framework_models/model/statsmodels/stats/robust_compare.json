@@ -1,0 +1,16 @@
+{
+    "statsmodels.stats.robust_compare.trimboth": [],
+    "statsmodels.stats.robust_compare.trim_mean": [],
+    "statsmodels.stats.robust_compare.scale_transform": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.__init__": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.data_trimmed": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.data_winsorized": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.mean_trimmed": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.mean_winsorized": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.var_winsorized": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.std_mean_trimmed": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.std_mean_winsorized": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.ttest_mean": [],
+    "statsmodels.stats.robust_compare.TrimmedMean.reset_fraction": [],
+    "statsmodels.stats.robust_compare.TrimmedMean": []
+}

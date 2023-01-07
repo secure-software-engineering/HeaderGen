@@ -1,0 +1,5 @@
+{
+    "scipy.optimize.cobyla.synchronized": [],
+    "scipy.optimize.cobyla.fmin_cobyla": [],
+    "scipy.optimize.cobyla._minimize_cobyla": []
+}

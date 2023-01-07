@@ -1,0 +1,5 @@
+{
+    "scipy.sparse.csgraph.tests.test_reordering.test_graph_reverse_cuthill_mckee": [],
+    "scipy.sparse.csgraph.tests.test_reordering.test_graph_reverse_cuthill_mckee_ordering": [],
+    "scipy.sparse.csgraph.tests.test_reordering.test_graph_structural_rank": []
+}

@@ -1,0 +1,19 @@
+{
+    "statsmodels.stats.anova._get_covariance": [],
+    "statsmodels.stats.anova.anova_single": [],
+    "statsmodels.stats.anova.anova1_lm_single": [],
+    "statsmodels.stats.anova.anova2_lm_single": [],
+    "statsmodels.stats.anova.anova3_lm_single": [],
+    "statsmodels.stats.anova.anova_lm": [],
+    "statsmodels.stats.anova._not_slice": [],
+    "statsmodels.stats.anova._ssr_reduced_model": [],
+    "statsmodels.stats.anova.AnovaRM.__init__": [],
+    "statsmodels.stats.anova.AnovaRM._aggregate": [],
+    "statsmodels.stats.anova.AnovaRM._check_data_balanced": [],
+    "statsmodels.stats.anova.AnovaRM.fit": [],
+    "statsmodels.stats.anova.AnovaResults.__init__": [],
+    "statsmodels.stats.anova.AnovaResults.__str__": [],
+    "statsmodels.stats.anova.AnovaResults.summary": [],
+    "statsmodels.stats.anova.AnovaRM": [],
+    "statsmodels.stats.anova.AnovaResults": []
+}

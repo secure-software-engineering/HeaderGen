@@ -1,0 +1,5 @@
+{
+    "pandas.tests.frame.test_alter_axes.TestDataFrameAlterAxes.test_set_axis_setattr_index": [],
+    "pandas.tests.frame.test_alter_axes.TestDataFrameAlterAxes.test_assign_columns": [],
+    "pandas.tests.frame.test_alter_axes.TestDataFrameAlterAxes": []
+}

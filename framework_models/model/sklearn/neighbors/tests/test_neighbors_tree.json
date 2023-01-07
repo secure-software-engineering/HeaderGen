@@ -1,0 +1,15 @@
+{
+    "sklearn.neighbors.tests.test_neighbors_tree.dist_func": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.compute_kernel_slow": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.brute_force_neighbors": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_kernel_density": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_neighbor_tree_query_radius": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_neighbor_tree_query_radius_distance": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_neighbor_tree_two_point": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_neighbors_heap": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_node_heap": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_simultaneous_sort": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_gaussian_kde": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_nn_tree_query": [],
+    "sklearn.neighbors.tests.test_neighbors_tree.test_pickle": []
+}

@@ -1,0 +1,20 @@
+{
+    "pandas.tests.frame.methods.test_join.frame_with_period_index": [],
+    "pandas.tests.frame.methods.test_join.left": [],
+    "pandas.tests.frame.methods.test_join.right": [],
+    "pandas.tests.frame.methods.test_join.test_join": [],
+    "pandas.tests.frame.methods.test_join.test_join_index": [],
+    "pandas.tests.frame.methods.test_join.test_join_index_more": [],
+    "pandas.tests.frame.methods.test_join.test_join_index_series": [],
+    "pandas.tests.frame.methods.test_join.test_join_overlap": [],
+    "pandas.tests.frame.methods.test_join.test_join_period_index": [],
+    "pandas.tests.frame.methods.test_join.test_join_left_sequence_non_unique_index": [],
+    "pandas.tests.frame.methods.test_join.test_suppress_future_warning_with_sort_kw": [],
+    "pandas.tests.frame.methods.test_join.TestDataFrameJoin.test_join": [],
+    "pandas.tests.frame.methods.test_join.TestDataFrameJoin.test_join_segfault": [],
+    "pandas.tests.frame.methods.test_join.TestDataFrameJoin.test_join_str_datetime": [],
+    "pandas.tests.frame.methods.test_join.TestDataFrameJoin.test_join_multiindex_leftright": [],
+    "pandas.tests.frame.methods.test_join.TestDataFrameJoin.test_merge_join_different_levels": [],
+    "pandas.tests.frame.methods.test_join.TestDataFrameJoin.test_frame_join_tzaware": [],
+    "pandas.tests.frame.methods.test_join.TestDataFrameJoin": []
+}

@@ -1,0 +1,8 @@
+{
+    "pandas.tests.io.excel.conftest.frame": [],
+    "pandas.tests.io.excel.conftest.tsframe": [],
+    "pandas.tests.io.excel.conftest.merge_cells": [],
+    "pandas.tests.io.excel.conftest.df_ref": [],
+    "pandas.tests.io.excel.conftest.read_ext": [],
+    "pandas.tests.io.excel.conftest.check_for_file_leaks": []
+}

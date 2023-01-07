@@ -1,0 +1,21 @@
+{
+    "numpy.distutils.tests.test_system_info.get_class": [],
+    "numpy.distutils.tests.test_system_info.have_compiler": [],
+    "numpy.distutils.tests.test_system_info.test_distutils_parse_env_order": [],
+    "numpy.distutils.tests.test_system_info._system_info.__init__": [],
+    "numpy.distutils.tests.test_system_info._system_info._check_libs": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.setup": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.teardown": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.test_all": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.test_temp1": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.test_temp2": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.test_duplicate_options": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.test_compile1": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.test_compile2": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading.test_overrides": [],
+    "numpy.distutils.tests.test_system_info._system_info": [],
+    "numpy.distutils.tests.test_system_info.Temp1Info": [],
+    "numpy.distutils.tests.test_system_info.Temp2Info": [],
+    "numpy.distutils.tests.test_system_info.DuplicateOptionInfo": [],
+    "numpy.distutils.tests.test_system_info.TestSystemInfoReading": []
+}

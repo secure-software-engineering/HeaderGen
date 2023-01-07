@@ -1,0 +1,11 @@
+{
+    "statsmodels.tsa.statespace.tests.test_var.check_irf": [],
+    "statsmodels.tsa.statespace.tests.test_var.test_var_basic": [],
+    "statsmodels.tsa.statespace.tests.test_var.test_var_c": [],
+    "statsmodels.tsa.statespace.tests.test_var.test_var_ct": [],
+    "statsmodels.tsa.statespace.tests.test_var.test_var_ct_as_exog0": [],
+    "statsmodels.tsa.statespace.tests.test_var.test_var_ct_as_exog1": [],
+    "statsmodels.tsa.statespace.tests.test_var.test_var_ctt": [],
+    "statsmodels.tsa.statespace.tests.test_var.test_var_ct_exog": [],
+    "statsmodels.tsa.statespace.tests.test_var.test_var_c_2exog": []
+}

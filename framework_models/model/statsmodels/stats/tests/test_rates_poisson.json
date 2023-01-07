@@ -1,0 +1,6 @@
+{
+    "statsmodels.stats.tests.test_rates_poisson.test_twosample_poisson": [],
+    "statsmodels.stats.tests.test_rates_poisson.test_twosample_poisson_r": [],
+    "statsmodels.stats.tests.test_rates_poisson.test_tost_poisson": [],
+    "statsmodels.stats.tests.test_rates_poisson.test_alternative": []
+}

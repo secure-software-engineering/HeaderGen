@@ -1,0 +1,23 @@
+{
+    "matplotlib.tests.test_backend_qt.qt_core": [],
+    "matplotlib.tests.test_backend_qt.test_fig_close": [],
+    "matplotlib.tests.test_backend_qt._test_sigint_impl": [],
+    "matplotlib.tests.test_backend_qt.test_sigint": [],
+    "matplotlib.tests.test_backend_qt._test_other_signal_before_sigint_impl": [],
+    "matplotlib.tests.test_backend_qt.test_other_signal_before_sigint": [],
+    "matplotlib.tests.test_backend_qt.test_fig_sigint_override": [],
+    "matplotlib.tests.test_backend_qt.test_correct_key": [],
+    "matplotlib.tests.test_backend_qt.test_device_pixel_ratio_change": [],
+    "matplotlib.tests.test_backend_qt.test_subplottool": [],
+    "matplotlib.tests.test_backend_qt.test_figureoptions": [],
+    "matplotlib.tests.test_backend_qt.test_figureoptions_with_datetime_axes": [],
+    "matplotlib.tests.test_backend_qt.test_double_resize": [],
+    "matplotlib.tests.test_backend_qt.test_canvas_reinit": [],
+    "matplotlib.tests.test_backend_qt.test_form_widget_get_with_datetime_and_date_fields": [],
+    "matplotlib.tests.test_backend_qt._test_enums_impl": [],
+    "matplotlib.tests.test_backend_qt._get_testable_qt_backends": [],
+    "matplotlib.tests.test_backend_qt.test_enums_available": [],
+    "matplotlib.tests.test_backend_qt.WaitForStringPopen.__init__": [],
+    "matplotlib.tests.test_backend_qt.WaitForStringPopen.wait_for": [],
+    "matplotlib.tests.test_backend_qt.WaitForStringPopen": []
+}

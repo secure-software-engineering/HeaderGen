@@ -1,0 +1,14 @@
+{
+    "sklearn.neighbors.tests.test_kde.compute_kernel_slow": [],
+    "sklearn.neighbors.tests.test_kde.check_results": [],
+    "sklearn.neighbors.tests.test_kde.test_kernel_density": [],
+    "sklearn.neighbors.tests.test_kde.test_kernel_density_sampling": [],
+    "sklearn.neighbors.tests.test_kde.test_kde_algorithm_metric_choice": [],
+    "sklearn.neighbors.tests.test_kde.test_kde_score": [],
+    "sklearn.neighbors.tests.test_kde.test_kde_badargs": [],
+    "sklearn.neighbors.tests.test_kde.test_kde_pipeline_gridsearch": [],
+    "sklearn.neighbors.tests.test_kde.test_kde_sample_weights": [],
+    "sklearn.neighbors.tests.test_kde.test_sample_weight_invalid": [],
+    "sklearn.neighbors.tests.test_kde.test_pickling": [],
+    "sklearn.neighbors.tests.test_kde.test_check_is_fitted": []
+}

@@ -1,0 +1,9 @@
+{
+    "scipy.linalg.tests.test_solve_toeplitz.test_solve_equivalence": [],
+    "scipy.linalg.tests.test_solve_toeplitz.test_multiple_rhs": [],
+    "scipy.linalg.tests.test_solve_toeplitz.test_native_list_arguments": [],
+    "scipy.linalg.tests.test_solve_toeplitz.test_zero_diag_error": [],
+    "scipy.linalg.tests.test_solve_toeplitz.test_wikipedia_counterexample": [],
+    "scipy.linalg.tests.test_solve_toeplitz.test_reflection_coeffs": [],
+    "scipy.linalg.tests.test_solve_toeplitz.test_unstable": []
+}

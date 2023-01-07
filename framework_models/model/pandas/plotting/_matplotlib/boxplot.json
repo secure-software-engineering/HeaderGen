@@ -1,0 +1,19 @@
+{
+    "pandas.plotting._matplotlib.boxplot._grouped_plot_by_column": [],
+    "pandas.plotting._matplotlib.boxplot.boxplot": [],
+    "pandas.plotting._matplotlib.boxplot.boxplot_frame": [],
+    "pandas.plotting._matplotlib.boxplot.boxplot_frame_groupby": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot.__init__": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot._args_adjust": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot._plot": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot._validate_color_args": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot._get_colors": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot.maybe_color_bp": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot._make_plot": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot._set_ticklabels": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot._make_legend": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot._post_plot_logic": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot.orientation": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot.result": [],
+    "pandas.plotting._matplotlib.boxplot.BoxPlot": []
+}

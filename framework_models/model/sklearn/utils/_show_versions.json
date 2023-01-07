@@ -1,0 +1,5 @@
+{
+    "sklearn.utils._show_versions._get_sys_info": [],
+    "sklearn.utils._show_versions._get_deps_info": [],
+    "sklearn.utils._show_versions.show_versions": []
+}

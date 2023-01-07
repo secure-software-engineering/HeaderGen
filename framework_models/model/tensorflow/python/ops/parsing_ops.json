@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.ops.parsing_ops._prepend_none_dimension": [],
+    "tensorflow.python.ops.parsing_ops.parse_example_v2": [],
+    "tensorflow.python.ops.parsing_ops.parse_example": [],
+    "tensorflow.python.ops.parsing_ops._parse_example_raw": [],
+    "tensorflow.python.ops.parsing_ops.parse_single_example": [],
+    "tensorflow.python.ops.parsing_ops.parse_single_example_v2": [],
+    "tensorflow.python.ops.parsing_ops.parse_sequence_example": [],
+    "tensorflow.python.ops.parsing_ops._parse_sequence_example_raw": [],
+    "tensorflow.python.ops.parsing_ops.parse_single_sequence_example": [],
+    "tensorflow.python.ops.parsing_ops._parse_single_sequence_example_raw": [],
+    "tensorflow.python.ops.parsing_ops.decode_raw": [],
+    "tensorflow.python.ops.parsing_ops.decode_raw_v1": [],
+    "tensorflow.python.ops.parsing_ops.decode_csv": [],
+    "tensorflow.python.ops.parsing_ops.decode_csv_v2": [],
+    "tensorflow.python.ops.parsing_ops._assert_scalar": [],
+    "tensorflow.python.ops.parsing_ops.decode_json_example": []
+}

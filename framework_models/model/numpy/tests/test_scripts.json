@@ -1,0 +1,5 @@
+{
+    "numpy.tests.test_scripts.find_f2py_commands": [],
+    "numpy.tests.test_scripts.test_f2py": [],
+    "numpy.tests.test_scripts.test_pep338": []
+}

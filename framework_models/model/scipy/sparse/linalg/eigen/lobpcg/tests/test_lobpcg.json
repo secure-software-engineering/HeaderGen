@@ -1,0 +1,21 @@
+{
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.ElasticRod": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.MikotaPair": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.compare_solutions": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_Small": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_ElasticRod": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_MikotaPair": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_regression": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_diagonal": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg._check_eigen": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg._check_fiedler": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_fiedler_small_8": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_fiedler_large_12": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_hermitian": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_eigs_consistency": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_verbosity": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_tolerance_float32": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_random_initial_float32": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_maxit_None": [],
+    "scipy.sparse.linalg.eigen.lobpcg.tests.test_lobpcg.test_diagonal_data_types": []
+}

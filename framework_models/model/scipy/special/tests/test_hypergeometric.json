@@ -1,0 +1,15 @@
+{
+    "scipy.special.tests.test_hypergeometric.TestHyperu.test_negative_x": [],
+    "scipy.special.tests.test_hypergeometric.TestHyperu.test_special_cases": [],
+    "scipy.special.tests.test_hypergeometric.TestHyperu.test_nan_inputs": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1.test_nan_inputs": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1.test_poles": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1.test_special_cases": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1.test_geometric_convergence": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1.test_a_negative_integer": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1.test_gh_3492": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1.test_gh_3593": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1.test_gh_11099": [],
+    "scipy.special.tests.test_hypergeometric.TestHyperu": [],
+    "scipy.special.tests.test_hypergeometric.TestHyp1f1": []
+}

@@ -1,0 +1,144 @@
+{
+    "1": [
+        "<builtin>.print",
+        "os.path.join",
+        "os.walk"
+    ],
+    "2": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "3": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "4": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "5": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "6": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "9": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "10": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "11": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "12": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "15": [
+        "<builtin>.print"
+    ],
+    "18": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "23": [
+        "<builtin>.len",
+        "pandas.core.series.Series.unique"
+    ],
+    "24": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "26": [
+        "<builtin>.print",
+        "pandas.core.base.IndexOpsMixin.value_counts"
+    ],
+    "29": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "30": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "33": [
+        "pandas.core.series.Series.unique"
+    ],
+    "34": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "35": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "38": [
+        "<builtin>.len",
+        "pandas.core.series.Series.unique"
+    ],
+    "40": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "42": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "43": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "46": [
+        "pandas.core.base.IndexOpsMixin.transpose"
+    ],
+    "47": [
+        "keras.engine.sequential.Sequential",
+        "keras.engine.training.Model.compile",
+        "keras.layers.core.dense.Dense",
+        "keras.callbacks.ModelCheckpoint",
+        "keras.callbacks.EarlyStopping",
+        "keras.backend.clear_session"
+    ],
+    "48": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "49": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "50": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "51": [
+        "keras.engine.training.Model.fit"
+    ],
+    "52": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "55": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "58": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "59": [
+        "keras.engine.training.Model.predict"
+    ],
+    "60": [
+        "pandas.core.frame.DataFrame"
+    ],
+    "61": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "62": [
+        "<builtin>.round"
+    ],
+    "64": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "65": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "67": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "68": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "69": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "70": [
+        "pandas.core.generic.NDFrame.to_csv"
+    ],
+    "72": [
+        "pandas.core.generic.NDFrame.to_csv"
+    ]
+}

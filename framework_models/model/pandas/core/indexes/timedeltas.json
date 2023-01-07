@@ -1,0 +1,9 @@
+{
+    "pandas.core.indexes.timedeltas.timedelta_range": [],
+    "pandas.core.indexes.timedeltas.TimedeltaIndex.__new__": [],
+    "pandas.core.indexes.timedeltas.TimedeltaIndex._is_comparable_dtype": [],
+    "pandas.core.indexes.timedeltas.TimedeltaIndex.get_loc": [],
+    "pandas.core.indexes.timedeltas.TimedeltaIndex._maybe_cast_slice_bound": [],
+    "pandas.core.indexes.timedeltas.TimedeltaIndex.inferred_type": [],
+    "pandas.core.indexes.timedeltas.TimedeltaIndex": []
+}

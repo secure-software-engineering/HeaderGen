@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.fcompiler.sun.SunFCompiler.get_flags_f77": [],
+    "numpy.distutils.fcompiler.sun.SunFCompiler.get_opt": [],
+    "numpy.distutils.fcompiler.sun.SunFCompiler.get_arch": [],
+    "numpy.distutils.fcompiler.sun.SunFCompiler.get_libraries": [],
+    "numpy.distutils.fcompiler.sun.SunFCompiler.runtime_library_dir_option": [],
+    "numpy.distutils.fcompiler.sun.SunFCompiler": []
+}

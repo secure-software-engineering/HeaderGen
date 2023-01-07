@@ -1,0 +1,4 @@
+{
+    "pandas.tests.indexes.multi.test_astype.test_astype": [],
+    "pandas.tests.indexes.multi.test_astype.test_astype_category": []
+}

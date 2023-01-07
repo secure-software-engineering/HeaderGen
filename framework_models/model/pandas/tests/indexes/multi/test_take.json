@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexes.multi.test_take.test_take": [],
+    "pandas.tests.indexes.multi.test_take.test_take_invalid_kwargs": [],
+    "pandas.tests.indexes.multi.test_take.test_take_fill_value": []
+}

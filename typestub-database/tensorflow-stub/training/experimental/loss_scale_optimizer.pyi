@@ -1,0 +1,13 @@
+from tensorflow.python.distribute import distribution_strategy_context as distribution_strategy_context
+from tensorflow.python.framework import ops as ops, smart_cond as smart_cond
+from tensorflow.python.ops import control_flow_ops as control_flow_ops, math_ops as math_ops
+from tensorflow.python.training import optimizer as optimizer
+from tensorflow.python.util import deprecation as deprecation
+from tensorflow.python.util.tf_export import tf_export as tf_export
+from typing import Any
+
+class MixedPrecisionLossScaleOptimizer(optimizer.Optimizer):
+    def __init__(self, opt, loss_scale) -> None: ...
+    def compute_gradients(self, loss, var_list: Any | None = ..., gate_gradients=..., aggregation_method: Any | None = ..., colocate_gradients_with_ops: bool = ..., grad_loss: Any | None = ...): ...
+    def apply_gradients(self, grads_and_vars, global_step: Any | None = ..., name: Any | None = ...): ...
+    def variables(self): ...

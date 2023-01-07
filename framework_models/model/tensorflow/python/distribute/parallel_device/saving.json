@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.distribute.parallel_device.saving._variable_creator": [],
+    "tensorflow.python.distribute.parallel_device.saving.independent_buffers": [],
+    "tensorflow.python.distribute.parallel_device.saving._ParallelComponentSaveable.__init__": [],
+    "tensorflow.python.distribute.parallel_device.saving._ParallelComponentSaveable.restore": [],
+    "tensorflow.python.distribute.parallel_device.saving.ParallelVariable.__init__": [],
+    "tensorflow.python.distribute.parallel_device.saving.ParallelVariable.__repr__": [],
+    "tensorflow.python.distribute.parallel_device.saving.ParallelVariable.__str__": [],
+    "tensorflow.python.distribute.parallel_device.saving.ParallelVariable._gather_saveables_for_checkpoint": [],
+    "tensorflow.python.distribute.parallel_device.saving._ParallelComponentSaveable": [],
+    "tensorflow.python.distribute.parallel_device.saving.ParallelVariable": []
+}

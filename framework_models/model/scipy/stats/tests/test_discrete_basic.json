@@ -1,0 +1,15 @@
+{
+    "scipy.stats.tests.test_discrete_basic.cases_test_discrete_basic": [],
+    "scipy.stats.tests.test_discrete_basic.test_discrete_basic": [],
+    "scipy.stats.tests.test_discrete_basic.test_moments": [],
+    "scipy.stats.tests.test_discrete_basic.test_rvs_broadcast": [],
+    "scipy.stats.tests.test_discrete_basic.test_ppf_with_loc": [],
+    "scipy.stats.tests.test_discrete_basic.check_cdf_ppf": [],
+    "scipy.stats.tests.test_discrete_basic.check_pmf_cdf": [],
+    "scipy.stats.tests.test_discrete_basic.check_moment_frozen": [],
+    "scipy.stats.tests.test_discrete_basic.check_oth": [],
+    "scipy.stats.tests.test_discrete_basic.check_discrete_chisquare": [],
+    "scipy.stats.tests.test_discrete_basic.check_scale_docstring": [],
+    "scipy.stats.tests.test_discrete_basic.test_methods_with_lists": [],
+    "scipy.stats.tests.test_discrete_basic.test_cdf_gh13280_regression": []
+}

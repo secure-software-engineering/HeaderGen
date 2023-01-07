@@ -1,0 +1,7 @@
+{
+    "pandas.tests.frame.indexing.test_insert.TestDataFrameInsert.test_insert": [],
+    "pandas.tests.frame.indexing.test_insert.TestDataFrameInsert.test_insert_column_bug_4032": [],
+    "pandas.tests.frame.indexing.test_insert.TestDataFrameInsert.test_insert_with_columns_dups": [],
+    "pandas.tests.frame.indexing.test_insert.TestDataFrameInsert.test_insert_item_cache": [],
+    "pandas.tests.frame.indexing.test_insert.TestDataFrameInsert": []
+}

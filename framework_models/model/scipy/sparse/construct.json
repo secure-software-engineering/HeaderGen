@@ -1,0 +1,15 @@
+{
+    "scipy.sparse.construct.spdiags": [],
+    "scipy.sparse.construct.diags": [],
+    "scipy.sparse.construct.identity": [],
+    "scipy.sparse.construct.eye": [],
+    "scipy.sparse.construct.kron": [],
+    "scipy.sparse.construct.kronsum": [],
+    "scipy.sparse.construct._compressed_sparse_stack": [],
+    "scipy.sparse.construct.hstack": [],
+    "scipy.sparse.construct.vstack": [],
+    "scipy.sparse.construct.bmat": [],
+    "scipy.sparse.construct.block_diag": [],
+    "scipy.sparse.construct.random": [],
+    "scipy.sparse.construct.rand": []
+}

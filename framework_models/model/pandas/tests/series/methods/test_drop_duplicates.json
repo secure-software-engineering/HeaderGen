@@ -1,0 +1,17 @@
+{
+    "pandas.tests.series.methods.test_drop_duplicates.test_drop_duplicates": [],
+    "pandas.tests.series.methods.test_drop_duplicates.test_drop_duplicates_bool": [],
+    "pandas.tests.series.methods.test_drop_duplicates.test_drop_duplicates_no_duplicates": [],
+    "pandas.tests.series.methods.test_drop_duplicates.test_drop_duplicates_pos_args_deprecation": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.dtype": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.cat_series1": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.test_drop_duplicates_categorical_non_bool": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.test_drop_duplicates_categorical_non_bool_keeplast": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.test_drop_duplicates_categorical_non_bool_keepfalse": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.cat_series2": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.test_drop_duplicates_categorical_non_bool2": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.test_drop_duplicates_categorical_non_bool2_keeplast": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.test_drop_duplicates_categorical_non_bool2_keepfalse": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates.test_drop_duplicates_categorical_bool": [],
+    "pandas.tests.series.methods.test_drop_duplicates.TestSeriesDropDuplicates": []
+}

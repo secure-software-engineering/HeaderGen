@@ -1,0 +1,23 @@
+{
+    "pandas.tests.arithmetic.test_interval.left_right_dtypes": [],
+    "pandas.tests.arithmetic.test_interval.interval_array": [],
+    "pandas.tests.arithmetic.test_interval.create_categorical_intervals": [],
+    "pandas.tests.arithmetic.test_interval.create_series_intervals": [],
+    "pandas.tests.arithmetic.test_interval.create_series_categorical_intervals": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.op": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.interval_constructor": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.elementwise_comparison": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_scalar_interval": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_scalar_interval_mixed_closed": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_scalar_na": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_scalar_other": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_list_like_interval": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_list_like_interval_mixed_closed": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_list_like_object": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_list_like_nan": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_list_like_other": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_compare_length_mismatch_errors": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_index_series_compat": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison.test_comparison_operations": [],
+    "pandas.tests.arithmetic.test_interval.TestComparison": []
+}

@@ -1,0 +1,8 @@
+{
+    "pandas.tests.tseries.holiday.test_calendar.test_calendar": [],
+    "pandas.tests.tseries.holiday.test_calendar.test_calendar_caching": [],
+    "pandas.tests.tseries.holiday.test_calendar.test_calendar_observance_dates": [],
+    "pandas.tests.tseries.holiday.test_calendar.test_rule_from_name": [],
+    "pandas.tests.tseries.holiday.test_calendar.test_calendar_2031": [],
+    "pandas.tests.tseries.holiday.test_calendar.test_no_holidays_calendar": []
+}

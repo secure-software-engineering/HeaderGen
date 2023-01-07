@@ -1,0 +1,7 @@
+{
+    "scipy.special.tests.test_ellip_harm.test_ellip_potential": [],
+    "scipy.special.tests.test_ellip_harm.test_ellip_norm": [],
+    "scipy.special.tests.test_ellip_harm.test_ellip_harm_2": [],
+    "scipy.special.tests.test_ellip_harm.test_ellip_harm": [],
+    "scipy.special.tests.test_ellip_harm.test_ellip_harm_invalid_p": []
+}

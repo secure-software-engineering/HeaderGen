@@ -1,0 +1,7 @@
+{
+    "statsmodels.sandbox.regression.ar_panel.PanelAR1.__init__": [],
+    "statsmodels.sandbox.regression.ar_panel.PanelAR1.ar1filter": [],
+    "statsmodels.sandbox.regression.ar_panel.PanelAR1.fit_conditional": [],
+    "statsmodels.sandbox.regression.ar_panel.PanelAR1.fit": [],
+    "statsmodels.sandbox.regression.ar_panel.PanelAR1": []
+}

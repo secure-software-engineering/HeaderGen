@@ -1,0 +1,8 @@
+{
+  "3": [
+    "from_module_sub.nested_module_sub.func1:1"
+  ],
+  "4": [
+    "from_module_sub.nested_module_sub.func2:5"
+  ]
+}

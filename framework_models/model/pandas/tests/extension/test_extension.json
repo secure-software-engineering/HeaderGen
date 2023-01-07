@@ -1,0 +1,7 @@
+{
+    "pandas.tests.extension.test_extension.data": [],
+    "pandas.tests.extension.test_extension.MyEA.__init__": [],
+    "pandas.tests.extension.test_extension.TestExtensionArray.test_errors": [],
+    "pandas.tests.extension.test_extension.MyEA": [],
+    "pandas.tests.extension.test_extension.TestExtensionArray": []
+}

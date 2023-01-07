@@ -1,0 +1,7 @@
+{
+    "numpy.distutils.msvc9compiler._merge": [],
+    "numpy.distutils.msvc9compiler.MSVCCompiler.__init__": [],
+    "numpy.distutils.msvc9compiler.MSVCCompiler.initialize": [],
+    "numpy.distutils.msvc9compiler.MSVCCompiler.manifest_setup_ldargs": [],
+    "numpy.distutils.msvc9compiler.MSVCCompiler": []
+}

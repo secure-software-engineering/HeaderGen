@@ -1,0 +1,18 @@
+{
+    "plotly.graph_objs.layout._scene.Scene.annotations": [],
+    "plotly.graph_objs.layout._scene.Scene.annotationdefaults": [],
+    "plotly.graph_objs.layout._scene.Scene.aspectmode": [],
+    "plotly.graph_objs.layout._scene.Scene.aspectratio": [],
+    "plotly.graph_objs.layout._scene.Scene.bgcolor": [],
+    "plotly.graph_objs.layout._scene.Scene.camera": [],
+    "plotly.graph_objs.layout._scene.Scene.domain": [],
+    "plotly.graph_objs.layout._scene.Scene.dragmode": [],
+    "plotly.graph_objs.layout._scene.Scene.hovermode": [],
+    "plotly.graph_objs.layout._scene.Scene.uirevision": [],
+    "plotly.graph_objs.layout._scene.Scene.xaxis": [],
+    "plotly.graph_objs.layout._scene.Scene.yaxis": [],
+    "plotly.graph_objs.layout._scene.Scene.zaxis": [],
+    "plotly.graph_objs.layout._scene.Scene._prop_descriptions": [],
+    "plotly.graph_objs.layout._scene.Scene.__init__": [],
+    "plotly.graph_objs.layout._scene.Scene": []
+}

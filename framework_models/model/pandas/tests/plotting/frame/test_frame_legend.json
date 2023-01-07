@@ -1,0 +1,11 @@
+{
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend.test_mixed_yerr": [],
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend.test_legend_false": [],
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend.test_df_legend_labels": [],
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend.test_missing_marker_multi_plots_on_same_ax": [],
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend.test_legend_name": [],
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend.test_no_legend": [],
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend.test_missing_markers_legend": [],
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend.test_missing_markers_legend_using_style": [],
+    "pandas.tests.plotting.frame.test_frame_legend.TestFrameLegend": []
+}

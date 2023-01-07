@@ -1,0 +1,14 @@
+{
+    "pandas.core.indexes.frozen.FrozenList.union": [],
+    "pandas.core.indexes.frozen.FrozenList.difference": [],
+    "pandas.core.indexes.frozen.FrozenList.__getitem__": [],
+    "pandas.core.indexes.frozen.FrozenList.__radd__": [],
+    "pandas.core.indexes.frozen.FrozenList.__eq__": [],
+    "pandas.core.indexes.frozen.FrozenList.__mul__": [],
+    "pandas.core.indexes.frozen.FrozenList.__reduce__": [],
+    "pandas.core.indexes.frozen.FrozenList.__hash__": [],
+    "pandas.core.indexes.frozen.FrozenList._disabled": [],
+    "pandas.core.indexes.frozen.FrozenList.__str__": [],
+    "pandas.core.indexes.frozen.FrozenList.__repr__": [],
+    "pandas.core.indexes.frozen.FrozenList": []
+}

@@ -1,0 +1,10 @@
+{
+    "statsmodels.sandbox.regression.try_catdata.labelmeanfilter": [],
+    "statsmodels.sandbox.regression.try_catdata.labelmeanfilter_nd": [],
+    "statsmodels.sandbox.regression.try_catdata.labelmeanfilter_str": [],
+    "statsmodels.sandbox.regression.try_catdata.groupstatsbin": [],
+    "statsmodels.sandbox.regression.try_catdata.convertlabels": [],
+    "statsmodels.sandbox.regression.try_catdata.groupsstats_1d": [],
+    "statsmodels.sandbox.regression.try_catdata.cat2dummy": [],
+    "statsmodels.sandbox.regression.try_catdata.groupsstats_dummy": []
+}

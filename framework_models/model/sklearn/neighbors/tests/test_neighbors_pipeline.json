@@ -1,0 +1,10 @@
+{
+    "sklearn.neighbors.tests.test_neighbors_pipeline.test_spectral_clustering": [],
+    "sklearn.neighbors.tests.test_neighbors_pipeline.test_spectral_embedding": [],
+    "sklearn.neighbors.tests.test_neighbors_pipeline.test_dbscan": [],
+    "sklearn.neighbors.tests.test_neighbors_pipeline.test_isomap": [],
+    "sklearn.neighbors.tests.test_neighbors_pipeline.test_tsne": [],
+    "sklearn.neighbors.tests.test_neighbors_pipeline.test_lof_novelty_false": [],
+    "sklearn.neighbors.tests.test_neighbors_pipeline.test_lof_novelty_true": [],
+    "sklearn.neighbors.tests.test_neighbors_pipeline.test_kneighbors_regressor": []
+}

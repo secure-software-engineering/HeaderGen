@@ -1,0 +1,12 @@
+{
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_from_dict_scalars_requires_index": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_constructor_list_of_odicts": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_constructor_single_row": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_constructor_list_of_series": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_constructor_orient": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_constructor_from_ordered_dict": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_from_dict_columns_parameter": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_constructor_from_dict_tuples": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict.test_frame_dict_constructor_empty_series": [],
+    "pandas.tests.frame.constructors.test_from_dict.TestFromDict": []
+}

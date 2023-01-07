@@ -1,0 +1,6 @@
+{
+    "seaborn._testing.assert_colors_equal": [],
+    "seaborn._testing.assert_artists_equal": [],
+    "seaborn._testing.assert_legends_equal": [],
+    "seaborn._testing.assert_plots_equal": []
+}

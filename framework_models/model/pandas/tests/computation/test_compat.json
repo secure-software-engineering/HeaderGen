@@ -1,0 +1,4 @@
+{
+    "pandas.tests.computation.test_compat.test_compat": [],
+    "pandas.tests.computation.test_compat.test_invalid_numexpr_version": []
+}

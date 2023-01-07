@@ -1,0 +1,9 @@
+{
+    "statsmodels.emplike.tests.test_origin.GenRes.setup_class": [],
+    "statsmodels.emplike.tests.test_origin.TestOrigin.test_params": [],
+    "statsmodels.emplike.tests.test_origin.TestOrigin.test_llf": [],
+    "statsmodels.emplike.tests.test_origin.TestOrigin.test_hypothesis_beta1": [],
+    "statsmodels.emplike.tests.test_origin.TestOrigin.test_ci_beta": [],
+    "statsmodels.emplike.tests.test_origin.GenRes": [],
+    "statsmodels.emplike.tests.test_origin.TestOrigin": []
+}

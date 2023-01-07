@@ -1,0 +1,18 @@
+{
+    "sklearn.ensemble._base._fit_single_estimator": [],
+    "sklearn.ensemble._base._set_random_states": [],
+    "sklearn.ensemble._base._partition_estimators": [],
+    "sklearn.ensemble._base.BaseEnsemble.__init__": [],
+    "sklearn.ensemble._base.BaseEnsemble._validate_estimator": [],
+    "sklearn.ensemble._base.BaseEnsemble._make_estimator": [],
+    "sklearn.ensemble._base.BaseEnsemble.__len__": [],
+    "sklearn.ensemble._base.BaseEnsemble.__getitem__": [],
+    "sklearn.ensemble._base.BaseEnsemble.__iter__": [],
+    "sklearn.ensemble._base._BaseHeterogeneousEnsemble.named_estimators": [],
+    "sklearn.ensemble._base._BaseHeterogeneousEnsemble.__init__": [],
+    "sklearn.ensemble._base._BaseHeterogeneousEnsemble._validate_estimators": [],
+    "sklearn.ensemble._base._BaseHeterogeneousEnsemble.set_params": [],
+    "sklearn.ensemble._base._BaseHeterogeneousEnsemble.get_params": [],
+    "sklearn.ensemble._base.BaseEnsemble": [],
+    "sklearn.ensemble._base._BaseHeterogeneousEnsemble": []
+}

@@ -1,0 +1,11 @@
+{
+    "pandas.tests.io.parser.test_quoting.test_bad_quote_char": [],
+    "pandas.tests.io.parser.test_quoting.test_bad_quoting": [],
+    "pandas.tests.io.parser.test_quoting.test_quote_char_basic": [],
+    "pandas.tests.io.parser.test_quoting.test_quote_char_various": [],
+    "pandas.tests.io.parser.test_quoting.test_null_quote_char": [],
+    "pandas.tests.io.parser.test_quoting.test_quoting_various": [],
+    "pandas.tests.io.parser.test_quoting.test_double_quote": [],
+    "pandas.tests.io.parser.test_quoting.test_quotechar_unicode": [],
+    "pandas.tests.io.parser.test_quoting.test_unbalanced_quoting": []
+}

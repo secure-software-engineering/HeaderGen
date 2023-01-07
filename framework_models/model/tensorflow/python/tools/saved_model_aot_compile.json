@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.tools.saved_model_aot_compile._shlex_quote": [],
+    "tensorflow.python.tools.saved_model_aot_compile._sysconfig_module": [],
+    "tensorflow.python.tools.saved_model_aot_compile._parse_tensor_name": [],
+    "tensorflow.python.tools.saved_model_aot_compile._xla_makefile_string": [],
+    "tensorflow.python.tools.saved_model_aot_compile._get_variable_nodes_from_graph_def": [],
+    "tensorflow.python.tools.saved_model_aot_compile._prune_removed_feed_nodes": [],
+    "tensorflow.python.tools.saved_model_aot_compile.aot_compile_cpu_meta_graph_def": [],
+    "tensorflow.python.tools.saved_model_aot_compile._optimize_graph": [],
+    "tensorflow.python.tools.saved_model_aot_compile._replace_input_placeholders_with_default_values": [],
+    "tensorflow.python.tools.saved_model_aot_compile._signature_to_tf2xla_config": []
+}

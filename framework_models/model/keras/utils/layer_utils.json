@@ -1,0 +1,10 @@
+{
+    "keras.utils.layer_utils.get_source_inputs": [],
+    "keras.utils.layer_utils.validate_string_arg": [],
+    "keras.utils.layer_utils.count_params": [],
+    "keras.utils.layer_utils.print_summary": [],
+    "keras.utils.layer_utils.convert_dense_weights_data_format": [],
+    "keras.utils.layer_utils.is_builtin_layer": [],
+    "keras.utils.layer_utils.cached_per_instance": [],
+    "keras.utils.layer_utils.filter_empty_layer_containers": []
+}

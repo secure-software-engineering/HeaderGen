@@ -1,0 +1,11 @@
+{
+    "scipy.optimize.tests.test_cobyla.test_vector_constraints": [],
+    "scipy.optimize.tests.test_cobyla.TestCobyla.setup_method": [],
+    "scipy.optimize.tests.test_cobyla.TestCobyla.fun": [],
+    "scipy.optimize.tests.test_cobyla.TestCobyla.con1": [],
+    "scipy.optimize.tests.test_cobyla.TestCobyla.con2": [],
+    "scipy.optimize.tests.test_cobyla.TestCobyla.test_simple": [],
+    "scipy.optimize.tests.test_cobyla.TestCobyla.test_minimize_simple": [],
+    "scipy.optimize.tests.test_cobyla.TestCobyla.test_minimize_constraint_violation": [],
+    "scipy.optimize.tests.test_cobyla.TestCobyla": []
+}

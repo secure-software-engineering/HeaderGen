@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.keras.layers.local.get_locallyconnected_mask": [],
+    "tensorflow.python.keras.layers.local.local_conv_matmul": [],
+    "tensorflow.python.keras.layers.local.local_conv_sparse_matmul": [],
+    "tensorflow.python.keras.layers.local.make_2d": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected1D.__init__": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected1D._use_input_spec_as_call_signature": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected1D.build": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected1D.compute_output_shape": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected1D.call": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected1D.get_config": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected2D.__init__": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected2D._use_input_spec_as_call_signature": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected2D.build": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected2D.compute_output_shape": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected2D.call": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected2D.get_config": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected1D": [],
+    "tensorflow.python.keras.layers.local.LocallyConnected2D": []
+}

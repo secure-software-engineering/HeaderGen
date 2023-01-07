@@ -1,0 +1,8 @@
+{
+    "statsmodels.sandbox.tsa.movstat.expandarr": [],
+    "statsmodels.sandbox.tsa.movstat.movorder": [],
+    "statsmodels.sandbox.tsa.movstat.check_movorder": [],
+    "statsmodels.sandbox.tsa.movstat.movmean": [],
+    "statsmodels.sandbox.tsa.movstat.movvar": [],
+    "statsmodels.sandbox.tsa.movstat.movmoment": []
+}

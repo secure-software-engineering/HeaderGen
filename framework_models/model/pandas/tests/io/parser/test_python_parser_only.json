@@ -1,0 +1,19 @@
+{
+    "pandas.tests.io.parser.test_python_parser_only.test_default_separator": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_invalid_skipfooter_non_int": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_invalid_skipfooter_negative": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_sniff_delimiter": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_sniff_delimiter_comment": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_sniff_delimiter_encoding": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_single_line": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_skipfooter": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_decompression_regex_sep": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_read_csv_buglet_4x_multi_index": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_read_csv_buglet_4x_multi_index2": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_skipfooter_with_decimal": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_encoding_non_utf8_multichar_sep": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_multi_char_sep_quotes": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_none_delimiter": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_skipfooter_bad_row": [],
+    "pandas.tests.io.parser.test_python_parser_only.test_malformed_skipfooter": []
+}

@@ -1,0 +1,11 @@
+{
+  "14": [
+    "<builtin>.StopIteration"
+  ],
+  "17": [
+    "main.func:1.__init__:2",
+    "main.func:1.__iter__:6",
+    "main.func:1.__next__:9",
+    "<builtin>.StopIteration"
+  ]
+}

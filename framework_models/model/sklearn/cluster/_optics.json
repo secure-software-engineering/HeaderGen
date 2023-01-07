@@ -1,0 +1,16 @@
+{
+    "sklearn.cluster._optics._validate_size": [],
+    "sklearn.cluster._optics._compute_core_distances_": [],
+    "sklearn.cluster._optics.compute_optics_graph": [],
+    "sklearn.cluster._optics._set_reach_dist": [],
+    "sklearn.cluster._optics.cluster_optics_dbscan": [],
+    "sklearn.cluster._optics.cluster_optics_xi": [],
+    "sklearn.cluster._optics._extend_region": [],
+    "sklearn.cluster._optics._update_filter_sdas": [],
+    "sklearn.cluster._optics._correct_predecessor": [],
+    "sklearn.cluster._optics._xi_cluster": [],
+    "sklearn.cluster._optics._extract_xi_labels": [],
+    "sklearn.cluster._optics.OPTICS.__init__": [],
+    "sklearn.cluster._optics.OPTICS.fit": [],
+    "sklearn.cluster._optics.OPTICS": []
+}

@@ -1,0 +1,11 @@
+{
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig.__init__": [],
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig.dump_variable": [],
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig.dump_variables": [],
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig.__getattr__": [],
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig.get": [],
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig._get_var": [],
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig.clone": [],
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig.use_distribution": [],
+    "numpy.distutils.fcompiler.environment.EnvironmentConfig": []
+}

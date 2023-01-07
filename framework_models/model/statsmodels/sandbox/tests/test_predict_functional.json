@@ -1,0 +1,13 @@
+{
+    "statsmodels.sandbox.tests.test_predict_functional.pctl": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.setup_class": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.teardown_class": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.close_or_save": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.test_formula": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.test_lm_contrast": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.test_glm_formula_contrast": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.test_scb": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.test_glm_formula": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc.test_noformula_prediction": [],
+    "statsmodels.sandbox.tests.test_predict_functional.TestPredFunc": []
+}

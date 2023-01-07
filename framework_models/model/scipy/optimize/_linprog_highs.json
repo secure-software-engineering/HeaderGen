@@ -1,0 +1,5 @@
+{
+    "scipy.optimize._linprog_highs._replace_inf": [],
+    "scipy.optimize._linprog_highs._convert_to_highs_enum": [],
+    "scipy.optimize._linprog_highs._linprog_highs": []
+}

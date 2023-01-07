@@ -1,0 +1,15 @@
+{
+    "pandas.tests.extension.list.array.make_data": [],
+    "pandas.tests.extension.list.array.ListDtype.construct_array_type": [],
+    "pandas.tests.extension.list.array.ListArray.__init__": [],
+    "pandas.tests.extension.list.array.ListArray._from_sequence": [],
+    "pandas.tests.extension.list.array.ListArray.__getitem__": [],
+    "pandas.tests.extension.list.array.ListArray.__len__": [],
+    "pandas.tests.extension.list.array.ListArray.isna": [],
+    "pandas.tests.extension.list.array.ListArray.take": [],
+    "pandas.tests.extension.list.array.ListArray.copy": [],
+    "pandas.tests.extension.list.array.ListArray.astype": [],
+    "pandas.tests.extension.list.array.ListArray._concat_same_type": [],
+    "pandas.tests.extension.list.array.ListDtype": [],
+    "pandas.tests.extension.list.array.ListArray": []
+}

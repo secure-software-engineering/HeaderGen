@@ -1,0 +1,23 @@
+{
+    "tensorflow.lite.tools.optimize.debugging.python.debugger._get_quant_params": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugOptions.__init__": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger.__init__": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger.options": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._initialize_stats": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._get_quantized_model": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger.get_nondebug_quantized_model": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger.get_debug_quantized_model": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._init_from_converter": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._set_converter_options_for_float": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._set_converter_options_for_calibration": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger.run": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._collect_layer_statistics": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._collect_model_statistics": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._set_input_tensors": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._get_output_tensors": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._get_numeric_verify_tensor_details": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger._get_operand_name_and_index": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger.layer_statistics_dump": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugOptions": [],
+    "tensorflow.lite.tools.optimize.debugging.python.debugger.QuantizationDebugger": []
+}

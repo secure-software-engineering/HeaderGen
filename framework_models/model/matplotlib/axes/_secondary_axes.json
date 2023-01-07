@@ -1,0 +1,14 @@
+{
+    "matplotlib.axes._secondary_axes.SecondaryAxis.__init__": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis.set_alignment": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis.set_location": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis.apply_aspect": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis.set_ticks": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis.set_functions": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis.draw": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis._set_scale": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis._set_lims": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis.set_aspect": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis.set_color": [],
+    "matplotlib.axes._secondary_axes.SecondaryAxis": []
+}

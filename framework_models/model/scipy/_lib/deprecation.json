@@ -1,0 +1,8 @@
+{
+    "scipy._lib.deprecation._deprecated": [],
+    "scipy._lib.deprecation.deprecate_cython_api": [],
+    "scipy._lib.deprecation._DeprecationHelperStr.__init__": [],
+    "scipy._lib.deprecation._DeprecationHelperStr.__hash__": [],
+    "scipy._lib.deprecation._DeprecationHelperStr.__eq__": [],
+    "scipy._lib.deprecation._DeprecationHelperStr": []
+}

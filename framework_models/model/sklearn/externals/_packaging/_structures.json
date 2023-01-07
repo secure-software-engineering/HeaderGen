@@ -1,0 +1,22 @@
+{
+    "sklearn.externals._packaging._structures.InfinityType.__repr__": [],
+    "sklearn.externals._packaging._structures.InfinityType.__hash__": [],
+    "sklearn.externals._packaging._structures.InfinityType.__lt__": [],
+    "sklearn.externals._packaging._structures.InfinityType.__le__": [],
+    "sklearn.externals._packaging._structures.InfinityType.__eq__": [],
+    "sklearn.externals._packaging._structures.InfinityType.__ne__": [],
+    "sklearn.externals._packaging._structures.InfinityType.__gt__": [],
+    "sklearn.externals._packaging._structures.InfinityType.__ge__": [],
+    "sklearn.externals._packaging._structures.InfinityType.__neg__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__repr__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__hash__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__lt__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__le__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__eq__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__ne__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__gt__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__ge__": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType.__neg__": [],
+    "sklearn.externals._packaging._structures.InfinityType": [],
+    "sklearn.externals._packaging._structures.NegativeInfinityType": []
+}

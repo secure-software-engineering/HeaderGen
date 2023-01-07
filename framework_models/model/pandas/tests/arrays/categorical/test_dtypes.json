@@ -1,0 +1,14 @@
+{
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_is_dtype_equal_deprecated": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_categories_match_up_to_permutation": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_set_dtype_same": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_set_dtype_new_categories": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_set_dtype_many": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_set_dtype_no_overlap": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_codes_dtypes": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_astype": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_astype_category": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_iter_python_types": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes.test_iter_python_types_datetime": [],
+    "pandas.tests.arrays.categorical.test_dtypes.TestCategoricalDtypes": []
+}

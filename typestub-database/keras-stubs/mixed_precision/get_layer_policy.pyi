@@ -1,0 +1,3 @@
+from keras.engine import base_layer as base_layer
+
+def get_layer_policy(layer): ...

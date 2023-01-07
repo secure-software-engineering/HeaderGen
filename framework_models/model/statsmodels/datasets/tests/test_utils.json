@@ -1,0 +1,6 @@
+{
+    "statsmodels.datasets.tests.test_utils.test_get_rdataset": [],
+    "statsmodels.datasets.tests.test_utils.test_get_rdataset_write_read_cache": [],
+    "statsmodels.datasets.tests.test_utils.test_webuse": [],
+    "statsmodels.datasets.tests.test_utils.test_webuse_pandas": []
+}

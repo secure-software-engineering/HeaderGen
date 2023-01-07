@@ -1,0 +1,6 @@
+{
+    "pandas.tests.frame.methods.test_equals.TestEquals.test_dataframe_not_equal": [],
+    "pandas.tests.frame.methods.test_equals.TestEquals.test_equals_different_blocks": [],
+    "pandas.tests.frame.methods.test_equals.TestEquals.test_equals": [],
+    "pandas.tests.frame.methods.test_equals.TestEquals": []
+}

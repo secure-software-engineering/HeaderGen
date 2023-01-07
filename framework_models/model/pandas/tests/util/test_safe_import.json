@@ -1,0 +1,6 @@
+{
+    "pandas.tests.util.test_safe_import.test_safe_import_non_existent": [],
+    "pandas.tests.util.test_safe_import.test_safe_import_exists": [],
+    "pandas.tests.util.test_safe_import.test_safe_import_versions": [],
+    "pandas.tests.util.test_safe_import.test_safe_import_dummy": []
+}

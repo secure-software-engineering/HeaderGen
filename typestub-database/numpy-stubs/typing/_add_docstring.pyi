@@ -1,0 +1,3 @@
+from ._generic_alias import NDArray as NDArray
+
+def add_newdoc(name: str, value: str, doc: str) -> None: ...

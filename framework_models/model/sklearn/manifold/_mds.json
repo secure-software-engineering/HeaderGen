@@ -1,0 +1,10 @@
+{
+    "sklearn.manifold._mds._smacof_single": [],
+    "sklearn.manifold._mds.smacof": [],
+    "sklearn.manifold._mds.MDS.__init__": [],
+    "sklearn.manifold._mds.MDS._more_tags": [],
+    "sklearn.manifold._mds.MDS._pairwise": [],
+    "sklearn.manifold._mds.MDS.fit": [],
+    "sklearn.manifold._mds.MDS.fit_transform": [],
+    "sklearn.manifold._mds.MDS": []
+}

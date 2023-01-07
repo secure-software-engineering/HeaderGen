@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.fcompiler.ibm.IBMFCompiler.get_version": [],
+    "numpy.distutils.fcompiler.ibm.IBMFCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.ibm.IBMFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.ibm.IBMFCompiler.get_flags_linker_so": [],
+    "numpy.distutils.fcompiler.ibm.IBMFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.ibm.IBMFCompiler": []
+}

@@ -1,0 +1,13 @@
+{
+    "statsmodels.sandbox.distributions.sppatch._fitstart": [],
+    "statsmodels.sandbox.distributions.sppatch._fitstart_beta": [],
+    "statsmodels.sandbox.distributions.sppatch._fitstart_poisson": [],
+    "statsmodels.sandbox.distributions.sppatch.nnlf_fr": [],
+    "statsmodels.sandbox.distributions.sppatch.fit_fr": [],
+    "statsmodels.sandbox.distributions.sppatch.expect": [],
+    "statsmodels.sandbox.distributions.sppatch.expect_v2": [],
+    "statsmodels.sandbox.distributions.sppatch.expect_discrete": [],
+    "statsmodels.sandbox.distributions.sppatch.distfitbootstrap": [],
+    "statsmodels.sandbox.distributions.sppatch.distfitmc": [],
+    "statsmodels.sandbox.distributions.sppatch.printresults": []
+}

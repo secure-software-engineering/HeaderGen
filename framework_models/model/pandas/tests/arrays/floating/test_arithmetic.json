@@ -1,0 +1,11 @@
+{
+    "pandas.tests.arrays.floating.test_arithmetic.test_array_op": [],
+    "pandas.tests.arrays.floating.test_arithmetic.test_divide_by_zero": [],
+    "pandas.tests.arrays.floating.test_arithmetic.test_pow_scalar": [],
+    "pandas.tests.arrays.floating.test_arithmetic.test_pow_array": [],
+    "pandas.tests.arrays.floating.test_arithmetic.test_rpow_one_to_na": [],
+    "pandas.tests.arrays.floating.test_arithmetic.test_arith_zero_dim_ndarray": [],
+    "pandas.tests.arrays.floating.test_arithmetic.test_error_invalid_values": [],
+    "pandas.tests.arrays.floating.test_arithmetic.test_cross_type_arithmetic": [],
+    "pandas.tests.arrays.floating.test_arithmetic.test_unary_float_operators": []
+}

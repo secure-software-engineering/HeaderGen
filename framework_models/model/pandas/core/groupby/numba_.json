@@ -1,0 +1,5 @@
+{
+    "pandas.core.groupby.numba_.validate_udf": [],
+    "pandas.core.groupby.numba_.generate_numba_agg_func": [],
+    "pandas.core.groupby.numba_.generate_numba_transform_func": []
+}

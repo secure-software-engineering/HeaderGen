@@ -1,0 +1,12 @@
+{
+    "statsmodels.genmod._prediction.get_prediction_glm": [],
+    "statsmodels.genmod._prediction.params_transform_univariate": [],
+    "statsmodels.genmod._prediction.PredictionResults.__init__": [],
+    "statsmodels.genmod._prediction.PredictionResults.se_obs": [],
+    "statsmodels.genmod._prediction.PredictionResults.se_mean": [],
+    "statsmodels.genmod._prediction.PredictionResults.tvalues": [],
+    "statsmodels.genmod._prediction.PredictionResults.t_test": [],
+    "statsmodels.genmod._prediction.PredictionResults.conf_int": [],
+    "statsmodels.genmod._prediction.PredictionResults.summary_frame": [],
+    "statsmodels.genmod._prediction.PredictionResults": []
+}

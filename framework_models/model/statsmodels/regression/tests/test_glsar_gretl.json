@@ -1,0 +1,6 @@
+{
+    "statsmodels.regression.tests.test_glsar_gretl.compare_ftest": [],
+    "statsmodels.regression.tests.test_glsar_gretl.test_GLSARlag": [],
+    "statsmodels.regression.tests.test_glsar_gretl.TestGLSARGretl.test_all": [],
+    "statsmodels.regression.tests.test_glsar_gretl.TestGLSARGretl": []
+}

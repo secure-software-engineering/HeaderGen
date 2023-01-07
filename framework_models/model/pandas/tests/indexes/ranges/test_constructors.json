@@ -1,0 +1,12 @@
+{
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor_invalid_args": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor_additional_invalid_args": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor_invalid_args_wrong_type": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor_same": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor_range_object": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor_range": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor_name": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors.test_constructor_corner": [],
+    "pandas.tests.indexes.ranges.test_constructors.TestRangeIndexConstructors": []
+}

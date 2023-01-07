@@ -1,0 +1,5 @@
+{
+    "pandas.tests.io.pytables.test_time_series.test_store_datetime_fractional_secs": [],
+    "pandas.tests.io.pytables.test_time_series.test_tseries_indices_series": [],
+    "pandas.tests.io.pytables.test_time_series.test_tseries_indices_frame": []
+}

@@ -1,0 +1,12 @@
+{
+    "pandas.core.ops.array_ops.comp_method_OBJECT_ARRAY": [],
+    "pandas.core.ops.array_ops._masked_arith_op": [],
+    "pandas.core.ops.array_ops._na_arithmetic_op": [],
+    "pandas.core.ops.array_ops.arithmetic_op": [],
+    "pandas.core.ops.array_ops.comparison_op": [],
+    "pandas.core.ops.array_ops.na_logical_op": [],
+    "pandas.core.ops.array_ops.logical_op": [],
+    "pandas.core.ops.array_ops.get_array_op": [],
+    "pandas.core.ops.array_ops.maybe_prepare_scalar_for_op": [],
+    "pandas.core.ops.array_ops._bool_arith_check": []
+}

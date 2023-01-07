@@ -1,0 +1,15 @@
+{
+    "keras.saving.saving_utils.extract_model_metrics": [],
+    "keras.saving.saving_utils.model_input_signature": [],
+    "keras.saving.saving_utils.raise_model_input_error": [],
+    "keras.saving.saving_utils.trace_model_call": [],
+    "keras.saving.saving_utils.model_metadata": [],
+    "keras.saving.saving_utils.should_overwrite": [],
+    "keras.saving.saving_utils.compile_args_from_training_config": [],
+    "keras.saving.saving_utils._deserialize_nested_config": [],
+    "keras.saving.saving_utils._serialize_nested_config": [],
+    "keras.saving.saving_utils._deserialize_metric": [],
+    "keras.saving.saving_utils._enforce_names_consistency": [],
+    "keras.saving.saving_utils.try_build_compiled_arguments": [],
+    "keras.saving.saving_utils.is_hdf5_filepath": []
+}

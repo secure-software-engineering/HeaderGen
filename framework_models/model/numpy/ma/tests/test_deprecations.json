@@ -1,0 +1,11 @@
+{
+    "numpy.ma.tests.test_deprecations.TestArgsort._test_base": [],
+    "numpy.ma.tests.test_deprecations.TestArgsort.test_function_ndarray": [],
+    "numpy.ma.tests.test_deprecations.TestArgsort.test_function_maskedarray": [],
+    "numpy.ma.tests.test_deprecations.TestArgsort.test_method": [],
+    "numpy.ma.tests.test_deprecations.TestMinimumMaximum.test_minimum": [],
+    "numpy.ma.tests.test_deprecations.TestMinimumMaximum.test_maximum": [],
+    "numpy.ma.tests.test_deprecations.TestMinimumMaximum.test_axis_default": [],
+    "numpy.ma.tests.test_deprecations.TestArgsort": [],
+    "numpy.ma.tests.test_deprecations.TestMinimumMaximum": []
+}

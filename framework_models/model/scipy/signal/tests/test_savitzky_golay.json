@@ -1,0 +1,17 @@
+{
+    "scipy.signal.tests.test_savitzky_golay.check_polyder": [],
+    "scipy.signal.tests.test_savitzky_golay.test_polyder": [],
+    "scipy.signal.tests.test_savitzky_golay.alt_sg_coeffs": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_coeffs_trivial": [],
+    "scipy.signal.tests.test_savitzky_golay.compare_coeffs_to_alt": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_coeffs_compare": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_coeffs_exact": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_coeffs_deriv": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_coeffs_deriv_gt_polyorder": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_coeffs_large": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_filter_trivial": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_filter_basic": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_filter_2d": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_filter_interp_edges": [],
+    "scipy.signal.tests.test_savitzky_golay.test_sg_filter_interp_edges_3d": []
+}

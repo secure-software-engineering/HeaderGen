@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.autograph.operators.variables.ld": [],
+    "tensorflow.python.autograph.operators.variables.ldu": [],
+    "tensorflow.python.autograph.operators.variables.Undefined.__init__": [],
+    "tensorflow.python.autograph.operators.variables.Undefined.read": [],
+    "tensorflow.python.autograph.operators.variables.Undefined.__repr__": [],
+    "tensorflow.python.autograph.operators.variables.Undefined.__getattribute__": [],
+    "tensorflow.python.autograph.operators.variables.Undefined.__getitem__": [],
+    "tensorflow.python.autograph.operators.variables.Undefined": [],
+    "tensorflow.python.autograph.operators.variables.UndefinedReturnValue": []
+}

@@ -1,0 +1,17 @@
+{
+    "statsmodels.graphics.mosaicplot._normalize_split": [],
+    "statsmodels.graphics.mosaicplot._split_rect": [],
+    "statsmodels.graphics.mosaicplot._reduce_dict": [],
+    "statsmodels.graphics.mosaicplot._key_splitting": [],
+    "statsmodels.graphics.mosaicplot._tuplify": [],
+    "statsmodels.graphics.mosaicplot._categories_level": [],
+    "statsmodels.graphics.mosaicplot._hierarchical_split": [],
+    "statsmodels.graphics.mosaicplot._single_hsv_to_rgb": [],
+    "statsmodels.graphics.mosaicplot._create_default_properties": [],
+    "statsmodels.graphics.mosaicplot._normalize_data": [],
+    "statsmodels.graphics.mosaicplot._normalize_dataframe": [],
+    "statsmodels.graphics.mosaicplot._statistical_coloring": [],
+    "statsmodels.graphics.mosaicplot._get_position": [],
+    "statsmodels.graphics.mosaicplot._create_labels": [],
+    "statsmodels.graphics.mosaicplot.mosaic": []
+}

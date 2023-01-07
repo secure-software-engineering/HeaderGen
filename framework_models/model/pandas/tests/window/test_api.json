@@ -1,0 +1,16 @@
+{
+    "pandas.tests.window.test_api.test_getitem": [],
+    "pandas.tests.window.test_api.test_select_bad_cols": [],
+    "pandas.tests.window.test_api.test_attribute_access": [],
+    "pandas.tests.window.test_api.tests_skip_nuisance": [],
+    "pandas.tests.window.test_api.test_skip_sum_object_raises": [],
+    "pandas.tests.window.test_api.test_agg": [],
+    "pandas.tests.window.test_api.test_agg_apply": [],
+    "pandas.tests.window.test_api.test_agg_consistency": [],
+    "pandas.tests.window.test_api.test_agg_nested_dicts": [],
+    "pandas.tests.window.test_api.test_count_nonnumeric_types": [],
+    "pandas.tests.window.test_api.test_preserve_metadata": [],
+    "pandas.tests.window.test_api.test_multiple_agg_funcs": [],
+    "pandas.tests.window.test_api.test_is_datetimelike_deprecated": [],
+    "pandas.tests.window.test_api.test_dont_modify_attributes_after_methods": []
+}

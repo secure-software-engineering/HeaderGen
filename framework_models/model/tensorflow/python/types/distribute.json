@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.types.distribute.Iterable.__iter__": [],
+    "tensorflow.python.types.distribute.Iterable.reduce": [],
+    "tensorflow.python.types.distribute.Iterator.get_next": [],
+    "tensorflow.python.types.distribute.Iterator.__next__": [],
+    "tensorflow.python.types.distribute.Iterator.__iter__": [],
+    "tensorflow.python.types.distribute.Iterable": [],
+    "tensorflow.python.types.distribute.Iterator": []
+}

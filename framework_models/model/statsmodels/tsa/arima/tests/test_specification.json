@@ -1,0 +1,11 @@
+{
+    "statsmodels.tsa.arima.tests.test_specification.check_attributes": [],
+    "statsmodels.tsa.arima.tests.test_specification.check_properties": [],
+    "statsmodels.tsa.arima.tests.test_specification.check_methods": [],
+    "statsmodels.tsa.arima.tests.test_specification.test_specification_ar_or_ma": [],
+    "statsmodels.tsa.arima.tests.test_specification.test_specification": [],
+    "statsmodels.tsa.arima.tests.test_specification.test_misc": [],
+    "statsmodels.tsa.arima.tests.test_specification.test_invalid": [],
+    "statsmodels.tsa.arima.tests.test_specification.test_valid_estimators": [],
+    "statsmodels.tsa.arima.tests.test_specification.test_invalid_estimator": []
+}

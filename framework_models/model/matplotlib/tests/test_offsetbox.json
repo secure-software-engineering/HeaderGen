@@ -1,0 +1,15 @@
+{
+    "matplotlib.tests.test_offsetbox.test_offsetbox_clipping": [],
+    "matplotlib.tests.test_offsetbox.test_offsetbox_clip_children": [],
+    "matplotlib.tests.test_offsetbox.test_offsetbox_loc_codes": [],
+    "matplotlib.tests.test_offsetbox.test_expand_with_tight_layout": [],
+    "matplotlib.tests.test_offsetbox.test_get_packed_offsets": [],
+    "matplotlib.tests.test_offsetbox.test_get_packed_offsets_fixed": [],
+    "matplotlib.tests.test_offsetbox.test_get_packed_offsets_expand": [],
+    "matplotlib.tests.test_offsetbox.test_get_packed_offsets_equal": [],
+    "matplotlib.tests.test_offsetbox.test_get_packed_offsets_equal_total_none_sep_none": [],
+    "matplotlib.tests.test_offsetbox.test_picking": [],
+    "matplotlib.tests.test_offsetbox.test_anchoredtext_horizontal_alignment": [],
+    "matplotlib.tests.test_offsetbox.test_annotationbbox_extents": [],
+    "matplotlib.tests.test_offsetbox.test_zorder": []
+}

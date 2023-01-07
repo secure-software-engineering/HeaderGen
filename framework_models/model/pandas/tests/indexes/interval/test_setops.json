@@ -1,0 +1,13 @@
+{
+    "pandas.tests.indexes.interval.test_setops.monotonic_index": [],
+    "pandas.tests.indexes.interval.test_setops.empty_index": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex.test_union": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex.test_union_empty_result": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex.test_intersection": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex.test_intersection_empty_result": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex.test_intersection_duplicates": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex.test_difference": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex.test_symmetric_difference": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex.test_set_incompatible_types": [],
+    "pandas.tests.indexes.interval.test_setops.TestIntervalIndex": []
+}

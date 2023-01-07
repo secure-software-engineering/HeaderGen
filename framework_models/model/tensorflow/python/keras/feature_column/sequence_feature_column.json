@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.keras.feature_column.sequence_feature_column._assert_all_equal_and_return": [],
+    "tensorflow.python.keras.feature_column.sequence_feature_column.SequenceFeatures.__init__": [],
+    "tensorflow.python.keras.feature_column.sequence_feature_column.SequenceFeatures._is_feature_layer": [],
+    "tensorflow.python.keras.feature_column.sequence_feature_column.SequenceFeatures._target_shape": [],
+    "tensorflow.python.keras.feature_column.sequence_feature_column.SequenceFeatures.call": [],
+    "tensorflow.python.keras.feature_column.sequence_feature_column.SequenceFeatures": []
+}

@@ -1,0 +1,7 @@
+{
+    "numpy.matrixlib.tests.test_regression.TestRegression.test_kron_matrix": [],
+    "numpy.matrixlib.tests.test_regression.TestRegression.test_matrix_properties": [],
+    "numpy.matrixlib.tests.test_regression.TestRegression.test_matrix_multiply_by_1d_vector": [],
+    "numpy.matrixlib.tests.test_regression.TestRegression.test_matrix_std_argmax": [],
+    "numpy.matrixlib.tests.test_regression.TestRegression": []
+}

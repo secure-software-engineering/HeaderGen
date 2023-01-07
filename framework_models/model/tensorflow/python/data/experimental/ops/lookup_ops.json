@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.data.experimental.ops.lookup_ops._check_table_initializer_element_spec": [],
+    "tensorflow.python.data.experimental.ops.lookup_ops.table_from_dataset": [],
+    "tensorflow.python.data.experimental.ops.lookup_ops.index_table_from_dataset": [],
+    "tensorflow.python.data.experimental.ops.lookup_ops.DatasetInitializer.__init__": [],
+    "tensorflow.python.data.experimental.ops.lookup_ops.DatasetInitializer.initialize": [],
+    "tensorflow.python.data.experimental.ops.lookup_ops.DatasetInitializer": []
+}

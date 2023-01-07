@@ -1,0 +1,10 @@
+{
+    "keras.metrics.auc": "keras.metrics.AUC",
+    "keras.optimizers.Adam": "keras.optimizer_v2.adam.Adam",
+    "keras.optimizers.SGD": "keras.optimizer_v2.gradient_descent.SGD",
+    "keras.optimizers.Nadam": "keras.optimizer_v2.nadam.Nadam",
+    "keras.optimizers.RMSprop": "keras.optimizer_v2.rmsprop.RMSprop",
+    "keras.engine.sequential.Sequential.predict_proba": "keras.engine.sequential.Sequential.predict",
+    "keras.engine.training.Model.predict_proba": "keras.engine.training.Model.predict",
+    "keras.layers.normalization.BatchNormalization": "keras.layers.normalization.batch_normalization.BatchNormalization"
+}

@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.keras.activations.softmax": [],
+    "tensorflow.python.keras.activations.elu": [],
+    "tensorflow.python.keras.activations.selu": [],
+    "tensorflow.python.keras.activations.softplus": [],
+    "tensorflow.python.keras.activations.softsign": [],
+    "tensorflow.python.keras.activations.swish": [],
+    "tensorflow.python.keras.activations.relu": [],
+    "tensorflow.python.keras.activations.gelu": [],
+    "tensorflow.python.keras.activations.tanh": [],
+    "tensorflow.python.keras.activations.sigmoid": [],
+    "tensorflow.python.keras.activations.exponential": [],
+    "tensorflow.python.keras.activations.hard_sigmoid": [],
+    "tensorflow.python.keras.activations.linear": [],
+    "tensorflow.python.keras.activations.serialize": [],
+    "tensorflow.python.keras.activations.deserialize": [],
+    "tensorflow.python.keras.activations.get": []
+}

@@ -1,0 +1,4 @@
+{
+    "pandas.core.ops.invalid.invalid_comparison": [],
+    "pandas.core.ops.invalid.make_invalid_op": []
+}

@@ -1,0 +1,9 @@
+{
+    "scipy._lib._threadsafety.non_reentrant": [],
+    "scipy._lib._threadsafety.ReentrancyLock.__init__": [],
+    "scipy._lib._threadsafety.ReentrancyLock.__enter__": [],
+    "scipy._lib._threadsafety.ReentrancyLock.__exit__": [],
+    "scipy._lib._threadsafety.ReentrancyLock.decorate": [],
+    "scipy._lib._threadsafety.ReentrancyError": [],
+    "scipy._lib._threadsafety.ReentrancyLock": []
+}

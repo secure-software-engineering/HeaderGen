@@ -1,0 +1,5 @@
+{
+    "pandas.tests.plotting.test_common.TestCommon.test__check_ticks_props": [],
+    "pandas.tests.plotting.test_common.TestCommon.test__gen_two_subplots_with_ax": [],
+    "pandas.tests.plotting.test_common.TestCommon": []
+}

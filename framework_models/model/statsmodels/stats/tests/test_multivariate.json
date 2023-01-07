@@ -1,0 +1,12 @@
+{
+    "statsmodels.stats.tests.test_multivariate.test_mv_mean": [],
+    "statsmodels.stats.tests.test_multivariate.test_mvmean_2indep": [],
+    "statsmodels.stats.tests.test_multivariate.test_confint_simult": [],
+    "statsmodels.stats.tests.test_multivariate.test_cov_oneway": [],
+    "statsmodels.stats.tests.test_multivariate.TestCovStructure.setup_class": [],
+    "statsmodels.stats.tests.test_multivariate.TestCovStructure.test_spherical": [],
+    "statsmodels.stats.tests.test_multivariate.TestCovStructure.test_diagonal": [],
+    "statsmodels.stats.tests.test_multivariate.TestCovStructure.test_blockdiagonal": [],
+    "statsmodels.stats.tests.test_multivariate.TestCovStructure.test_covmat": [],
+    "statsmodels.stats.tests.test_multivariate.TestCovStructure": []
+}

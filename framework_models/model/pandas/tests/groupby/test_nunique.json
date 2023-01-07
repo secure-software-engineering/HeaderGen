@@ -1,0 +1,10 @@
+{
+    "pandas.tests.groupby.test_nunique.test_series_groupby_nunique": [],
+    "pandas.tests.groupby.test_nunique.test_nunique": [],
+    "pandas.tests.groupby.test_nunique.test_nunique_with_object": [],
+    "pandas.tests.groupby.test_nunique.test_nunique_with_empty_series": [],
+    "pandas.tests.groupby.test_nunique.test_nunique_with_timegrouper": [],
+    "pandas.tests.groupby.test_nunique.test_nunique_with_NaT": [],
+    "pandas.tests.groupby.test_nunique.test_nunique_preserves_column_level_names": [],
+    "pandas.tests.groupby.test_nunique.test_nunique_transform_with_datetime": []
+}

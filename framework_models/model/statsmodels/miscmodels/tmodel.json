@@ -1,0 +1,12 @@
+{
+    "statsmodels.miscmodels.tmodel.TLinearModel.initialize": [],
+    "statsmodels.miscmodels.tmodel.TLinearModel._set_start_params": [],
+    "statsmodels.miscmodels.tmodel.TLinearModel.loglike": [],
+    "statsmodels.miscmodels.tmodel.TLinearModel.nloglikeobs": [],
+    "statsmodels.miscmodels.tmodel.TLinearModel.predict": [],
+    "statsmodels.miscmodels.tmodel.TArma.loglike": [],
+    "statsmodels.miscmodels.tmodel.TArma.nloglikeobs": [],
+    "statsmodels.miscmodels.tmodel.TArma.fit_mle": [],
+    "statsmodels.miscmodels.tmodel.TLinearModel": [],
+    "statsmodels.miscmodels.tmodel.TArma": []
+}

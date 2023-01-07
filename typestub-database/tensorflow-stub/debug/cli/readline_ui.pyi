@@ -1,0 +1,6 @@
+from tensorflow.python.debug.cli import base_ui as base_ui, debugger_cli_common as debugger_cli_common
+from typing import Any
+
+class ReadlineUI(base_ui.BaseUI):
+    def __init__(self, on_ui_exit: Any | None = ..., config: Any | None = ...) -> None: ...
+    def run_ui(self, init_command: Any | None = ..., title: Any | None = ..., title_color: Any | None = ..., enable_mouse_on_start: bool = ...): ...

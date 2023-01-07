@@ -1,0 +1,12 @@
+{
+    "scipy.stats.mstats_extras.hdquantiles": [],
+    "scipy.stats.mstats_extras.hdmedian": [],
+    "scipy.stats.mstats_extras.hdquantiles_sd": [],
+    "scipy.stats.mstats_extras.trimmed_mean_ci": [],
+    "scipy.stats.mstats_extras.mjci": [],
+    "scipy.stats.mstats_extras.mquantiles_cimj": [],
+    "scipy.stats.mstats_extras.median_cihs": [],
+    "scipy.stats.mstats_extras.compare_medians_ms": [],
+    "scipy.stats.mstats_extras.idealfourths": [],
+    "scipy.stats.mstats_extras.rsh": []
+}

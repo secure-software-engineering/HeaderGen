@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.debug.cli.command_parser.parse_command": [],
+    "tensorflow.python.debug.cli.command_parser.extract_output_file_path": [],
+    "tensorflow.python.debug.cli.command_parser.parse_tensor_name_with_slicing": [],
+    "tensorflow.python.debug.cli.command_parser.validate_slicing_string": [],
+    "tensorflow.python.debug.cli.command_parser._parse_slices": [],
+    "tensorflow.python.debug.cli.command_parser.parse_indices": [],
+    "tensorflow.python.debug.cli.command_parser.parse_ranges": [],
+    "tensorflow.python.debug.cli.command_parser.parse_memory_interval": [],
+    "tensorflow.python.debug.cli.command_parser.parse_time_interval": [],
+    "tensorflow.python.debug.cli.command_parser._parse_interval": [],
+    "tensorflow.python.debug.cli.command_parser.parse_readable_size_str": [],
+    "tensorflow.python.debug.cli.command_parser.parse_readable_time_str": [],
+    "tensorflow.python.debug.cli.command_parser.evaluate_tensor_slice": [],
+    "tensorflow.python.debug.cli.command_parser.get_print_tensor_argparser": [],
+    "tensorflow.python.debug.cli.command_parser.Interval.__init__": [],
+    "tensorflow.python.debug.cli.command_parser.Interval.contains": [],
+    "tensorflow.python.debug.cli.command_parser.Interval.__eq__": [],
+    "tensorflow.python.debug.cli.command_parser.Interval": []
+}

@@ -1,0 +1,10 @@
+{
+    "statsmodels.tsa.forecasting.tests.test_theta.data": [],
+    "statsmodels.tsa.forecasting.tests.test_theta.indexed_data": [],
+    "statsmodels.tsa.forecasting.tests.test_theta.test_smoke": [],
+    "statsmodels.tsa.forecasting.tests.test_theta.test_alt_index": [],
+    "statsmodels.tsa.forecasting.tests.test_theta.test_no_freq": [],
+    "statsmodels.tsa.forecasting.tests.test_theta.test_forecast_errors": [],
+    "statsmodels.tsa.forecasting.tests.test_theta.test_pi_width": [],
+    "statsmodels.tsa.forecasting.tests.test_theta.test_forecast_seasonal_alignment": []
+}

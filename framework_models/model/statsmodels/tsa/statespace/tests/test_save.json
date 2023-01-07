@@ -1,0 +1,13 @@
+{
+    "statsmodels.tsa.statespace.tests.test_save.temp_filename": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_sarimax": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_sarimax_save_remove_data": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_sarimax_pickle": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_structural": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_structural_pickle": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_dynamic_factor": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_dynamic_factor_pickle": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_varmax": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_varmax_pickle": [],
+    "statsmodels.tsa.statespace.tests.test_save.test_existing_pickle": []
+}

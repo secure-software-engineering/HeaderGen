@@ -1,0 +1,23 @@
+{
+    "plotly.graph_objs.sankey._node.Node.color": [],
+    "plotly.graph_objs.sankey._node.Node.colorsrc": [],
+    "plotly.graph_objs.sankey._node.Node.customdata": [],
+    "plotly.graph_objs.sankey._node.Node.customdatasrc": [],
+    "plotly.graph_objs.sankey._node.Node.groups": [],
+    "plotly.graph_objs.sankey._node.Node.hoverinfo": [],
+    "plotly.graph_objs.sankey._node.Node.hoverlabel": [],
+    "plotly.graph_objs.sankey._node.Node.hovertemplate": [],
+    "plotly.graph_objs.sankey._node.Node.hovertemplatesrc": [],
+    "plotly.graph_objs.sankey._node.Node.label": [],
+    "plotly.graph_objs.sankey._node.Node.labelsrc": [],
+    "plotly.graph_objs.sankey._node.Node.line": [],
+    "plotly.graph_objs.sankey._node.Node.pad": [],
+    "plotly.graph_objs.sankey._node.Node.thickness": [],
+    "plotly.graph_objs.sankey._node.Node.x": [],
+    "plotly.graph_objs.sankey._node.Node.xsrc": [],
+    "plotly.graph_objs.sankey._node.Node.y": [],
+    "plotly.graph_objs.sankey._node.Node.ysrc": [],
+    "plotly.graph_objs.sankey._node.Node._prop_descriptions": [],
+    "plotly.graph_objs.sankey._node.Node.__init__": [],
+    "plotly.graph_objs.sankey._node.Node": []
+}

@@ -1,0 +1,8 @@
+{
+    "sklearn.metrics.cluster._unsupervised.check_number_of_labels": [],
+    "sklearn.metrics.cluster._unsupervised.silhouette_score": [],
+    "sklearn.metrics.cluster._unsupervised._silhouette_reduce": [],
+    "sklearn.metrics.cluster._unsupervised.silhouette_samples": [],
+    "sklearn.metrics.cluster._unsupervised.calinski_harabasz_score": [],
+    "sklearn.metrics.cluster._unsupervised.davies_bouldin_score": []
+}

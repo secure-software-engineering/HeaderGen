@@ -1,0 +1,14 @@
+{
+    "pandas.compat.pickle_compat.load_reduce": [],
+    "pandas.compat.pickle_compat.load_newobj": [],
+    "pandas.compat.pickle_compat.load_newobj_ex": [],
+    "pandas.compat.pickle_compat.load": [],
+    "pandas.compat.pickle_compat.loads": [],
+    "pandas.compat.pickle_compat.patch_pickle": [],
+    "pandas.compat.pickle_compat._LoadSparseSeries.__new__": [],
+    "pandas.compat.pickle_compat._LoadSparseFrame.__new__": [],
+    "pandas.compat.pickle_compat.Unpickler.find_class": [],
+    "pandas.compat.pickle_compat._LoadSparseSeries": [],
+    "pandas.compat.pickle_compat._LoadSparseFrame": [],
+    "pandas.compat.pickle_compat.Unpickler": []
+}

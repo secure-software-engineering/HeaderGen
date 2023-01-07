@@ -1,0 +1,9 @@
+{
+    "sklearn.datasets.tests.test_lfw.setup_module": [],
+    "sklearn.datasets.tests.test_lfw.teardown_module": [],
+    "sklearn.datasets.tests.test_lfw.test_load_empty_lfw_people": [],
+    "sklearn.datasets.tests.test_lfw.test_load_fake_lfw_people": [],
+    "sklearn.datasets.tests.test_lfw.test_load_fake_lfw_people_too_restrictive": [],
+    "sklearn.datasets.tests.test_lfw.test_load_empty_lfw_pairs": [],
+    "sklearn.datasets.tests.test_lfw.test_load_fake_lfw_pairs": []
+}

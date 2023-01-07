@@ -1,0 +1,19 @@
+{
+    "pandas.core.arrays.sparse.accessor.BaseAccessor.__init__": [],
+    "pandas.core.arrays.sparse.accessor.BaseAccessor._validate": [],
+    "pandas.core.arrays.sparse.accessor.SparseAccessor._validate": [],
+    "pandas.core.arrays.sparse.accessor.SparseAccessor._delegate_property_get": [],
+    "pandas.core.arrays.sparse.accessor.SparseAccessor._delegate_method": [],
+    "pandas.core.arrays.sparse.accessor.SparseAccessor.from_coo": [],
+    "pandas.core.arrays.sparse.accessor.SparseAccessor.to_coo": [],
+    "pandas.core.arrays.sparse.accessor.SparseAccessor.to_dense": [],
+    "pandas.core.arrays.sparse.accessor.SparseFrameAccessor._validate": [],
+    "pandas.core.arrays.sparse.accessor.SparseFrameAccessor.from_spmatrix": [],
+    "pandas.core.arrays.sparse.accessor.SparseFrameAccessor.to_dense": [],
+    "pandas.core.arrays.sparse.accessor.SparseFrameAccessor.to_coo": [],
+    "pandas.core.arrays.sparse.accessor.SparseFrameAccessor.density": [],
+    "pandas.core.arrays.sparse.accessor.SparseFrameAccessor._prep_index": [],
+    "pandas.core.arrays.sparse.accessor.BaseAccessor": [],
+    "pandas.core.arrays.sparse.accessor.SparseAccessor": [],
+    "pandas.core.arrays.sparse.accessor.SparseFrameAccessor": []
+}

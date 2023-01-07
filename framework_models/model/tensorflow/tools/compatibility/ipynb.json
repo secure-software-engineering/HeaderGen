@@ -1,0 +1,8 @@
+{
+    "tensorflow.tools.compatibility.ipynb.is_python": [],
+    "tensorflow.tools.compatibility.ipynb.process_file": [],
+    "tensorflow.tools.compatibility.ipynb.skip_magic": [],
+    "tensorflow.tools.compatibility.ipynb.check_line_split": [],
+    "tensorflow.tools.compatibility.ipynb._get_code": [],
+    "tensorflow.tools.compatibility.ipynb._update_notebook": []
+}

@@ -1,0 +1,5 @@
+{
+    "numpy.typing.mypy_plugin._get_precision_dict": [],
+    "numpy.typing.mypy_plugin._get_extended_precision_list": [],
+    "numpy.typing.mypy_plugin._hook": []
+}

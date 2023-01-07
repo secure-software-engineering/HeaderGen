@@ -1,0 +1,7 @@
+{
+    "statsmodels.base.l1_cvxopt.fit_l1_cvxopt_cp": [],
+    "statsmodels.base.l1_cvxopt._objective_func": [],
+    "statsmodels.base.l1_cvxopt._fprime": [],
+    "statsmodels.base.l1_cvxopt._get_G": [],
+    "statsmodels.base.l1_cvxopt._hessian_wrapper": []
+}

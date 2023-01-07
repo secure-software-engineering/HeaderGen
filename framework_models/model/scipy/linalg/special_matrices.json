@@ -1,0 +1,22 @@
+{
+    "scipy.linalg.special_matrices.tri": [],
+    "scipy.linalg.special_matrices.tril": [],
+    "scipy.linalg.special_matrices.triu": [],
+    "scipy.linalg.special_matrices.toeplitz": [],
+    "scipy.linalg.special_matrices.circulant": [],
+    "scipy.linalg.special_matrices.hankel": [],
+    "scipy.linalg.special_matrices.hadamard": [],
+    "scipy.linalg.special_matrices.leslie": [],
+    "scipy.linalg.special_matrices.kron": [],
+    "scipy.linalg.special_matrices.block_diag": [],
+    "scipy.linalg.special_matrices.companion": [],
+    "scipy.linalg.special_matrices.helmert": [],
+    "scipy.linalg.special_matrices.hilbert": [],
+    "scipy.linalg.special_matrices.invhilbert": [],
+    "scipy.linalg.special_matrices.pascal": [],
+    "scipy.linalg.special_matrices.invpascal": [],
+    "scipy.linalg.special_matrices.dft": [],
+    "scipy.linalg.special_matrices.fiedler": [],
+    "scipy.linalg.special_matrices.fiedler_companion": [],
+    "scipy.linalg.special_matrices.convolution_matrix": []
+}

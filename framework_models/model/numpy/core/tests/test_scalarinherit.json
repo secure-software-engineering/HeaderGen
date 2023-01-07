@@ -1,0 +1,18 @@
+{
+    "numpy.core.tests.test_scalarinherit.HasNew.__new__": [],
+    "numpy.core.tests.test_scalarinherit.TestInherit.test_init": [],
+    "numpy.core.tests.test_scalarinherit.TestInherit.test_init2": [],
+    "numpy.core.tests.test_scalarinherit.TestInherit.test_gh_15395": [],
+    "numpy.core.tests.test_scalarinherit.TestCharacter.test_char_radd": [],
+    "numpy.core.tests.test_scalarinherit.TestCharacter.test_char_repeat": [],
+    "numpy.core.tests.test_scalarinherit.A": [],
+    "numpy.core.tests.test_scalarinherit.B": [],
+    "numpy.core.tests.test_scalarinherit.C": [],
+    "numpy.core.tests.test_scalarinherit.D": [],
+    "numpy.core.tests.test_scalarinherit.B0": [],
+    "numpy.core.tests.test_scalarinherit.C0": [],
+    "numpy.core.tests.test_scalarinherit.HasNew": [],
+    "numpy.core.tests.test_scalarinherit.B1": [],
+    "numpy.core.tests.test_scalarinherit.TestInherit": [],
+    "numpy.core.tests.test_scalarinherit.TestCharacter": []
+}

@@ -1,0 +1,9 @@
+{
+    "pandas.tests.series.methods.test_asfreq.TestAsFreq.test_asfreq_ts": [],
+    "pandas.tests.series.methods.test_asfreq.TestAsFreq.test_tz_aware_asfreq": [],
+    "pandas.tests.series.methods.test_asfreq.TestAsFreq.test_asfreq": [],
+    "pandas.tests.series.methods.test_asfreq.TestAsFreq.test_asfreq_datetimeindex_empty_series": [],
+    "pandas.tests.series.methods.test_asfreq.TestAsFreq.test_asfreq_keep_index_name": [],
+    "pandas.tests.series.methods.test_asfreq.TestAsFreq.test_asfreq_normalize": [],
+    "pandas.tests.series.methods.test_asfreq.TestAsFreq": []
+}

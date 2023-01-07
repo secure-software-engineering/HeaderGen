@@ -1,0 +1,15 @@
+{
+    "pandas.tests.io.formats.style.test_highlight.df": [],
+    "pandas.tests.io.formats.style.test_highlight.styler": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_null": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_null_subset": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_minmax_basic": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_minmax_ext": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_minmax_nulls": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_between": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_between_raises": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_between_raises2": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_between_inclusive": [],
+    "pandas.tests.io.formats.style.test_highlight.test_highlight_quantile": [],
+    "pandas.tests.io.formats.style.test_highlight.test_all_highlight_dtypes": []
+}

@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.autograph.pyct.error_utils._stack_trace_inside_mapped_code": [],
+    "tensorflow.python.autograph.pyct.error_utils.MultilineMessageKeyError.__init__": [],
+    "tensorflow.python.autograph.pyct.error_utils.MultilineMessageKeyError.__str__": [],
+    "tensorflow.python.autograph.pyct.error_utils.ErrorMetadataBase.__init__": [],
+    "tensorflow.python.autograph.pyct.error_utils.ErrorMetadataBase.get_message": [],
+    "tensorflow.python.autograph.pyct.error_utils.ErrorMetadataBase.create_exception": [],
+    "tensorflow.python.autograph.pyct.error_utils.ErrorMetadataBase.to_exception": [],
+    "tensorflow.python.autograph.pyct.error_utils.FrameInfo": [],
+    "tensorflow.python.autograph.pyct.error_utils.MultilineMessageKeyError": [],
+    "tensorflow.python.autograph.pyct.error_utils.ErrorMetadataBase": []
+}

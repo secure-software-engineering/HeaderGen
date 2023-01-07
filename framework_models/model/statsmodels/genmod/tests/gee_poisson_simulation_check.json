@@ -1,0 +1,10 @@
+{
+    "statsmodels.genmod.tests.gee_poisson_simulation_check.gendat_exchangeable": [],
+    "statsmodels.genmod.tests.gee_poisson_simulation_check.gendat_overdispersed": [],
+    "statsmodels.genmod.tests.gee_poisson_simulation_check.Exchangeable_simulator.print_dparams": [],
+    "statsmodels.genmod.tests.gee_poisson_simulation_check.Exchangeable_simulator.simulate": [],
+    "statsmodels.genmod.tests.gee_poisson_simulation_check.Overdispersed_simulator.print_dparams": [],
+    "statsmodels.genmod.tests.gee_poisson_simulation_check.Overdispersed_simulator.simulate": [],
+    "statsmodels.genmod.tests.gee_poisson_simulation_check.Exchangeable_simulator": [],
+    "statsmodels.genmod.tests.gee_poisson_simulation_check.Overdispersed_simulator": []
+}

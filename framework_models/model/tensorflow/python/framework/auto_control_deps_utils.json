@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.framework.auto_control_deps_utils.register_read_only_resource_op": [],
+    "tensorflow.python.framework.auto_control_deps_utils.get_read_only_resource_input_indices_graph": [],
+    "tensorflow.python.framework.auto_control_deps_utils._get_read_only_resource_input_indices_op": [],
+    "tensorflow.python.framework.auto_control_deps_utils.get_read_write_resource_inputs": [],
+    "tensorflow.python.framework.auto_control_deps_utils._op_writes_to_resource": [],
+    "tensorflow.python.framework.auto_control_deps_utils._input_index": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.io.excel._xlrd.XlrdReader.__init__": [],
+    "pandas.io.excel._xlrd.XlrdReader._workbook_class": [],
+    "pandas.io.excel._xlrd.XlrdReader.load_workbook": [],
+    "pandas.io.excel._xlrd.XlrdReader.sheet_names": [],
+    "pandas.io.excel._xlrd.XlrdReader.get_sheet_by_name": [],
+    "pandas.io.excel._xlrd.XlrdReader.get_sheet_by_index": [],
+    "pandas.io.excel._xlrd.XlrdReader.get_sheet_data": [],
+    "pandas.io.excel._xlrd.XlrdReader": []
+}

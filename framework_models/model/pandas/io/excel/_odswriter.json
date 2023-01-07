@@ -1,0 +1,10 @@
+{
+    "pandas.io.excel._odswriter.ODSWriter.__init__": [],
+    "pandas.io.excel._odswriter.ODSWriter.save": [],
+    "pandas.io.excel._odswriter.ODSWriter.write_cells": [],
+    "pandas.io.excel._odswriter.ODSWriter._make_table_cell_attributes": [],
+    "pandas.io.excel._odswriter.ODSWriter._make_table_cell": [],
+    "pandas.io.excel._odswriter.ODSWriter._process_style": [],
+    "pandas.io.excel._odswriter.ODSWriter._create_freeze_panes": [],
+    "pandas.io.excel._odswriter.ODSWriter": []
+}

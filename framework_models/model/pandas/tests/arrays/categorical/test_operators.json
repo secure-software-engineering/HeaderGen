@@ -1,0 +1,20 @@
+{
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOpsWithFactor.test_categories_none_comparisons": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOpsWithFactor.test_comparisons": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_compare_frame": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_compare_frame_raises": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_datetime_categorical_comparison": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_reflected_comparison_with_scalars": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_comparison_with_unknown_scalars": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_comparison_with_tuple": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_comparison_of_ordered_categorical_with_nan_to_scalar": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_comparison_of_ordered_categorical_with_nan_to_listlike": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_comparisons": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_unordered_different_order_equal": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_unordered_different_categories_raises": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_compare_different_lengths": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_compare_unordered_different_order": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps.test_numeric_like_ops": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOpsWithFactor": [],
+    "pandas.tests.arrays.categorical.test_operators.TestCategoricalOps": []
+}

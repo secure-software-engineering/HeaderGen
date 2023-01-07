@@ -1,0 +1,8 @@
+{
+    "scipy.spatial.transform._rotation_groups.icosahedral": [],
+    "scipy.spatial.transform._rotation_groups.octahedral": [],
+    "scipy.spatial.transform._rotation_groups.tetrahedral": [],
+    "scipy.spatial.transform._rotation_groups.dicyclic": [],
+    "scipy.spatial.transform._rotation_groups.cyclic": [],
+    "scipy.spatial.transform._rotation_groups.create_group": []
+}

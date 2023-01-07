@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.eager.profiler.start": [],
+    "tensorflow.python.eager.profiler.stop": [],
+    "tensorflow.python.eager.profiler.maybe_create_event_file": [],
+    "tensorflow.python.eager.profiler.save": [],
+    "tensorflow.python.eager.profiler.start_profiler_server": [],
+    "tensorflow.python.eager.profiler.Profiler.__init__": [],
+    "tensorflow.python.eager.profiler.Profiler.__enter__": [],
+    "tensorflow.python.eager.profiler.Profiler.__exit__": [],
+    "tensorflow.python.eager.profiler.ProfilerAlreadyRunningError": [],
+    "tensorflow.python.eager.profiler.ProfilerNotRunningError": [],
+    "tensorflow.python.eager.profiler.Profiler": []
+}

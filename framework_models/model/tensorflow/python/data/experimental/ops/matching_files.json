@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.data.experimental.ops.matching_files.MatchingFilesDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.matching_files.MatchingFilesDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.matching_files.MatchingFilesDataset": []
+}

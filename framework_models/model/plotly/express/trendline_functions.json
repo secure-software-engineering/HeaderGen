@@ -1,0 +1,8 @@
+{
+    "plotly.express.trendline_functions.ols": [],
+    "plotly.express.trendline_functions.lowess": [],
+    "plotly.express.trendline_functions._pandas": [],
+    "plotly.express.trendline_functions.rolling": [],
+    "plotly.express.trendline_functions.expanding": [],
+    "plotly.express.trendline_functions.ewm": []
+}

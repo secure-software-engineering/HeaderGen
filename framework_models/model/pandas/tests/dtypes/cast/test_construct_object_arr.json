@@ -1,0 +1,4 @@
+{
+    "pandas.tests.dtypes.cast.test_construct_object_arr.test_cast_1d_array": [],
+    "pandas.tests.dtypes.cast.test_construct_object_arr.test_cast_1d_array_invalid_scalar": []
+}

@@ -1,0 +1,8 @@
+{
+    "scipy.sparse.tests.test_csr._check_csr_rowslice": [],
+    "scipy.sparse.tests.test_csr.test_csr_rowslice": [],
+    "scipy.sparse.tests.test_csr.test_csr_getrow": [],
+    "scipy.sparse.tests.test_csr.test_csr_getcol": [],
+    "scipy.sparse.tests.test_csr.test_csr_empty_slices": [],
+    "scipy.sparse.tests.test_csr.test_csr_bool_indexing": []
+}

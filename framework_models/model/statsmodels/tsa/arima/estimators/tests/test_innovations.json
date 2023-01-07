@@ -1,0 +1,16 @@
+{
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_brockwell_davis_example_515": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.check_innovations_ma_itsmr": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_innovations_ma_itsmr": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_innovations_ma_invalid": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_brockwell_davis_example_524": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_brockwell_davis_example_524_variance": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_brockwell_davis_example_525": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_brockwell_davis_example_541": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_innovations_mle_statespace": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_innovations_mle_statespace_seasonal": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_innovations_mle_statespace_nonconsecutive": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_innovations_mle_integrated": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_innovations_mle_misc": [],
+    "statsmodels.tsa.arima.estimators.tests.test_innovations.test_innovations_mle_invalid": []
+}

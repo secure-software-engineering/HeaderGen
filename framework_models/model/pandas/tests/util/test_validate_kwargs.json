@@ -1,0 +1,7 @@
+{
+    "pandas.tests.util.test_validate_kwargs.test_bad_kwarg": [],
+    "pandas.tests.util.test_validate_kwargs.test_not_all_none": [],
+    "pandas.tests.util.test_validate_kwargs.test_validation": [],
+    "pandas.tests.util.test_validate_kwargs.test_validate_bool_kwarg_fail": [],
+    "pandas.tests.util.test_validate_kwargs.test_validate_bool_kwarg": []
+}

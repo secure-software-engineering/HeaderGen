@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.saved_model.load_v1_in_v2.load": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._Initializer.__init__": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._Initializer._create_resource": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._Initializer._initialize": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._EagerSavedModelLoader.get_meta_graph_def_from_tags": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._EagerSavedModelLoader.load_graph": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._EagerSavedModelLoader._extract_saver_restore": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._EagerSavedModelLoader.restore_variables": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._EagerSavedModelLoader._extract_signatures": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._EagerSavedModelLoader.load": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._Initializer": [],
+    "tensorflow.python.saved_model.load_v1_in_v2._EagerSavedModelLoader": []
+}

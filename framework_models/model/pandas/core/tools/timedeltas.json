@@ -1,0 +1,5 @@
+{
+    "pandas.core.tools.timedeltas.to_timedelta": [],
+    "pandas.core.tools.timedeltas._coerce_scalar_to_timedelta_type": [],
+    "pandas.core.tools.timedeltas._convert_listlike": []
+}

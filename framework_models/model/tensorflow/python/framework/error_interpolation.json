@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.framework.error_interpolation.parse_message": [],
+    "tensorflow.python.framework.error_interpolation._compute_device_summary_from_list": [],
+    "tensorflow.python.framework.error_interpolation._compute_device_assignment_summary_from_op": [],
+    "tensorflow.python.framework.error_interpolation._compute_colocation_summary_from_dict": [],
+    "tensorflow.python.framework.error_interpolation._compute_colocation_summary_from_op": [],
+    "tensorflow.python.framework.error_interpolation._is_framework_filename": [],
+    "tensorflow.python.framework.error_interpolation._find_index_of_defining_frame": [],
+    "tensorflow.python.framework.error_interpolation._compute_useful_frames": [],
+    "tensorflow.python.framework.error_interpolation.create_graph_debug_info_def": [],
+    "tensorflow.python.framework.error_interpolation._compute_field_dict": [],
+    "tensorflow.python.framework.error_interpolation._get_input_ops_for_op": [],
+    "tensorflow.python.framework.error_interpolation._build_error_message": [],
+    "tensorflow.python.framework.error_interpolation.interpolate": []
+}

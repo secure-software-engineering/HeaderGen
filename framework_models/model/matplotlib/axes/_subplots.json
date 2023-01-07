@@ -1,0 +1,21 @@
+{
+    "matplotlib.axes._subplots.SubplotBase.__init__": [],
+    "matplotlib.axes._subplots.SubplotBase.get_geometry": [],
+    "matplotlib.axes._subplots.SubplotBase.change_geometry": [],
+    "matplotlib.axes._subplots.SubplotBase.get_subplotspec": [],
+    "matplotlib.axes._subplots.SubplotBase.set_subplotspec": [],
+    "matplotlib.axes._subplots.SubplotBase.get_gridspec": [],
+    "matplotlib.axes._subplots.SubplotBase.figbox": [],
+    "matplotlib.axes._subplots.SubplotBase.numRows": [],
+    "matplotlib.axes._subplots.SubplotBase.numCols": [],
+    "matplotlib.axes._subplots.SubplotBase.update_params": [],
+    "matplotlib.axes._subplots.SubplotBase.is_first_row": [],
+    "matplotlib.axes._subplots.SubplotBase.is_last_row": [],
+    "matplotlib.axes._subplots.SubplotBase.is_first_col": [],
+    "matplotlib.axes._subplots.SubplotBase.is_last_col": [],
+    "matplotlib.axes._subplots.SubplotBase.label_outer": [],
+    "matplotlib.axes._subplots.SubplotBase._label_outer_xaxis": [],
+    "matplotlib.axes._subplots.SubplotBase._label_outer_yaxis": [],
+    "matplotlib.axes._subplots.SubplotBase._make_twin_axes": [],
+    "matplotlib.axes._subplots.SubplotBase": []
+}

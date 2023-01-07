@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.keras.optimizer_v2.ftrl.Ftrl.__init__": [],
+    "tensorflow.python.keras.optimizer_v2.ftrl.Ftrl._create_slots": [],
+    "tensorflow.python.keras.optimizer_v2.ftrl.Ftrl._prepare_local": [],
+    "tensorflow.python.keras.optimizer_v2.ftrl.Ftrl._resource_apply_dense": [],
+    "tensorflow.python.keras.optimizer_v2.ftrl.Ftrl._resource_apply_sparse": [],
+    "tensorflow.python.keras.optimizer_v2.ftrl.Ftrl.get_config": [],
+    "tensorflow.python.keras.optimizer_v2.ftrl.Ftrl": []
+}

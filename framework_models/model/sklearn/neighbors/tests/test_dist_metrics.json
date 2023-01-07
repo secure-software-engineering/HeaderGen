@@ -1,0 +1,18 @@
+{
+    "sklearn.neighbors.tests.test_dist_metrics.dist_func": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_cdist": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_cdist_bool_metric": [],
+    "sklearn.neighbors.tests.test_dist_metrics.check_cdist": [],
+    "sklearn.neighbors.tests.test_dist_metrics.check_cdist_bool": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_pdist": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_pdist_bool_metrics": [],
+    "sklearn.neighbors.tests.test_dist_metrics.check_pdist": [],
+    "sklearn.neighbors.tests.test_dist_metrics.check_pdist_bool": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_pickle": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_pickle_bool_metrics": [],
+    "sklearn.neighbors.tests.test_dist_metrics.check_pickle": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_haversine_metric": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_pyfunc_metric": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_bad_pyfunc_metric": [],
+    "sklearn.neighbors.tests.test_dist_metrics.test_input_data_size": []
+}

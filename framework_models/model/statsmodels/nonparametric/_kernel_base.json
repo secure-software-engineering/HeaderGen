@@ -1,0 +1,23 @@
+{
+    "statsmodels.nonparametric._kernel_base._compute_min_std_IQR": [],
+    "statsmodels.nonparametric._kernel_base._compute_subset": [],
+    "statsmodels.nonparametric._kernel_base._get_type_pos": [],
+    "statsmodels.nonparametric._kernel_base._adjust_shape": [],
+    "statsmodels.nonparametric._kernel_base.gpke": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._compute_bw": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._compute_dispersion": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._get_class_vars_type": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._compute_efficient": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._set_defaults": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._normal_reference": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._set_bw_bounds": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._cv_ml": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE._cv_ls": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE.loo_likelihood": [],
+    "statsmodels.nonparametric._kernel_base.EstimatorSettings.__init__": [],
+    "statsmodels.nonparametric._kernel_base.LeaveOneOut.__init__": [],
+    "statsmodels.nonparametric._kernel_base.LeaveOneOut.__iter__": [],
+    "statsmodels.nonparametric._kernel_base.GenericKDE": [],
+    "statsmodels.nonparametric._kernel_base.EstimatorSettings": [],
+    "statsmodels.nonparametric._kernel_base.LeaveOneOut": []
+}

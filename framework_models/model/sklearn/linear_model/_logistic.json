@@ -1,0 +1,23 @@
+{
+    "sklearn.linear_model._logistic._intercept_dot": [],
+    "sklearn.linear_model._logistic._logistic_loss_and_grad": [],
+    "sklearn.linear_model._logistic._logistic_loss": [],
+    "sklearn.linear_model._logistic._logistic_grad_hess": [],
+    "sklearn.linear_model._logistic._multinomial_loss": [],
+    "sklearn.linear_model._logistic._multinomial_loss_grad": [],
+    "sklearn.linear_model._logistic._multinomial_grad_hess": [],
+    "sklearn.linear_model._logistic._check_solver": [],
+    "sklearn.linear_model._logistic._check_multi_class": [],
+    "sklearn.linear_model._logistic._logistic_regression_path": [],
+    "sklearn.linear_model._logistic._log_reg_scoring_path": [],
+    "sklearn.linear_model._logistic.LogisticRegression.__init__": [],
+    "sklearn.linear_model._logistic.LogisticRegression.fit": ["MODEL_TRAINING"],
+    "sklearn.linear_model._logistic.LogisticRegression.predict_proba": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.linear_model._logistic.LogisticRegression.predict_log_proba": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.linear_model._logistic.LogisticRegressionCV.__init__": [],
+    "sklearn.linear_model._logistic.LogisticRegressionCV.fit": ["MODEL_TRAINING"],
+    "sklearn.linear_model._logistic.LogisticRegressionCV.score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.linear_model._logistic.LogisticRegressionCV._more_tags": [],
+    "sklearn.linear_model._logistic.LogisticRegression": ["MODEL_BUILDING_AND_TRAINING"],
+    "sklearn.linear_model._logistic.LogisticRegressionCV": ["MODEL_BUILDING_AND_TRAINING"]
+}

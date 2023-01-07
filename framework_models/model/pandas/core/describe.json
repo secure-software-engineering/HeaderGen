@@ -1,0 +1,19 @@
+{
+    "pandas.core.describe.describe_ndframe": [],
+    "pandas.core.describe.reorder_columns": [],
+    "pandas.core.describe.describe_numeric_1d": [],
+    "pandas.core.describe.describe_categorical_1d": [],
+    "pandas.core.describe.describe_timestamp_as_categorical_1d": [],
+    "pandas.core.describe.describe_timestamp_1d": [],
+    "pandas.core.describe.select_describe_func": [],
+    "pandas.core.describe.refine_percentiles": [],
+    "pandas.core.describe.NDFrameDescriberAbstract.__init__": [],
+    "pandas.core.describe.NDFrameDescriberAbstract.describe": [],
+    "pandas.core.describe.SeriesDescriber.describe": [],
+    "pandas.core.describe.DataFrameDescriber.__init__": [],
+    "pandas.core.describe.DataFrameDescriber.describe": [],
+    "pandas.core.describe.DataFrameDescriber._select_data": [],
+    "pandas.core.describe.NDFrameDescriberAbstract": [],
+    "pandas.core.describe.SeriesDescriber": [],
+    "pandas.core.describe.DataFrameDescriber": []
+}

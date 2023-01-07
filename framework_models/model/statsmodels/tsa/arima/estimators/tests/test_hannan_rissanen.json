@@ -1,0 +1,15 @@
+{
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_brockwell_davis_example_517": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_itsmr": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_initial_order": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_invalid_orders": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_nonconsecutive_lags": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_unbiased_error": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_set_default_unbiased": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_validate_fixed_params": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_package_fixed_and_free_params_info": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_stitch_fixed_and_free_params": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_itsmr_with_fixed_params": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_unbiased_error_with_fixed_params": [],
+    "statsmodels.tsa.arima.estimators.tests.test_hannan_rissanen.test_set_default_unbiased_with_fixed_params": []
+}

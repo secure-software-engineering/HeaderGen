@@ -1,0 +1,4 @@
+{
+    "matplotlib.tests.test_texmanager.test_fontconfig_preamble": [],
+    "matplotlib.tests.test_texmanager.test_font_selection": []
+}

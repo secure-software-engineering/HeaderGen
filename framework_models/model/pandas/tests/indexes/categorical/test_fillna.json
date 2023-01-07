@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.categorical.test_fillna.TestFillNA.test_fillna_categorical": [],
+    "pandas.tests.indexes.categorical.test_fillna.TestFillNA.test_fillna_copies_with_no_nas": [],
+    "pandas.tests.indexes.categorical.test_fillna.TestFillNA.test_fillna_validates_with_no_nas": [],
+    "pandas.tests.indexes.categorical.test_fillna.TestFillNA": []
+}

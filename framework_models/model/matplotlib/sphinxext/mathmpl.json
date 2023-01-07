@@ -1,0 +1,11 @@
+{
+    "matplotlib.sphinxext.mathmpl.fontset_choice": [],
+    "matplotlib.sphinxext.mathmpl.math_role": [],
+    "matplotlib.sphinxext.mathmpl.latex2png": [],
+    "matplotlib.sphinxext.mathmpl.latex2html": [],
+    "matplotlib.sphinxext.mathmpl._config_inited": [],
+    "matplotlib.sphinxext.mathmpl.setup": [],
+    "matplotlib.sphinxext.mathmpl.MathDirective.run": [],
+    "matplotlib.sphinxext.mathmpl.latex_math": [],
+    "matplotlib.sphinxext.mathmpl.MathDirective": []
+}

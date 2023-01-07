@@ -1,0 +1,13 @@
+{
+    "statsmodels.graphics.tests.test_functional.test_hdr_basic": [],
+    "statsmodels.graphics.tests.test_functional.test_hdr_basic_brute": [],
+    "statsmodels.graphics.tests.test_functional.test_hdr_plot": [],
+    "statsmodels.graphics.tests.test_functional.test_hdr_alpha": [],
+    "statsmodels.graphics.tests.test_functional.test_hdr_multiple_alpha": [],
+    "statsmodels.graphics.tests.test_functional.test_hdr_threshold": [],
+    "statsmodels.graphics.tests.test_functional.test_hdr_bw": [],
+    "statsmodels.graphics.tests.test_functional.test_hdr_ncomp": [],
+    "statsmodels.graphics.tests.test_functional.test_banddepth_BD2": [],
+    "statsmodels.graphics.tests.test_functional.test_banddepth_MBD": [],
+    "statsmodels.graphics.tests.test_functional.test_fboxplot_rainbowplot": []
+}

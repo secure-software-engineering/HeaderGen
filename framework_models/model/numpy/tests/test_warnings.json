@@ -1,0 +1,10 @@
+{
+    "numpy.tests.test_warnings.test_warning_calls": [],
+    "numpy.tests.test_warnings.ParseCall.__init__": [],
+    "numpy.tests.test_warnings.ParseCall.visit_Attribute": [],
+    "numpy.tests.test_warnings.ParseCall.visit_Name": [],
+    "numpy.tests.test_warnings.FindFuncs.__init__": [],
+    "numpy.tests.test_warnings.FindFuncs.visit_Call": [],
+    "numpy.tests.test_warnings.ParseCall": [],
+    "numpy.tests.test_warnings.FindFuncs": []
+}

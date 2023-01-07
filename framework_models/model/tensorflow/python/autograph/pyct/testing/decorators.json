@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.autograph.pyct.testing.decorators.wrapping_decorator": [],
+    "tensorflow.python.autograph.pyct.testing.decorators.standalone_decorator": [],
+    "tensorflow.python.autograph.pyct.testing.decorators.functional_decorator": []
+}

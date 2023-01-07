@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexes.timedeltas.methods.test_factorize.TestTimedeltaIndexFactorize.test_factorize": [],
+    "pandas.tests.indexes.timedeltas.methods.test_factorize.TestTimedeltaIndexFactorize.test_factorize_preserves_freq": [],
+    "pandas.tests.indexes.timedeltas.methods.test_factorize.TestTimedeltaIndexFactorize": []
+}

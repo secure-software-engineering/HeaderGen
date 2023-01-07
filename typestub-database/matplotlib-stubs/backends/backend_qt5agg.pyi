@@ -1,0 +1,3 @@
+from .backend_qtagg import FigureCanvasAgg as FigureCanvasAgg, FigureCanvasQT as FigureCanvasQT, FigureCanvasQTAgg as FigureCanvasQTAgg, FigureManagerQT as FigureManagerQT, NavigationToolbar2QT as NavigationToolbar2QT, _BackendQTAgg, backend_version as backend_version
+
+class _BackendQT5Agg(_BackendQTAgg): ...

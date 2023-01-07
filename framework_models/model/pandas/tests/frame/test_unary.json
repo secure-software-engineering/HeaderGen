@@ -1,0 +1,11 @@
+{
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators.test_neg_numeric": [],
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators.test_neg_object": [],
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators.test_neg_raises": [],
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators.test_invert": [],
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators.test_invert_mixed": [],
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators.test_pos_numeric": [],
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators.test_pos_object": [],
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators.test_pos_raises": [],
+    "pandas.tests.frame.test_unary.TestDataFrameUnaryOperators": []
+}

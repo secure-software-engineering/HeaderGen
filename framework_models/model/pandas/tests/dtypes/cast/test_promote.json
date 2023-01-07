@@ -1,0 +1,23 @@
+{
+    "pandas.tests.dtypes.cast.test_promote.any_numpy_dtype_reduced": [],
+    "pandas.tests.dtypes.cast.test_promote._check_promote": [],
+    "pandas.tests.dtypes.cast.test_promote._assert_match": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_int_with_int": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_int_with_float": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_float_with_int": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_float_with_float": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_bool_with_any": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_any_with_bool": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_bytes_with_any": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_any_with_bytes": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_datetime64_with_any": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_any_with_datetime64": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_any_numpy_dtype_with_datetimetz": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_timedelta64_with_any": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_any_with_timedelta64": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_string_with_any": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_any_with_string": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_object_with_any": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_any_with_object": [],
+    "pandas.tests.dtypes.cast.test_promote.test_maybe_promote_any_numpy_dtype_with_na": []
+}

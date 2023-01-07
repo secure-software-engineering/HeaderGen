@@ -1,0 +1,8 @@
+{
+    "plotly.figure_factory._gantt._get_corner_points": [],
+    "plotly.figure_factory._gantt.validate_gantt": [],
+    "plotly.figure_factory._gantt.gantt": [],
+    "plotly.figure_factory._gantt.gantt_colorscale": [],
+    "plotly.figure_factory._gantt.gantt_dict": [],
+    "plotly.figure_factory._gantt.create_gantt": []
+}

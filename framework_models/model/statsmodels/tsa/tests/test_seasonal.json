@@ -1,0 +1,16 @@
+{
+    "statsmodels.tsa.tests.test_seasonal.test_seasonal_decompose_too_short": [],
+    "statsmodels.tsa.tests.test_seasonal.test_seasonal_decompose_smoke": [],
+    "statsmodels.tsa.tests.test_seasonal.test_seasonal_decompose_multiple": [],
+    "statsmodels.tsa.tests.test_seasonal.test_seasonal_decompose_plot": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.setup_class": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.test_ndarray": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.test_pandas": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.test_pandas_nofreq": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.test_filt": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.test_one_sided_moving_average_in_stl_decompose": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.test_2d": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.test_interpolate_trend": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose.test_raises": [],
+    "statsmodels.tsa.tests.test_seasonal.TestDecompose": []
+}

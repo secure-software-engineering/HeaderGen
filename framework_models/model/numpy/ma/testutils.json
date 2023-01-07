@@ -1,0 +1,16 @@
+{
+    "numpy.ma.testutils.approx": [],
+    "numpy.ma.testutils.almost": [],
+    "numpy.ma.testutils._assert_equal_on_sequences": [],
+    "numpy.ma.testutils.assert_equal_records": [],
+    "numpy.ma.testutils.assert_equal": [],
+    "numpy.ma.testutils.fail_if_equal": [],
+    "numpy.ma.testutils.assert_almost_equal": [],
+    "numpy.ma.testutils.assert_array_compare": [],
+    "numpy.ma.testutils.assert_array_equal": [],
+    "numpy.ma.testutils.fail_if_array_equal": [],
+    "numpy.ma.testutils.assert_array_approx_equal": [],
+    "numpy.ma.testutils.assert_array_almost_equal": [],
+    "numpy.ma.testutils.assert_array_less": [],
+    "numpy.ma.testutils.assert_mask_equal": []
+}

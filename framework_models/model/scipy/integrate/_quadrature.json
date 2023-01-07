@@ -1,0 +1,22 @@
+{
+    "scipy.integrate._quadrature._copy_func": [],
+    "scipy.integrate._quadrature.trapz": [],
+    "scipy.integrate._quadrature.cache_decorator": [],
+    "scipy.integrate._quadrature._cached_roots_legendre": [],
+    "scipy.integrate._quadrature.fixed_quad": [],
+    "scipy.integrate._quadrature.vectorize1": [],
+    "scipy.integrate._quadrature.quadrature": [],
+    "scipy.integrate._quadrature.tupleset": [],
+    "scipy.integrate._quadrature.cumtrapz": [],
+    "scipy.integrate._quadrature.cumulative_trapezoid": [],
+    "scipy.integrate._quadrature._basic_simpson": [],
+    "scipy.integrate._quadrature.simps": [],
+    "scipy.integrate._quadrature.simpson": [],
+    "scipy.integrate._quadrature.romb": [],
+    "scipy.integrate._quadrature._difftrap": [],
+    "scipy.integrate._quadrature._romberg_diff": [],
+    "scipy.integrate._quadrature._printresmat": [],
+    "scipy.integrate._quadrature.romberg": [],
+    "scipy.integrate._quadrature.newton_cotes": [],
+    "scipy.integrate._quadrature.AccuracyWarning": []
+}

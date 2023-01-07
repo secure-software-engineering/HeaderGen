@@ -1,0 +1,14 @@
+{
+    "pandas.tests.series.methods.test_isin.test_isin_large_series_mixed_dtypes_and_nan": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_with_string_scalar": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_with_i8": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_empty": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_read_only": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_dt64_values_vs_ints": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_tzawareness_mismatch": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_period_freq_mismatch": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_float_in_int_series": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn.test_isin_masked_types": [],
+    "pandas.tests.series.methods.test_isin.TestSeriesIsIn": []
+}

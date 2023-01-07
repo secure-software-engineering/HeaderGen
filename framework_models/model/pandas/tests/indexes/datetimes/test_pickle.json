@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.datetimes.test_pickle.TestPickle.test_pickle": [],
+    "pandas.tests.indexes.datetimes.test_pickle.TestPickle.test_pickle_dont_infer_freq": [],
+    "pandas.tests.indexes.datetimes.test_pickle.TestPickle.test_pickle_after_set_freq": [],
+    "pandas.tests.indexes.datetimes.test_pickle.TestPickle.test_roundtrip_pickle_with_tz": [],
+    "pandas.tests.indexes.datetimes.test_pickle.TestPickle.test_pickle_unpickle": [],
+    "pandas.tests.indexes.datetimes.test_pickle.TestPickle": []
+}

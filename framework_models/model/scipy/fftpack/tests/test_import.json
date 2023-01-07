@@ -1,0 +1,4 @@
+{
+    "scipy.fftpack.tests.test_import.TestFFTPackImport.test_fftpack_import": [],
+    "scipy.fftpack.tests.test_import.TestFFTPackImport": []
+}

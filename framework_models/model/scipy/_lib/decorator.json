@@ -1,0 +1,15 @@
+{
+    "scipy._lib.decorator.get_init": [],
+    "scipy._lib.decorator.getargspec": [],
+    "scipy._lib.decorator.decorate": [],
+    "scipy._lib.decorator.decorator": [],
+    "scipy._lib.decorator.append": [],
+    "scipy._lib.decorator.dispatch_on": [],
+    "scipy._lib.decorator.FunctionMaker.__init__": [],
+    "scipy._lib.decorator.FunctionMaker.update": [],
+    "scipy._lib.decorator.FunctionMaker.make": [],
+    "scipy._lib.decorator.FunctionMaker.create": [],
+    "scipy._lib.decorator.ContextManager.__call__": [],
+    "scipy._lib.decorator.FunctionMaker": [],
+    "scipy._lib.decorator.ContextManager": []
+}

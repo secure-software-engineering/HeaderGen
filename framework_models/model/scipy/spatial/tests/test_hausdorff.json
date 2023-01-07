@@ -1,0 +1,15 @@
+{
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.setup_method": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_symmetry": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_brute_force_comparison_forward": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_brute_force_comparison_reverse": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_degenerate_case": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_2d_data_forward": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_4d_data_reverse": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_indices": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_random_state": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_random_state_None_int": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_invalid_dimensions": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff.test_subsets": [],
+    "scipy.spatial.tests.test_hausdorff.TestHausdorff": []
+}

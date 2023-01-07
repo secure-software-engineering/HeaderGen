@@ -1,0 +1,22 @@
+{
+    "sklearn.tests.test_discriminant_analysis.test_lda_predict": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_predict_proba": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_priors": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_coefs": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_transform": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_explained_variance_ratio": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_orthogonality": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_scaling": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_store_covariance": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_shrinkage": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_ledoitwolf": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_dimension_warning": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_dtype_match": [],
+    "sklearn.tests.test_discriminant_analysis.test_lda_numeric_consistency_float32_float64": [],
+    "sklearn.tests.test_discriminant_analysis.test_qda": [],
+    "sklearn.tests.test_discriminant_analysis.test_qda_priors": [],
+    "sklearn.tests.test_discriminant_analysis.test_qda_store_covariance": [],
+    "sklearn.tests.test_discriminant_analysis.test_qda_regularization": [],
+    "sklearn.tests.test_discriminant_analysis.test_covariance": [],
+    "sklearn.tests.test_discriminant_analysis.test_raises_value_error_on_same_number_of_classes_and_samples": []
+}

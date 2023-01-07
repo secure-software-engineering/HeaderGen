@@ -1,0 +1,23 @@
+{
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_basic": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_empty": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_bad_method": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_combo": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_nan_idx": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_various": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_alt_scipy": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_rowwise": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_axis_names": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_rowwise_alt": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_leading_nans": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_raise_on_only_mixed": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_raise_on_all_object_dtype": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_inplace": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_inplace_row": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_ignore_all_good": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_time_inplace_axis": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_string_axis": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interp_fillna_methods": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate.test_interpolate_pos_args_deprecation": [],
+    "pandas.tests.frame.methods.test_interpolate.TestDataFrameInterpolate": []
+}

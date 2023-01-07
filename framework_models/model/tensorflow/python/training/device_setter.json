@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.training.device_setter.replica_device_setter": [],
+    "tensorflow.python.training.device_setter._RoundRobinStrategy.__init__": [],
+    "tensorflow.python.training.device_setter._RoundRobinStrategy.__call__": [],
+    "tensorflow.python.training.device_setter._ReplicaDeviceChooser.__init__": [],
+    "tensorflow.python.training.device_setter._ReplicaDeviceChooser.device_function": [],
+    "tensorflow.python.training.device_setter._RoundRobinStrategy": [],
+    "tensorflow.python.training.device_setter._ReplicaDeviceChooser": []
+}

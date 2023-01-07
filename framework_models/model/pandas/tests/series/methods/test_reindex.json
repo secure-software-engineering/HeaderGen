@@ -1,0 +1,20 @@
+{
+    "pandas.tests.series.methods.test_reindex.test_reindex": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_nan": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_series_add_nat": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_with_datetimes": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_corner": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_pad": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_nearest": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_backfill": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_int": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_bool": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_bool_pad": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_categorical": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_astype_order_consistency": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_fill_value": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_datetimeindexes_tz_naive_and_aware": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_empty_series_tz_dtype": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_periodindex_with_object": [],
+    "pandas.tests.series.methods.test_reindex.test_reindex_empty_with_level": []
+}

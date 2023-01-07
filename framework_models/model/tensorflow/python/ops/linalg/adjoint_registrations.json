@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_linear_operator": [],
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_adjoint_linear_operator": [],
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_identity": [],
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_scaled_identity": [],
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_diag": [],
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_block_diag": [],
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_kronecker": [],
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_circulant": [],
+    "tensorflow.python.ops.linalg.adjoint_registrations._adjoint_householder": []
+}

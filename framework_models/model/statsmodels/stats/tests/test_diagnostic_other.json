@@ -1,0 +1,12 @@
+{
+    "statsmodels.stats.tests.test_diagnostic_other.CheckCMT.test_score": [],
+    "statsmodels.stats.tests.test_diagnostic_other.CheckCMT.test_scorehc0": [],
+    "statsmodels.stats.tests.test_diagnostic_other.CheckCMT.test_scoreopg": [],
+    "statsmodels.stats.tests.test_diagnostic_other.TestCMTOLS.setup_class": [],
+    "statsmodels.stats.tests.test_diagnostic_other.TestCMTOLS.attach_moment_conditions": [],
+    "statsmodels.stats.tests.test_diagnostic_other.TestCMTOLS.res_score": [],
+    "statsmodels.stats.tests.test_diagnostic_other.TestCMTOLS.res_opg": [],
+    "statsmodels.stats.tests.test_diagnostic_other.TestCMTOLS.res_hc0": [],
+    "statsmodels.stats.tests.test_diagnostic_other.CheckCMT": [],
+    "statsmodels.stats.tests.test_diagnostic_other.TestCMTOLS": []
+}

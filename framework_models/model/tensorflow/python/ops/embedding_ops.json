@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.ops.embedding_ops._clip": [],
+    "tensorflow.python.ops.embedding_ops._colocate_with": [],
+    "tensorflow.python.ops.embedding_ops._embedding_lookup_and_transform": [],
+    "tensorflow.python.ops.embedding_ops.embedding_lookup": [],
+    "tensorflow.python.ops.embedding_ops.embedding_lookup_v2": [],
+    "tensorflow.python.ops.embedding_ops.embedding_lookup_sparse": [],
+    "tensorflow.python.ops.embedding_ops.embedding_lookup_sparse_v2": [],
+    "tensorflow.python.ops.embedding_ops.safe_embedding_lookup_sparse_v2": [],
+    "tensorflow.python.ops.embedding_ops.safe_embedding_lookup_sparse": [],
+    "tensorflow.python.ops.embedding_ops.embedding_lookup_ragged": [],
+    "tensorflow.python.ops.embedding_ops._prune_invalid_ids": [],
+    "tensorflow.python.ops.embedding_ops._prune_invalid_weights": []
+}

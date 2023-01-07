@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.tpu.topology._tpu_device_name": [],
+    "tensorflow.python.tpu.topology._tpu_host_device_name": [],
+    "tensorflow.python.tpu.topology.Topology.__init__": [],
+    "tensorflow.python.tpu.topology.Topology._parse_topology": [],
+    "tensorflow.python.tpu.topology.Topology._invert_topology": [],
+    "tensorflow.python.tpu.topology.Topology.mesh_shape": [],
+    "tensorflow.python.tpu.topology.Topology.mesh_rank": [],
+    "tensorflow.python.tpu.topology.Topology.device_coordinates": [],
+    "tensorflow.python.tpu.topology.Topology.missing_devices": [],
+    "tensorflow.python.tpu.topology.Topology.task_ordinal_at_coordinates": [],
+    "tensorflow.python.tpu.topology.Topology.tpu_device_ordinal_at_coordinates": [],
+    "tensorflow.python.tpu.topology.Topology.cpu_device_name_at_coordinates": [],
+    "tensorflow.python.tpu.topology.Topology.tpu_device_name_at_coordinates": [],
+    "tensorflow.python.tpu.topology.Topology.num_tasks": [],
+    "tensorflow.python.tpu.topology.Topology.num_tpus_per_task": [],
+    "tensorflow.python.tpu.topology.Topology.serialized": [],
+    "tensorflow.python.tpu.topology.Topology": []
+}

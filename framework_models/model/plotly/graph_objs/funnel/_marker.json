@@ -1,0 +1,20 @@
+{
+    "plotly.graph_objs.funnel._marker.Marker.autocolorscale": [],
+    "plotly.graph_objs.funnel._marker.Marker.cauto": [],
+    "plotly.graph_objs.funnel._marker.Marker.cmax": [],
+    "plotly.graph_objs.funnel._marker.Marker.cmid": [],
+    "plotly.graph_objs.funnel._marker.Marker.cmin": [],
+    "plotly.graph_objs.funnel._marker.Marker.color": [],
+    "plotly.graph_objs.funnel._marker.Marker.coloraxis": [],
+    "plotly.graph_objs.funnel._marker.Marker.colorbar": [],
+    "plotly.graph_objs.funnel._marker.Marker.colorscale": [],
+    "plotly.graph_objs.funnel._marker.Marker.colorsrc": [],
+    "plotly.graph_objs.funnel._marker.Marker.line": [],
+    "plotly.graph_objs.funnel._marker.Marker.opacity": [],
+    "plotly.graph_objs.funnel._marker.Marker.opacitysrc": [],
+    "plotly.graph_objs.funnel._marker.Marker.reversescale": [],
+    "plotly.graph_objs.funnel._marker.Marker.showscale": [],
+    "plotly.graph_objs.funnel._marker.Marker._prop_descriptions": [],
+    "plotly.graph_objs.funnel._marker.Marker.__init__": [],
+    "plotly.graph_objs.funnel._marker.Marker": []
+}

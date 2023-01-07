@@ -1,0 +1,3 @@
+{
+    "tensorflow.python.ops.ragged.ragged_config.auto_cast_partition_dtype": []
+}

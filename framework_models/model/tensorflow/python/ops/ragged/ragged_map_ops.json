@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.ops.ragged.ragged_map_ops.map_fn": [],
+    "tensorflow.python.ops.ragged.ragged_map_ops._ragged_type_to_spec": []
+}

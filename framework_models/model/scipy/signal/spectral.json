@@ -1,0 +1,16 @@
+{
+    "scipy.signal.spectral.lombscargle": [],
+    "scipy.signal.spectral.periodogram": [],
+    "scipy.signal.spectral.welch": [],
+    "scipy.signal.spectral.csd": [],
+    "scipy.signal.spectral.spectrogram": [],
+    "scipy.signal.spectral.check_COLA": [],
+    "scipy.signal.spectral.check_NOLA": [],
+    "scipy.signal.spectral.stft": [],
+    "scipy.signal.spectral.istft": [],
+    "scipy.signal.spectral.coherence": [],
+    "scipy.signal.spectral._spectral_helper": [],
+    "scipy.signal.spectral._fft_helper": [],
+    "scipy.signal.spectral._triage_segments": [],
+    "scipy.signal.spectral._median_bias": []
+}

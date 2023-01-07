@@ -1,0 +1,18 @@
+{
+    "pandas.tests.dtypes.cast.test_infer_dtype.pandas_dtype": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_int_scalar": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_float_scalar": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_python_scalar": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_boolean": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_complex": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_datetime": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_timedelta": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_period": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_misc": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_from_scalar_tz": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_from_interval": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_scalar_errors": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_scalar": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_array": [],
+    "pandas.tests.dtypes.cast.test_infer_dtype.test_infer_dtype_from_scalar_zerodim_datetimelike": []
+}

@@ -1,0 +1,21 @@
+{
+    "statsmodels.stats.tests.test_oneway.test_oneway_effectsize": [],
+    "statsmodels.stats.tests.test_oneway.test_effectsize_power": [],
+    "statsmodels.stats.tests.test_oneway.test_effectsize_fstat": [],
+    "statsmodels.stats.tests.test_oneway.test_effectsize_fstat_stata": [],
+    "statsmodels.stats.tests.test_oneway.test_scale_transform": [],
+    "statsmodels.stats.tests.test_oneway.test_simulate_equivalence": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayEquivalenc.setup_class": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayEquivalenc.test_equivalence_equal": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayEquivalenc.test_equivalence_welch": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayScale.setup_class": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayScale.test_means": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayScale.test_levene": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayScale.test_options": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayScale.test_equivalence": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayOLS.setup_class": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayOLS.test_ols_noncentrality": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayEquivalenc": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayScale": [],
+    "statsmodels.stats.tests.test_oneway.TestOnewayOLS": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.indexes.timedeltas.methods.test_insert.TestTimedeltaIndexInsert.test_insert": [],
+    "pandas.tests.indexes.timedeltas.methods.test_insert.TestTimedeltaIndexInsert.test_insert_nat": [],
+    "pandas.tests.indexes.timedeltas.methods.test_insert.TestTimedeltaIndexInsert.test_insert_invalid_na": [],
+    "pandas.tests.indexes.timedeltas.methods.test_insert.TestTimedeltaIndexInsert.test_insert_mismatched_types_raises": [],
+    "pandas.tests.indexes.timedeltas.methods.test_insert.TestTimedeltaIndexInsert.test_insert_castable_str": [],
+    "pandas.tests.indexes.timedeltas.methods.test_insert.TestTimedeltaIndexInsert.test_insert_non_castable_str": [],
+    "pandas.tests.indexes.timedeltas.methods.test_insert.TestTimedeltaIndexInsert.test_insert_empty": [],
+    "pandas.tests.indexes.timedeltas.methods.test_insert.TestTimedeltaIndexInsert": []
+}

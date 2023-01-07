@@ -1,0 +1,3 @@
+from typing import Any
+
+def scatter_ellipse(data, level: float = ..., varnames: Any | None = ..., ell_kwds: Any | None = ..., plot_kwds: Any | None = ..., add_titles: bool = ..., keep_ticks: bool = ..., fig: Any | None = ...): ...

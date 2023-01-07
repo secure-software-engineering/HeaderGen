@@ -1,0 +1,8 @@
+{
+    "statsmodels.regression.tests.test_predict.test_predict_se": [],
+    "statsmodels.regression.tests.test_predict.test_predict_remove_data": [],
+    "statsmodels.regression.tests.test_predict.TestWLSPrediction.setup_class": [],
+    "statsmodels.regression.tests.test_predict.TestWLSPrediction.test_ci": [],
+    "statsmodels.regression.tests.test_predict.TestWLSPrediction.test_glm": [],
+    "statsmodels.regression.tests.test_predict.TestWLSPrediction": []
+}

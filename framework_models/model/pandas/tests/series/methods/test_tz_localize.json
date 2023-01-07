@@ -1,0 +1,6 @@
+{
+    "pandas.tests.series.methods.test_tz_localize.TestTZLocalize.test_series_tz_localize_ambiguous_bool": [],
+    "pandas.tests.series.methods.test_tz_localize.TestTZLocalize.test_series_tz_localize_nonexistent": [],
+    "pandas.tests.series.methods.test_tz_localize.TestTZLocalize.test_series_tz_localize_empty": [],
+    "pandas.tests.series.methods.test_tz_localize.TestTZLocalize": []
+}

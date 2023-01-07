@@ -1,0 +1,12 @@
+{
+    "sklearn.neighbors._regression.KNeighborsRegressor.__init__": [],
+    "sklearn.neighbors._regression.KNeighborsRegressor._more_tags": [],
+    "sklearn.neighbors._regression.KNeighborsRegressor._pairwise": [],
+    "sklearn.neighbors._regression.KNeighborsRegressor.fit": [],
+    "sklearn.neighbors._regression.KNeighborsRegressor.predict": [],
+    "sklearn.neighbors._regression.RadiusNeighborsRegressor.__init__": [],
+    "sklearn.neighbors._regression.RadiusNeighborsRegressor.fit": [],
+    "sklearn.neighbors._regression.RadiusNeighborsRegressor.predict": [],
+    "sklearn.neighbors._regression.KNeighborsRegressor": [],
+    "sklearn.neighbors._regression.RadiusNeighborsRegressor": []
+}

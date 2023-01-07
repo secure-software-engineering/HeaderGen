@@ -1,0 +1,49 @@
+{
+    "1": [
+        "BatchNormalization"
+    ],
+    "10": [
+        "Heatmap",
+        "Bar graph"
+    ],
+    "2": [
+        "Replace values with integers"
+    ],
+    "3": [
+        "Cell #10"
+    ],
+    "4": [
+        "Keras",
+        "Matplotlib",
+        "Pandas",
+        "Sklearn",
+        "Seaborn",
+        "Numpy",
+        "Scipy"
+    ],
+    "5": [
+        "Count plot",
+        "Confusion matrix",
+        "Line graph"
+    ],
+    "6": [
+        "Dense",
+        "Dropout"
+    ],
+    "7": [
+        "Using scikit-learn method - train_test_split()"
+    ],
+    "8": [
+        "Cell #38 and #39"
+    ],
+    "9": [
+        "Sklearn",
+        "Keras",
+        "Seaborn",
+        "Numpy",
+        "Matplotlib",
+        "Pandas"
+    ],
+    "name": "Adi",
+    "study_id": 1
+}

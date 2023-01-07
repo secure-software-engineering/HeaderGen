@@ -1,0 +1,3 @@
+{
+    "sklearn.externals.conftest.pytest_ignore_collect": []
+}

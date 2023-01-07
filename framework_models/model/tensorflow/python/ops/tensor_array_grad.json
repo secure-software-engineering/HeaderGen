@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.ops.tensor_array_grad._GetGradSource": [],
+    "tensorflow.python.ops.tensor_array_grad._TensorArrayReadGrad": [],
+    "tensorflow.python.ops.tensor_array_grad._TensorArrayWriteGrad": [],
+    "tensorflow.python.ops.tensor_array_grad._TensorArrayGatherGrad": [],
+    "tensorflow.python.ops.tensor_array_grad._TensorArrayScatterGrad": [],
+    "tensorflow.python.ops.tensor_array_grad._TensorArrayConcatGrad": [],
+    "tensorflow.python.ops.tensor_array_grad._TensorArraySplitGrad": []
+}

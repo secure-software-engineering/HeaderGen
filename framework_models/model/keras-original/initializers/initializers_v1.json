@@ -1,0 +1,20 @@
+{
+    "keras.initializers.initializers_v1.RandomNormal.__init__": [],
+    "keras.initializers.initializers_v1.RandomUniform.__init__": [],
+    "keras.initializers.initializers_v1.TruncatedNormal.__init__": [],
+    "keras.initializers.initializers_v1.LecunNormal.__init__": [],
+    "keras.initializers.initializers_v1.LecunNormal.get_config": [],
+    "keras.initializers.initializers_v1.LecunUniform.__init__": [],
+    "keras.initializers.initializers_v1.LecunUniform.get_config": [],
+    "keras.initializers.initializers_v1.HeNormal.__init__": [],
+    "keras.initializers.initializers_v1.HeNormal.get_config": [],
+    "keras.initializers.initializers_v1.HeUniform.__init__": [],
+    "keras.initializers.initializers_v1.HeUniform.get_config": [],
+    "keras.initializers.initializers_v1.RandomNormal": [],
+    "keras.initializers.initializers_v1.RandomUniform": [],
+    "keras.initializers.initializers_v1.TruncatedNormal": [],
+    "keras.initializers.initializers_v1.LecunNormal": [],
+    "keras.initializers.initializers_v1.LecunUniform": [],
+    "keras.initializers.initializers_v1.HeNormal": [],
+    "keras.initializers.initializers_v1.HeUniform": []
+}

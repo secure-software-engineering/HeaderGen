@@ -1,0 +1,8 @@
+{
+    "scipy.io.matlab.mio._open_file_context": [],
+    "scipy.io.matlab.mio._open_file": [],
+    "scipy.io.matlab.mio.mat_reader_factory": [],
+    "scipy.io.matlab.mio.loadmat": [],
+    "scipy.io.matlab.mio.savemat": [],
+    "scipy.io.matlab.mio.whosmat": []
+}

@@ -1,0 +1,12 @@
+{
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_int": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_list_int": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_tuple_int": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_ndarray_int": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_list_bool": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_tuple_bool": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_ndarray_bool": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_misc": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_standardize_lag_order_invalid": [],
+    "statsmodels.tsa.arima.tests.test_tools.test_validate_basic": []
+}

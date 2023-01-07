@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.longley.data.load": [],
+    "statsmodels.datasets.longley.data.load_pandas": [],
+    "statsmodels.datasets.longley.data._get_data": []
+}

@@ -1,0 +1,6 @@
+{
+    "pandas.tests.io.parser.test_multi_thread._construct_dataframe": [],
+    "pandas.tests.io.parser.test_multi_thread.test_multi_thread_string_io_read_csv": [],
+    "pandas.tests.io.parser.test_multi_thread._generate_multi_thread_dataframe": [],
+    "pandas.tests.io.parser.test_multi_thread.test_multi_thread_path_multipart_read_csv": []
+}

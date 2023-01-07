@@ -1,0 +1,10 @@
+{
+    "scipy.sparse.tests.test_matrix_io._save_and_load": [],
+    "scipy.sparse.tests.test_matrix_io._check_save_and_load": [],
+    "scipy.sparse.tests.test_matrix_io.test_save_and_load_random": [],
+    "scipy.sparse.tests.test_matrix_io.test_save_and_load_empty": [],
+    "scipy.sparse.tests.test_matrix_io.test_save_and_load_one_entry": [],
+    "scipy.sparse.tests.test_matrix_io.test_malicious_load": [],
+    "scipy.sparse.tests.test_matrix_io.test_py23_compatibility": [],
+    "scipy.sparse.tests.test_matrix_io.test_implemented_error": []
+}

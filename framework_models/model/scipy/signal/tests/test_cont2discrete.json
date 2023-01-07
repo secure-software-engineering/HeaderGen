@@ -1,0 +1,23 @@
+{
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_zoh": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_foh": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_impulse": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_gbt": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_euler": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_backward_diff": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_bilinear": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_transferfunction": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_zerospolesgain": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_gbt_with_sio_tf_and_zpk": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_discrete_approx": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_simo_tf": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D.test_multioutput": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2dLti.test_c2d_ss": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2dLti.test_c2d_tf": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2dInvariants.test_impulse_invariant": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2dInvariants.test_step_invariant": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2dInvariants.test_linear_invariant": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2D": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2dLti": [],
+    "scipy.signal.tests.test_cont2discrete.TestC2dInvariants": []
+}

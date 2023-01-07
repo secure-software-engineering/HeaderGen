@@ -1,0 +1,9 @@
+import numpy as np
+from pandas._typing import Scalar as Scalar
+from pandas.compat._optional import import_optional_dependency as import_optional_dependency
+from pandas.core.util.numba_ import NUMBA_FUNC_CACHE as NUMBA_FUNC_CACHE, NumbaUtilError as NumbaUtilError, get_jit_arguments as get_jit_arguments, jit_user_function as jit_user_function
+from typing import Union, Any, Callable
+
+def validate_udf(func: Callable) -> None: ...
+def generate_numba_agg_func(kwargs: dict[str, Any], func: Callable[..., Scalar], engine_kwargs: Union[dict[str, bool], None]) -> Callable[[np.ndarray, np.ndarray, np.ndarray, np.ndarray, int, Any], np.ndarray]: ...
+def generate_numba_transform_func(kwargs: dict[str, Any], func: Callable[..., np.ndarray], engine_kwargs: Union[dict[str, bool], None]) -> Callable[[np.ndarray, np.ndarray, np.ndarray, np.ndarray, int, Any], np.ndarray]: ...

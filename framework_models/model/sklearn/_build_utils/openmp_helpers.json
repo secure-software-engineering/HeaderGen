@@ -1,0 +1,4 @@
+{
+    "sklearn._build_utils.openmp_helpers.get_openmp_flag": [],
+    "sklearn._build_utils.openmp_helpers.check_openmp_support": []
+}

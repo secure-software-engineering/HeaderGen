@@ -1,0 +1,13 @@
+{
+    "scipy.io.tests.test_fortran.test_fortranfiles_read": [],
+    "scipy.io.tests.test_fortran.test_fortranfiles_mixed_record": [],
+    "scipy.io.tests.test_fortran.test_fortranfiles_write": [],
+    "scipy.io.tests.test_fortran.test_fortranfile_read_mixed_record": [],
+    "scipy.io.tests.test_fortran.test_fortranfile_write_mixed_record": [],
+    "scipy.io.tests.test_fortran.test_fortran_roundtrip": [],
+    "scipy.io.tests.test_fortran.test_fortran_eof_ok": [],
+    "scipy.io.tests.test_fortran.test_fortran_eof_broken_size": [],
+    "scipy.io.tests.test_fortran.test_fortran_bogus_size": [],
+    "scipy.io.tests.test_fortran.test_fortran_eof_broken_record": [],
+    "scipy.io.tests.test_fortran.test_fortran_eof_multidimensional": []
+}

@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.lib2def.parse_cmd": [],
+    "numpy.distutils.lib2def.getnm": [],
+    "numpy.distutils.lib2def.parse_nm": [],
+    "numpy.distutils.lib2def.output_def": []
+}

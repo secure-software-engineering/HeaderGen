@@ -1,0 +1,17 @@
+{
+  "4": [
+    "main_nb.func:3",
+    "main_nb.dec1:1.inner:1",
+    "main_nb.dec2:2.inner:2"
+  ],
+  "3": [
+    "main_nb.dec1:1",
+    "main_nb.dec2:2"
+  ],
+  "2": [
+    "main_nb.func:3"
+  ],
+  "1": [
+    "main_nb.func:3"
+  ]
+}

@@ -1,0 +1,16 @@
+from statsmodels.tools.sm_exceptions import HypothesisTestWarning as HypothesisTestWarning
+from typing import Any, NamedTuple
+
+class DistDependStat(NamedTuple):
+    test_statistic: Any
+    distance_correlation: Any
+    distance_covariance: Any
+    dvar_x: Any
+    dvar_y: Any
+    S: Any
+
+def distance_covariance_test(x, y, B: Any | None = ..., method: str = ...): ...
+def distance_statistics(x, y, x_dist: Any | None = ..., y_dist: Any | None = ...): ...
+def distance_covariance(x, y): ...
+def distance_variance(x): ...
+def distance_correlation(x, y): ...

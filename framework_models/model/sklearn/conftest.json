@@ -1,0 +1,7 @@
+{
+    "sklearn.conftest._fetch_fixture": [],
+    "sklearn.conftest.pytest_collection_modifyitems": [],
+    "sklearn.conftest.pyplot": [],
+    "sklearn.conftest.pytest_runtest_setup": [],
+    "sklearn.conftest.pytest_configure": []
+}

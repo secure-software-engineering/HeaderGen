@@ -1,0 +1,5 @@
+{
+    "scipy.linalg._matfuncs_sqrtm._sqrtm_triu": [],
+    "scipy.linalg._matfuncs_sqrtm.sqrtm": [],
+    "scipy.linalg._matfuncs_sqrtm.SqrtmError": []
+}

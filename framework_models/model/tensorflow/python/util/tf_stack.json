@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.util.tf_stack.extract_stack": [],
+    "tensorflow.python.util.tf_stack.extract_stack_for_node": [],
+    "tensorflow.python.util.tf_stack.StackTraceTransform.__enter__": [],
+    "tensorflow.python.util.tf_stack.StackTraceTransform.__exit__": [],
+    "tensorflow.python.util.tf_stack.StackTraceTransform.update": [],
+    "tensorflow.python.util.tf_stack.StackTraceMapper.__init__": [],
+    "tensorflow.python.util.tf_stack.StackTraceMapper.update": [],
+    "tensorflow.python.util.tf_stack.StackTraceMapper.get_effective_source_map": [],
+    "tensorflow.python.util.tf_stack.SentinelMapper.get_effective_source_map": [],
+    "tensorflow.python.util.tf_stack.StackTraceFilter.__init__": [],
+    "tensorflow.python.util.tf_stack.StackTraceFilter.update": [],
+    "tensorflow.python.util.tf_stack.StackTraceFilter.get_filtered_filenames": [],
+    "tensorflow.python.util.tf_stack.SentinelFilter.get_filtered_filenames": [],
+    "tensorflow.python.util.tf_stack.CurrentModuleFilter.__init__": [],
+    "tensorflow.python.util.tf_stack.CurrentModuleFilter.get_filtered_filenames": [],
+    "tensorflow.python.util.tf_stack.StackTraceTransform": [],
+    "tensorflow.python.util.tf_stack.StackTraceMapper": [],
+    "tensorflow.python.util.tf_stack.SentinelMapper": [],
+    "tensorflow.python.util.tf_stack.StackTraceFilter": [],
+    "tensorflow.python.util.tf_stack.SentinelFilter": [],
+    "tensorflow.python.util.tf_stack.CurrentModuleFilter": []
+}

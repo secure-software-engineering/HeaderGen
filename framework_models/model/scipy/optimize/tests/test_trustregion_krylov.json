@@ -1,0 +1,8 @@
+{
+    "scipy.optimize.tests.test_trustregion_krylov.TestKrylovQuadraticSubproblem.test_for_the_easy_case": [],
+    "scipy.optimize.tests.test_trustregion_krylov.TestKrylovQuadraticSubproblem.test_for_the_hard_case": [],
+    "scipy.optimize.tests.test_trustregion_krylov.TestKrylovQuadraticSubproblem.test_for_interior_convergence": [],
+    "scipy.optimize.tests.test_trustregion_krylov.TestKrylovQuadraticSubproblem.test_for_very_close_to_zero": [],
+    "scipy.optimize.tests.test_trustregion_krylov.TestKrylovQuadraticSubproblem.test_disp": [],
+    "scipy.optimize.tests.test_trustregion_krylov.TestKrylovQuadraticSubproblem": []
+}

@@ -1,0 +1,15 @@
+{
+    "sklearn.decomposition._kernel_pca.KernelPCA.__init__": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA._pairwise": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA.lambdas_": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA.alphas_": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA._get_kernel": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA._fit_transform": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA._fit_inverse_transform": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA.fit": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA.fit_transform": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA.transform": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA.inverse_transform": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA._more_tags": [],
+    "sklearn.decomposition._kernel_pca.KernelPCA": []
+}

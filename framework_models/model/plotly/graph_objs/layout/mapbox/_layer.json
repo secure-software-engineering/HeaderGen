@@ -1,0 +1,23 @@
+{
+    "plotly.graph_objs.layout.mapbox._layer.Layer.below": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.circle": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.color": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.coordinates": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.fill": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.line": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.maxzoom": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.minzoom": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.name": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.opacity": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.source": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.sourceattribution": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.sourcelayer": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.sourcetype": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.symbol": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.templateitemname": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.type": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.visible": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer._prop_descriptions": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer.__init__": [],
+    "plotly.graph_objs.layout.mapbox._layer.Layer": []
+}

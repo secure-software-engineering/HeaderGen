@@ -1,0 +1,5 @@
+{
+    "statsmodels.genmod.tests.test_qif.test_qif_numdiff": [],
+    "statsmodels.genmod.tests.test_qif.test_qif_fit": [],
+    "statsmodels.genmod.tests.test_qif.test_formula": []
+}

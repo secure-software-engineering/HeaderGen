@@ -1,0 +1,9 @@
+{
+    "pandas.tests.test_errors.test_exception_importable": [],
+    "pandas.tests.test_errors.test_catch_oob": [],
+    "pandas.tests.test_errors.test_AbstractMethodError_classmethod": [],
+    "pandas.tests.test_errors.Foo.classmethod": [],
+    "pandas.tests.test_errors.Foo.property": [],
+    "pandas.tests.test_errors.Foo.method": [],
+    "pandas.tests.test_errors.Foo": []
+}

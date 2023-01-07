@@ -1,0 +1,6 @@
+{
+    "statsmodels.stats.tests.test_knockoff.test_equi": [],
+    "statsmodels.stats.tests.test_knockoff.test_sdp": [],
+    "statsmodels.stats.tests.test_knockoff.test_testers": [],
+    "statsmodels.stats.tests.test_knockoff.test_sim": []
+}

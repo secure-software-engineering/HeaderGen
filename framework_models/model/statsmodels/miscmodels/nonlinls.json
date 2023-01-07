@@ -1,0 +1,16 @@
+{
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.__init__": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.predict": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS._predict": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.start_value": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.geterrors": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.errorsumsquares": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.fit": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.fit_minimal": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.fit_random": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS.jac_predict": [],
+    "statsmodels.miscmodels.nonlinls.Myfunc._predict": [],
+    "statsmodels.miscmodels.nonlinls.Results": [],
+    "statsmodels.miscmodels.nonlinls.NonlinearLS": [],
+    "statsmodels.miscmodels.nonlinls.Myfunc": []
+}

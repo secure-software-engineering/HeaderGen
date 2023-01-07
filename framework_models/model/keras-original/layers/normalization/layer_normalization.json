@@ -1,0 +1,9 @@
+{
+    "keras.layers.normalization.layer_normalization.LayerNormalization.__init__": [],
+    "keras.layers.normalization.layer_normalization.LayerNormalization._fused_can_be_used": [],
+    "keras.layers.normalization.layer_normalization.LayerNormalization.build": [],
+    "keras.layers.normalization.layer_normalization.LayerNormalization.call": [],
+    "keras.layers.normalization.layer_normalization.LayerNormalization.compute_output_shape": [],
+    "keras.layers.normalization.layer_normalization.LayerNormalization.get_config": [],
+    "keras.layers.normalization.layer_normalization.LayerNormalization": []
+}

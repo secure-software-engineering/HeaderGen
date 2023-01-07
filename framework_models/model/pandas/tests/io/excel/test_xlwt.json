@@ -1,0 +1,11 @@
+{
+    "pandas.tests.io.excel.test_xlwt.test_excel_raise_error_on_multiindex_columns_and_no_index": [],
+    "pandas.tests.io.excel.test_xlwt.test_excel_multiindex_columns_and_index_true": [],
+    "pandas.tests.io.excel.test_xlwt.test_excel_multiindex_index": [],
+    "pandas.tests.io.excel.test_xlwt.test_to_excel_styleconverter": [],
+    "pandas.tests.io.excel.test_xlwt.test_write_append_mode_raises": [],
+    "pandas.tests.io.excel.test_xlwt.test_to_excel_xlwt_warning": [],
+    "pandas.tests.io.excel.test_xlwt.test_option_xls_writer_deprecated": [],
+    "pandas.tests.io.excel.test_xlwt.test_kwargs": [],
+    "pandas.tests.io.excel.test_xlwt.test_engine_kwargs": []
+}

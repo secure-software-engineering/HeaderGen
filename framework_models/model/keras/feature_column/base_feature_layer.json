@@ -1,0 +1,14 @@
+{
+    "keras.feature_column.base_feature_layer._sanitize_column_name_for_variable_scope": [],
+    "keras.feature_column.base_feature_layer._verify_static_batch_size_equality": [],
+    "keras.feature_column.base_feature_layer._normalize_feature_columns": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer.__init__": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer.build": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer._output_shape": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer.compute_output_shape": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer._process_dense_tensor": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer._verify_and_concat_tensors": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer.get_config": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer.from_config": [],
+    "keras.feature_column.base_feature_layer._BaseFeaturesLayer": []
+}

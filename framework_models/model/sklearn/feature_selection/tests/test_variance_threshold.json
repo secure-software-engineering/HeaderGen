@@ -1,0 +1,7 @@
+{
+    "sklearn.feature_selection.tests.test_variance_threshold.test_zero_variance": [],
+    "sklearn.feature_selection.tests.test_variance_threshold.test_variance_threshold": [],
+    "sklearn.feature_selection.tests.test_variance_threshold.test_variance_negative": [],
+    "sklearn.feature_selection.tests.test_variance_threshold.test_zero_variance_floating_point_error": [],
+    "sklearn.feature_selection.tests.test_variance_threshold.test_variance_nan": []
+}

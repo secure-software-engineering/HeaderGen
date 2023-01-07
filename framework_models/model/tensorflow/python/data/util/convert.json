@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.data.util.convert.optional_param_to_tensor": [],
+    "tensorflow.python.data.util.convert.partial_shape_to_tensor": []
+}

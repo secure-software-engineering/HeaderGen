@@ -1,0 +1,7 @@
+{
+    "keras.utils.vis_utils.check_pydot": [],
+    "keras.utils.vis_utils.is_wrapped_model": [],
+    "keras.utils.vis_utils.add_edge": [],
+    "keras.utils.vis_utils.model_to_dot": [],
+    "keras.utils.vis_utils.plot_model": []
+}

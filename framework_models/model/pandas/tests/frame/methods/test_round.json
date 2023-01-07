@@ -1,0 +1,11 @@
+{
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound.test_round": [],
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound.test_round_numpy": [],
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound.test_round_numpy_with_nan": [],
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound.test_round_mixed_type": [],
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound.test_round_with_duplicate_columns": [],
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound.test_round_builtin": [],
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound.test_round_nonunique_categorical": [],
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound.test_round_interval_category_columns": [],
+    "pandas.tests.frame.methods.test_round.TestDataFrameRound": []
+}

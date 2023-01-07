@@ -1,0 +1,22 @@
+{
+    "keras.mixed_precision.test_util.create_identity_with_grad_check_fn": [],
+    "keras.mixed_precision.test_util.create_identity_with_nan_gradients_fn": [],
+    "keras.mixed_precision.test_util.AssertTypeLayer.__init__": [],
+    "keras.mixed_precision.test_util.AssertTypeLayer.assert_input_types": [],
+    "keras.mixed_precision.test_util.MultiplyLayer.__init__": [],
+    "keras.mixed_precision.test_util.MultiplyLayer.build": [],
+    "keras.mixed_precision.test_util.MultiplyLayer.call": [],
+    "keras.mixed_precision.test_util.MultiplyLayer._multiply": [],
+    "keras.mixed_precision.test_util.MultiplyLayer.get_config": [],
+    "keras.mixed_precision.test_util.MultiplyLayerWithoutAutoCast.build": [],
+    "keras.mixed_precision.test_util.MultiplyLayerWithoutAutoCast.call": [],
+    "keras.mixed_precision.test_util.IdentityRegularizer.__call__": [],
+    "keras.mixed_precision.test_util.IdentityRegularizer.get_config": [],
+    "keras.mixed_precision.test_util.ReduceSumRegularizer.__call__": [],
+    "keras.mixed_precision.test_util.ReduceSumRegularizer.get_config": [],
+    "keras.mixed_precision.test_util.AssertTypeLayer": [],
+    "keras.mixed_precision.test_util.MultiplyLayer": [],
+    "keras.mixed_precision.test_util.MultiplyLayerWithoutAutoCast": [],
+    "keras.mixed_precision.test_util.IdentityRegularizer": [],
+    "keras.mixed_precision.test_util.ReduceSumRegularizer": []
+}

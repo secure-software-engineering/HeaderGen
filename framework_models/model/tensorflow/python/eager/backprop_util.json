@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.eager.backprop_util._DTypeFromTensor": [],
+    "tensorflow.python.eager.backprop_util.IsTrainable": []
+}

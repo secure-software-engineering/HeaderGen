@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.ops.control_flow_v2_func_graphs.ControlFlowFuncGraph.__init__": [],
+    "tensorflow.python.ops.control_flow_v2_func_graphs.ControlFlowFuncGraph": [],
+    "tensorflow.python.ops.control_flow_v2_func_graphs.CondBranchFuncGraph": [],
+    "tensorflow.python.ops.control_flow_v2_func_graphs.WhileCondFuncGraph": [],
+    "tensorflow.python.ops.control_flow_v2_func_graphs.WhileBodyFuncGraph": []
+}

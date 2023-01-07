@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.datetimes.test_map.TestMap.test_map": [],
+    "pandas.tests.indexes.datetimes.test_map.TestMap.test_map_fallthrough": [],
+    "pandas.tests.indexes.datetimes.test_map.TestMap.test_map_bug_1677": [],
+    "pandas.tests.indexes.datetimes.test_map.TestMap.test_index_map": [],
+    "pandas.tests.indexes.datetimes.test_map.TestMap": []
+}

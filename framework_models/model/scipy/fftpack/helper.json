@@ -1,0 +1,5 @@
+{
+    "scipy.fftpack.helper.rfftfreq": [],
+    "scipy.fftpack.helper.next_fast_len": [],
+    "scipy.fftpack.helper._good_shape": []
+}

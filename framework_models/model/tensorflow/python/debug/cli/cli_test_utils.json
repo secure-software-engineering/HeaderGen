@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.debug.cli.cli_test_utils.assert_lines_equal_ignoring_whitespace": [],
+    "tensorflow.python.debug.cli.cli_test_utils.assert_array_lines_close": []
+}

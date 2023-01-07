@@ -1,0 +1,6 @@
+{
+    "statsmodels.sandbox.tests.test_pca.check_pca_princomp": [],
+    "statsmodels.sandbox.tests.test_pca.check_pca_svd": [],
+    "statsmodels.sandbox.tests.test_pca.test_pca_princomp": [],
+    "statsmodels.sandbox.tests.test_pca.test_pca_svd": []
+}

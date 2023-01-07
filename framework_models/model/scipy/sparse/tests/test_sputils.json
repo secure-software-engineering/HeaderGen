@@ -1,0 +1,16 @@
+{
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_upcast": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_getdtype": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_isscalarlike": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_isintlike": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_isshape": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_issequence": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_ismatrix": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_isdense": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_validateaxis": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_get_index_dtype": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_check_shape_overflow": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_matrix": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils.test_asmatrix": [],
+    "scipy.sparse.tests.test_sputils.TestSparseUtils": []
+}

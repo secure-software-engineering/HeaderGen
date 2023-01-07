@@ -1,0 +1,11 @@
+{
+    "seaborn.timeseries.tsplot": [],
+    "seaborn.timeseries._plot_ci_band": [],
+    "seaborn.timeseries._plot_ci_bars": [],
+    "seaborn.timeseries._plot_boot_traces": [],
+    "seaborn.timeseries._plot_unit_traces": [],
+    "seaborn.timeseries._plot_unit_points": [],
+    "seaborn.timeseries._plot_boot_kde": [],
+    "seaborn.timeseries._plot_unit_kde": [],
+    "seaborn.timeseries._ts_kde": []
+}

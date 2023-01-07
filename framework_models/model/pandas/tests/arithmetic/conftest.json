@@ -1,0 +1,15 @@
+{
+    "pandas.tests.arithmetic.conftest.switch_numexpr_min_elements": [],
+    "pandas.tests.arithmetic.conftest.id_func": [],
+    "pandas.tests.arithmetic.conftest.one": [],
+    "pandas.tests.arithmetic.conftest.zero": [],
+    "pandas.tests.arithmetic.conftest.numeric_idx": [],
+    "pandas.tests.arithmetic.conftest.scalar_td": [],
+    "pandas.tests.arithmetic.conftest.three_days": [],
+    "pandas.tests.arithmetic.conftest.two_hours": [],
+    "pandas.tests.arithmetic.conftest.not_hourly": [],
+    "pandas.tests.arithmetic.conftest.not_daily": [],
+    "pandas.tests.arithmetic.conftest.mismatched_freq": [],
+    "pandas.tests.arithmetic.conftest.box_with_array": [],
+    "pandas.tests.arithmetic.conftest.box_1d_array": []
+}

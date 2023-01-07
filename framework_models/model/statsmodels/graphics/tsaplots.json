@@ -1,0 +1,10 @@
+{
+    "statsmodels.graphics.tsaplots._prepare_data_corr_plot": [],
+    "statsmodels.graphics.tsaplots._plot_corr": [],
+    "statsmodels.graphics.tsaplots.plot_acf": [],
+    "statsmodels.graphics.tsaplots.plot_pacf": [],
+    "statsmodels.graphics.tsaplots.seasonal_plot": [],
+    "statsmodels.graphics.tsaplots.month_plot": [],
+    "statsmodels.graphics.tsaplots.quarter_plot": [],
+    "statsmodels.graphics.tsaplots.plot_predict": []
+}

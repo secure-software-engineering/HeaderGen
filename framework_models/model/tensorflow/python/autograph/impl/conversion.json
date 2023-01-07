@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.autograph.impl.conversion._is_of_known_loaded_module": [],
+    "tensorflow.python.autograph.impl.conversion._is_known_loaded_type": [],
+    "tensorflow.python.autograph.impl.conversion.is_unsupported": [],
+    "tensorflow.python.autograph.impl.conversion.is_allowlisted": [],
+    "tensorflow.python.autograph.impl.conversion.is_in_allowlist_cache": [],
+    "tensorflow.python.autograph.impl.conversion.cache_allowlisted": []
+}

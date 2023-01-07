@@ -1,0 +1,12 @@
+{
+    "pandas.tests.tseries.holiday.test_observance.test_next_monday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_next_monday_or_tuesday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_previous_friday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_sunday_to_monday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_nearest_workday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_weekend_to_monday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_next_workday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_previous_workday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_before_nearest_workday": [],
+    "pandas.tests.tseries.holiday.test_observance.test_after_nearest_workday": []
+}

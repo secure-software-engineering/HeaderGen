@@ -1,0 +1,4 @@
+{
+    "pandas.tests.apply.test_series_apply_relabeling.test_relabel_no_duplicated_method": [],
+    "pandas.tests.apply.test_series_apply_relabeling.test_relabel_duplicated_method": []
+}

@@ -1,0 +1,17 @@
+{
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_iv": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_batch": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_paired": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_vectorized": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_against_theory": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_against_R": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_against_itself_1samp": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_against_itself_2samp": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_vectorized_3samp": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_vectorized_1samp": [],
+    "scipy.stats.tests.test_bootstrap.test_jackknife_resample": [],
+    "scipy.stats.tests.test_bootstrap.test_bootstrap_resample": [],
+    "scipy.stats.tests.test_bootstrap.test_percentile_of_score": [],
+    "scipy.stats.tests.test_bootstrap.test_percentile_along_axis": [],
+    "scipy.stats.tests.test_bootstrap.test_vectorize_statistic": []
+}

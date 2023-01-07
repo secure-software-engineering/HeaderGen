@@ -1,0 +1,11 @@
+{
+    "numpy.ndarray.astype": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ndarray.reshape": ["DATA_CLEANING_PREPARATION", "FEATURE_TRANSFORMATION"],
+    "numpy.ndarray.argsort": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ndarray.clip": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ndarray.copy": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ndarray.flatten": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ndarray.mean": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ndarray.ravel": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ndarray.tolist": ["DATA_CLEANING_PREPARATION"]
+}

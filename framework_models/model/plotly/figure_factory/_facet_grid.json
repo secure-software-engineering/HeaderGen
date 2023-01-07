@@ -1,0 +1,13 @@
+{
+    "plotly.figure_factory._facet_grid._is_flipped": [],
+    "plotly.figure_factory._facet_grid._return_label": [],
+    "plotly.figure_factory._facet_grid._legend_annotation": [],
+    "plotly.figure_factory._facet_grid._annotation_dict": [],
+    "plotly.figure_factory._facet_grid._axis_title_annotation": [],
+    "plotly.figure_factory._facet_grid._add_shapes_to_fig": [],
+    "plotly.figure_factory._facet_grid._make_trace_for_scatter": [],
+    "plotly.figure_factory._facet_grid._facet_grid_color_categorical": [],
+    "plotly.figure_factory._facet_grid._facet_grid_color_numerical": [],
+    "plotly.figure_factory._facet_grid._facet_grid": [],
+    "plotly.figure_factory._facet_grid.create_facet_grid": []
+}

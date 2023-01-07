@@ -1,0 +1,4 @@
+{
+    "tensorflow.lite.experimental.microfrontend.ops.gen_audio_microfrontend_op.audio_microfrontend": [],
+    "tensorflow.lite.experimental.microfrontend.ops.gen_audio_microfrontend_op.audio_microfrontend_eager_fallback": []
+}

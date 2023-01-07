@@ -1,0 +1,14 @@
+{
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.HypothesisTestResults.__init__": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.HypothesisTestResults.summary": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.HypothesisTestResults.__str__": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.HypothesisTestResults.__eq__": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.CausalityTestResults.__init__": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.CausalityTestResults.__eq__": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.NormalityTestResults.__init__": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.WhitenessTestResults.__init__": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.HypothesisTestResults": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.CausalityTestResults": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.NormalityTestResults": [],
+    "statsmodels.tsa.vector_ar.hypothesis_test_results.WhitenessTestResults": []
+}

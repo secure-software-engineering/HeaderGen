@@ -1,0 +1,15 @@
+{
+    "scipy.integrate._ivp.common.validate_first_step": [],
+    "scipy.integrate._ivp.common.validate_max_step": [],
+    "scipy.integrate._ivp.common.warn_extraneous": [],
+    "scipy.integrate._ivp.common.validate_tol": [],
+    "scipy.integrate._ivp.common.norm": [],
+    "scipy.integrate._ivp.common.select_initial_step": [],
+    "scipy.integrate._ivp.common.num_jac": [],
+    "scipy.integrate._ivp.common._dense_num_jac": [],
+    "scipy.integrate._ivp.common._sparse_num_jac": [],
+    "scipy.integrate._ivp.common.OdeSolution.__init__": [],
+    "scipy.integrate._ivp.common.OdeSolution._call_single": [],
+    "scipy.integrate._ivp.common.OdeSolution.__call__": [],
+    "scipy.integrate._ivp.common.OdeSolution": []
+}

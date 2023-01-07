@@ -1,0 +1,17 @@
+{
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_timeseries": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_dt64": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_dt64tz_column": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_with_multindex": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_with_Mapping_type": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_floats": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_index_name": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_with_unicode_index": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_with_unicode_column_names": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_with_categorical": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_dtype": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_dtype_mi": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_dict_like": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords.test_to_records_datetimeindex_with_tz": [],
+    "pandas.tests.frame.methods.test_to_records.TestDataFrameToRecords": []
+}

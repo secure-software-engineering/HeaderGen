@@ -1,0 +1,6 @@
+{
+    "scipy.stats._relative_risk._validate_int": [],
+    "scipy.stats._relative_risk.relative_risk": [],
+    "scipy.stats._relative_risk.RelativeRiskResult.confidence_interval": [],
+    "scipy.stats._relative_risk.RelativeRiskResult": []
+}

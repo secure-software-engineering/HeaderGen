@@ -1,0 +1,6 @@
+{
+    "statsmodels.sandbox.panel.random_panel.PanelSample.__init__": [],
+    "statsmodels.sandbox.panel.random_panel.PanelSample.get_y_true": [],
+    "statsmodels.sandbox.panel.random_panel.PanelSample.generate_panel": [],
+    "statsmodels.sandbox.panel.random_panel.PanelSample": []
+}

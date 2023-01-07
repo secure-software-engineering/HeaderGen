@@ -1,0 +1,8 @@
+{
+    "scipy.ndimage.fourier._get_output_fourier": [],
+    "scipy.ndimage.fourier._get_output_fourier_complex": [],
+    "scipy.ndimage.fourier.fourier_gaussian": [],
+    "scipy.ndimage.fourier.fourier_uniform": [],
+    "scipy.ndimage.fourier.fourier_ellipsoid": [],
+    "scipy.ndimage.fourier.fourier_shift": []
+}

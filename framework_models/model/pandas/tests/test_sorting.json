@@ -1,0 +1,21 @@
+{
+    "pandas.tests.test_sorting.test_decons": [],
+    "pandas.tests.test_sorting.test_mixed_str_nan": [],
+    "pandas.tests.test_sorting.TestSorting.test_int64_overflow": [],
+    "pandas.tests.test_sorting.TestSorting.test_int64_overflow_moar": [],
+    "pandas.tests.test_sorting.TestSorting.test_lexsort_indexer": [],
+    "pandas.tests.test_sorting.TestSorting.test_nargsort": [],
+    "pandas.tests.test_sorting.TestMerge.test_int64_overflow_issues": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_basic_sort": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_codes": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_codes_out_of_bound": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_mixed_integer": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_mixed_integer_from_list": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_unsortable": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_exceptions": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_extension_array": [],
+    "pandas.tests.test_sorting.TestSafeSort.test_extension_array_codes": [],
+    "pandas.tests.test_sorting.TestSorting": [],
+    "pandas.tests.test_sorting.TestMerge": [],
+    "pandas.tests.test_sorting.TestSafeSort": []
+}

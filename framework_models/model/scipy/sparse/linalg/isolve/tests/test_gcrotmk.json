@@ -1,0 +1,12 @@
+{
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.matvec": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.do_solve": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.TestGCROTMK.test_preconditioner": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.TestGCROTMK.test_arnoldi": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.TestGCROTMK.test_cornercase": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.TestGCROTMK.test_nans": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.TestGCROTMK.test_truncate": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.TestGCROTMK.test_CU": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.TestGCROTMK.test_denormals": [],
+    "scipy.sparse.linalg.isolve.tests.test_gcrotmk.TestGCROTMK": []
+}

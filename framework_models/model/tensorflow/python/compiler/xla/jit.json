@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.compiler.xla.jit.experimental_jit_scope": [],
+    "tensorflow.python.compiler.xla.jit._XlaScope.__init__": [],
+    "tensorflow.python.compiler.xla.jit._XlaScope": []
+}

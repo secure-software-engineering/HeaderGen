@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.multi.test_reshape.test_insert": [],
+    "pandas.tests.indexes.multi.test_reshape.test_append": [],
+    "pandas.tests.indexes.multi.test_reshape.test_append_index": [],
+    "pandas.tests.indexes.multi.test_reshape.test_repeat": [],
+    "pandas.tests.indexes.multi.test_reshape.test_insert_base": [],
+    "pandas.tests.indexes.multi.test_reshape.test_delete_base": []
+}

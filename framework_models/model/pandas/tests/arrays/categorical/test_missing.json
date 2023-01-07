@@ -1,0 +1,14 @@
+{
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_isna": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_na_flags_int_categories": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_nan_handling": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_set_dtype_nans": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_set_item_nan": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_fillna_raises": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_fillna_iterable_category": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_fillna_array": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_use_inf_as_na": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_use_inf_as_na_outside_context": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing.test_compare_categorical_with_missing": [],
+    "pandas.tests.arrays.categorical.test_missing.TestCategoricalMissing": []
+}

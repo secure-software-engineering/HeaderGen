@@ -1,0 +1,21 @@
+{
+    "pandas.tests.io.test_clipboard.build_kwargs": [],
+    "pandas.tests.io.test_clipboard.df": [],
+    "pandas.tests.io.test_clipboard.mock_clipboard": [],
+    "pandas.tests.io.test_clipboard.test_mock_clipboard": [],
+    "pandas.tests.io.test_clipboard.test_raw_roundtrip": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.check_round_trip_frame": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_round_trip_frame": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_round_trip_frame_sep": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_round_trip_frame_string": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_excel_sep_warning": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_copy_delim_warning": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_clipboard_copy_tabs_default": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_clipboard_copy_strings": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_read_clipboard_infer_excel": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_infer_excel_with_nulls": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_infer_excel_with_multiindex": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_invalid_encoding": [],
+    "pandas.tests.io.test_clipboard.TestClipboard.test_round_trip_valid_encodings": [],
+    "pandas.tests.io.test_clipboard.TestClipboard": []
+}

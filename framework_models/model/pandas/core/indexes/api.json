@@ -1,0 +1,8 @@
+{
+    "pandas.core.indexes.api.get_objs_combined_axis": [],
+    "pandas.core.indexes.api._get_distinct_objs": [],
+    "pandas.core.indexes.api._get_combined_index": [],
+    "pandas.core.indexes.api.union_indexes": [],
+    "pandas.core.indexes.api._sanitize_and_check": [],
+    "pandas.core.indexes.api.all_indexes_same": []
+}

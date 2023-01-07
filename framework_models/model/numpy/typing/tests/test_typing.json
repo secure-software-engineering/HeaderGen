@@ -1,0 +1,15 @@
+{
+    "numpy.typing.tests.test_typing._key_func": [],
+    "numpy.typing.tests.test_typing._strip_filename": [],
+    "numpy.typing.tests.test_typing.run_mypy": [],
+    "numpy.typing.tests.test_typing.get_test_cases": [],
+    "numpy.typing.tests.test_typing.test_success": [],
+    "numpy.typing.tests.test_typing.test_fail": [],
+    "numpy.typing.tests.test_typing._test_fail": [],
+    "numpy.typing.tests.test_typing._construct_format_dict": [],
+    "numpy.typing.tests.test_typing._parse_reveals": [],
+    "numpy.typing.tests.test_typing.test_reveal": [],
+    "numpy.typing.tests.test_typing._test_reveal": [],
+    "numpy.typing.tests.test_typing.test_code_runs": [],
+    "numpy.typing.tests.test_typing.test_extended_precision": []
+}

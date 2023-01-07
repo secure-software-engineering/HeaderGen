@@ -1,0 +1,6 @@
+{
+    "pandas.core.util.numba_.maybe_use_numba": [],
+    "pandas.core.util.numba_.set_use_numba": [],
+    "pandas.core.util.numba_.get_jit_arguments": [],
+    "pandas.core.util.numba_.jit_user_function": []
+}

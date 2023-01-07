@@ -1,0 +1,8 @@
+{
+    "sklearn.feature_selection._sequential.SequentialFeatureSelector.__init__": [],
+    "sklearn.feature_selection._sequential.SequentialFeatureSelector.fit": [],
+    "sklearn.feature_selection._sequential.SequentialFeatureSelector._get_best_new_feature": [],
+    "sklearn.feature_selection._sequential.SequentialFeatureSelector._get_support_mask": [],
+    "sklearn.feature_selection._sequential.SequentialFeatureSelector._more_tags": [],
+    "sklearn.feature_selection._sequential.SequentialFeatureSelector": []
+}

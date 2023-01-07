@@ -1,0 +1,5 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_predictor.test_regression_dataset": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_predictor.test_infinite_values_and_thresholds": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_predictor.test_categorical_predictor": []
+}

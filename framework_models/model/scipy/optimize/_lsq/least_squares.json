@@ -1,0 +1,13 @@
+{
+    "scipy.optimize._lsq.least_squares.call_minpack": [],
+    "scipy.optimize._lsq.least_squares.prepare_bounds": [],
+    "scipy.optimize._lsq.least_squares.check_tolerance": [],
+    "scipy.optimize._lsq.least_squares.check_x_scale": [],
+    "scipy.optimize._lsq.least_squares.check_jac_sparsity": [],
+    "scipy.optimize._lsq.least_squares.huber": [],
+    "scipy.optimize._lsq.least_squares.soft_l1": [],
+    "scipy.optimize._lsq.least_squares.cauchy": [],
+    "scipy.optimize._lsq.least_squares.arctan": [],
+    "scipy.optimize._lsq.least_squares.construct_loss_function": [],
+    "scipy.optimize._lsq.least_squares.least_squares": []
+}

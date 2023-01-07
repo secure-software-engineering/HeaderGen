@@ -1,0 +1,8 @@
+{
+    "keras.layers.core.reshape.Reshape.__init__": ["MODEL_TRAINING"],
+    "keras.layers.core.reshape.Reshape._fix_unknown_dimension": ["MODEL_TRAINING"],
+    "keras.layers.core.reshape.Reshape.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.layers.core.reshape.Reshape.call": ["MODEL_TRAINING"],
+    "keras.layers.core.reshape.Reshape.get_config": ["MODEL_TRAINING"],
+    "keras.layers.core.reshape.Reshape": ["MODEL_TRAINING"]
+}

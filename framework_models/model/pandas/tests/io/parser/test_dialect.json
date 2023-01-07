@@ -1,0 +1,8 @@
+{
+    "pandas.tests.io.parser.test_dialect.custom_dialect": [],
+    "pandas.tests.io.parser.test_dialect.test_dialect": [],
+    "pandas.tests.io.parser.test_dialect.test_dialect_str": [],
+    "pandas.tests.io.parser.test_dialect.test_invalid_dialect": [],
+    "pandas.tests.io.parser.test_dialect.test_dialect_conflict_except_delimiter": [],
+    "pandas.tests.io.parser.test_dialect.test_dialect_conflict_delimiter": []
+}

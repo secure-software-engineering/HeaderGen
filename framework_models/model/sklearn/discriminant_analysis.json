@@ -1,0 +1,23 @@
+{
+    "sklearn.discriminant_analysis._cov": [],
+    "sklearn.discriminant_analysis._class_means": [],
+    "sklearn.discriminant_analysis._class_cov": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis.__init__": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis._solve_lsqr": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis._solve_eigen": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis._solve_svd": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis.fit": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis.transform": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis.predict_proba": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis.predict_log_proba": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis.decision_function": [],
+    "sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.__init__": [],
+    "sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.fit": [],
+    "sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis._decision_function": [],
+    "sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.decision_function": [],
+    "sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.predict": [],
+    "sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.predict_proba": [],
+    "sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.predict_log_proba": [],
+    "sklearn.discriminant_analysis.LinearDiscriminantAnalysis": [],
+    "sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis": []
+}

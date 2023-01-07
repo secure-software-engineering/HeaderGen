@@ -1,0 +1,23 @@
+{
+    "plotly.basewidget.BaseFigureWidget.__init__": [],
+    "plotly.basewidget.BaseFigureWidget._send_relayout_msg": [],
+    "plotly.basewidget.BaseFigureWidget._send_restyle_msg": [],
+    "plotly.basewidget.BaseFigureWidget._send_addTraces_msg": [],
+    "plotly.basewidget.BaseFigureWidget._send_moveTraces_msg": [],
+    "plotly.basewidget.BaseFigureWidget._send_update_msg": [],
+    "plotly.basewidget.BaseFigureWidget._send_animate_msg": [],
+    "plotly.basewidget.BaseFigureWidget._send_deleteTraces_msg": [],
+    "plotly.basewidget.BaseFigureWidget._handler_js2py_traceDeltas": [],
+    "plotly.basewidget.BaseFigureWidget._handler_js2py_layoutDelta": [],
+    "plotly.basewidget.BaseFigureWidget._handler_js2py_restyle": [],
+    "plotly.basewidget.BaseFigureWidget._handler_js2py_update": [],
+    "plotly.basewidget.BaseFigureWidget._handler_js2py_relayout": [],
+    "plotly.basewidget.BaseFigureWidget._handler_js2py_pointsCallback": [],
+    "plotly.basewidget.BaseFigureWidget._ipython_display_": [],
+    "plotly.basewidget.BaseFigureWidget.on_edits_completed": [],
+    "plotly.basewidget.BaseFigureWidget.frames": [],
+    "plotly.basewidget.BaseFigureWidget._display_frames_error": [],
+    "plotly.basewidget.BaseFigureWidget._remove_overlapping_props": [],
+    "plotly.basewidget.BaseFigureWidget._transform_data": [],
+    "plotly.basewidget.BaseFigureWidget": []
+}

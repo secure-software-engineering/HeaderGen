@@ -1,0 +1,21 @@
+{
+    "pandas.tests.series.methods.test_rank.test_rank_dense_pct": [],
+    "pandas.tests.series.methods.test_rank.test_rank_min_pct": [],
+    "pandas.tests.series.methods.test_rank.test_rank_max_pct": [],
+    "pandas.tests.series.methods.test_rank.test_rank_average_pct": [],
+    "pandas.tests.series.methods.test_rank.test_rank_first_pct": [],
+    "pandas.tests.series.methods.test_rank.test_pct_max_many_rows": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_categorical": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_signature": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_tie_methods": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_tie_methods_on_infs_nans": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_desc_mix_nans_infs": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_methods_series": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_dense_method": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_descending": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_int": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_object_bug": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank.test_rank_modify_inplace": [],
+    "pandas.tests.series.methods.test_rank.TestSeriesRank": []
+}

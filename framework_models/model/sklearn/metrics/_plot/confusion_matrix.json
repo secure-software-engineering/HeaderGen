@@ -1,0 +1,8 @@
+{
+    "sklearn.metrics._plot.confusion_matrix.plot_confusion_matrix": [],
+    "sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay.__init__": [],
+    "sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay.plot": [],
+    "sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay.from_estimator": [],
+    "sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay.from_predictions": [],
+    "sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay": []
+}

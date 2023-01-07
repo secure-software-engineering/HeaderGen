@@ -1,0 +1,10 @@
+{
+    "keras.layers.preprocessing.category_encoding.sparse_bincount": [],
+    "keras.layers.preprocessing.category_encoding.dense_bincount": [],
+    "keras.layers.preprocessing.category_encoding.CategoryEncoding.__init__": [],
+    "keras.layers.preprocessing.category_encoding.CategoryEncoding.compute_output_shape": [],
+    "keras.layers.preprocessing.category_encoding.CategoryEncoding.compute_output_signature": [],
+    "keras.layers.preprocessing.category_encoding.CategoryEncoding.get_config": [],
+    "keras.layers.preprocessing.category_encoding.CategoryEncoding.call": [],
+    "keras.layers.preprocessing.category_encoding.CategoryEncoding": []
+}

@@ -1,0 +1,5 @@
+{
+    "pandas.tests.frame.methods.test_convert.TestConvert.test_convert_objects": [],
+    "pandas.tests.frame.methods.test_convert.TestConvert.test_convert_objects_no_conversion": [],
+    "pandas.tests.frame.methods.test_convert.TestConvert": []
+}

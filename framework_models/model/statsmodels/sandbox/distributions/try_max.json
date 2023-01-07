@@ -1,0 +1,7 @@
+{
+    "statsmodels.sandbox.distributions.try_max.MaxDist.__init__": [],
+    "statsmodels.sandbox.distributions.try_max.MaxDist._pdf": [],
+    "statsmodels.sandbox.distributions.try_max.MaxDist._cdf": [],
+    "statsmodels.sandbox.distributions.try_max.MaxDist._ppf": [],
+    "statsmodels.sandbox.distributions.try_max.MaxDist": []
+}

@@ -1,0 +1,15 @@
+{
+    "numpy.f2py.tests.util._cleanup": [],
+    "numpy.f2py.tests.util.get_module_dir": [],
+    "numpy.f2py.tests.util.get_temp_module_name": [],
+    "numpy.f2py.tests.util._memoize": [],
+    "numpy.f2py.tests.util.build_module": [],
+    "numpy.f2py.tests.util.build_code": [],
+    "numpy.f2py.tests.util._get_compiler_status": [],
+    "numpy.f2py.tests.util.has_c_compiler": [],
+    "numpy.f2py.tests.util.has_f77_compiler": [],
+    "numpy.f2py.tests.util.has_f90_compiler": [],
+    "numpy.f2py.tests.util.build_module_distutils": [],
+    "numpy.f2py.tests.util.F2PyTest.setup": [],
+    "numpy.f2py.tests.util.F2PyTest": []
+}

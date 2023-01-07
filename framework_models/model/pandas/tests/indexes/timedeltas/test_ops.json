@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexes.timedeltas.test_ops.TestTimedeltaIndexOps.test_nonunique_contains": [],
+    "pandas.tests.indexes.timedeltas.test_ops.TestTimedeltaIndexOps.test_unknown_attribute": [],
+    "pandas.tests.indexes.timedeltas.test_ops.TestTimedeltaIndexOps.test_infer_freq": [],
+    "pandas.tests.indexes.timedeltas.test_ops.TestTimedeltaIndexOps.test_freq_setter": [],
+    "pandas.tests.indexes.timedeltas.test_ops.TestTimedeltaIndexOps.test_freq_setter_errors": [],
+    "pandas.tests.indexes.timedeltas.test_ops.TestTimedeltaIndexOps.test_freq_view_safe": [],
+    "pandas.tests.indexes.timedeltas.test_ops.TestTimedeltaIndexOps": []
+}

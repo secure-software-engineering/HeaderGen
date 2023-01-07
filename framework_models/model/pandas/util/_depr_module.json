@@ -1,0 +1,8 @@
+{
+    "pandas.util._depr_module._DeprecatedModule.__init__": [],
+    "pandas.util._depr_module._DeprecatedModule.__dir__": [],
+    "pandas.util._depr_module._DeprecatedModule.__repr__": [],
+    "pandas.util._depr_module._DeprecatedModule.__getattr__": [],
+    "pandas.util._depr_module._DeprecatedModule._import_deprmod": [],
+    "pandas.util._depr_module._DeprecatedModule": []
+}

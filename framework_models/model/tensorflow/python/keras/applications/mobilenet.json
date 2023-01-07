@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.keras.applications.mobilenet.MobileNet": [],
+    "tensorflow.python.keras.applications.mobilenet._conv_block": [],
+    "tensorflow.python.keras.applications.mobilenet._depthwise_conv_block": [],
+    "tensorflow.python.keras.applications.mobilenet.preprocess_input": [],
+    "tensorflow.python.keras.applications.mobilenet.decode_predictions": []
+}

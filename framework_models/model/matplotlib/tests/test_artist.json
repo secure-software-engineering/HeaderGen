@@ -1,0 +1,20 @@
+{
+    "matplotlib.tests.test_artist.test_patch_transform_of_none": [],
+    "matplotlib.tests.test_artist.test_collection_transform_of_none": [],
+    "matplotlib.tests.test_artist.test_clipping": [],
+    "matplotlib.tests.test_artist.test_clipping_zoom": [],
+    "matplotlib.tests.test_artist.test_cull_markers": [],
+    "matplotlib.tests.test_artist.test_hatching": [],
+    "matplotlib.tests.test_artist.test_remove": [],
+    "matplotlib.tests.test_artist.test_default_edges": [],
+    "matplotlib.tests.test_artist.test_properties": [],
+    "matplotlib.tests.test_artist.test_setp": [],
+    "matplotlib.tests.test_artist.test_None_zorder": [],
+    "matplotlib.tests.test_artist.test_artist_inspector_get_valid_values": [],
+    "matplotlib.tests.test_artist.test_artist_inspector_get_aliases": [],
+    "matplotlib.tests.test_artist.test_set_alpha": [],
+    "matplotlib.tests.test_artist.test_set_alpha_for_array": [],
+    "matplotlib.tests.test_artist.test_callbacks": [],
+    "matplotlib.tests.test_artist.test_set_signature": [],
+    "matplotlib.tests.test_artist.test_set_is_overwritten": []
+}

@@ -1,0 +1,11 @@
+{
+    "numpy.distutils.command.build_clib.build_clib.initialize_options": [],
+    "numpy.distutils.command.build_clib.build_clib.finalize_options": [],
+    "numpy.distutils.command.build_clib.build_clib.have_f_sources": [],
+    "numpy.distutils.command.build_clib.build_clib.have_cxx_sources": [],
+    "numpy.distutils.command.build_clib.build_clib.run": [],
+    "numpy.distutils.command.build_clib.build_clib.get_source_files": [],
+    "numpy.distutils.command.build_clib.build_clib.build_libraries": [],
+    "numpy.distutils.command.build_clib.build_clib.build_a_library": [],
+    "numpy.distutils.command.build_clib.build_clib": []
+}

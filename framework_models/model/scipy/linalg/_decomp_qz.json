@@ -1,0 +1,10 @@
+{
+    "scipy.linalg._decomp_qz._select_function": [],
+    "scipy.linalg._decomp_qz._lhp": [],
+    "scipy.linalg._decomp_qz._rhp": [],
+    "scipy.linalg._decomp_qz._iuc": [],
+    "scipy.linalg._decomp_qz._ouc": [],
+    "scipy.linalg._decomp_qz._qz": [],
+    "scipy.linalg._decomp_qz.qz": [],
+    "scipy.linalg._decomp_qz.ordqz": []
+}

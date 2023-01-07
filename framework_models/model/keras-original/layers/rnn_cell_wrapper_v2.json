@@ -1,0 +1,14 @@
+{
+    "keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.__init__": [],
+    "keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.call": [],
+    "keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.build": [],
+    "keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.get_config": [],
+    "keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.from_config": [],
+    "keras.layers.rnn_cell_wrapper_v2.DropoutWrapper.__init__": [],
+    "keras.layers.rnn_cell_wrapper_v2.ResidualWrapper.__init__": [],
+    "keras.layers.rnn_cell_wrapper_v2.DeviceWrapper.__init__": [],
+    "keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2": [],
+    "keras.layers.rnn_cell_wrapper_v2.DropoutWrapper": [],
+    "keras.layers.rnn_cell_wrapper_v2.ResidualWrapper": [],
+    "keras.layers.rnn_cell_wrapper_v2.DeviceWrapper": []
+}

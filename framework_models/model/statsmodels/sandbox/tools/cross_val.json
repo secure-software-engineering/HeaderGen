@@ -1,0 +1,23 @@
+{
+    "statsmodels.sandbox.tools.cross_val.split": [],
+    "statsmodels.sandbox.tools.cross_val.LeaveOneOut.__init__": [],
+    "statsmodels.sandbox.tools.cross_val.LeaveOneOut.__iter__": [],
+    "statsmodels.sandbox.tools.cross_val.LeaveOneOut.__repr__": [],
+    "statsmodels.sandbox.tools.cross_val.LeavePOut.__init__": [],
+    "statsmodels.sandbox.tools.cross_val.LeavePOut.__iter__": [],
+    "statsmodels.sandbox.tools.cross_val.LeavePOut.__repr__": [],
+    "statsmodels.sandbox.tools.cross_val.KFold.__init__": [],
+    "statsmodels.sandbox.tools.cross_val.KFold.__iter__": [],
+    "statsmodels.sandbox.tools.cross_val.KFold.__repr__": [],
+    "statsmodels.sandbox.tools.cross_val.LeaveOneLabelOut.__init__": [],
+    "statsmodels.sandbox.tools.cross_val.LeaveOneLabelOut.__iter__": [],
+    "statsmodels.sandbox.tools.cross_val.LeaveOneLabelOut.__repr__": [],
+    "statsmodels.sandbox.tools.cross_val.KStepAhead.__init__": [],
+    "statsmodels.sandbox.tools.cross_val.KStepAhead.__iter__": [],
+    "statsmodels.sandbox.tools.cross_val.KStepAhead.__repr__": [],
+    "statsmodels.sandbox.tools.cross_val.LeaveOneOut": [],
+    "statsmodels.sandbox.tools.cross_val.LeavePOut": [],
+    "statsmodels.sandbox.tools.cross_val.KFold": [],
+    "statsmodels.sandbox.tools.cross_val.LeaveOneLabelOut": [],
+    "statsmodels.sandbox.tools.cross_val.KStepAhead": []
+}

@@ -1,0 +1,10 @@
+{
+    "scipy.linalg._solvers.solve_sylvester": [],
+    "scipy.linalg._solvers.solve_continuous_lyapunov": [],
+    "scipy.linalg._solvers._solve_discrete_lyapunov_direct": [],
+    "scipy.linalg._solvers._solve_discrete_lyapunov_bilinear": [],
+    "scipy.linalg._solvers.solve_discrete_lyapunov": [],
+    "scipy.linalg._solvers.solve_continuous_are": [],
+    "scipy.linalg._solvers.solve_discrete_are": [],
+    "scipy.linalg._solvers._are_validate_args": []
+}

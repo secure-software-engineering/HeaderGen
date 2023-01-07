@@ -1,0 +1,23 @@
+{
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_concat": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_concat_all_na_block": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_concat_mixed_dtypes": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_concat_columns": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_concat_extension_arrays_copy_false": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_concat_with_reindex": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_align": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_align_frame": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_align_series_frame": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_set_frame_expand_regular_with_extension": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_set_frame_expand_extension_with_regular": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_set_frame_overwrite_object": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_merge": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_merge_on_extension_array": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_merge_on_extension_array_duplicates": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_stack": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_unstack": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_ravel": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_transpose": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests.test_transpose_frame": [],
+    "pandas.tests.extension.base.reshaping.BaseReshapingTests": []
+}

@@ -1,0 +1,21 @@
+{
+    "statsmodels.sandbox.distributions.examples.ex_transf2.test_loggamma": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.test_loglaplace": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.test_squared_normal_chi2": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.CheckDistEquivalence.test_cdf": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.CheckDistEquivalence.test_pdf": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.CheckDistEquivalence.test_ppf": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.CheckDistEquivalence.test_rvs": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.CheckDistEquivalence.test_stats": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestLoggamma_1.__init__": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestSquaredNormChi2_1.__init__": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestSquaredNormChi2_2.__init__": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestAbsNormHalfNorm.__init__": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestSquaredTF.__init__": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.CheckDistEquivalence": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestLoggamma_1": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestSquaredNormChi2_1": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestSquaredNormChi2_2": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestAbsNormHalfNorm": [],
+    "statsmodels.sandbox.distributions.examples.ex_transf2.TestSquaredTF": []
+}

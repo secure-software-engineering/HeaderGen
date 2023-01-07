@@ -1,0 +1,14 @@
+{
+    "sklearn.neighbors.tests.test_lof.test_lof": [],
+    "sklearn.neighbors.tests.test_lof.test_lof_performance": [],
+    "sklearn.neighbors.tests.test_lof.test_lof_values": [],
+    "sklearn.neighbors.tests.test_lof.test_lof_precomputed": [],
+    "sklearn.neighbors.tests.test_lof.test_n_neighbors_attribute": [],
+    "sklearn.neighbors.tests.test_lof.test_score_samples": [],
+    "sklearn.neighbors.tests.test_lof.test_contamination": [],
+    "sklearn.neighbors.tests.test_lof.test_novelty_errors": [],
+    "sklearn.neighbors.tests.test_lof.test_novelty_training_scores": [],
+    "sklearn.neighbors.tests.test_lof.test_hasattr_prediction": [],
+    "sklearn.neighbors.tests.test_lof.test_novelty_true_common_tests": [],
+    "sklearn.neighbors.tests.test_lof.test_predicted_outlier_number": []
+}

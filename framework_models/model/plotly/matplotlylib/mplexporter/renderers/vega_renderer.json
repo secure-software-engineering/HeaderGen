@@ -1,0 +1,13 @@
+{
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.fig_to_vega": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaRenderer.open_figure": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaRenderer.open_axes": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaRenderer.draw_line": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaRenderer.draw_markers": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaRenderer.draw_text": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaHTML.__init__": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaHTML.html": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaHTML._repr_html_": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaRenderer": [],
+    "plotly.matplotlylib.mplexporter.renderers.vega_renderer.VegaHTML": []
+}

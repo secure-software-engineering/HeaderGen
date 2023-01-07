@@ -1,0 +1,20 @@
+{
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_similarity": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_feature": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_sparse": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_sparse_precomputed": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_sparse_precomputed_different_eps": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_input_not_modified": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_no_core_samples": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_callable": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_metric_params": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_balltree": [],
+    "sklearn.cluster.tests.test_dbscan.test_input_validation": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_badargs": [],
+    "sklearn.cluster.tests.test_dbscan.test_pickle": [],
+    "sklearn.cluster.tests.test_dbscan.test_boundaries": [],
+    "sklearn.cluster.tests.test_dbscan.test_weighted_dbscan": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_core_samples_toy": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_precomputed_metric_with_degenerate_input_arrays": [],
+    "sklearn.cluster.tests.test_dbscan.test_dbscan_precomputed_metric_with_initial_rows_zero": []
+}

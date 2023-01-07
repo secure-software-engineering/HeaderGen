@@ -1,0 +1,8 @@
+{
+    "pandas.tests.io.test_gcs.gcs_buffer": [],
+    "pandas.tests.io.test_gcs.test_to_read_gcs": [],
+    "pandas.tests.io.test_gcs.assert_equal_zip_safe": [],
+    "pandas.tests.io.test_gcs.test_to_csv_compression_encoding_gcs": [],
+    "pandas.tests.io.test_gcs.test_to_parquet_gcs_new_file": [],
+    "pandas.tests.io.test_gcs.test_gcs_not_present_exception": []
+}

@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.distribute.multi_process_lib.is_oss": [],
+    "tensorflow.python.distribute.multi_process_lib._is_enabled": [],
+    "tensorflow.python.distribute.multi_process_lib._set_spawn_exe_path": [],
+    "tensorflow.python.distribute.multi_process_lib._if_spawn_run_and_exit": [],
+    "tensorflow.python.distribute.multi_process_lib.test_main": [],
+    "tensorflow.python.distribute.multi_process_lib.initialized": [],
+    "tensorflow.python.distribute.multi_process_lib._AbslProcess.__init__": [],
+    "tensorflow.python.distribute.multi_process_lib._AbslProcess._run_with_absl": [],
+    "tensorflow.python.distribute.multi_process_lib._AbslProcess": []
+}

@@ -1,0 +1,8 @@
+{
+    "numpy.core.tests.test_item_selection.TestTake.test_simple": [],
+    "numpy.core.tests.test_item_selection.TestTake.test_refcounting": [],
+    "numpy.core.tests.test_item_selection.TestTake.test_unicode_mode": [],
+    "numpy.core.tests.test_item_selection.TestTake.test_empty_partition": [],
+    "numpy.core.tests.test_item_selection.TestTake.test_empty_argpartition": [],
+    "numpy.core.tests.test_item_selection.TestTake": []
+}

@@ -1,0 +1,11 @@
+{
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat.test_categorical_concat": [],
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat.test_categorical_concat_dtypes": [],
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat.test_concat_categoricalindex": [],
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat.test_categorical_concat_preserve": [],
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat.test_categorical_index_preserver": [],
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat.test_concat_categorical_tz": [],
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat.test_concat_categorical_unchanged": [],
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat.test_categorical_concat_gh7864": [],
+    "pandas.tests.reshape.concat.test_categorical.TestCategoricalConcat": []
+}

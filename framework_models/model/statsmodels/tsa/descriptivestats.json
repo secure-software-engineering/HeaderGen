@@ -1,0 +1,11 @@
+{
+    "statsmodels.tsa.descriptivestats.TsaDescriptive.__init__": [],
+    "statsmodels.tsa.descriptivestats.TsaDescriptive.filter": [],
+    "statsmodels.tsa.descriptivestats.TsaDescriptive.detrend": [],
+    "statsmodels.tsa.descriptivestats.TsaDescriptive.fit": [],
+    "statsmodels.tsa.descriptivestats.TsaDescriptive.acf": [],
+    "statsmodels.tsa.descriptivestats.TsaDescriptive.pacf": [],
+    "statsmodels.tsa.descriptivestats.TsaDescriptive.periodogram": [],
+    "statsmodels.tsa.descriptivestats.TsaDescriptive.plot4": [],
+    "statsmodels.tsa.descriptivestats.TsaDescriptive": []
+}

@@ -1,0 +1,18 @@
+{
+    "statsmodels.nonparametric.kernel_density.KDEMultivariate.__init__": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariate.__repr__": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariate.loo_likelihood": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariate.pdf": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariate.cdf": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariate.imse": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariate._get_class_vars_type": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariateConditional.__init__": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariateConditional.__repr__": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariateConditional.loo_likelihood": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariateConditional.pdf": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariateConditional.cdf": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariateConditional.imse": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariateConditional._get_class_vars_type": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariate": [],
+    "statsmodels.nonparametric.kernel_density.KDEMultivariateConditional": []
+}

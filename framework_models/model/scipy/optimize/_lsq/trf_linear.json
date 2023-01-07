@@ -1,0 +1,6 @@
+{
+    "scipy.optimize._lsq.trf_linear.regularized_lsq_with_qr": [],
+    "scipy.optimize._lsq.trf_linear.backtracking": [],
+    "scipy.optimize._lsq.trf_linear.select_step": [],
+    "scipy.optimize._lsq.trf_linear.trf_linear": []
+}

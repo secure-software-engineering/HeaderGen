@@ -1,0 +1,14 @@
+{
+    "sklearn.utils.tests.test_mocking.iris": [],
+    "sklearn.utils.tests.test_mocking._success": [],
+    "sklearn.utils.tests.test_mocking._fail": [],
+    "sklearn.utils.tests.test_mocking.test_check_on_fit_success": [],
+    "sklearn.utils.tests.test_mocking.test_check_on_fit_fail": [],
+    "sklearn.utils.tests.test_mocking.test_check_X_on_predict_success": [],
+    "sklearn.utils.tests.test_mocking.test_check_X_on_predict_fail": [],
+    "sklearn.utils.tests.test_mocking.test_checking_classifier": [],
+    "sklearn.utils.tests.test_mocking.test_checking_classifier_with_params": [],
+    "sklearn.utils.tests.test_mocking.test_checking_classifier_fit_params": [],
+    "sklearn.utils.tests.test_mocking.test_checking_classifier_missing_fit_params": [],
+    "sklearn.utils.tests.test_mocking.test_checking_classifier_methods_to_check": []
+}

@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.framework.subscribe._recursive_apply": [],
+    "tensorflow.python.framework.subscribe._subscribe_new": [],
+    "tensorflow.python.framework.subscribe._subscribe_extend": [],
+    "tensorflow.python.framework.subscribe._is_subscribed_identity": [],
+    "tensorflow.python.framework.subscribe._subscribe": [],
+    "tensorflow.python.framework.subscribe._preserve_control_flow_context": [],
+    "tensorflow.python.framework.subscribe._scoped_subscribe": [],
+    "tensorflow.python.framework.subscribe.subscribe": [],
+    "tensorflow.python.framework.subscribe._ControlOutputCache.__init__": [],
+    "tensorflow.python.framework.subscribe._ControlOutputCache.calc_control_outputs": [],
+    "tensorflow.python.framework.subscribe._ControlOutputCache.get_control_outputs": [],
+    "tensorflow.python.framework.subscribe._ControlOutputCache": []
+}

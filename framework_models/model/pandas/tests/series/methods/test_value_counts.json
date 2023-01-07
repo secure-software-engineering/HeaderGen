@@ -1,0 +1,11 @@
+{
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts.test_value_counts_datetime": [],
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts.test_value_counts_datetime_tz": [],
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts.test_value_counts_period": [],
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts.test_value_counts_categorical_ordered": [],
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts.test_value_counts_categorical_not_ordered": [],
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts.test_value_counts_categorical": [],
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts.test_value_counts_categorical_with_nan": [],
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts.test_value_counts_bool_with_nan": [],
+    "pandas.tests.series.methods.test_value_counts.TestSeriesValueCounts": []
+}

@@ -1,0 +1,14 @@
+{
+    "statsmodels.base.tests.test_transform.TestTransform.setup_class": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_nonpositive": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_invalid_bounds": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_unclear_methods": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_unclear_scale_parameter": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_valid_guerrero": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_guerrero_robust_scale": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_loglik_lambda_estimation": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_boxcox_transformation_methods": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_zero_lambda": [],
+    "statsmodels.base.tests.test_transform.TestTransform.test_naive_back_transformation": [],
+    "statsmodels.base.tests.test_transform.TestTransform": []
+}

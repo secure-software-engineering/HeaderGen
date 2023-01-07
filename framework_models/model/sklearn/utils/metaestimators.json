@@ -1,0 +1,17 @@
+{
+    "sklearn.utils.metaestimators.available_if": [],
+    "sklearn.utils.metaestimators.if_delegate_has_method": [],
+    "sklearn.utils.metaestimators._safe_split": [],
+    "sklearn.utils.metaestimators._BaseComposition.__init__": [],
+    "sklearn.utils.metaestimators._BaseComposition._get_params": [],
+    "sklearn.utils.metaestimators._BaseComposition._set_params": [],
+    "sklearn.utils.metaestimators._BaseComposition._replace_estimator": [],
+    "sklearn.utils.metaestimators._BaseComposition._validate_names": [],
+    "sklearn.utils.metaestimators._AvailableIfDescriptor.__init__": [],
+    "sklearn.utils.metaestimators._AvailableIfDescriptor.__get__": [],
+    "sklearn.utils.metaestimators._IffHasAttrDescriptor.__init__": [],
+    "sklearn.utils.metaestimators._IffHasAttrDescriptor._check": [],
+    "sklearn.utils.metaestimators._BaseComposition": [],
+    "sklearn.utils.metaestimators._AvailableIfDescriptor": [],
+    "sklearn.utils.metaestimators._IffHasAttrDescriptor": []
+}

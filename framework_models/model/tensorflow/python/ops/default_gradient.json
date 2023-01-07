@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.ops.default_gradient.get_zeros_dtype": [],
+    "tensorflow.python.ops.default_gradient.shape_and_dtype": [],
+    "tensorflow.python.ops.default_gradient.zeros_like": [],
+    "tensorflow.python.ops.default_gradient.ones_like": [],
+    "tensorflow.python.ops.default_gradient.supports_default_grad": []
+}

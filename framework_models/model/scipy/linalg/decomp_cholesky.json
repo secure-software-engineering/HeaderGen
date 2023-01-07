@@ -1,0 +1,8 @@
+{
+    "scipy.linalg.decomp_cholesky._cholesky": [],
+    "scipy.linalg.decomp_cholesky.cholesky": [],
+    "scipy.linalg.decomp_cholesky.cho_factor": [],
+    "scipy.linalg.decomp_cholesky.cho_solve": [],
+    "scipy.linalg.decomp_cholesky.cholesky_banded": [],
+    "scipy.linalg.decomp_cholesky.cho_solve_banded": []
+}

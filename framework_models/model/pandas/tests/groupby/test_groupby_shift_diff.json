@@ -1,0 +1,9 @@
+{
+    "pandas.tests.groupby.test_groupby_shift_diff.test_group_shift_with_null_key": [],
+    "pandas.tests.groupby.test_groupby_shift_diff.test_group_shift_with_fill_value": [],
+    "pandas.tests.groupby.test_groupby_shift_diff.test_group_shift_lose_timezone": [],
+    "pandas.tests.groupby.test_groupby_shift_diff.test_group_diff_real": [],
+    "pandas.tests.groupby.test_groupby_shift_diff.test_group_diff_datetimelike": [],
+    "pandas.tests.groupby.test_groupby_shift_diff.test_group_diff_bool": [],
+    "pandas.tests.groupby.test_groupby_shift_diff.test_group_diff_object_raises": []
+}

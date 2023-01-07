@@ -1,0 +1,4 @@
+{
+    "pandas.tests.series.methods.test_combine.TestCombine.test_combine_scalar": [],
+    "pandas.tests.series.methods.test_combine.TestCombine": []
+}

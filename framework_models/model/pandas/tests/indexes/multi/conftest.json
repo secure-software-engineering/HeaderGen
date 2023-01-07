@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.multi.conftest.idx": [],
+    "pandas.tests.indexes.multi.conftest.idx_dup": [],
+    "pandas.tests.indexes.multi.conftest.index_names": [],
+    "pandas.tests.indexes.multi.conftest.narrow_multi_index": [],
+    "pandas.tests.indexes.multi.conftest.wide_multi_index": []
+}

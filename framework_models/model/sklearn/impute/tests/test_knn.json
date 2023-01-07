@@ -1,0 +1,17 @@
+{
+    "sklearn.impute.tests.test_knn.test_knn_imputer_shape": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_default_with_invalid_input": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_removes_all_na_features": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_zero_nan_imputes_the_same": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_verify": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_one_n_neighbors": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_all_samples_are_neighbors": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_weight_uniform": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_weight_distance": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_callable_metric": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_with_simple_example": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_not_enough_valid_distances": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_drops_all_nan_features": [],
+    "sklearn.impute.tests.test_knn.test_knn_imputer_distance_weighted_not_enough_neighbors": [],
+    "sklearn.impute.tests.test_knn.test_knn_tags": []
+}

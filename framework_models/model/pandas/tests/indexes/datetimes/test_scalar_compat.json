@@ -1,0 +1,23 @@
+{
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_dti_time": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_dti_date": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_dti_date_out_of_range": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_dti_timestamp_fields": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_dti_timestamp_isocalendar_fields": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_dti_timestamp_freq_fields": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_round_daily": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_round_invalid": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_round": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_no_rounding_occurs": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_ceil_floor_edge": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_round_int64": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_normalize": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps.test_normalize_nat": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDateTimeIndexToJulianDate.test_1700": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDateTimeIndexToJulianDate.test_2000": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDateTimeIndexToJulianDate.test_hour": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDateTimeIndexToJulianDate.test_minute": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDateTimeIndexToJulianDate.test_second": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDatetimeIndexOps": [],
+    "pandas.tests.indexes.datetimes.test_scalar_compat.TestDateTimeIndexToJulianDate": []
+}

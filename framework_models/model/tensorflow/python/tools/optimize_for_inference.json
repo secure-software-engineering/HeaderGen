@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.tools.optimize_for_inference.main": [],
+    "tensorflow.python.tools.optimize_for_inference._parse_placeholder_types": [],
+    "tensorflow.python.tools.optimize_for_inference.parse_args": []
+}

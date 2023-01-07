@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.gen_script_ops.eager_py_func": [],
+    "tensorflow.python.ops.gen_script_ops.eager_py_func_eager_fallback": [],
+    "tensorflow.python.ops.gen_script_ops.py_func": [],
+    "tensorflow.python.ops.gen_script_ops.py_func_eager_fallback": [],
+    "tensorflow.python.ops.gen_script_ops.py_func_stateless": [],
+    "tensorflow.python.ops.gen_script_ops.py_func_stateless_eager_fallback": []
+}

@@ -1,0 +1,9 @@
+{
+    "statsmodels.distributions.mixture_rvs._make_index": [],
+    "statsmodels.distributions.mixture_rvs.mixture_rvs": [],
+    "statsmodels.distributions.mixture_rvs.mv_mixture_rvs": [],
+    "statsmodels.distributions.mixture_rvs.MixtureDistribution.rvs": [],
+    "statsmodels.distributions.mixture_rvs.MixtureDistribution.pdf": [],
+    "statsmodels.distributions.mixture_rvs.MixtureDistribution.cdf": [],
+    "statsmodels.distributions.mixture_rvs.MixtureDistribution": []
+}

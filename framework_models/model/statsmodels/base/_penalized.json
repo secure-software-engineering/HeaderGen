@@ -1,0 +1,13 @@
+{
+    "statsmodels.base._penalized.PenalizedMixin.__init__": [],
+    "statsmodels.base._penalized.PenalizedMixin._handle_scale": [],
+    "statsmodels.base._penalized.PenalizedMixin.loglike": [],
+    "statsmodels.base._penalized.PenalizedMixin.loglikeobs": [],
+    "statsmodels.base._penalized.PenalizedMixin.score_numdiff": [],
+    "statsmodels.base._penalized.PenalizedMixin.score": [],
+    "statsmodels.base._penalized.PenalizedMixin.score_obs": [],
+    "statsmodels.base._penalized.PenalizedMixin.hessian_numdiff": [],
+    "statsmodels.base._penalized.PenalizedMixin.hessian": [],
+    "statsmodels.base._penalized.PenalizedMixin.fit": [],
+    "statsmodels.base._penalized.PenalizedMixin": []
+}

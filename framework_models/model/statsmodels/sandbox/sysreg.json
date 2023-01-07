@@ -1,0 +1,17 @@
+{
+    "statsmodels.sandbox.sysreg.SUR.__init__": [],
+    "statsmodels.sandbox.sysreg.SUR.initialize": [],
+    "statsmodels.sandbox.sysreg.SUR._update_history": [],
+    "statsmodels.sandbox.sysreg.SUR._compute_sigma": [],
+    "statsmodels.sandbox.sysreg.SUR.whiten": [],
+    "statsmodels.sandbox.sysreg.SUR.fit": [],
+    "statsmodels.sandbox.sysreg.SUR.predict": [],
+    "statsmodels.sandbox.sysreg.Sem2SLS.__init__": [],
+    "statsmodels.sandbox.sysreg.Sem2SLS.whiten": [],
+    "statsmodels.sandbox.sysreg.Sem2SLS.fit": [],
+    "statsmodels.sandbox.sysreg.SysResults.__init__": [],
+    "statsmodels.sandbox.sysreg.SysResults._get_results": [],
+    "statsmodels.sandbox.sysreg.SUR": [],
+    "statsmodels.sandbox.sysreg.Sem2SLS": [],
+    "statsmodels.sandbox.sysreg.SysResults": []
+}

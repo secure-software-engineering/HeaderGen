@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.gen_sdca_ops.sdca_fprint": [],
+    "tensorflow.python.ops.gen_sdca_ops.sdca_fprint_eager_fallback": [],
+    "tensorflow.python.ops.gen_sdca_ops.sdca_optimizer": [],
+    "tensorflow.python.ops.gen_sdca_ops.sdca_optimizer_eager_fallback": [],
+    "tensorflow.python.ops.gen_sdca_ops.sdca_optimizer_v2": [],
+    "tensorflow.python.ops.gen_sdca_ops.sdca_optimizer_v2_eager_fallback": [],
+    "tensorflow.python.ops.gen_sdca_ops.sdca_shrink_l1": [],
+    "tensorflow.python.ops.gen_sdca_ops.sdca_shrink_l1_eager_fallback": []
+}

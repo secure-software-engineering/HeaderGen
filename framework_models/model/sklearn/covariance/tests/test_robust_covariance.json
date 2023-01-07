@@ -1,0 +1,10 @@
+{
+    "sklearn.covariance.tests.test_robust_covariance.test_mcd": [],
+    "sklearn.covariance.tests.test_robust_covariance.test_fast_mcd_on_invalid_input": [],
+    "sklearn.covariance.tests.test_robust_covariance.test_mcd_class_on_invalid_input": [],
+    "sklearn.covariance.tests.test_robust_covariance.launch_mcd_on_dataset": [],
+    "sklearn.covariance.tests.test_robust_covariance.test_mcd_issue1127": [],
+    "sklearn.covariance.tests.test_robust_covariance.test_mcd_issue3367": [],
+    "sklearn.covariance.tests.test_robust_covariance.test_mcd_support_covariance_is_zero": [],
+    "sklearn.covariance.tests.test_robust_covariance.test_mcd_increasing_det_warning": []
+}

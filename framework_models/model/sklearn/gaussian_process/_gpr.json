@@ -1,0 +1,10 @@
+{
+    "sklearn.gaussian_process._gpr.GaussianProcessRegressor.__init__": [],
+    "sklearn.gaussian_process._gpr.GaussianProcessRegressor.fit": [],
+    "sklearn.gaussian_process._gpr.GaussianProcessRegressor.predict": [],
+    "sklearn.gaussian_process._gpr.GaussianProcessRegressor.sample_y": [],
+    "sklearn.gaussian_process._gpr.GaussianProcessRegressor.log_marginal_likelihood": [],
+    "sklearn.gaussian_process._gpr.GaussianProcessRegressor._constrained_optimization": [],
+    "sklearn.gaussian_process._gpr.GaussianProcessRegressor._more_tags": [],
+    "sklearn.gaussian_process._gpr.GaussianProcessRegressor": []
+}

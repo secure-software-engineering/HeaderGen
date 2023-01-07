@@ -1,0 +1,8 @@
+{
+    "sklearn.datasets.tests.test_kddcup99.test_fetch_kddcup99_percent10": [],
+    "sklearn.datasets.tests.test_kddcup99.test_fetch_kddcup99_return_X_y": [],
+    "sklearn.datasets.tests.test_kddcup99.test_fetch_kddcup99_as_frame": [],
+    "sklearn.datasets.tests.test_kddcup99.test_fetch_kddcup99_shuffle": [],
+    "sklearn.datasets.tests.test_kddcup99.test_pandas_dependency_message": [],
+    "sklearn.datasets.tests.test_kddcup99.test_corrupted_file_error_message": []
+}

@@ -1,0 +1,16 @@
+{
+    "pandas.tests.window.test_ewm.test_doc_string": [],
+    "pandas.tests.window.test_ewm.test_constructor": [],
+    "pandas.tests.window.test_ewm.test_numpy_compat": [],
+    "pandas.tests.window.test_ewm.test_ewma_times_not_datetime_type": [],
+    "pandas.tests.window.test_ewm.test_ewma_times_not_same_length": [],
+    "pandas.tests.window.test_ewm.test_ewma_halflife_not_correct_type": [],
+    "pandas.tests.window.test_ewm.test_ewma_halflife_without_times": [],
+    "pandas.tests.window.test_ewm.test_ewma_with_times_equal_spacing": [],
+    "pandas.tests.window.test_ewm.test_ewma_with_times_variable_spacing": [],
+    "pandas.tests.window.test_ewm.test_ewm_with_nat_raises": [],
+    "pandas.tests.window.test_ewm.test_ewm_with_times_getitem": [],
+    "pandas.tests.window.test_ewm.test_ewm_getitem_attributes_retained": [],
+    "pandas.tests.window.test_ewm.test_ewm_vol_deprecated": [],
+    "pandas.tests.window.test_ewm.test_ewma_times_adjust_false_raises": []
+}

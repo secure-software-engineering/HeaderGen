@@ -1,0 +1,20 @@
+{
+    "pandas.core.dtypes.missing.isna": [],
+    "pandas.core.dtypes.missing._isna": [],
+    "pandas.core.dtypes.missing._use_inf_as_na": [],
+    "pandas.core.dtypes.missing._isna_array": [],
+    "pandas.core.dtypes.missing._isna_string_dtype": [],
+    "pandas.core.dtypes.missing.notna": [],
+    "pandas.core.dtypes.missing.isna_compat": [],
+    "pandas.core.dtypes.missing.array_equivalent": [],
+    "pandas.core.dtypes.missing._array_equivalent_float": [],
+    "pandas.core.dtypes.missing._array_equivalent_datetimelike": [],
+    "pandas.core.dtypes.missing._array_equivalent_object": [],
+    "pandas.core.dtypes.missing.array_equals": [],
+    "pandas.core.dtypes.missing.infer_fill_value": [],
+    "pandas.core.dtypes.missing.maybe_fill": [],
+    "pandas.core.dtypes.missing.na_value_for_dtype": [],
+    "pandas.core.dtypes.missing.remove_na_arraylike": [],
+    "pandas.core.dtypes.missing.is_valid_na_for_dtype": [],
+    "pandas.core.dtypes.missing.isna_all": []
+}

@@ -1,0 +1,5 @@
+{
+    "seaborn.tests.test_decorators.test_deprecate_positional_args_warns_for_function": [],
+    "seaborn.tests.test_decorators.test_deprecate_positional_args_warns_for_class": [],
+    "seaborn.tests.test_decorators.test_share_init_params_with_map": []
+}

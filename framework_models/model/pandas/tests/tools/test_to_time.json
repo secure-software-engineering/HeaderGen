@@ -1,0 +1,5 @@
+{
+    "pandas.tests.tools.test_to_time.test_to_time_alias": [],
+    "pandas.tests.tools.test_to_time.TestToTime.test_parsers_time": [],
+    "pandas.tests.tools.test_to_time.TestToTime": []
+}

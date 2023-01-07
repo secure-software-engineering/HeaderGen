@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.tpu.ops.tpu_ops._create_default_group_assignment": [],
+    "tensorflow.python.tpu.ops.tpu_ops.all_to_all": [],
+    "tensorflow.python.tpu.ops.tpu_ops._all_to_all_grad": [],
+    "tensorflow.python.tpu.ops.tpu_ops.cross_replica_sum": [],
+    "tensorflow.python.tpu.ops.tpu_ops.collective_permute": [],
+    "tensorflow.python.tpu.ops.tpu_ops._collective_permute_grad": [],
+    "tensorflow.python.tpu.ops.tpu_ops._cross_replica_sum_grad": [],
+    "tensorflow.python.tpu.ops.tpu_ops._embedding_activations_grad": [],
+    "tensorflow.python.tpu.ops.tpu_ops.infeed_dequeue": [],
+    "tensorflow.python.tpu.ops.tpu_ops.infeed_dequeue_tuple": [],
+    "tensorflow.python.tpu.ops.tpu_ops.send_tpu_embedding_gradients": [],
+    "tensorflow.python.tpu.ops.tpu_ops.enqueue_tpu_embedding_integer_batch": [],
+    "tensorflow.python.tpu.ops.tpu_ops.enqueue_tpu_embedding_sparse_batch": [],
+    "tensorflow.python.tpu.ops.tpu_ops.enqueue_tpu_embedding_sparse_tensor_batch": [],
+    "tensorflow.python.tpu.ops.tpu_ops.enqueue_tpu_embedding_ragged_tensor_batch": []
+}

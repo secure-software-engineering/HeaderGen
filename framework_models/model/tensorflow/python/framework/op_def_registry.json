@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.framework.op_def_registry.get": [],
+    "tensorflow.python.framework.op_def_registry.sync": []
+}

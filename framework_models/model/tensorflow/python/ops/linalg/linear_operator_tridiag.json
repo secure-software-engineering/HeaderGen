@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._assert_self_adjoint": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._construct_adjoint_diagonals": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._solve": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._diag_part": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._to_dense": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag.diagonals": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag.diagonals_format": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_tridiag.LinearOperatorTridiag": []
+}

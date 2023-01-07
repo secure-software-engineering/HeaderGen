@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.training.session_manager._maybe_name": [],
+    "tensorflow.python.training.session_manager._restore_checkpoint_and_maybe_run_saved_model_initializers": [],
+    "tensorflow.python.training.session_manager._ready": [],
+    "tensorflow.python.training.session_manager.SessionManager.__init__": [],
+    "tensorflow.python.training.session_manager.SessionManager._restore_checkpoint": [],
+    "tensorflow.python.training.session_manager.SessionManager.prepare_session": [],
+    "tensorflow.python.training.session_manager.SessionManager.recover_session": [],
+    "tensorflow.python.training.session_manager.SessionManager.wait_for_session": [],
+    "tensorflow.python.training.session_manager.SessionManager._safe_close": [],
+    "tensorflow.python.training.session_manager.SessionManager._model_ready": [],
+    "tensorflow.python.training.session_manager.SessionManager._model_ready_for_local_init": [],
+    "tensorflow.python.training.session_manager.SessionManager._try_run_local_init_op": [],
+    "tensorflow.python.training.session_manager._CountDownTimer.__init__": [],
+    "tensorflow.python.training.session_manager._CountDownTimer.secs_remaining": [],
+    "tensorflow.python.training.session_manager.SessionManager": [],
+    "tensorflow.python.training.session_manager._CountDownTimer": []
+}

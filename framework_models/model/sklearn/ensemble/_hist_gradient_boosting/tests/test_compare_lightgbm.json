@@ -1,0 +1,5 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_compare_lightgbm.test_same_predictions_regression": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_compare_lightgbm.test_same_predictions_classification": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_compare_lightgbm.test_same_predictions_multiclass_classification": []
+}

@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.distribute.tpu_util.enclosing_tpu_context": [],
+    "tensorflow.python.distribute.tpu_util.enclosing_tpu_context_and_graph": [],
+    "tensorflow.python.distribute.tpu_util.outside_or_skip_tpu_context": []
+}

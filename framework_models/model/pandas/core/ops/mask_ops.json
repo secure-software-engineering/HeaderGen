@@ -1,0 +1,6 @@
+{
+    "pandas.core.ops.mask_ops.kleene_or": [],
+    "pandas.core.ops.mask_ops.kleene_xor": [],
+    "pandas.core.ops.mask_ops.kleene_and": [],
+    "pandas.core.ops.mask_ops.raise_for_nan": []
+}

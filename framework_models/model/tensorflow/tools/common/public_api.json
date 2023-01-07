@@ -1,0 +1,10 @@
+{
+    "tensorflow.tools.common.public_api.PublicAPIVisitor.__init__": [],
+    "tensorflow.tools.common.public_api.PublicAPIVisitor.private_map": [],
+    "tensorflow.tools.common.public_api.PublicAPIVisitor.do_not_descend_map": [],
+    "tensorflow.tools.common.public_api.PublicAPIVisitor.set_root_name": [],
+    "tensorflow.tools.common.public_api.PublicAPIVisitor._is_private": [],
+    "tensorflow.tools.common.public_api.PublicAPIVisitor._do_not_descend": [],
+    "tensorflow.tools.common.public_api.PublicAPIVisitor.__call__": [],
+    "tensorflow.tools.common.public_api.PublicAPIVisitor": []
+}

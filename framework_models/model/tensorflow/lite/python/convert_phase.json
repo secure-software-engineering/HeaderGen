@@ -1,0 +1,12 @@
+{
+    "tensorflow.lite.python.convert_phase.convert_phase": [],
+    "tensorflow.lite.python.convert_phase.SubComponent.__str__": [],
+    "tensorflow.lite.python.convert_phase.SubComponent.name": [],
+    "tensorflow.lite.python.convert_phase.SubComponent.component": [],
+    "tensorflow.lite.python.convert_phase.ConverterError.__init__": [],
+    "tensorflow.lite.python.convert_phase.ConverterError.append_error": [],
+    "tensorflow.lite.python.convert_phase.ConverterError._parse_error_message": [],
+    "tensorflow.lite.python.convert_phase.Component": [],
+    "tensorflow.lite.python.convert_phase.SubComponent": [],
+    "tensorflow.lite.python.convert_phase.ConverterError": []
+}

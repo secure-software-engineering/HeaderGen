@@ -1,0 +1,3 @@
+{
+    "tensorflow.python.keras.datasets.mnist.load_data": []
+}

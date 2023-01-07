@@ -1,0 +1,6 @@
+{
+    "statsmodels.tsa.arima.estimators.hannan_rissanen.hannan_rissanen": [],
+    "statsmodels.tsa.arima.estimators.hannan_rissanen._validate_fixed_params": [],
+    "statsmodels.tsa.arima.estimators.hannan_rissanen._package_fixed_and_free_params_info": [],
+    "statsmodels.tsa.arima.estimators.hannan_rissanen._stitch_fixed_and_free_params": []
+}

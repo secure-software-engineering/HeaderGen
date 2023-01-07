@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.distribute.coordinator.coordinator_context.get_current_dispatch_context": [],
+    "tensorflow.python.distribute.coordinator.coordinator_context.with_dispatch_context": [],
+    "tensorflow.python.distribute.coordinator.coordinator_context.DispatchContext.__init__": [],
+    "tensorflow.python.distribute.coordinator.coordinator_context.DispatchContext.worker": [],
+    "tensorflow.python.distribute.coordinator.coordinator_context.DispatchContext.worker_index": [],
+    "tensorflow.python.distribute.coordinator.coordinator_context.DispatchContext.maybe_rebuild_remote_values": [],
+    "tensorflow.python.distribute.coordinator.coordinator_context.DispatchContext.maybe_get_remote_value": [],
+    "tensorflow.python.distribute.coordinator.coordinator_context.DispatchContext": []
+}

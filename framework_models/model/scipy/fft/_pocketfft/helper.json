@@ -1,0 +1,12 @@
+{
+    "scipy.fft._pocketfft.helper._iterable_of_int": [],
+    "scipy.fft._pocketfft.helper._init_nd_shape_and_axes": [],
+    "scipy.fft._pocketfft.helper._asfarray": [],
+    "scipy.fft._pocketfft.helper._datacopied": [],
+    "scipy.fft._pocketfft.helper._fix_shape": [],
+    "scipy.fft._pocketfft.helper._fix_shape_1d": [],
+    "scipy.fft._pocketfft.helper._normalization": [],
+    "scipy.fft._pocketfft.helper._workers": [],
+    "scipy.fft._pocketfft.helper.set_workers": [],
+    "scipy.fft._pocketfft.helper.get_workers": []
+}

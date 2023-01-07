@@ -1,0 +1,11 @@
+{
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot.setup_class": [],
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot.test_plot_both": [],
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot.test_plot_rainbow": [],
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot.test_plot_pandas": [],
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot.test_formatting": [],
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot.test_formatting_errors": [],
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot.test_plottype": [],
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot.test_recode_series": [],
+    "statsmodels.graphics.tests.test_factorplots.TestInteractionPlot": []
+}

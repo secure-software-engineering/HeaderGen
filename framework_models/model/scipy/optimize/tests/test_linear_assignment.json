@@ -1,0 +1,7 @@
+{
+    "scipy.optimize.tests.test_linear_assignment.test_linear_sum_assignment_input_validation": [],
+    "scipy.optimize.tests.test_linear_assignment.test_constant_cost_matrix": [],
+    "scipy.optimize.tests.test_linear_assignment.test_linear_sum_assignment_trivial_cost": [],
+    "scipy.optimize.tests.test_linear_assignment.test_linear_sum_assignment_small_inputs": [],
+    "scipy.optimize.tests.test_linear_assignment.test_two_methods_give_same_result_on_many_sparse_inputs": []
+}

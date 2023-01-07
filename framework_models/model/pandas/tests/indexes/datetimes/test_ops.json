@@ -1,0 +1,18 @@
+{
+    "pandas.tests.indexes.datetimes.test_ops.TestDatetimeIndexOps.test_ops_properties_basic": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestDatetimeIndexOps.test_resolution": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestDatetimeIndexOps.test_infer_freq": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestDatetimeIndexOps.test_freq_setter": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestDatetimeIndexOps.test_freq_setter_errors": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestDatetimeIndexOps.test_freq_view_safe": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestBusinessDatetimeIndex.setup_method": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestBusinessDatetimeIndex.test_comparison": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestBusinessDatetimeIndex.test_copy": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestBusinessDatetimeIndex.test_identical": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestCustomDatetimeIndex.setup_method": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestCustomDatetimeIndex.test_comparison": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestCustomDatetimeIndex.test_copy": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestDatetimeIndexOps": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestBusinessDatetimeIndex": [],
+    "pandas.tests.indexes.datetimes.test_ops.TestCustomDatetimeIndex": []
+}

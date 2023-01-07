@@ -1,0 +1,18 @@
+{
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_bool_in_mixed_frame": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_empty_object": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_bool_frame": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_categorical": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_empty_categorical_column": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_categorical_columns": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_datetime_columns": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_timedelta_values": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_tz_values": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_datetime_is_numeric_includes_datetime": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_tz_values2": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_percentiles_integer_idx": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_does_not_raise_error_for_dictlike_elements": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_when_include_all_exclude_not_allowed": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe.test_describe_with_duplicate_columns": [],
+    "pandas.tests.frame.methods.test_describe.TestDataFrameDescribe": []
+}

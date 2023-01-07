@@ -1,0 +1,11 @@
+{
+    "sklearn.feature_selection.tests.test_base.test_transform_dense": [],
+    "sklearn.feature_selection.tests.test_base.test_transform_sparse": [],
+    "sklearn.feature_selection.tests.test_base.test_inverse_transform_dense": [],
+    "sklearn.feature_selection.tests.test_base.test_inverse_transform_sparse": [],
+    "sklearn.feature_selection.tests.test_base.test_get_support": [],
+    "sklearn.feature_selection.tests.test_base.StepSelector.__init__": [],
+    "sklearn.feature_selection.tests.test_base.StepSelector.fit": [],
+    "sklearn.feature_selection.tests.test_base.StepSelector._get_support_mask": [],
+    "sklearn.feature_selection.tests.test_base.StepSelector": []
+}

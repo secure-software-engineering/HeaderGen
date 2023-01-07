@@ -1,0 +1,23 @@
+{
+    "scipy.sparse.sputils.upcast": [],
+    "scipy.sparse.sputils.upcast_char": [],
+    "scipy.sparse.sputils.upcast_scalar": [],
+    "scipy.sparse.sputils.downcast_intp_index": [],
+    "scipy.sparse.sputils.to_native": [],
+    "scipy.sparse.sputils.getdtype": [],
+    "scipy.sparse.sputils.getdata": [],
+    "scipy.sparse.sputils.get_index_dtype": [],
+    "scipy.sparse.sputils.get_sum_dtype": [],
+    "scipy.sparse.sputils.isscalarlike": [],
+    "scipy.sparse.sputils.isintlike": [],
+    "scipy.sparse.sputils.isshape": [],
+    "scipy.sparse.sputils.issequence": [],
+    "scipy.sparse.sputils.ismatrix": [],
+    "scipy.sparse.sputils.isdense": [],
+    "scipy.sparse.sputils.validateaxis": [],
+    "scipy.sparse.sputils.check_shape": [],
+    "scipy.sparse.sputils.check_reshape_kwargs": [],
+    "scipy.sparse.sputils.is_pydata_spmatrix": [],
+    "scipy.sparse.sputils.matrix": [],
+    "scipy.sparse.sputils.asmatrix": []
+}

@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.keras.layers.preprocessing.string_lookup.StringLookup.__init__": [],
+    "tensorflow.python.keras.layers.preprocessing.string_lookup.StringLookup.get_config": [],
+    "tensorflow.python.keras.layers.preprocessing.string_lookup.StringLookup.set_vocabulary": [],
+    "tensorflow.python.keras.layers.preprocessing.string_lookup.StringLookup._tensor_vocab_to_numpy": [],
+    "tensorflow.python.keras.layers.preprocessing.string_lookup.StringLookup": []
+}

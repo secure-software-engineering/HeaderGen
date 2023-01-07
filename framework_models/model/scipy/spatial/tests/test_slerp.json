@@ -1,0 +1,23 @@
+{
+    "scipy.spatial.tests.test_slerp._generate_spherical_points": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_shape_property": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_include_ends": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_input_shape_flat": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_input_dim_mismatch": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_input_at_least1d": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_handle_antipodes": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_straightforward_examples": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_t_values_limits": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_0_sphere_handling": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_tol_type": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_tol_sign": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_unit_sphere_enforcement": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_order_handling": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_t_values_conversion": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_accept_arraylike": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_scalar_t": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_degenerate_input": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_numerical_stability_pi": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp.test_interpolation_param_ndim": [],
+    "scipy.spatial.tests.test_slerp.TestGeometricSlerp": []
+}

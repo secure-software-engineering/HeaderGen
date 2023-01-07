@@ -1,0 +1,19 @@
+{
+    "pandas.errors.AbstractMethodError.__init__": [],
+    "pandas.errors.AbstractMethodError.__str__": [],
+    "pandas.errors.IntCastingNaNError": [],
+    "pandas.errors.NullFrequencyError": [],
+    "pandas.errors.PerformanceWarning": [],
+    "pandas.errors.UnsupportedFunctionCall": [],
+    "pandas.errors.UnsortedIndexError": [],
+    "pandas.errors.ParserError": [],
+    "pandas.errors.DtypeWarning": [],
+    "pandas.errors.EmptyDataError": [],
+    "pandas.errors.ParserWarning": [],
+    "pandas.errors.MergeError": [],
+    "pandas.errors.AccessorRegistrationWarning": [],
+    "pandas.errors.AbstractMethodError": [],
+    "pandas.errors.NumbaUtilError": [],
+    "pandas.errors.DuplicateLabelError": [],
+    "pandas.errors.InvalidIndexError": []
+}

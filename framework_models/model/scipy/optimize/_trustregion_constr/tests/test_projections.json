@@ -1,0 +1,14 @@
+{
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections.test_nullspace_and_least_squares_sparse": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections.test_iterative_refinements_sparse": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections.test_rowspace_sparse": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections.test_nullspace_and_least_squares_dense": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections.test_compare_dense_and_sparse": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections.test_compare_dense_and_sparse2": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections.test_iterative_refinements_dense": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections.test_rowspace_dense": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestOrthogonality.test_dense_matrix": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestOrthogonality.test_sparse_matrix": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestProjections": [],
+    "scipy.optimize._trustregion_constr.tests.test_projections.TestOrthogonality": []
+}

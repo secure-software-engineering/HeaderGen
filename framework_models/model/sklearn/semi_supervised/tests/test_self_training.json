@@ -1,0 +1,21 @@
+{
+    "sklearn.semi_supervised.tests.test_self_training.test_missing_predict_proba": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_none_classifier": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_invalid_params": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_invalid_params_selection_crit": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_warns_k_best": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_classification": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_k_best": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_sanity_classification": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_none_iter": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_zero_iterations": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_prefitted_throws_error": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_labeled_iter": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_no_unlabeled": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_early_stopping": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_strings_dtype": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_verbose": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_verbose_k_best": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_k_best_selects_best": [],
+    "sklearn.semi_supervised.tests.test_self_training.test_base_estimator_meta_estimator": []
+}

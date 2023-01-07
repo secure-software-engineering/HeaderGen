@@ -1,0 +1,14 @@
+{
+    "pandas.tests.generic.test_frame.TestDataFrame.test_set_axis_name": [],
+    "pandas.tests.generic.test_frame.TestDataFrame.test_set_axis_name_mi": [],
+    "pandas.tests.generic.test_frame.TestDataFrame.test_nonzero_single_element": [],
+    "pandas.tests.generic.test_frame.TestDataFrame.test_metadata_propagation_indiv_groupby": [],
+    "pandas.tests.generic.test_frame.TestDataFrame.test_metadata_propagation_indiv_resample": [],
+    "pandas.tests.generic.test_frame.TestDataFrame.test_metadata_propagation_indiv": [],
+    "pandas.tests.generic.test_frame.TestDataFrame.test_set_attribute": [],
+    "pandas.tests.generic.test_frame.TestDataFrame.test_deepcopy_empty": [],
+    "pandas.tests.generic.test_frame.TestDataFrame2.test_validate_bool_args": [],
+    "pandas.tests.generic.test_frame.TestDataFrame2.test_unexpected_keyword": [],
+    "pandas.tests.generic.test_frame.TestDataFrame": [],
+    "pandas.tests.generic.test_frame.TestDataFrame2": []
+}

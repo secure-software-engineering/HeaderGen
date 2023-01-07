@@ -1,0 +1,12 @@
+{
+    "pandas.tests.io.pytables.test_file_handling.test_mode": [],
+    "pandas.tests.io.pytables.test_file_handling.test_reopen_handle": [],
+    "pandas.tests.io.pytables.test_file_handling.test_open_args": [],
+    "pandas.tests.io.pytables.test_file_handling.test_flush": [],
+    "pandas.tests.io.pytables.test_file_handling.test_complibs_default_settings": [],
+    "pandas.tests.io.pytables.test_file_handling.test_complibs": [],
+    "pandas.tests.io.pytables.test_file_handling.test_encoding": [],
+    "pandas.tests.io.pytables.test_file_handling.test_latin_encoding": [],
+    "pandas.tests.io.pytables.test_file_handling.test_multiple_open_close": [],
+    "pandas.tests.io.pytables.test_file_handling.test_fspath": []
+}

@@ -1,0 +1,4 @@
+{
+    "scipy.special.tests.test_pcf.test_pbwa_segfault": [],
+    "scipy.special.tests.test_pcf.test_pbwa_nan": []
+}

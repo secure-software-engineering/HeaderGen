@@ -1,0 +1,6 @@
+{
+    "sklearn.datasets._species_distributions._load_coverage": [],
+    "sklearn.datasets._species_distributions._load_csv": [],
+    "sklearn.datasets._species_distributions.construct_grids": [],
+    "sklearn.datasets._species_distributions.fetch_species_distributions": []
+}

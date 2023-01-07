@@ -1,0 +1,4 @@
+{
+    "statsmodels.base.covtype.normalize_cov_type": [],
+    "statsmodels.base.covtype.get_robustcov_results": []
+}

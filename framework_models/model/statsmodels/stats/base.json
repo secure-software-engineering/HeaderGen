@@ -1,0 +1,14 @@
+{
+    "statsmodels.stats.base.HolderTuple.__init__": [],
+    "statsmodels.stats.base.HolderTuple.__iter__": [],
+    "statsmodels.stats.base.HolderTuple.__getitem__": [],
+    "statsmodels.stats.base.HolderTuple.__len__": [],
+    "statsmodels.stats.base.HolderTuple.__array__": [],
+    "statsmodels.stats.base.AllPairsResults.__init__": [],
+    "statsmodels.stats.base.AllPairsResults.pval_corrected": [],
+    "statsmodels.stats.base.AllPairsResults.__str__": [],
+    "statsmodels.stats.base.AllPairsResults.pval_table": [],
+    "statsmodels.stats.base.AllPairsResults.summary": [],
+    "statsmodels.stats.base.HolderTuple": [],
+    "statsmodels.stats.base.AllPairsResults": []
+}

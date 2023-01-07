@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.applications.vgg16.VGG16": [],
+    "tensorflow.python.keras.applications.vgg16.preprocess_input": [],
+    "tensorflow.python.keras.applications.vgg16.decode_predictions": []
+}

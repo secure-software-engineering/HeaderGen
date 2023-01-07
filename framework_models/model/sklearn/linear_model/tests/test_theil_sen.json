@@ -1,0 +1,23 @@
+{
+    "sklearn.linear_model.tests.test_theil_sen.no_stdout_stderr": [],
+    "sklearn.linear_model.tests.test_theil_sen.gen_toy_problem_1d": [],
+    "sklearn.linear_model.tests.test_theil_sen.gen_toy_problem_2d": [],
+    "sklearn.linear_model.tests.test_theil_sen.gen_toy_problem_4d": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_modweiszfeld_step_1d": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_modweiszfeld_step_2d": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_spatial_median_1d": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_spatial_median_2d": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_theil_sen_1d": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_theil_sen_1d_no_intercept": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_theil_sen_2d": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_calc_breakdown_point": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_checksubparams_negative_subpopulation": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_checksubparams_too_few_subsamples": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_checksubparams_too_many_subsamples": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_checksubparams_n_subsamples_if_less_samples_than_features": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_subpopulation": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_subsamples": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_verbosity": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_theil_sen_parallel": [],
+    "sklearn.linear_model.tests.test_theil_sen.test_less_samples_than_features": []
+}

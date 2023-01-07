@@ -1,0 +1,4 @@
+{
+    "pandas.tests.series.methods.test_nunique.test_nunique": [],
+    "pandas.tests.series.methods.test_nunique.test_nunique_categorical": []
+}

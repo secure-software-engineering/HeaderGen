@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.training.session_run_hook.SessionRunHook.begin": [],
+    "tensorflow.python.training.session_run_hook.SessionRunHook.after_create_session": [],
+    "tensorflow.python.training.session_run_hook.SessionRunHook.before_run": [],
+    "tensorflow.python.training.session_run_hook.SessionRunHook.after_run": [],
+    "tensorflow.python.training.session_run_hook.SessionRunHook.end": [],
+    "tensorflow.python.training.session_run_hook.SessionRunArgs.__new__": [],
+    "tensorflow.python.training.session_run_hook.SessionRunContext.__init__": [],
+    "tensorflow.python.training.session_run_hook.SessionRunContext.original_args": [],
+    "tensorflow.python.training.session_run_hook.SessionRunContext.session": [],
+    "tensorflow.python.training.session_run_hook.SessionRunContext.stop_requested": [],
+    "tensorflow.python.training.session_run_hook.SessionRunContext.request_stop": [],
+    "tensorflow.python.training.session_run_hook.SessionRunHook": [],
+    "tensorflow.python.training.session_run_hook.SessionRunArgs": [],
+    "tensorflow.python.training.session_run_hook.SessionRunContext": [],
+    "tensorflow.python.training.session_run_hook.SessionRunValues": []
+}

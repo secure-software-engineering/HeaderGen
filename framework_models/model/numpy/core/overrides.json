@@ -1,0 +1,7 @@
+{
+    "numpy.core.overrides.set_array_function_like_doc": [],
+    "numpy.core.overrides.verify_matching_signatures": [],
+    "numpy.core.overrides.set_module": [],
+    "numpy.core.overrides.array_function_dispatch": [],
+    "numpy.core.overrides.array_function_from_dispatcher": []
+}

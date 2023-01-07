@@ -1,0 +1,9 @@
+{
+    "numpy.core.tests.test_cython.install_temp": [],
+    "numpy.core.tests.test_cython.test_is_timedelta64_object": [],
+    "numpy.core.tests.test_cython.test_is_datetime64_object": [],
+    "numpy.core.tests.test_cython.test_get_datetime64_value": [],
+    "numpy.core.tests.test_cython.test_get_timedelta64_value": [],
+    "numpy.core.tests.test_cython.test_get_datetime64_unit": [],
+    "numpy.core.tests.test_cython.test_abstract_scalars": []
+}

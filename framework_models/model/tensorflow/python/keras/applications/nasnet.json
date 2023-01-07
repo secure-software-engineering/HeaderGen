@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.keras.applications.nasnet.NASNet": [],
+    "tensorflow.python.keras.applications.nasnet.NASNetMobile": [],
+    "tensorflow.python.keras.applications.nasnet.NASNetLarge": [],
+    "tensorflow.python.keras.applications.nasnet._separable_conv_block": [],
+    "tensorflow.python.keras.applications.nasnet._adjust_block": [],
+    "tensorflow.python.keras.applications.nasnet._normal_a_cell": [],
+    "tensorflow.python.keras.applications.nasnet._reduction_a_cell": [],
+    "tensorflow.python.keras.applications.nasnet.preprocess_input": [],
+    "tensorflow.python.keras.applications.nasnet.decode_predictions": []
+}

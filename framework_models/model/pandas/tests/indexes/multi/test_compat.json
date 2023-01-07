@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.multi.test_compat.test_numeric_compat": [],
+    "pandas.tests.indexes.multi.test_compat.test_logical_compat": [],
+    "pandas.tests.indexes.multi.test_compat.test_inplace_mutation_resets_values": [],
+    "pandas.tests.indexes.multi.test_compat.test_pickle_compat_construction": []
+}

@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.categorical.test_reindex.TestReindex.test_reindex_dtype": [],
+    "pandas.tests.indexes.categorical.test_reindex.TestReindex.test_reindex_duplicate_target": [],
+    "pandas.tests.indexes.categorical.test_reindex.TestReindex.test_reindex_empty_index": [],
+    "pandas.tests.indexes.categorical.test_reindex.TestReindex.test_reindex_missing_category": [],
+    "pandas.tests.indexes.categorical.test_reindex.TestReindex.test_reindex_not_category": [],
+    "pandas.tests.indexes.categorical.test_reindex.TestReindex": []
+}

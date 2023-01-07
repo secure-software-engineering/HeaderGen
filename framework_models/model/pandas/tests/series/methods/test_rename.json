@@ -1,0 +1,12 @@
+{
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename": [],
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename_by_series": [],
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename_set_name": [],
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename_set_name_inplace": [],
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename_axis_supported": [],
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename_inplace": [],
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename_with_custom_indexer": [],
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename_with_custom_indexer_inplace": [],
+    "pandas.tests.series.methods.test_rename.TestRename.test_rename_callable": [],
+    "pandas.tests.series.methods.test_rename.TestRename": []
+}

@@ -1,0 +1,8 @@
+{
+    "statsmodels.base.transform.BoxCox.transform_boxcox": [],
+    "statsmodels.base.transform.BoxCox.untransform_boxcox": [],
+    "statsmodels.base.transform.BoxCox._est_lambda": [],
+    "statsmodels.base.transform.BoxCox._guerrero_cv": [],
+    "statsmodels.base.transform.BoxCox._loglik_boxcox": [],
+    "statsmodels.base.transform.BoxCox": []
+}

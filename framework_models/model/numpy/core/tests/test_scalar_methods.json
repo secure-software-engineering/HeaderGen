@@ -1,0 +1,8 @@
+{
+    "numpy.core.tests.test_scalar_methods.TestAsIntegerRatio.test_small": [],
+    "numpy.core.tests.test_scalar_methods.TestAsIntegerRatio.test_simple_fractions": [],
+    "numpy.core.tests.test_scalar_methods.TestAsIntegerRatio.test_errors": [],
+    "numpy.core.tests.test_scalar_methods.TestAsIntegerRatio.test_against_known_values": [],
+    "numpy.core.tests.test_scalar_methods.TestAsIntegerRatio.test_roundtrip": [],
+    "numpy.core.tests.test_scalar_methods.TestAsIntegerRatio": []
+}

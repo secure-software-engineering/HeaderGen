@@ -1,0 +1,11 @@
+{
+    "pandas.tests.io.pytables.test_complex.test_complex_fixed": [],
+    "pandas.tests.io.pytables.test_complex.test_complex_table": [],
+    "pandas.tests.io.pytables.test_complex.test_complex_mixed_fixed": [],
+    "pandas.tests.io.pytables.test_complex.test_complex_mixed_table": [],
+    "pandas.tests.io.pytables.test_complex.test_complex_across_dimensions_fixed": [],
+    "pandas.tests.io.pytables.test_complex.test_complex_across_dimensions": [],
+    "pandas.tests.io.pytables.test_complex.test_complex_indexing_error": [],
+    "pandas.tests.io.pytables.test_complex.test_complex_series_error": [],
+    "pandas.tests.io.pytables.test_complex.test_complex_append": []
+}

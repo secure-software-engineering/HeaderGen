@@ -1,0 +1,16 @@
+{
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_empty": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_dict": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_with_string_scalar": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_df": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_tuples": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_df_dupe_values": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_dupe_self": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_against_series": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_multiIndex": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_empty_datetimelike": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_category_frame": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn.test_isin_read_only": [],
+    "pandas.tests.frame.methods.test_isin.TestDataFrameIsIn": []
+}

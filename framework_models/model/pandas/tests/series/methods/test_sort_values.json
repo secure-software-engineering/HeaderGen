@@ -1,0 +1,11 @@
+{
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortValues.test_sort_values": [],
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortValues.test_sort_values_categorical": [],
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortValues.test_sort_values_ignore_index": [],
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortValues.test_sort_values_pos_args_deprecation": [],
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortValues.test_mergesort_decending_stability": [],
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortingKey.test_sort_values_key": [],
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortingKey.test_sort_values_key_nan": [],
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortValues": [],
+    "pandas.tests.series.methods.test_sort_values.TestSeriesSortingKey": []
+}

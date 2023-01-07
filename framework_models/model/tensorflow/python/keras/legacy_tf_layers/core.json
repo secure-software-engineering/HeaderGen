@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.keras.legacy_tf_layers.core.dense": [],
+    "tensorflow.python.keras.legacy_tf_layers.core.dropout": [],
+    "tensorflow.python.keras.legacy_tf_layers.core.flatten": [],
+    "tensorflow.python.keras.legacy_tf_layers.core.Dense.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.core.Dropout.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.core.Dropout.call": [],
+    "tensorflow.python.keras.legacy_tf_layers.core.Dense": [],
+    "tensorflow.python.keras.legacy_tf_layers.core.Dropout": [],
+    "tensorflow.python.keras.legacy_tf_layers.core.Flatten": []
+}

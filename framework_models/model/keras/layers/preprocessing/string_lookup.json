@@ -1,0 +1,7 @@
+{
+    "keras.layers.preprocessing.string_lookup.StringLookup.__init__": [],
+    "keras.layers.preprocessing.string_lookup.StringLookup.get_config": [],
+    "keras.layers.preprocessing.string_lookup.StringLookup.set_vocabulary": [],
+    "keras.layers.preprocessing.string_lookup.StringLookup._tensor_vocab_to_numpy": [],
+    "keras.layers.preprocessing.string_lookup.StringLookup": []
+}

@@ -1,0 +1,9 @@
+{
+    "matplotlib.tests.test_afm.test_nonascii_str": [],
+    "matplotlib.tests.test_afm.test_parse_header": [],
+    "matplotlib.tests.test_afm.test_parse_char_metrics": [],
+    "matplotlib.tests.test_afm.test_get_familyname_guessed": [],
+    "matplotlib.tests.test_afm.test_font_manager_weight_normalization": [],
+    "matplotlib.tests.test_afm.test_bad_afm": [],
+    "matplotlib.tests.test_afm.test_malformed_header": []
+}

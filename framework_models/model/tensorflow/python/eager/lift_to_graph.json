@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.eager.lift_to_graph._as_operation": [],
+    "tensorflow.python.eager.lift_to_graph._constant_inputs": [],
+    "tensorflow.python.eager.lift_to_graph._copy_non_source": [],
+    "tensorflow.python.eager.lift_to_graph._copy_source": [],
+    "tensorflow.python.eager.lift_to_graph.lift_to_graph": []
+}

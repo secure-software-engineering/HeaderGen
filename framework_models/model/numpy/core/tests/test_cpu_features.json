@@ -1,0 +1,16 @@
+{
+    "numpy.core.tests.test_cpu_features.assert_features_equal": [],
+    "numpy.core.tests.test_cpu_features.AbstractTest.load_flags": [],
+    "numpy.core.tests.test_cpu_features.AbstractTest.test_features": [],
+    "numpy.core.tests.test_cpu_features.AbstractTest.cpu_have": [],
+    "numpy.core.tests.test_cpu_features.AbstractTest.load_flags_cpuinfo": [],
+    "numpy.core.tests.test_cpu_features.AbstractTest.get_cpuinfo_item": [],
+    "numpy.core.tests.test_cpu_features.AbstractTest.load_flags_auxv": [],
+    "numpy.core.tests.test_cpu_features.Test_X86_Features.load_flags": [],
+    "numpy.core.tests.test_cpu_features.Test_POWER_Features.load_flags": [],
+    "numpy.core.tests.test_cpu_features.Test_ARM_Features.load_flags": [],
+    "numpy.core.tests.test_cpu_features.AbstractTest": [],
+    "numpy.core.tests.test_cpu_features.Test_X86_Features": [],
+    "numpy.core.tests.test_cpu_features.Test_POWER_Features": [],
+    "numpy.core.tests.test_cpu_features.Test_ARM_Features": []
+}

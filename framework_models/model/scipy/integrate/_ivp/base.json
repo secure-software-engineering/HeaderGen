@@ -1,0 +1,17 @@
+{
+    "scipy.integrate._ivp.base.check_arguments": [],
+    "scipy.integrate._ivp.base.OdeSolver.__init__": [],
+    "scipy.integrate._ivp.base.OdeSolver.step_size": [],
+    "scipy.integrate._ivp.base.OdeSolver.step": [],
+    "scipy.integrate._ivp.base.OdeSolver.dense_output": [],
+    "scipy.integrate._ivp.base.OdeSolver._step_impl": [],
+    "scipy.integrate._ivp.base.OdeSolver._dense_output_impl": [],
+    "scipy.integrate._ivp.base.DenseOutput.__init__": [],
+    "scipy.integrate._ivp.base.DenseOutput.__call__": [],
+    "scipy.integrate._ivp.base.DenseOutput._call_impl": [],
+    "scipy.integrate._ivp.base.ConstantDenseOutput.__init__": [],
+    "scipy.integrate._ivp.base.ConstantDenseOutput._call_impl": [],
+    "scipy.integrate._ivp.base.OdeSolver": [],
+    "scipy.integrate._ivp.base.DenseOutput": [],
+    "scipy.integrate._ivp.base.ConstantDenseOutput": []
+}

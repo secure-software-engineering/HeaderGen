@@ -1,0 +1,17 @@
+{
+    "pandas.tests.indexes.interval.test_interval_tree.skipif_32bit": [],
+    "pandas.tests.indexes.interval.test_interval_tree.dtype": [],
+    "pandas.tests.indexes.interval.test_interval_tree.leaf_size": [],
+    "pandas.tests.indexes.interval.test_interval_tree.tree": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_get_indexer": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_get_indexer_overflow": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_get_indexer_non_unique": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_get_indexer_non_unique_overflow": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_duplicates": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_get_indexer_closed": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_is_overlapping": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_is_overlapping_endpoints": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_is_overlapping_trivial": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree.test_construction_overflow": [],
+    "pandas.tests.indexes.interval.test_interval_tree.TestIntervalTree": []
+}

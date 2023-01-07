@@ -1,0 +1,29 @@
+{
+    "1": [
+        "Library Loading",
+        "Data Loading",
+        "Data Cleaning Filtering",
+        "Data Sub-sampling and Train-test Splitting",
+        "Feature Selection",
+        "Feature Transformation"
+    ],
+    "2": [
+        "Library Loading",
+        "Data Cleaning Filtering",
+        "Feature Transformation"
+    ],
+    "3": [
+        "Data Sub-sampling and Train-test Splitting",
+        "Feature Transformation"
+    ],
+    "4": [
+        "Model Building and Training",
+        "Model Training"
+    ],
+    "5": [
+        "Model Validation and Assembling"
+    ],
+    "6": [
+        "Data Loading"
+    ]
+}

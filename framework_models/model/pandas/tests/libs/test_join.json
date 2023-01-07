@@ -1,0 +1,15 @@
+{
+    "pandas.tests.libs.test_join.test_left_join_indexer_unique": [],
+    "pandas.tests.libs.test_join.test_left_outer_join_bug": [],
+    "pandas.tests.libs.test_join.test_inner_join_indexer": [],
+    "pandas.tests.libs.test_join.test_outer_join_indexer": [],
+    "pandas.tests.libs.test_join.test_left_join_indexer": [],
+    "pandas.tests.libs.test_join.test_left_join_indexer2": [],
+    "pandas.tests.libs.test_join.test_outer_join_indexer2": [],
+    "pandas.tests.libs.test_join.test_inner_join_indexer2": [],
+    "pandas.tests.libs.test_join.TestIndexer.test_outer_join_indexer": [],
+    "pandas.tests.libs.test_join.TestIndexer.test_cython_left_outer_join": [],
+    "pandas.tests.libs.test_join.TestIndexer.test_cython_right_outer_join": [],
+    "pandas.tests.libs.test_join.TestIndexer.test_cython_inner_join": [],
+    "pandas.tests.libs.test_join.TestIndexer": []
+}

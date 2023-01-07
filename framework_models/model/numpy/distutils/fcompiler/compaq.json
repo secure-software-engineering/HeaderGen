@@ -1,0 +1,13 @@
+{
+    "numpy.distutils.fcompiler.compaq.CompaqFCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.compaq.CompaqFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.compaq.CompaqFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.compaq.CompaqFCompiler.get_flags_arch": [],
+    "numpy.distutils.fcompiler.compaq.CompaqFCompiler.get_flags_linker_so": [],
+    "numpy.distutils.fcompiler.compaq.CompaqVisualFCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.compaq.CompaqVisualFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.compaq.CompaqVisualFCompiler.get_flags_arch": [],
+    "numpy.distutils.fcompiler.compaq.CompaqVisualFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.compaq.CompaqFCompiler": [],
+    "numpy.distutils.fcompiler.compaq.CompaqVisualFCompiler": []
+}

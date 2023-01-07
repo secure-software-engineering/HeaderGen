@@ -1,0 +1,4 @@
+{
+    "pandas.tests.indexing.test_na_indexing.test_series_mask_boolean": [],
+    "pandas.tests.indexing.test_na_indexing.test_na_treated_as_false": []
+}

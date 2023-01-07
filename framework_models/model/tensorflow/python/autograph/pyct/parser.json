@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.autograph.pyct.parser._unfold_continuations": [],
+    "tensorflow.python.autograph.pyct.parser.dedent_block": [],
+    "tensorflow.python.autograph.pyct.parser.parse_entity": [],
+    "tensorflow.python.autograph.pyct.parser._without_context": [],
+    "tensorflow.python.autograph.pyct.parser._arg_name": [],
+    "tensorflow.python.autograph.pyct.parser._node_matches_argspec": [],
+    "tensorflow.python.autograph.pyct.parser._parse_lambda": [],
+    "tensorflow.python.autograph.pyct.parser.parse": [],
+    "tensorflow.python.autograph.pyct.parser.parse_expression": [],
+    "tensorflow.python.autograph.pyct.parser.unparse": []
+}

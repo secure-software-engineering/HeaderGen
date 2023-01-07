@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.training.adagrad.AdagradOptimizer.__init__": [],
+    "tensorflow.python.training.adagrad.AdagradOptimizer._create_slots": [],
+    "tensorflow.python.training.adagrad.AdagradOptimizer._init_constant_op": [],
+    "tensorflow.python.training.adagrad.AdagradOptimizer._prepare": [],
+    "tensorflow.python.training.adagrad.AdagradOptimizer._apply_dense": [],
+    "tensorflow.python.training.adagrad.AdagradOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.adagrad.AdagradOptimizer._apply_sparse": [],
+    "tensorflow.python.training.adagrad.AdagradOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.adagrad.AdagradOptimizer": []
+}

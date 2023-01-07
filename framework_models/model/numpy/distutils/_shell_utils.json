@@ -1,0 +1,11 @@
+{
+    "numpy.distutils._shell_utils.CommandLineParser.join": [],
+    "numpy.distutils._shell_utils.CommandLineParser.split": [],
+    "numpy.distutils._shell_utils.WindowsParser.join": [],
+    "numpy.distutils._shell_utils.WindowsParser.split": [],
+    "numpy.distutils._shell_utils.PosixParser.join": [],
+    "numpy.distutils._shell_utils.PosixParser.split": [],
+    "numpy.distutils._shell_utils.CommandLineParser": [],
+    "numpy.distutils._shell_utils.WindowsParser": [],
+    "numpy.distutils._shell_utils.PosixParser": []
+}

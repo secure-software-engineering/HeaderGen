@@ -1,0 +1,10 @@
+{
+    "sklearn.utils.deprecation._is_deprecated": [],
+    "sklearn.utils.deprecation.deprecated.__init__": [],
+    "sklearn.utils.deprecation.deprecated.__call__": [],
+    "sklearn.utils.deprecation.deprecated._decorate_class": [],
+    "sklearn.utils.deprecation.deprecated._decorate_fun": [],
+    "sklearn.utils.deprecation.deprecated._decorate_property": [],
+    "sklearn.utils.deprecation.deprecated._update_doc": [],
+    "sklearn.utils.deprecation.deprecated": []
+}

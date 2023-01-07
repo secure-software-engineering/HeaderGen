@@ -1,0 +1,12 @@
+{
+    "pandas.tests.groupby.test_sample.test_groupby_sample_balanced_groups_shape": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_unbalanced_groups_shape": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_index_value_spans_groups": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_n_and_frac_raises": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_frac_gt_one_without_replacement_raises": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_invalid_n_raises": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_oversample": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_without_n_or_frac": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_with_weights": [],
+    "pandas.tests.groupby.test_sample.test_groupby_sample_with_selections": []
+}

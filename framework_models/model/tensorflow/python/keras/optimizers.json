@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.optimizers.serialize": [],
+    "tensorflow.python.keras.optimizers.deserialize": [],
+    "tensorflow.python.keras.optimizers.get": []
+}

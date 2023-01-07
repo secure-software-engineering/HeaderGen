@@ -1,0 +1,13 @@
+{
+    "scipy.integrate._ivp.radau.solve_collocation_system": [],
+    "scipy.integrate._ivp.radau.predict_factor": [],
+    "scipy.integrate._ivp.radau.Radau.__init__": [],
+    "scipy.integrate._ivp.radau.Radau._validate_jac": [],
+    "scipy.integrate._ivp.radau.Radau._step_impl": [],
+    "scipy.integrate._ivp.radau.Radau._compute_dense_output": [],
+    "scipy.integrate._ivp.radau.Radau._dense_output_impl": [],
+    "scipy.integrate._ivp.radau.RadauDenseOutput.__init__": [],
+    "scipy.integrate._ivp.radau.RadauDenseOutput._call_impl": [],
+    "scipy.integrate._ivp.radau.Radau": [],
+    "scipy.integrate._ivp.radau.RadauDenseOutput": []
+}

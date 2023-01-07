@@ -1,0 +1,16 @@
+from tensorflow.python.autograph.core import converter as converter
+from tensorflow.python.autograph.lang import directives as directives
+from tensorflow.python.autograph.pyct import anno as anno, ast_util as ast_util, cfg as cfg, parser as parser, qual_names as qual_names, templates as templates
+from tensorflow.python.autograph.pyct.static_analysis import activity as activity, annos as annos, liveness as liveness, reaching_definitions as reaching_definitions, reaching_fndefs as reaching_fndefs
+from typing import Any
+
+class ControlFlowTransformer(converter.Base):
+    def visit_If(self, node): ...
+    def visit_While(self, node): ...
+    def visit_For(self, node): ...
+
+class AnnotatedDef(reaching_definitions.Definition):
+    directives: Any
+    def __init__(self) -> None: ...
+
+def transform(node, ctx): ...

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.util.test_doc.cumsum": [],
+    "pandas.tests.util.test_doc.cumavg": [],
+    "pandas.tests.util.test_doc.cummax": [],
+    "pandas.tests.util.test_doc.cummin": [],
+    "pandas.tests.util.test_doc.test_docstring_formatting": [],
+    "pandas.tests.util.test_doc.test_docstring_appending": [],
+    "pandas.tests.util.test_doc.test_doc_template_from_func": [],
+    "pandas.tests.util.test_doc.test_inherit_doc_template": []
+}

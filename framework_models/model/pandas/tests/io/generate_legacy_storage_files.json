@@ -1,0 +1,10 @@
+{
+    "pandas.tests.io.generate_legacy_storage_files._create_sp_series": [],
+    "pandas.tests.io.generate_legacy_storage_files._create_sp_tsseries": [],
+    "pandas.tests.io.generate_legacy_storage_files._create_sp_frame": [],
+    "pandas.tests.io.generate_legacy_storage_files.create_data": [],
+    "pandas.tests.io.generate_legacy_storage_files.create_pickle_data": [],
+    "pandas.tests.io.generate_legacy_storage_files.platform_name": [],
+    "pandas.tests.io.generate_legacy_storage_files.write_legacy_pickles": [],
+    "pandas.tests.io.generate_legacy_storage_files.write_legacy_file": []
+}

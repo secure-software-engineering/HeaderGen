@@ -1,0 +1,7 @@
+{
+    "statsmodels.tsa.filters._utils._get_pandas_wrapper": [],
+    "statsmodels.tsa.filters._utils.pandas_wrapper": [],
+    "statsmodels.tsa.filters._utils.pandas_wrapper_bunch": [],
+    "statsmodels.tsa.filters._utils.pandas_wrapper_predict": [],
+    "statsmodels.tsa.filters._utils.pandas_wrapper_freq": []
+}

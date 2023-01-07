@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.framework.load_library.load_op_library": [],
+    "tensorflow.python.framework.load_library.load_file_system_library": [],
+    "tensorflow.python.framework.load_library._is_shared_object": [],
+    "tensorflow.python.framework.load_library.load_library": [],
+    "tensorflow.python.framework.load_library.load_pluggable_device_library": [],
+    "tensorflow.python.framework.load_library.register_filesystem_plugin": []
+}

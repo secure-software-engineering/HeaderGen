@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.keras.datasets.imdb.load_data": [],
+    "tensorflow.python.keras.datasets.imdb.get_word_index": []
+}

@@ -1,0 +1,5 @@
+{
+    "pandas.tests.io.parser.common.test_inf.test_inf_parsing": [],
+    "pandas.tests.io.parser.common.test_inf.test_infinity_parsing": [],
+    "pandas.tests.io.parser.common.test_inf.test_read_csv_with_use_inf_as_na": []
+}

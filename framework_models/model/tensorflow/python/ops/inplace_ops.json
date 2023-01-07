@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.inplace_ops._inplace_helper": [],
+    "tensorflow.python.ops.inplace_ops.alias_inplace_update": [],
+    "tensorflow.python.ops.inplace_ops.alias_inplace_add": [],
+    "tensorflow.python.ops.inplace_ops.alias_inplace_sub": [],
+    "tensorflow.python.ops.inplace_ops.empty_like": [],
+    "tensorflow.python.ops.inplace_ops.inplace_update": [],
+    "tensorflow.python.ops.inplace_ops.inplace_add": [],
+    "tensorflow.python.ops.inplace_ops.inplace_sub": []
+}

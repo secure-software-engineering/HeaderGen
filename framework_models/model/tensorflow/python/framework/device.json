@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.framework.device.check_valid": [],
+    "tensorflow.python.framework.device.is_device_spec": [],
+    "tensorflow.python.framework.device.canonical_name": [],
+    "tensorflow.python.framework.device.merge_device": [],
+    "tensorflow.python.framework.device.MergeDevice.__init__": [],
+    "tensorflow.python.framework.device.MergeDevice.__call__": [],
+    "tensorflow.python.framework.device.MergeDevice.shortcut_string_merge": [],
+    "tensorflow.python.framework.device.MergeDevice.__repr__": [],
+    "tensorflow.python.framework.device.MergeDevice.is_null_merge": [],
+    "tensorflow.python.framework.device.MergeDevice": []
+}

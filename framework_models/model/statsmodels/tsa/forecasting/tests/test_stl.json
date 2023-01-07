@@ -1,0 +1,9 @@
+{
+    "statsmodels.tsa.forecasting.tests.test_stl.data": [],
+    "statsmodels.tsa.forecasting.tests.test_stl.test_smoke": [],
+    "statsmodels.tsa.forecasting.tests.test_stl.test_equivalence_forecast": [],
+    "statsmodels.tsa.forecasting.tests.test_stl.test_exceptions": [],
+    "statsmodels.tsa.forecasting.tests.test_stl.sunspots": [],
+    "statsmodels.tsa.forecasting.tests.test_stl.test_get_prediction": [],
+    "statsmodels.tsa.forecasting.tests.test_stl.test_no_var_pred": []
+}

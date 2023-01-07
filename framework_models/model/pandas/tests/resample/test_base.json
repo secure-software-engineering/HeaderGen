@@ -1,0 +1,17 @@
+{
+    "pandas.tests.resample.test_base.create_index": [],
+    "pandas.tests.resample.test_base.test_asfreq": [],
+    "pandas.tests.resample.test_base.test_asfreq_fill_value": [],
+    "pandas.tests.resample.test_base.test_resample_interpolate": [],
+    "pandas.tests.resample.test_base.test_raises_on_non_datetimelike_index": [],
+    "pandas.tests.resample.test_base.test_resample_empty_series": [],
+    "pandas.tests.resample.test_base.test_resample_nat_index_series": [],
+    "pandas.tests.resample.test_base.test_resample_count_empty_series": [],
+    "pandas.tests.resample.test_base.test_resample_empty_dataframe": [],
+    "pandas.tests.resample.test_base.test_resample_count_empty_dataframe": [],
+    "pandas.tests.resample.test_base.test_resample_size_empty_dataframe": [],
+    "pandas.tests.resample.test_base.test_resample_empty_dtypes": [],
+    "pandas.tests.resample.test_base.test_apply_to_empty_series": [],
+    "pandas.tests.resample.test_base.test_resampler_is_iterable": [],
+    "pandas.tests.resample.test_base.test_resample_quantile": []
+}

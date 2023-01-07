@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.keras.applications.densenet.dense_block": [],
+    "tensorflow.python.keras.applications.densenet.transition_block": [],
+    "tensorflow.python.keras.applications.densenet.conv_block": [],
+    "tensorflow.python.keras.applications.densenet.DenseNet": [],
+    "tensorflow.python.keras.applications.densenet.DenseNet121": [],
+    "tensorflow.python.keras.applications.densenet.DenseNet169": [],
+    "tensorflow.python.keras.applications.densenet.DenseNet201": [],
+    "tensorflow.python.keras.applications.densenet.preprocess_input": [],
+    "tensorflow.python.keras.applications.densenet.decode_predictions": []
+}

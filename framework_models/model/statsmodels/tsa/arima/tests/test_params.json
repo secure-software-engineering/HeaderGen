@@ -1,0 +1,13 @@
+{
+    "statsmodels.tsa.arima.tests.test_params.test_init": [],
+    "statsmodels.tsa.arima.tests.test_params.test_set_params_single": [],
+    "statsmodels.tsa.arima.tests.test_params.test_set_params_single_nonconsecutive": [],
+    "statsmodels.tsa.arima.tests.test_params.test_set_params_multiple": [],
+    "statsmodels.tsa.arima.tests.test_params.test_set_poly_short_lags": [],
+    "statsmodels.tsa.arima.tests.test_params.test_set_poly_short_lags_nonconsecutive": [],
+    "statsmodels.tsa.arima.tests.test_params.test_set_poly_longer_lags": [],
+    "statsmodels.tsa.arima.tests.test_params.test_is_stationary": [],
+    "statsmodels.tsa.arima.tests.test_params.test_is_invertible": [],
+    "statsmodels.tsa.arima.tests.test_params.test_is_valid": [],
+    "statsmodels.tsa.arima.tests.test_params.test_repr_str": []
+}

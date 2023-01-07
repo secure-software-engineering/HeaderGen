@@ -1,0 +1,12 @@
+{
+    "pandas.tests.indexes.object.test_indexing.TestGetLoc.test_get_loc_raises_object_nearest": [],
+    "pandas.tests.indexes.object.test_indexing.TestGetLoc.test_get_loc_raises_object_tolerance": [],
+    "pandas.tests.indexes.object.test_indexing.TestGetIndexer.test_get_indexer_strings": [],
+    "pandas.tests.indexes.object.test_indexing.TestGetIndexer.test_get_indexer_strings_raises": [],
+    "pandas.tests.indexes.object.test_indexing.TestGetIndexer.test_get_indexer_with_NA_values": [],
+    "pandas.tests.indexes.object.test_indexing.TestSliceLocs.test_slice_locs_negative_step": [],
+    "pandas.tests.indexes.object.test_indexing.TestSliceLocs.test_slice_locs_dup": [],
+    "pandas.tests.indexes.object.test_indexing.TestGetLoc": [],
+    "pandas.tests.indexes.object.test_indexing.TestGetIndexer": [],
+    "pandas.tests.indexes.object.test_indexing.TestSliceLocs": []
+}

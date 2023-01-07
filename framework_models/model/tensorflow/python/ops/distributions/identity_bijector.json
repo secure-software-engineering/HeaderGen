@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.distributions.identity_bijector.Identity.__init__": [],
+    "tensorflow.python.ops.distributions.identity_bijector.Identity._forward": [],
+    "tensorflow.python.ops.distributions.identity_bijector.Identity._inverse": [],
+    "tensorflow.python.ops.distributions.identity_bijector.Identity._inverse_log_det_jacobian": [],
+    "tensorflow.python.ops.distributions.identity_bijector.Identity._forward_log_det_jacobian": [],
+    "tensorflow.python.ops.distributions.identity_bijector.Identity": []
+}

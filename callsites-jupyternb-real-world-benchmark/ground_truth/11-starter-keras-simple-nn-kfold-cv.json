@@ -1,0 +1,62 @@
+{
+    "1": [
+        "posix.listdir",
+        "<builtin>.print"
+    ],
+    "2": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "3": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "4": [
+        "sklearn.preprocessing._data.StandardScaler",
+        "sklearn.base.TransformerMixin.fit_transform"
+    ],
+    "5": [
+        "sklearn.base.TransformerMixin.fit_transform"
+    ],
+    "7": [
+        "<builtin>.round",
+        "<builtin>.str",
+        "<builtin>.print",
+        "keras.engine.training.Model.predict",
+        "sklearn.metrics._ranking.roc_auc_score"
+    ],
+    "8": [
+        "keras.engine.sequential.Sequential",
+        "keras.engine.sequential.Sequential.add",
+        "keras.layers.core.dense.Dense",
+        "keras.engine.training.Model.compile",
+        "<builtin>.len"
+    ],
+    "10": [
+        "numpy.zeros",
+        "<builtin>.list",
+        "<builtin>.len",
+        "sklearn.model_selection._split.StratifiedKFold",
+        "<builtin>.enumerate",
+        "keras.engine.sequential.Sequential",
+        "keras.engine.sequential.Sequential.add",
+        "keras.layers.core.dense.Dense",
+        "keras.engine.training.Model.compile",
+        "<builtin>.round",
+        "<builtin>.str",
+        "<builtin>.print",
+        "keras.engine.training.Model.predict",
+        "sklearn.metrics._ranking.roc_auc_score",
+        "keras.callbacks.EarlyStopping",
+        "keras.engine.training.Model.fit",
+        "keras.engine.training.Model.predict",
+        "numpy.ndarray.reshape",
+        "11-starter-keras-simple-nn-kfold-cv.roc_auc_callback:7.__init__:7",
+        "11-starter-keras-simple-nn-kfold-cv.build_model:8"
+    ],
+    "11": [
+        "sklearn.metrics._ranking.roc_auc_score"
+    ],
+    "12": [
+        "pandas.core.generic.NDFrame.copy",
+        "pandas.core.generic.NDFrame.to_csv"
+    ]
+}

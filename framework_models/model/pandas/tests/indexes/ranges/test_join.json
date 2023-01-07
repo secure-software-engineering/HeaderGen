@@ -1,0 +1,10 @@
+{
+    "pandas.tests.indexes.ranges.test_join.TestJoin.test_join_outer": [],
+    "pandas.tests.indexes.ranges.test_join.TestJoin.test_join_inner": [],
+    "pandas.tests.indexes.ranges.test_join.TestJoin.test_join_left": [],
+    "pandas.tests.indexes.ranges.test_join.TestJoin.test_join_right": [],
+    "pandas.tests.indexes.ranges.test_join.TestJoin.test_join_non_int_index": [],
+    "pandas.tests.indexes.ranges.test_join.TestJoin.test_join_non_unique": [],
+    "pandas.tests.indexes.ranges.test_join.TestJoin.test_join_self": [],
+    "pandas.tests.indexes.ranges.test_join.TestJoin": []
+}

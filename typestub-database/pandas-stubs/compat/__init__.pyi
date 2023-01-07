@@ -1,0 +1,2 @@
+from pandas.compat.numpy import is_numpy_dev as is_numpy_dev, np_version_under1p19 as np_version_under1p19, np_version_under1p20 as np_version_under1p20
+from pandas.compat.pyarrow import pa_version_under1p01 as pa_version_under1p01, pa_version_under2p0 as pa_version_under2p0, pa_version_under3p0 as pa_version_under3p0, pa_version_under4p0 as pa_version_under4p0

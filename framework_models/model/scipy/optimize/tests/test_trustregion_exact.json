@@ -1,0 +1,16 @@
+{
+    "scipy.optimize.tests.test_trustregion_exact.random_entry": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestEstimateSmallestSingularValue.test_for_ill_condiotioned_matrix": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestSingularLeadingSubmatrix.test_for_already_singular_leading_submatrix": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestSingularLeadingSubmatrix.test_for_simetric_indefinite_matrix": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestSingularLeadingSubmatrix.test_for_first_element_equal_to_zero": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestIterativeSubproblem.test_for_the_easy_case": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestIterativeSubproblem.test_for_the_hard_case": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestIterativeSubproblem.test_for_interior_convergence": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestIterativeSubproblem.test_for_jac_equal_zero": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestIterativeSubproblem.test_for_jac_very_close_to_zero": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestIterativeSubproblem.test_for_random_entries": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestEstimateSmallestSingularValue": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestSingularLeadingSubmatrix": [],
+    "scipy.optimize.tests.test_trustregion_exact.TestIterativeSubproblem": []
+}

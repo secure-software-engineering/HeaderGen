@@ -1,0 +1,17 @@
+{
+    "sklearn.gaussian_process._gpc._BinaryGaussianProcessClassifierLaplace.__init__": [],
+    "sklearn.gaussian_process._gpc._BinaryGaussianProcessClassifierLaplace.fit": [],
+    "sklearn.gaussian_process._gpc._BinaryGaussianProcessClassifierLaplace.predict": [],
+    "sklearn.gaussian_process._gpc._BinaryGaussianProcessClassifierLaplace.predict_proba": [],
+    "sklearn.gaussian_process._gpc._BinaryGaussianProcessClassifierLaplace.log_marginal_likelihood": [],
+    "sklearn.gaussian_process._gpc._BinaryGaussianProcessClassifierLaplace._posterior_mode": [],
+    "sklearn.gaussian_process._gpc._BinaryGaussianProcessClassifierLaplace._constrained_optimization": [],
+    "sklearn.gaussian_process._gpc.GaussianProcessClassifier.__init__": [],
+    "sklearn.gaussian_process._gpc.GaussianProcessClassifier.fit": [],
+    "sklearn.gaussian_process._gpc.GaussianProcessClassifier.predict": [],
+    "sklearn.gaussian_process._gpc.GaussianProcessClassifier.predict_proba": [],
+    "sklearn.gaussian_process._gpc.GaussianProcessClassifier.kernel_": [],
+    "sklearn.gaussian_process._gpc.GaussianProcessClassifier.log_marginal_likelihood": [],
+    "sklearn.gaussian_process._gpc._BinaryGaussianProcessClassifierLaplace": [],
+    "sklearn.gaussian_process._gpc.GaussianProcessClassifier": []
+}

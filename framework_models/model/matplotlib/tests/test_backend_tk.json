@@ -1,0 +1,8 @@
+{
+    "matplotlib.tests.test_backend_tk._isolated_tk_test": [],
+    "matplotlib.tests.test_backend_tk.test_blit": [],
+    "matplotlib.tests.test_backend_tk.test_figuremanager_preserves_host_mainloop": [],
+    "matplotlib.tests.test_backend_tk.test_figuremanager_cleans_own_mainloop": [],
+    "matplotlib.tests.test_backend_tk.test_never_update": [],
+    "matplotlib.tests.test_backend_tk.test_missing_back_button": []
+}

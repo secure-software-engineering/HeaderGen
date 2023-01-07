@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.distributions.bijector_test_util.assert_finite": [],
+    "tensorflow.python.ops.distributions.bijector_test_util.assert_strictly_increasing": [],
+    "tensorflow.python.ops.distributions.bijector_test_util.assert_strictly_decreasing": [],
+    "tensorflow.python.ops.distributions.bijector_test_util.assert_strictly_monotonic": [],
+    "tensorflow.python.ops.distributions.bijector_test_util.assert_scalar_congruency": [],
+    "tensorflow.python.ops.distributions.bijector_test_util.assert_bijective_and_finite": []
+}

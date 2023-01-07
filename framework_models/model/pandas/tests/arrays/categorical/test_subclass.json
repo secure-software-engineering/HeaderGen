@@ -1,0 +1,6 @@
+{
+    "pandas.tests.arrays.categorical.test_subclass.TestCategoricalSubclassing.test_constructor": [],
+    "pandas.tests.arrays.categorical.test_subclass.TestCategoricalSubclassing.test_from_codes": [],
+    "pandas.tests.arrays.categorical.test_subclass.TestCategoricalSubclassing.test_map": [],
+    "pandas.tests.arrays.categorical.test_subclass.TestCategoricalSubclassing": []
+}

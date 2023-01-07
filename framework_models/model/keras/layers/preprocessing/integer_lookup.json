@@ -1,0 +1,5 @@
+{
+    "keras.layers.preprocessing.integer_lookup.IntegerLookup.__init__": [],
+    "keras.layers.preprocessing.integer_lookup.IntegerLookup.set_vocabulary": [],
+    "keras.layers.preprocessing.integer_lookup.IntegerLookup": []
+}

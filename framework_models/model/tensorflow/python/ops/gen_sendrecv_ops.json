@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.gen_sendrecv_ops.recv": [],
+    "tensorflow.python.ops.gen_sendrecv_ops.recv_eager_fallback": [],
+    "tensorflow.python.ops.gen_sendrecv_ops.send": [],
+    "tensorflow.python.ops.gen_sendrecv_ops.send_eager_fallback": []
+}

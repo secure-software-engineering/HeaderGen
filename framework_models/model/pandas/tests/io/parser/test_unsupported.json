@@ -1,0 +1,8 @@
+{
+    "pandas.tests.io.parser.test_unsupported.python_engine": [],
+    "pandas.tests.io.parser.test_unsupported.TestUnsupportedFeatures.test_mangle_dupe_cols_false": [],
+    "pandas.tests.io.parser.test_unsupported.TestUnsupportedFeatures.test_c_engine": [],
+    "pandas.tests.io.parser.test_unsupported.TestUnsupportedFeatures.test_python_engine": [],
+    "pandas.tests.io.parser.test_unsupported.TestUnsupportedFeatures.test_python_engine_file_no_next": [],
+    "pandas.tests.io.parser.test_unsupported.TestUnsupportedFeatures": []
+}

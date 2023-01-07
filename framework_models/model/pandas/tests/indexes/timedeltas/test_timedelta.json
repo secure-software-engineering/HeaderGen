@@ -1,0 +1,15 @@
+{
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.simple_index": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.index": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_numeric_compat": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_shift": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_pickle_after_set_freq": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_isin": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_misc_coverage": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_map": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_pass_TimedeltaIndex_to_index": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_fields": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_freq_conversion_always_floating": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex.test_freq_conversion": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta.TestTimedeltaIndex": []
+}

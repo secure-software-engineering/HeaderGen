@@ -1,0 +1,17 @@
+{
+    "scipy.linalg.decomp._make_complex_eigvecs": [],
+    "scipy.linalg.decomp._make_eigvals": [],
+    "scipy.linalg.decomp._geneig": [],
+    "scipy.linalg.decomp.eig": [],
+    "scipy.linalg.decomp.eigh": [],
+    "scipy.linalg.decomp._check_select": [],
+    "scipy.linalg.decomp.eig_banded": [],
+    "scipy.linalg.decomp.eigvals": [],
+    "scipy.linalg.decomp.eigvalsh": [],
+    "scipy.linalg.decomp.eigvals_banded": [],
+    "scipy.linalg.decomp.eigvalsh_tridiagonal": [],
+    "scipy.linalg.decomp.eigh_tridiagonal": [],
+    "scipy.linalg.decomp._check_info": [],
+    "scipy.linalg.decomp.hessenberg": [],
+    "scipy.linalg.decomp.cdf2rdf": []
+}

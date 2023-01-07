@@ -1,0 +1,8 @@
+{
+    "pandas.tests.series.methods.test_combine_first.TestCombineFirst.test_combine_first_period_datetime": [],
+    "pandas.tests.series.methods.test_combine_first.TestCombineFirst.test_combine_first_name": [],
+    "pandas.tests.series.methods.test_combine_first.TestCombineFirst.test_combine_first": [],
+    "pandas.tests.series.methods.test_combine_first.TestCombineFirst.test_combine_first_dt64": [],
+    "pandas.tests.series.methods.test_combine_first.TestCombineFirst.test_combine_first_dt_tz_values": [],
+    "pandas.tests.series.methods.test_combine_first.TestCombineFirst": []
+}

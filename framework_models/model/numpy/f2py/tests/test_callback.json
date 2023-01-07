@@ -1,0 +1,15 @@
+{
+    "numpy.f2py.tests.test_callback.TestF77Callback.test_all": [],
+    "numpy.f2py.tests.test_callback.TestF77Callback.test_docstring": [],
+    "numpy.f2py.tests.test_callback.TestF77Callback.check_function": [],
+    "numpy.f2py.tests.test_callback.TestF77Callback.test_string_callback": [],
+    "numpy.f2py.tests.test_callback.TestF77Callback.test_string_callback_array": [],
+    "numpy.f2py.tests.test_callback.TestF77Callback.test_threadsafety": [],
+    "numpy.f2py.tests.test_callback.TestF77Callback.test_hidden_callback": [],
+    "numpy.f2py.tests.test_callback.TestF90Callback.test_gh17797": [],
+    "numpy.f2py.tests.test_callback.TestGH18335.test_gh18335": [],
+    "numpy.f2py.tests.test_callback.TestF77Callback": [],
+    "numpy.f2py.tests.test_callback.TestF77CallbackPythonTLS": [],
+    "numpy.f2py.tests.test_callback.TestF90Callback": [],
+    "numpy.f2py.tests.test_callback.TestGH18335": []
+}

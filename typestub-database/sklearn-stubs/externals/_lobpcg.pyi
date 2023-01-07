@@ -1,0 +1,3 @@
+from typing import Any
+
+def lobpcg(A, X, B: Any | None = ..., M: Any | None = ..., Y: Any | None = ..., tol: Any | None = ..., maxiter: Any | None = ..., largest: bool = ..., verbosityLevel: int = ..., retLambdaHistory: bool = ..., retResidualNormsHistory: bool = ...): ...

@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.keras.layers.VersionAwareLayers.__getattr__": [],
+    "tensorflow.python.keras.layers.VersionAwareLayers": []
+}

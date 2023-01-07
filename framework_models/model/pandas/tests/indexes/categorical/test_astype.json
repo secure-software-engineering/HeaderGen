@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.categorical.test_astype.TestAstype.test_astype": [],
+    "pandas.tests.indexes.categorical.test_astype.TestAstype.test_astype_category": [],
+    "pandas.tests.indexes.categorical.test_astype.TestAstype.test_categorical_date_roundtrip": [],
+    "pandas.tests.indexes.categorical.test_astype.TestAstype": []
+}

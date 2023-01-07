@@ -1,0 +1,10 @@
+{
+    "scipy.signal.tests.test_wavelets.TestWavelets.test_qmf": [],
+    "scipy.signal.tests.test_wavelets.TestWavelets.test_daub": [],
+    "scipy.signal.tests.test_wavelets.TestWavelets.test_cascade": [],
+    "scipy.signal.tests.test_wavelets.TestWavelets.test_morlet": [],
+    "scipy.signal.tests.test_wavelets.TestWavelets.test_morlet2": [],
+    "scipy.signal.tests.test_wavelets.TestWavelets.test_ricker": [],
+    "scipy.signal.tests.test_wavelets.TestWavelets.test_cwt": [],
+    "scipy.signal.tests.test_wavelets.TestWavelets": []
+}

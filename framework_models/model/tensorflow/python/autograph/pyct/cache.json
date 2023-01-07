@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.autograph.pyct.cache._TransformedFnCache.__init__": [],
+    "tensorflow.python.autograph.pyct.cache._TransformedFnCache._get_key": [],
+    "tensorflow.python.autograph.pyct.cache._TransformedFnCache.has": [],
+    "tensorflow.python.autograph.pyct.cache._TransformedFnCache.__getitem__": [],
+    "tensorflow.python.autograph.pyct.cache._TransformedFnCache.__len__": [],
+    "tensorflow.python.autograph.pyct.cache.CodeObjectCache._get_key": [],
+    "tensorflow.python.autograph.pyct.cache.UnboundInstanceCache._get_key": [],
+    "tensorflow.python.autograph.pyct.cache._TransformedFnCache": [],
+    "tensorflow.python.autograph.pyct.cache.CodeObjectCache": [],
+    "tensorflow.python.autograph.pyct.cache.UnboundInstanceCache": []
+}

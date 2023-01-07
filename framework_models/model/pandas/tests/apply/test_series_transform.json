@@ -1,0 +1,6 @@
+{
+    "pandas.tests.apply.test_series_transform.test_transform_groupby_kernel": [],
+    "pandas.tests.apply.test_series_transform.test_transform_listlike": [],
+    "pandas.tests.apply.test_series_transform.test_transform_dictlike": [],
+    "pandas.tests.apply.test_series_transform.test_transform_dictlike_mixed": []
+}

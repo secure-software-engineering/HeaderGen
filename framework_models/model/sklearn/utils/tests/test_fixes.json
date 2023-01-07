@@ -1,0 +1,6 @@
+{
+    "sklearn.utils.tests.test_fixes.test_joblib_parallel_args": [],
+    "sklearn.utils.tests.test_fixes.test_object_dtype_isnan": [],
+    "sklearn.utils.tests.test_fixes.test_loguniform": [],
+    "sklearn.utils.tests.test_fixes.test_linspace": []
+}

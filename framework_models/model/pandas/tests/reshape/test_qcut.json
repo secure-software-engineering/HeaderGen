@@ -1,0 +1,21 @@
+{
+    "pandas.tests.reshape.test_qcut.test_qcut": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_bounds": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_specify_quantiles": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_all_bins_same": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_include_lowest": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_nas": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_index": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_binning_issues": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_return_intervals": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_incorrect_labels": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_wrong_length_labels": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_list_like_labels": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_duplicates_bin": [],
+    "pandas.tests.reshape.test_qcut.test_single_quantile": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_nat": [],
+    "pandas.tests.reshape.test_qcut.test_datetime_tz_qcut": [],
+    "pandas.tests.reshape.test_qcut.test_date_like_qcut_bins": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_bool_coercion_to_int": [],
+    "pandas.tests.reshape.test_qcut.test_qcut_nullable_integer": []
+}

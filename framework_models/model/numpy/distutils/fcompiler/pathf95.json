@@ -1,0 +1,5 @@
+{
+    "numpy.distutils.fcompiler.pathf95.PathScaleFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.pathf95.PathScaleFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.pathf95.PathScaleFCompiler": []
+}

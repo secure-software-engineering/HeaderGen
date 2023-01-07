@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.summary.summary_iterator.summary_iterator": [],
+    "tensorflow.python.summary.summary_iterator._SummaryIterator.__init__": [],
+    "tensorflow.python.summary.summary_iterator._SummaryIterator.__iter__": [],
+    "tensorflow.python.summary.summary_iterator._SummaryIterator.__next__": [],
+    "tensorflow.python.summary.summary_iterator._SummaryIterator": []
+}

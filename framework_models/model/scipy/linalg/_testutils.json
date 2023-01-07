@@ -1,0 +1,10 @@
+{
+    "scipy.linalg._testutils._get_array": [],
+    "scipy.linalg._testutils._id": [],
+    "scipy.linalg._testutils.assert_no_overwrite": [],
+    "scipy.linalg._testutils._FakeMatrix.__init__": [],
+    "scipy.linalg._testutils._FakeMatrix2.__init__": [],
+    "scipy.linalg._testutils._FakeMatrix2.__array__": [],
+    "scipy.linalg._testutils._FakeMatrix": [],
+    "scipy.linalg._testutils._FakeMatrix2": []
+}

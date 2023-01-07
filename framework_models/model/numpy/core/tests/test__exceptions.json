@@ -1,0 +1,9 @@
+{
+    "numpy.core.tests.test__exceptions.TestArrayMemoryError.test_pickling": [],
+    "numpy.core.tests.test__exceptions.TestArrayMemoryError.test_str": [],
+    "numpy.core.tests.test__exceptions.TestArrayMemoryError.test__size_to_string": [],
+    "numpy.core.tests.test__exceptions.TestArrayMemoryError.test__total_size": [],
+    "numpy.core.tests.test__exceptions.TestUFuncNoLoopError.test_pickling": [],
+    "numpy.core.tests.test__exceptions.TestArrayMemoryError": [],
+    "numpy.core.tests.test__exceptions.TestUFuncNoLoopError": []
+}

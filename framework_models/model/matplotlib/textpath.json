@@ -1,0 +1,21 @@
+{
+    "matplotlib.textpath.TextToPath.__init__": [],
+    "matplotlib.textpath.TextToPath._get_font": [],
+    "matplotlib.textpath.TextToPath._get_hinting_flag": [],
+    "matplotlib.textpath.TextToPath._get_char_id": [],
+    "matplotlib.textpath.TextToPath.get_text_width_height_descent": [],
+    "matplotlib.textpath.TextToPath.get_text_path": [],
+    "matplotlib.textpath.TextToPath.get_glyphs_with_font": [],
+    "matplotlib.textpath.TextToPath.get_glyphs_mathtext": [],
+    "matplotlib.textpath.TextToPath.get_texmanager": [],
+    "matplotlib.textpath.TextToPath.get_glyphs_tex": [],
+    "matplotlib.textpath.TextToPath._get_ps_font_and_encoding": [],
+    "matplotlib.textpath.TextPath.__init__": [],
+    "matplotlib.textpath.TextPath.set_size": [],
+    "matplotlib.textpath.TextPath.get_size": [],
+    "matplotlib.textpath.TextPath.vertices": [],
+    "matplotlib.textpath.TextPath.codes": [],
+    "matplotlib.textpath.TextPath._revalidate_path": [],
+    "matplotlib.textpath.TextToPath": [],
+    "matplotlib.textpath.TextPath": []
+}

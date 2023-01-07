@@ -1,0 +1,18 @@
+{
+    "statsmodels.duration.tests.test_phreg.get_results": [],
+    "statsmodels.duration.tests.test_phreg.test_r": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.load_file": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.do1": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_missing": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_formula": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_formula_cat_interactions": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_predict_formula": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_formula_args": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_offset": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_post_estimation": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_summary": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_predict": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_get_distribution": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg.test_fit_regularized": [],
+    "statsmodels.duration.tests.test_phreg.TestPHReg": []
+}

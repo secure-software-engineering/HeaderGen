@@ -1,0 +1,6 @@
+{
+    "statsmodels.stats.tests.test_regularized_covariance.test_calc_nodewise_row": [],
+    "statsmodels.stats.tests.test_regularized_covariance.test_calc_nodewise_weight": [],
+    "statsmodels.stats.tests.test_regularized_covariance.test_calc_approx_inv_cov": [],
+    "statsmodels.stats.tests.test_regularized_covariance.test_fit": []
+}

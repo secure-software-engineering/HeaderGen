@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.grappler.item.Item.__init__": [],
+    "tensorflow.python.grappler.item.Item.IdentifyImportantOps": [],
+    "tensorflow.python.grappler.item.Item.GetOpProperties": [],
+    "tensorflow.python.grappler.item.Item.GetColocationGroups": [],
+    "tensorflow.python.grappler.item.Item.metagraph": [],
+    "tensorflow.python.grappler.item.Item.tf_item": [],
+    "tensorflow.python.grappler.item.Item._BuildTFItem": [],
+    "tensorflow.python.grappler.item.Item": []
+}

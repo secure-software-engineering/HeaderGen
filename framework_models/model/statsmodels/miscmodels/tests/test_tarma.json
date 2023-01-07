@@ -1,0 +1,10 @@
+{
+    "statsmodels.miscmodels.tests.test_tarma.CheckTArmaMixin.test_params": [],
+    "statsmodels.miscmodels.tests.test_tarma.CheckTArmaMixin.test_smoke": [],
+    "statsmodels.miscmodels.tests.test_tarma.CheckTArmaMixin.test_fit_ls": [],
+    "statsmodels.miscmodels.tests.test_tarma.TestTArma.setup_class": [],
+    "statsmodels.miscmodels.tests.test_tarma.TestArma.setup_class": [],
+    "statsmodels.miscmodels.tests.test_tarma.CheckTArmaMixin": [],
+    "statsmodels.miscmodels.tests.test_tarma.TestTArma": [],
+    "statsmodels.miscmodels.tests.test_tarma.TestArma": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.categorical.test_equals.TestEquals.test_equals_categorical": [],
+    "pandas.tests.indexes.categorical.test_equals.TestEquals.test_equals_categorical_unordered": [],
+    "pandas.tests.indexes.categorical.test_equals.TestEquals.test_equals_non_category": [],
+    "pandas.tests.indexes.categorical.test_equals.TestEquals.test_equals_multiindex": [],
+    "pandas.tests.indexes.categorical.test_equals.TestEquals": []
+}

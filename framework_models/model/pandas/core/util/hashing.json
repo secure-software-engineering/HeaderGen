@@ -1,0 +1,8 @@
+{
+    "pandas.core.util.hashing.combine_hash_arrays": [],
+    "pandas.core.util.hashing.hash_pandas_object": [],
+    "pandas.core.util.hashing.hash_tuples": [],
+    "pandas.core.util.hashing._hash_categorical": [],
+    "pandas.core.util.hashing.hash_array": [],
+    "pandas.core.util.hashing._hash_ndarray": []
+}

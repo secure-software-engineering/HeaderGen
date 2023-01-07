@@ -1,0 +1,6 @@
+{
+    "statsmodels.tools.tests.test_sequences.test_discrepancy": [],
+    "statsmodels.tools.tests.test_sequences.test_van_der_corput": [],
+    "statsmodels.tools.tests.test_sequences.test_primes": [],
+    "statsmodels.tools.tests.test_sequences.test_halton": []
+}

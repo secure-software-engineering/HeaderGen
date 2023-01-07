@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.framework.dtypes.as_dtype": [],
+    "tensorflow.python.framework.dtypes.DType._is_ref_dtype": [],
+    "tensorflow.python.framework.dtypes.DType._as_ref": [],
+    "tensorflow.python.framework.dtypes.DType.base_dtype": [],
+    "tensorflow.python.framework.dtypes.DType.real_dtype": [],
+    "tensorflow.python.framework.dtypes.DType.as_numpy_dtype": [],
+    "tensorflow.python.framework.dtypes.DType.min": [],
+    "tensorflow.python.framework.dtypes.DType.max": [],
+    "tensorflow.python.framework.dtypes.DType.limits": [],
+    "tensorflow.python.framework.dtypes.DType.is_compatible_with": [],
+    "tensorflow.python.framework.dtypes.DType.__eq__": [],
+    "tensorflow.python.framework.dtypes.DType.__ne__": [],
+    "tensorflow.python.framework.dtypes.DType.__reduce__": [],
+    "tensorflow.python.framework.dtypes.DType": []
+}

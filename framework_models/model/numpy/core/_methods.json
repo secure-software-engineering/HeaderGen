@@ -1,0 +1,19 @@
+{
+    "numpy.core._methods._amax": [],
+    "numpy.core._methods._amin": [],
+    "numpy.core._methods._sum": [],
+    "numpy.core._methods._prod": [],
+    "numpy.core._methods._any": [],
+    "numpy.core._methods._all": [],
+    "numpy.core._methods._count_reduce_items": [],
+    "numpy.core._methods._clip_dep_is_scalar_nan": [],
+    "numpy.core._methods._clip_dep_is_byte_swapped": [],
+    "numpy.core._methods._clip_dep_invoke_with_casting": [],
+    "numpy.core._methods._clip": [],
+    "numpy.core._methods._mean": [],
+    "numpy.core._methods._var": [],
+    "numpy.core._methods._std": [],
+    "numpy.core._methods._ptp": [],
+    "numpy.core._methods._dump": [],
+    "numpy.core._methods._dumps": []
+}

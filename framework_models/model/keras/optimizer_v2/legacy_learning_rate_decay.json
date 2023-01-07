@@ -1,0 +1,11 @@
+{
+    "keras.optimizer_v2.legacy_learning_rate_decay.exponential_decay": [],
+    "keras.optimizer_v2.legacy_learning_rate_decay.piecewise_constant": [],
+    "keras.optimizer_v2.legacy_learning_rate_decay.polynomial_decay": [],
+    "keras.optimizer_v2.legacy_learning_rate_decay.natural_exp_decay": [],
+    "keras.optimizer_v2.legacy_learning_rate_decay.inverse_time_decay": [],
+    "keras.optimizer_v2.legacy_learning_rate_decay.cosine_decay": [],
+    "keras.optimizer_v2.legacy_learning_rate_decay.cosine_decay_restarts": [],
+    "keras.optimizer_v2.legacy_learning_rate_decay.linear_cosine_decay": [],
+    "keras.optimizer_v2.legacy_learning_rate_decay.noisy_linear_cosine_decay": []
+}

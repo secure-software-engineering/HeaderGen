@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.framework.registry.Registry.__init__": [],
+    "tensorflow.python.framework.registry.Registry.register": [],
+    "tensorflow.python.framework.registry.Registry.list": [],
+    "tensorflow.python.framework.registry.Registry.lookup": [],
+    "tensorflow.python.framework.registry.Registry": []
+}

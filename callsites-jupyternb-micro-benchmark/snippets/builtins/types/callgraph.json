@@ -1,0 +1,10 @@
+{
+    "main": [
+        "<**PyStr**>.join",
+        "<**PyStr**>.split",
+        "<**PyDict**>.items"
+    ],
+    "<**PyStr**>.join": [],
+    "<**PyStr**>.split": [],
+    "<**PyDict**>.items": []
+}

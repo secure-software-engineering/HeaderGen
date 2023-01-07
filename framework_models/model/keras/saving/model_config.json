@@ -1,0 +1,5 @@
+{
+    "keras.saving.model_config.model_from_config": [],
+    "keras.saving.model_config.model_from_yaml": [],
+    "keras.saving.model_config.model_from_json": []
+}

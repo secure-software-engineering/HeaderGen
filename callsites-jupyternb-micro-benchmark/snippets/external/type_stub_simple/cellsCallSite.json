@@ -1,0 +1,6 @@
+{    
+    "2": [
+        "pandas.core.frame.DataFrame",
+        "pandas.core.generic.NDFrame.head"
+    ]
+}

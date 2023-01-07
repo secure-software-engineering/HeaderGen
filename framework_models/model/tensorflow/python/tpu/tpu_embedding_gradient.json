@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.tpu.tpu_embedding_gradient.get_gradients_through_compute_gradients": [],
+    "tensorflow.python.tpu.tpu_embedding_gradient.create_dummy_table_variables": [],
+    "tensorflow.python.tpu.tpu_embedding_gradient.hook_dummy_table_variables_to_activations": [],
+    "tensorflow.python.tpu.tpu_embedding_gradient.get_gradients_through_dummy_table_variables": []
+}

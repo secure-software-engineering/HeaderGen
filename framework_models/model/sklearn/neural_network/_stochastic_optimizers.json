@@ -1,0 +1,15 @@
+{
+    "sklearn.neural_network._stochastic_optimizers.BaseOptimizer.__init__": [],
+    "sklearn.neural_network._stochastic_optimizers.BaseOptimizer.update_params": [],
+    "sklearn.neural_network._stochastic_optimizers.BaseOptimizer.iteration_ends": [],
+    "sklearn.neural_network._stochastic_optimizers.BaseOptimizer.trigger_stopping": [],
+    "sklearn.neural_network._stochastic_optimizers.SGDOptimizer.__init__": [],
+    "sklearn.neural_network._stochastic_optimizers.SGDOptimizer.iteration_ends": [],
+    "sklearn.neural_network._stochastic_optimizers.SGDOptimizer.trigger_stopping": [],
+    "sklearn.neural_network._stochastic_optimizers.SGDOptimizer._get_updates": [],
+    "sklearn.neural_network._stochastic_optimizers.AdamOptimizer.__init__": [],
+    "sklearn.neural_network._stochastic_optimizers.AdamOptimizer._get_updates": [],
+    "sklearn.neural_network._stochastic_optimizers.BaseOptimizer": [],
+    "sklearn.neural_network._stochastic_optimizers.SGDOptimizer": [],
+    "sklearn.neural_network._stochastic_optimizers.AdamOptimizer": []
+}

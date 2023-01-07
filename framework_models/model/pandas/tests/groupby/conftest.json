@@ -1,0 +1,16 @@
+{
+    "pandas.tests.groupby.conftest.as_index": [],
+    "pandas.tests.groupby.conftest.mframe": [],
+    "pandas.tests.groupby.conftest.df": [],
+    "pandas.tests.groupby.conftest.ts": [],
+    "pandas.tests.groupby.conftest.tsd": [],
+    "pandas.tests.groupby.conftest.tsframe": [],
+    "pandas.tests.groupby.conftest.df_mixed_floats": [],
+    "pandas.tests.groupby.conftest.three_group": [],
+    "pandas.tests.groupby.conftest.reduction_func": [],
+    "pandas.tests.groupby.conftest.transformation_func": [],
+    "pandas.tests.groupby.conftest.groupby_func": [],
+    "pandas.tests.groupby.conftest.parallel": [],
+    "pandas.tests.groupby.conftest.nogil": [],
+    "pandas.tests.groupby.conftest.nopython": []
+}

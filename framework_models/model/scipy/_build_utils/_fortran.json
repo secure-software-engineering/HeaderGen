@@ -1,0 +1,17 @@
+{
+    "scipy._build_utils._fortran.get_fcompiler_ilp64_flags": [],
+    "scipy._build_utils._fortran.get_fcompiler_macro_include_flags": [],
+    "scipy._build_utils._fortran.uses_mkl": [],
+    "scipy._build_utils._fortran.needs_g77_abi_wrapper": [],
+    "scipy._build_utils._fortran.get_g77_abi_wrappers": [],
+    "scipy._build_utils._fortran.gfortran_legacy_flag_hook": [],
+    "scipy._build_utils._fortran._get_build_src_dir": [],
+    "scipy._build_utils._fortran.get_f2py_int64_options": [],
+    "scipy._build_utils._fortran.ilp64_pre_build_hook": [],
+    "scipy._build_utils._fortran.blas_ilp64_pre_build_hook": [],
+    "scipy._build_utils._fortran._blas_ilp64_pre_build_hook": [],
+    "scipy._build_utils._fortran.generic_pre_build_hook": [],
+    "scipy._build_utils._fortran._generic_patch_sources": [],
+    "scipy._build_utils._fortran.write_file_content": [],
+    "scipy._build_utils._fortran.get_blas_lapack_symbols": []
+}

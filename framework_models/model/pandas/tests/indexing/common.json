@@ -1,0 +1,10 @@
+{
+    "pandas.tests.indexing.common._mklbl": [],
+    "pandas.tests.indexing.common._axify": [],
+    "pandas.tests.indexing.common.Base.setup_method": [],
+    "pandas.tests.indexing.common.Base.generate_indices": [],
+    "pandas.tests.indexing.common.Base.get_value": [],
+    "pandas.tests.indexing.common.Base.check_values": [],
+    "pandas.tests.indexing.common.Base.check_result": [],
+    "pandas.tests.indexing.common.Base": []
+}

@@ -1,0 +1,17 @@
+{
+    "keras.wrappers.scikit_learn.BaseWrapper.__init__": [],
+    "keras.wrappers.scikit_learn.BaseWrapper.check_params": [],
+    "keras.wrappers.scikit_learn.BaseWrapper.get_params": [],
+    "keras.wrappers.scikit_learn.BaseWrapper.set_params": [],
+    "keras.wrappers.scikit_learn.BaseWrapper.fit": [],
+    "keras.wrappers.scikit_learn.BaseWrapper.filter_sk_params": [],
+    "keras.wrappers.scikit_learn.KerasClassifier.fit": [],
+    "keras.wrappers.scikit_learn.KerasClassifier.predict": [],
+    "keras.wrappers.scikit_learn.KerasClassifier.predict_proba": [],
+    "keras.wrappers.scikit_learn.KerasClassifier.score": [],
+    "keras.wrappers.scikit_learn.KerasRegressor.predict": [],
+    "keras.wrappers.scikit_learn.KerasRegressor.score": [],
+    "keras.wrappers.scikit_learn.BaseWrapper": [],
+    "keras.wrappers.scikit_learn.KerasClassifier": [],
+    "keras.wrappers.scikit_learn.KerasRegressor": []
+}

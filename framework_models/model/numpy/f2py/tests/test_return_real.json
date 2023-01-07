@@ -1,0 +1,10 @@
+{
+    "numpy.f2py.tests.test_return_real.TestReturnReal.check_function": [],
+    "numpy.f2py.tests.test_return_real.TestCReturnReal.test_all": [],
+    "numpy.f2py.tests.test_return_real.TestF77ReturnReal.test_all": [],
+    "numpy.f2py.tests.test_return_real.TestF90ReturnReal.test_all": [],
+    "numpy.f2py.tests.test_return_real.TestReturnReal": [],
+    "numpy.f2py.tests.test_return_real.TestCReturnReal": [],
+    "numpy.f2py.tests.test_return_real.TestF77ReturnReal": [],
+    "numpy.f2py.tests.test_return_real.TestF90ReturnReal": []
+}

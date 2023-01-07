@@ -1,0 +1,11 @@
+{
+    "pandas.tests.io.json.test_compression.test_compression_roundtrip": [],
+    "pandas.tests.io.json.test_compression.test_read_zipped_json": [],
+    "pandas.tests.io.json.test_compression.test_with_s3_url": [],
+    "pandas.tests.io.json.test_compression.test_lines_with_compression": [],
+    "pandas.tests.io.json.test_compression.test_chunksize_with_compression": [],
+    "pandas.tests.io.json.test_compression.test_write_unsupported_compression_type": [],
+    "pandas.tests.io.json.test_compression.test_read_unsupported_compression_type": [],
+    "pandas.tests.io.json.test_compression.test_to_json_compression": [],
+    "pandas.tests.io.json.test_compression.test_to_json_compression_mode": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.plotting.test_backend.restore_backend": [],
+    "pandas.tests.plotting.test_backend.test_backend_is_not_module": [],
+    "pandas.tests.plotting.test_backend.test_backend_is_correct": [],
+    "pandas.tests.plotting.test_backend.test_backend_can_be_set_in_plot_call": [],
+    "pandas.tests.plotting.test_backend.test_register_entrypoint": [],
+    "pandas.tests.plotting.test_backend.test_setting_backend_without_plot_raises": [],
+    "pandas.tests.plotting.test_backend.test_no_matplotlib_ok": [],
+    "pandas.tests.plotting.test_backend.test_extra_kinds_ok": []
+}

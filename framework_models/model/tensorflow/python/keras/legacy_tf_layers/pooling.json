@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.keras.legacy_tf_layers.pooling.average_pooling1d": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.max_pooling1d": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.average_pooling2d": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.max_pooling2d": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.average_pooling3d": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.max_pooling3d": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.AveragePooling1D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.MaxPooling1D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.AveragePooling2D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.MaxPooling2D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.AveragePooling3D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.MaxPooling3D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.AveragePooling1D": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.MaxPooling1D": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.AveragePooling2D": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.MaxPooling2D": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.AveragePooling3D": [],
+    "tensorflow.python.keras.legacy_tf_layers.pooling.MaxPooling3D": []
+}

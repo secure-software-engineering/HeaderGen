@@ -1,0 +1,8 @@
+{
+    "statsmodels.tsa.statespace.tests.test_dynamic_factor_mq_frbny_nowcast.matlab_results": [],
+    "statsmodels.tsa.statespace.tests.test_dynamic_factor_mq_frbny_nowcast.test_known": [],
+    "statsmodels.tsa.statespace.tests.test_dynamic_factor_mq_frbny_nowcast.test_emstep1": [],
+    "statsmodels.tsa.statespace.tests.test_dynamic_factor_mq_frbny_nowcast.test_emstep_methods_missing": [],
+    "statsmodels.tsa.statespace.tests.test_dynamic_factor_mq_frbny_nowcast.test_emstep_methods_nonmissing": [],
+    "statsmodels.tsa.statespace.tests.test_dynamic_factor_mq_frbny_nowcast.test_news": []
+}

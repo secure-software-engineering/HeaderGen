@@ -1,0 +1,14 @@
+{
+    "statsmodels.gam.gam_penalties.UnivariateGamPenalty.__init__": [],
+    "statsmodels.gam.gam_penalties.UnivariateGamPenalty.func": [],
+    "statsmodels.gam.gam_penalties.UnivariateGamPenalty.deriv": [],
+    "statsmodels.gam.gam_penalties.UnivariateGamPenalty.deriv2": [],
+    "statsmodels.gam.gam_penalties.UnivariateGamPenalty.penalty_matrix": [],
+    "statsmodels.gam.gam_penalties.MultivariateGamPenalty.__init__": [],
+    "statsmodels.gam.gam_penalties.MultivariateGamPenalty.func": [],
+    "statsmodels.gam.gam_penalties.MultivariateGamPenalty.deriv": [],
+    "statsmodels.gam.gam_penalties.MultivariateGamPenalty.deriv2": [],
+    "statsmodels.gam.gam_penalties.MultivariateGamPenalty.penalty_matrix": [],
+    "statsmodels.gam.gam_penalties.UnivariateGamPenalty": [],
+    "statsmodels.gam.gam_penalties.MultivariateGamPenalty": []
+}

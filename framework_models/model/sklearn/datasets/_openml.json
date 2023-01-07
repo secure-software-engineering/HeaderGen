@@ -1,0 +1,22 @@
+{
+    "sklearn.datasets._openml._get_local_path": [],
+    "sklearn.datasets._openml._retry_with_clean_cache": [],
+    "sklearn.datasets._openml._open_openml_url": [],
+    "sklearn.datasets._openml._get_json_content_from_openml_api": [],
+    "sklearn.datasets._openml._split_sparse_columns": [],
+    "sklearn.datasets._openml._sparse_data_to_array": [],
+    "sklearn.datasets._openml._convert_arff_data": [],
+    "sklearn.datasets._openml._feature_to_dtype": [],
+    "sklearn.datasets._openml._convert_arff_data_dataframe": [],
+    "sklearn.datasets._openml._get_data_info_by_name": [],
+    "sklearn.datasets._openml._get_data_description_by_id": [],
+    "sklearn.datasets._openml._get_data_features": [],
+    "sklearn.datasets._openml._get_data_qualities": [],
+    "sklearn.datasets._openml._get_num_samples": [],
+    "sklearn.datasets._openml._load_arff_response": [],
+    "sklearn.datasets._openml._download_data_to_bunch": [],
+    "sklearn.datasets._openml._verify_target_data_type": [],
+    "sklearn.datasets._openml._valid_data_column_names": [],
+    "sklearn.datasets._openml.fetch_openml": [],
+    "sklearn.datasets._openml.OpenMLError": []
+}

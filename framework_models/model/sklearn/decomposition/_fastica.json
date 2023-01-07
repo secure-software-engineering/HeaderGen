@@ -1,0 +1,17 @@
+{
+    "sklearn.decomposition._fastica._gs_decorrelation": [],
+    "sklearn.decomposition._fastica._sym_decorrelation": [],
+    "sklearn.decomposition._fastica._ica_def": [],
+    "sklearn.decomposition._fastica._ica_par": [],
+    "sklearn.decomposition._fastica._logcosh": [],
+    "sklearn.decomposition._fastica._exp": [],
+    "sklearn.decomposition._fastica._cube": [],
+    "sklearn.decomposition._fastica.fastica": [],
+    "sklearn.decomposition._fastica.FastICA.__init__": [],
+    "sklearn.decomposition._fastica.FastICA._fit": [],
+    "sklearn.decomposition._fastica.FastICA.fit_transform": [],
+    "sklearn.decomposition._fastica.FastICA.fit": [],
+    "sklearn.decomposition._fastica.FastICA.transform": [],
+    "sklearn.decomposition._fastica.FastICA.inverse_transform": [],
+    "sklearn.decomposition._fastica.FastICA": []
+}

@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.keras.premade.linear.LinearModel.__init__": [],
+    "tensorflow.python.keras.premade.linear.LinearModel.build": [],
+    "tensorflow.python.keras.premade.linear.LinearModel.call": [],
+    "tensorflow.python.keras.premade.linear.LinearModel.get_config": [],
+    "tensorflow.python.keras.premade.linear.LinearModel.from_config": [],
+    "tensorflow.python.keras.premade.linear.LinearModel": []
+}

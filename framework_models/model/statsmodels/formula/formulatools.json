@@ -1,0 +1,9 @@
+{
+    "statsmodels.formula.formulatools.handle_formula_data": [],
+    "statsmodels.formula.formulatools._remove_intercept_patsy": [],
+    "statsmodels.formula.formulatools._has_intercept": [],
+    "statsmodels.formula.formulatools._intercept_idx": [],
+    "statsmodels.formula.formulatools.make_hypotheses_matrices": [],
+    "statsmodels.formula.formulatools.NAAction._handle_NA_drop": [],
+    "statsmodels.formula.formulatools.NAAction": []
+}

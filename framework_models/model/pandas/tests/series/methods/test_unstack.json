@@ -1,0 +1,6 @@
+{
+    "pandas.tests.series.methods.test_unstack.test_unstack": [],
+    "pandas.tests.series.methods.test_unstack.test_unstack_tuplename_in_multiindex": [],
+    "pandas.tests.series.methods.test_unstack.test_unstack_mixed_type_name_in_multiindex": [],
+    "pandas.tests.series.methods.test_unstack.test_unstack_multi_index_categorical_values": []
+}

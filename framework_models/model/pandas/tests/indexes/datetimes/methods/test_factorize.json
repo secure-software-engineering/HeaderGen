@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.datetimes.methods.test_factorize.TestDatetimeIndexFactorize.test_factorize": [],
+    "pandas.tests.indexes.datetimes.methods.test_factorize.TestDatetimeIndexFactorize.test_factorize_preserves_freq": [],
+    "pandas.tests.indexes.datetimes.methods.test_factorize.TestDatetimeIndexFactorize.test_factorize_tz": [],
+    "pandas.tests.indexes.datetimes.methods.test_factorize.TestDatetimeIndexFactorize.test_factorize_dst": [],
+    "pandas.tests.indexes.datetimes.methods.test_factorize.TestDatetimeIndexFactorize": []
+}

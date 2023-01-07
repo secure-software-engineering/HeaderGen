@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.gen_ragged_array_ops.ragged_cross": [],
+    "tensorflow.python.ops.gen_ragged_array_ops.ragged_cross_eager_fallback": [],
+    "tensorflow.python.ops.gen_ragged_array_ops.ragged_gather": [],
+    "tensorflow.python.ops.gen_ragged_array_ops.ragged_gather_eager_fallback": []
+}

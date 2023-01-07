@@ -1,0 +1,22 @@
+{
+    "tensorflow.python.tools.api.generator.create_python_api.get_canonical_import": [],
+    "tensorflow.python.tools.api.generator.create_python_api.add_nested_compat_imports": [],
+    "tensorflow.python.tools.api.generator.create_python_api._get_name_and_module": [],
+    "tensorflow.python.tools.api.generator.create_python_api._join_modules": [],
+    "tensorflow.python.tools.api.generator.create_python_api.add_imports_for_symbol": [],
+    "tensorflow.python.tools.api.generator.create_python_api.get_api_init_text": [],
+    "tensorflow.python.tools.api.generator.create_python_api.get_module": [],
+    "tensorflow.python.tools.api.generator.create_python_api.get_module_docstring": [],
+    "tensorflow.python.tools.api.generator.create_python_api.create_api_files": [],
+    "tensorflow.python.tools.api.generator.create_python_api.main": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder.__init__": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder._check_already_imported": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder.add_import": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder._import_submodules": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder.build": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder.format_import": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder.get_destination_modules": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder.copy_imports": [],
+    "tensorflow.python.tools.api.generator.create_python_api.SymbolExposedTwiceError": [],
+    "tensorflow.python.tools.api.generator.create_python_api._ModuleInitCodeBuilder": []
+}

@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.tests.test_npy_pkg_config.TestLibraryInfo.test_simple": [],
+    "numpy.distutils.tests.test_npy_pkg_config.TestLibraryInfo.test_simple_variable": [],
+    "numpy.distutils.tests.test_npy_pkg_config.TestParseFlags.test_simple_cflags": [],
+    "numpy.distutils.tests.test_npy_pkg_config.TestParseFlags.test_simple_lflags": [],
+    "numpy.distutils.tests.test_npy_pkg_config.TestLibraryInfo": [],
+    "numpy.distutils.tests.test_npy_pkg_config.TestParseFlags": []
+}

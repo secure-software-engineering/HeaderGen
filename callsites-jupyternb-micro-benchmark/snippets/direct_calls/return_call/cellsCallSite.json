@@ -1,0 +1,7 @@
+{
+  "3": [
+    "main_nb.func:2",
+    "main_nb.return_func:1",
+    "main_nb.return_func:1.nested_return_func:1"
+  ]
+}

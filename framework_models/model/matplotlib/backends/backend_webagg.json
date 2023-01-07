@@ -1,0 +1,12 @@
+{
+    "matplotlib.backends.backend_webagg.ipython_inline_display": [],
+    "matplotlib.backends.backend_webagg.ServerThread.run": [],
+    "matplotlib.backends.backend_webagg.WebAggApplication.__init__": [],
+    "matplotlib.backends.backend_webagg.WebAggApplication.initialize": [],
+    "matplotlib.backends.backend_webagg.WebAggApplication.start": [],
+    "matplotlib.backends.backend_webagg._BackendWebAgg.show": [],
+    "matplotlib.backends.backend_webagg.ServerThread": [],
+    "matplotlib.backends.backend_webagg.FigureCanvasWebAgg": [],
+    "matplotlib.backends.backend_webagg.WebAggApplication": [],
+    "matplotlib.backends.backend_webagg._BackendWebAgg": []
+}

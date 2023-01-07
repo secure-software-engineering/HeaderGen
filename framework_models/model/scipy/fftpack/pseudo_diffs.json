@@ -1,0 +1,12 @@
+{
+    "scipy.fftpack.pseudo_diffs.diff": [],
+    "scipy.fftpack.pseudo_diffs.tilbert": [],
+    "scipy.fftpack.pseudo_diffs.itilbert": [],
+    "scipy.fftpack.pseudo_diffs.hilbert": [],
+    "scipy.fftpack.pseudo_diffs.ihilbert": [],
+    "scipy.fftpack.pseudo_diffs.cs_diff": [],
+    "scipy.fftpack.pseudo_diffs.sc_diff": [],
+    "scipy.fftpack.pseudo_diffs.ss_diff": [],
+    "scipy.fftpack.pseudo_diffs.cc_diff": [],
+    "scipy.fftpack.pseudo_diffs.shift": []
+}

@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.fcompiler.nv.NVHPCFCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.nv.NVHPCFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.nv.NVHPCFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.nv.NVHPCFCompiler.get_flags_linker_so": [],
+    "numpy.distutils.fcompiler.nv.NVHPCFCompiler.runtime_library_dir_option": [],
+    "numpy.distutils.fcompiler.nv.NVHPCFCompiler": []
+}

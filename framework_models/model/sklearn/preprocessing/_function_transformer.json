@@ -1,0 +1,13 @@
+{
+    "sklearn.preprocessing._function_transformer._identity": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer.__init__": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer._check_input": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer._check_inverse_transform": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer.fit": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer.transform": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer.inverse_transform": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer._transform": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer.__sklearn_is_fitted__": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer._more_tags": [],
+    "sklearn.preprocessing._function_transformer.FunctionTransformer": []
+}

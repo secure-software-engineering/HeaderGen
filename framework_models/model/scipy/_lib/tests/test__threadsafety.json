@@ -1,0 +1,4 @@
+{
+    "scipy._lib.tests.test__threadsafety.test_parallel_threads": [],
+    "scipy._lib.tests.test__threadsafety.test_reentering": []
+}

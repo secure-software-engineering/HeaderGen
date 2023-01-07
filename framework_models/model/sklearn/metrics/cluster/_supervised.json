@@ -1,0 +1,17 @@
+{
+    "sklearn.metrics.cluster._supervised.check_clusterings": [],
+    "sklearn.metrics.cluster._supervised._generalized_average": [],
+    "sklearn.metrics.cluster._supervised.contingency_matrix": [],
+    "sklearn.metrics.cluster._supervised.pair_confusion_matrix": [],
+    "sklearn.metrics.cluster._supervised.rand_score": [],
+    "sklearn.metrics.cluster._supervised.adjusted_rand_score": [],
+    "sklearn.metrics.cluster._supervised.homogeneity_completeness_v_measure": [],
+    "sklearn.metrics.cluster._supervised.homogeneity_score": [],
+    "sklearn.metrics.cluster._supervised.completeness_score": [],
+    "sklearn.metrics.cluster._supervised.v_measure_score": [],
+    "sklearn.metrics.cluster._supervised.mutual_info_score": [],
+    "sklearn.metrics.cluster._supervised.adjusted_mutual_info_score": [],
+    "sklearn.metrics.cluster._supervised.normalized_mutual_info_score": [],
+    "sklearn.metrics.cluster._supervised.fowlkes_mallows_score": [],
+    "sklearn.metrics.cluster._supervised.entropy": []
+}

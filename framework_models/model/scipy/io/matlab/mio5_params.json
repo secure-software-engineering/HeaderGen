@@ -1,0 +1,11 @@
+{
+    "scipy.io.matlab.mio5_params._convert_codecs": [],
+    "scipy.io.matlab.mio5_params.MatlabObject.__new__": [],
+    "scipy.io.matlab.mio5_params.MatlabObject.__array_finalize__": [],
+    "scipy.io.matlab.mio5_params.MatlabFunction.__new__": [],
+    "scipy.io.matlab.mio5_params.MatlabOpaque.__new__": [],
+    "scipy.io.matlab.mio5_params.mat_struct": [],
+    "scipy.io.matlab.mio5_params.MatlabObject": [],
+    "scipy.io.matlab.mio5_params.MatlabFunction": [],
+    "scipy.io.matlab.mio5_params.MatlabOpaque": []
+}

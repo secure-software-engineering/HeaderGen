@@ -1,0 +1,9 @@
+{
+    "sklearn.kernel_ridge.KernelRidge.__init__": [],
+    "sklearn.kernel_ridge.KernelRidge._get_kernel": [],
+    "sklearn.kernel_ridge.KernelRidge._more_tags": [],
+    "sklearn.kernel_ridge.KernelRidge._pairwise": [],
+    "sklearn.kernel_ridge.KernelRidge.fit": [],
+    "sklearn.kernel_ridge.KernelRidge.predict": [],
+    "sklearn.kernel_ridge.KernelRidge": []
+}

@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.ops.ragged.ragged_util.assert_splits_match": [],
+    "tensorflow.python.ops.ragged.ragged_util.lengths_to_splits": [],
+    "tensorflow.python.ops.ragged.ragged_util.repeat_ranges": []
+}

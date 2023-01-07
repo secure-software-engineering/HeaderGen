@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.util.type_annotations.is_generic_union": [],
+    "tensorflow.python.util.type_annotations.is_generic_tuple": [],
+    "tensorflow.python.util.type_annotations.is_generic_list": [],
+    "tensorflow.python.util.type_annotations.is_generic_mapping": [],
+    "tensorflow.python.util.type_annotations.is_forward_ref": []
+}

@@ -1,0 +1,7 @@
+{
+    "scipy.linalg.tests.test_decomp_ldl.test_args": [],
+    "scipy.linalg.tests.test_decomp_ldl.test_empty_array": [],
+    "scipy.linalg.tests.test_decomp_ldl.test_simple": [],
+    "scipy.linalg.tests.test_decomp_ldl.test_permutations": [],
+    "scipy.linalg.tests.test_decomp_ldl.test_ldl_type_size_combinations": []
+}

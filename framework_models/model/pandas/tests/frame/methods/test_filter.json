@@ -1,0 +1,9 @@
+{
+    "pandas.tests.frame.methods.test_filter.TestDataFrameFilter.test_filter": [],
+    "pandas.tests.frame.methods.test_filter.TestDataFrameFilter.test_filter_regex_search": [],
+    "pandas.tests.frame.methods.test_filter.TestDataFrameFilter.test_filter_unicode": [],
+    "pandas.tests.frame.methods.test_filter.TestDataFrameFilter.test_filter_bytestring": [],
+    "pandas.tests.frame.methods.test_filter.TestDataFrameFilter.test_filter_corner": [],
+    "pandas.tests.frame.methods.test_filter.TestDataFrameFilter.test_filter_regex_non_string": [],
+    "pandas.tests.frame.methods.test_filter.TestDataFrameFilter": []
+}

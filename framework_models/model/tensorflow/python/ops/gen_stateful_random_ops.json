@@ -1,0 +1,22 @@
+{
+    "tensorflow.python.ops.gen_stateful_random_ops.non_deterministic_ints": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.non_deterministic_ints_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.rng_read_and_skip": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.rng_read_and_skip_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.rng_skip": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.rng_skip_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_random_binomial": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_random_binomial_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_standard_normal": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_standard_normal_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_standard_normal_v2": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_standard_normal_v2_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_truncated_normal": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_truncated_normal_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_uniform": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_uniform_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_uniform_full_int": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_uniform_full_int_eager_fallback": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_uniform_int": [],
+    "tensorflow.python.ops.gen_stateful_random_ops.stateful_uniform_int_eager_fallback": []
+}

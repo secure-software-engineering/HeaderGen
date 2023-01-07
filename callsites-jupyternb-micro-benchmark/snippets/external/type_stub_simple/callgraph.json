@@ -1,0 +1,6 @@
+{
+    "main": [
+        "pandas.core.frame.DataFrame",
+        "pandas.core.frame.DataFrame.head"
+    ]
+}

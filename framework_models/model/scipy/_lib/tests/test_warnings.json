@@ -1,0 +1,12 @@
+{
+    "scipy._lib.tests.test_warnings.warning_calls": [],
+    "scipy._lib.tests.test_warnings.test_warning_calls_filters": [],
+    "scipy._lib.tests.test_warnings.test_warning_calls_stacklevels": [],
+    "scipy._lib.tests.test_warnings.ParseCall.__init__": [],
+    "scipy._lib.tests.test_warnings.ParseCall.visit_Attribute": [],
+    "scipy._lib.tests.test_warnings.ParseCall.visit_Name": [],
+    "scipy._lib.tests.test_warnings.FindFuncs.__init__": [],
+    "scipy._lib.tests.test_warnings.FindFuncs.visit_Call": [],
+    "scipy._lib.tests.test_warnings.ParseCall": [],
+    "scipy._lib.tests.test_warnings.FindFuncs": []
+}

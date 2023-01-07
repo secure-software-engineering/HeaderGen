@@ -1,0 +1,6 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_histogram.test_build_histogram": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_histogram.test_histogram_sample_order_independence": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_histogram.test_unrolled_equivalent_to_naive": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_histogram.test_hist_subtraction": []
+}

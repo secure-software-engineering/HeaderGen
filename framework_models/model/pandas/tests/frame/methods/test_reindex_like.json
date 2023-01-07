@@ -1,0 +1,6 @@
+{
+    "pandas.tests.frame.methods.test_reindex_like.TestDataFrameReindexLike.test_reindex_like": [],
+    "pandas.tests.frame.methods.test_reindex_like.TestDataFrameReindexLike.test_reindex_like_methods": [],
+    "pandas.tests.frame.methods.test_reindex_like.TestDataFrameReindexLike.test_reindex_like_subclass": [],
+    "pandas.tests.frame.methods.test_reindex_like.TestDataFrameReindexLike": []
+}

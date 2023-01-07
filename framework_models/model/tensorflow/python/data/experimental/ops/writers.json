@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.data.experimental.ops.writers.TFRecordWriter.__init__": [],
+    "tensorflow.python.data.experimental.ops.writers.TFRecordWriter.write": [],
+    "tensorflow.python.data.experimental.ops.writers.TFRecordWriter": []
+}

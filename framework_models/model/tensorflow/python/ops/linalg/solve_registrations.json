@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_inverse_linear_operator": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_identity_left": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_identity_right": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_scaled_identity": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_diag": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_diag_scaled_identity_right": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_diag_scaled_identity_left": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_diag_tril": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_circulant_circulant": [],
+    "tensorflow.python.ops.linalg.solve_registrations._solve_linear_operator_block_diag_block_diag": []
+}

@@ -1,0 +1,33 @@
+from tensorflow.python.debug.cli import command_parser as command_parser, debugger_cli_common as debugger_cli_common, tensor_format as tensor_format
+from tensorflow.python.debug.lib import common as common
+from tensorflow.python.framework import ops as ops
+from tensorflow.python.ops import variables as variables
+from tensorflow.python.platform import gfile as gfile
+from typing import Any
+
+RL: Any
+DEFAULT_NDARRAY_DISPLAY_THRESHOLD: int
+COLOR_BLACK: str
+COLOR_BLUE: str
+COLOR_CYAN: str
+COLOR_GRAY: str
+COLOR_GREEN: str
+COLOR_MAGENTA: str
+COLOR_RED: str
+COLOR_WHITE: str
+COLOR_YELLOW: str
+TIME_UNIT_US: str
+TIME_UNIT_MS: str
+TIME_UNIT_S: str
+TIME_UNITS: Any
+
+def bytes_to_readable_str(num_bytes, include_b: bool = ...): ...
+def time_to_readable_str(value_us, force_time_unit: Any | None = ...): ...
+def parse_ranges_highlight(ranges_string): ...
+def numpy_printoptions_from_screen_info(screen_info): ...
+def format_tensor(tensor, tensor_name, np_printoptions, print_all: bool = ..., tensor_slicing: Any | None = ..., highlight_options: Any | None = ..., include_numeric_summary: bool = ..., write_path: Any | None = ...): ...
+def error(msg): ...
+def get_tfdbg_logo(): ...
+def get_run_start_intro(run_call_count, fetches, feed_dict, tensor_filters, is_callable_runner: bool = ...): ...
+def get_run_short_description(run_call_count, fetches, feed_dict, is_callable_runner: bool = ...): ...
+def get_error_intro(tf_error): ...

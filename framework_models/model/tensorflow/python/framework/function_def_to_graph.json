@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.framework.function_def_to_graph.function_def_to_graph": [],
+    "tensorflow.python.framework.function_def_to_graph.is_function": [],
+    "tensorflow.python.framework.function_def_to_graph.function_def_to_graph_def": [],
+    "tensorflow.python.framework.function_def_to_graph._get_num_args": [],
+    "tensorflow.python.framework.function_def_to_graph._set_handle_data": []
+}

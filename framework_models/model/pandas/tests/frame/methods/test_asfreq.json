@@ -1,0 +1,9 @@
+{
+    "pandas.tests.frame.methods.test_asfreq.TestAsFreq.test_asfreq_resample_set_correct_freq": [],
+    "pandas.tests.frame.methods.test_asfreq.TestAsFreq.test_asfreq": [],
+    "pandas.tests.frame.methods.test_asfreq.TestAsFreq.test_asfreq_datetimeindex": [],
+    "pandas.tests.frame.methods.test_asfreq.TestAsFreq.test_asfreq_fillvalue": [],
+    "pandas.tests.frame.methods.test_asfreq.TestAsFreq.test_asfreq_with_date_object_index": [],
+    "pandas.tests.frame.methods.test_asfreq.TestAsFreq.test_asfreq_with_unsorted_index": [],
+    "pandas.tests.frame.methods.test_asfreq.TestAsFreq": []
+}

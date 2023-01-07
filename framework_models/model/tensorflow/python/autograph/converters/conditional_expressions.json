@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.autograph.converters.conditional_expressions.transform": [],
+    "tensorflow.python.autograph.converters.conditional_expressions.ConditionalExpressionTransformer.visit_IfExp": [],
+    "tensorflow.python.autograph.converters.conditional_expressions.ConditionalExpressionTransformer": []
+}

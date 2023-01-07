@@ -1,0 +1,11 @@
+{
+    "scipy.stats.tests.test_crosstab.test_crosstab_basic": [],
+    "scipy.stats.tests.test_crosstab.test_crosstab_basic_1d": [],
+    "scipy.stats.tests.test_crosstab.test_crosstab_basic_3d": [],
+    "scipy.stats.tests.test_crosstab.test_crosstab_levels": [],
+    "scipy.stats.tests.test_crosstab.test_crosstab_extra_levels": [],
+    "scipy.stats.tests.test_crosstab.test_validation_at_least_one": [],
+    "scipy.stats.tests.test_crosstab.test_validation_same_lengths": [],
+    "scipy.stats.tests.test_crosstab.test_validation_sparse_only_two_args": [],
+    "scipy.stats.tests.test_crosstab.test_validation_len_levels_matches_args": []
+}

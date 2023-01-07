@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2.__init__": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2._connect_to_cluster": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2._verify_args_and_config": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended.__init__": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._set_num_gpus": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._num_replicas_in_sync": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._create_var_creator": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._create_variable": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._create_variable_round_robin": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._resource_creator_scope": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._assert_used_with_cluster_coordinator": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._assert_being_scheduled_by_cluster_coordinator": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._input_workers_with_options": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._experimental_distribute_dataset": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._distribute_datasets_from_function": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended.worker_devices": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._call_for_each_replica": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._reduce": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended._reduce_to": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2": [],
+    "tensorflow.python.distribute.parameter_server_strategy_v2.ParameterServerStrategyV2Extended": []
+}

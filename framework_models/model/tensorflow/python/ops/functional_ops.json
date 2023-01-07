@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.ops.functional_ops.foldl": [],
+    "tensorflow.python.ops.functional_ops.foldl_v2": [],
+    "tensorflow.python.ops.functional_ops.foldr": [],
+    "tensorflow.python.ops.functional_ops.foldr_v2": [],
+    "tensorflow.python.ops.functional_ops.scan": [],
+    "tensorflow.python.ops.functional_ops.scan_v2": [],
+    "tensorflow.python.ops.functional_ops.If": [],
+    "tensorflow.python.ops.functional_ops.Gradient": [],
+    "tensorflow.python.ops.functional_ops._GetInputDtypes": [],
+    "tensorflow.python.ops.functional_ops._LoopBodyCaptureWrapper": [],
+    "tensorflow.python.ops.functional_ops.While": [],
+    "tensorflow.python.ops.functional_ops._ForUsingWhile": [],
+    "tensorflow.python.ops.functional_ops.For": [],
+    "tensorflow.python.ops.functional_ops.partitioned_call": [],
+    "tensorflow.python.ops.functional_ops._set_read_only_resource_inputs_attr": []
+}

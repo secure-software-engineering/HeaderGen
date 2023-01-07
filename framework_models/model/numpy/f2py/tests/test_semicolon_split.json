@@ -1,0 +1,6 @@
+{
+    "numpy.f2py.tests.test_semicolon_split.TestMultiline.test_multiline": [],
+    "numpy.f2py.tests.test_semicolon_split.TestCallstatement.test_callstatement": [],
+    "numpy.f2py.tests.test_semicolon_split.TestMultiline": [],
+    "numpy.f2py.tests.test_semicolon_split.TestCallstatement": []
+}

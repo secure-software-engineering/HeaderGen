@@ -1,0 +1,21 @@
+{
+    "sklearn.datasets._base.get_data_home": [],
+    "sklearn.datasets._base.clear_data_home": [],
+    "sklearn.datasets._base._convert_data_dataframe": [],
+    "sklearn.datasets._base.load_files": [],
+    "sklearn.datasets._base.load_csv_data": [],
+    "sklearn.datasets._base.load_gzip_compressed_csv_data": [],
+    "sklearn.datasets._base.load_descr": [],
+    "sklearn.datasets._base.load_wine": [],
+    "sklearn.datasets._base.load_iris": [],
+    "sklearn.datasets._base.load_breast_cancer": [],
+    "sklearn.datasets._base.load_digits": [],
+    "sklearn.datasets._base.load_diabetes": [],
+    "sklearn.datasets._base.load_linnerud": [],
+    "sklearn.datasets._base.load_boston": [],
+    "sklearn.datasets._base.load_sample_images": [],
+    "sklearn.datasets._base.load_sample_image": [],
+    "sklearn.datasets._base._pkl_filepath": [],
+    "sklearn.datasets._base._sha256": [],
+    "sklearn.datasets._base._fetch_remote": []
+}

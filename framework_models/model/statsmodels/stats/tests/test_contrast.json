@@ -1,0 +1,9 @@
+{
+    "statsmodels.stats.tests.test_contrast.test_constraints": [],
+    "statsmodels.stats.tests.test_contrast.TestContrast.setup_class": [],
+    "statsmodels.stats.tests.test_contrast.TestContrast.test_contrast1": [],
+    "statsmodels.stats.tests.test_contrast.TestContrast.test_contrast2": [],
+    "statsmodels.stats.tests.test_contrast.TestContrast.test_contrast3": [],
+    "statsmodels.stats.tests.test_contrast.TestContrast.test_estimable": [],
+    "statsmodels.stats.tests.test_contrast.TestContrast": []
+}

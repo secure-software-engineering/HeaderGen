@@ -1,0 +1,8 @@
+{
+    "statsmodels.distributions.tests.test_ecdf.TestDistributions.test_StepFunction": [],
+    "statsmodels.distributions.tests.test_ecdf.TestDistributions.test_StepFunctionBadShape": [],
+    "statsmodels.distributions.tests.test_ecdf.TestDistributions.test_StepFunctionValueSideRight": [],
+    "statsmodels.distributions.tests.test_ecdf.TestDistributions.test_StepFunctionRepeatedValues": [],
+    "statsmodels.distributions.tests.test_ecdf.TestDistributions.test_monotone_fn_inverter": [],
+    "statsmodels.distributions.tests.test_ecdf.TestDistributions": []
+}

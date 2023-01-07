@@ -1,0 +1,17 @@
+{
+    "pandas.tests.series.indexing.test_datetime.test_fancy_getitem": [],
+    "pandas.tests.series.indexing.test_datetime.test_fancy_setitem": [],
+    "pandas.tests.series.indexing.test_datetime.test_getitem_setitem_datetime_tz": [],
+    "pandas.tests.series.indexing.test_datetime.test_getitem_setitem_datetimeindex": [],
+    "pandas.tests.series.indexing.test_datetime.test_getitem_setitem_periodindex": [],
+    "pandas.tests.series.indexing.test_datetime.test_datetime_indexing": [],
+    "pandas.tests.series.indexing.test_datetime.test_indexing_with_duplicate_datetimeindex": [],
+    "pandas.tests.series.indexing.test_datetime.test_loc_getitem_over_size_cutoff": [],
+    "pandas.tests.series.indexing.test_datetime.test_indexing_over_size_cutoff_period_index": [],
+    "pandas.tests.series.indexing.test_datetime.test_indexing_unordered": [],
+    "pandas.tests.series.indexing.test_datetime.test_indexing_unordered2": [],
+    "pandas.tests.series.indexing.test_datetime.test_indexing": [],
+    "pandas.tests.series.indexing.test_datetime.test_getitem_str_month_with_datetimeindex": [],
+    "pandas.tests.series.indexing.test_datetime.test_getitem_str_year_with_datetimeindex": [],
+    "pandas.tests.series.indexing.test_datetime.test_getitem_str_second_with_datetimeindex": []
+}

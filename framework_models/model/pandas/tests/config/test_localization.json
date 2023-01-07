@@ -1,0 +1,9 @@
+{
+    "pandas.tests.config.test_localization.test_can_set_locale_valid_set": [],
+    "pandas.tests.config.test_localization.test_can_set_locale_invalid_set": [],
+    "pandas.tests.config.test_localization.test_can_set_locale_invalid_get": [],
+    "pandas.tests.config.test_localization.test_get_locales_at_least_one": [],
+    "pandas.tests.config.test_localization.test_get_locales_prefix": [],
+    "pandas.tests.config.test_localization.test_set_locale": [],
+    "pandas.tests.config.test_localization.test_encoding_detected": []
+}

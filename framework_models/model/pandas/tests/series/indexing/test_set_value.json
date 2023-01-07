@@ -1,0 +1,5 @@
+{
+    "pandas.tests.series.indexing.test_set_value.test_series_set_value": [],
+    "pandas.tests.series.indexing.test_set_value.test_set_value_dt64": [],
+    "pandas.tests.series.indexing.test_set_value.test_set_value_str_index": []
+}

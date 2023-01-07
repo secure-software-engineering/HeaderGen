@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.scotland.data.load": [],
+    "statsmodels.datasets.scotland.data.load_pandas": [],
+    "statsmodels.datasets.scotland.data._get_data": []
+}

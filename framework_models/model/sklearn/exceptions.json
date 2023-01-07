@@ -1,0 +1,13 @@
+{
+    "sklearn.exceptions.NotFittedError": [],
+    "sklearn.exceptions.ChangedBehaviorWarning": [],
+    "sklearn.exceptions.ConvergenceWarning": [],
+    "sklearn.exceptions.DataConversionWarning": [],
+    "sklearn.exceptions.DataDimensionalityWarning": [],
+    "sklearn.exceptions.EfficiencyWarning": [],
+    "sklearn.exceptions.FitFailedWarning": [],
+    "sklearn.exceptions.NonBLASDotWarning": [],
+    "sklearn.exceptions.SkipTestWarning": [],
+    "sklearn.exceptions.UndefinedMetricWarning": [],
+    "sklearn.exceptions.PositiveSpectrumWarning": []
+}

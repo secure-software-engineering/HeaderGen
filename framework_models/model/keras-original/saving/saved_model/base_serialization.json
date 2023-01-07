@@ -1,0 +1,11 @@
+{
+    "keras.saving.saved_model.base_serialization.SavedModelSaver.__init__": [],
+    "keras.saving.saved_model.base_serialization.SavedModelSaver.object_identifier": [],
+    "keras.saving.saved_model.base_serialization.SavedModelSaver.tracking_metadata": [],
+    "keras.saving.saved_model.base_serialization.SavedModelSaver.list_extra_dependencies_for_serialization": [],
+    "keras.saving.saved_model.base_serialization.SavedModelSaver.list_functions_for_serialization": [],
+    "keras.saving.saved_model.base_serialization.SavedModelSaver.python_properties": [],
+    "keras.saving.saved_model.base_serialization.SavedModelSaver.objects_to_serialize": [],
+    "keras.saving.saved_model.base_serialization.SavedModelSaver.functions_to_serialize": [],
+    "keras.saving.saved_model.base_serialization.SavedModelSaver": []
+}

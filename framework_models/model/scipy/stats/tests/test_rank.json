@@ -1,0 +1,18 @@
+{
+    "scipy.stats.tests.test_rank.test_cases": [],
+    "scipy.stats.tests.test_rank.TestTieCorrect.test_empty": [],
+    "scipy.stats.tests.test_rank.TestTieCorrect.test_one": [],
+    "scipy.stats.tests.test_rank.TestTieCorrect.test_no_correction": [],
+    "scipy.stats.tests.test_rank.TestTieCorrect.test_basic": [],
+    "scipy.stats.tests.test_rank.TestTieCorrect.test_overflow": [],
+    "scipy.stats.tests.test_rank.TestRankData.test_empty": [],
+    "scipy.stats.tests.test_rank.TestRankData.test_one": [],
+    "scipy.stats.tests.test_rank.TestRankData.test_basic": [],
+    "scipy.stats.tests.test_rank.TestRankData.test_rankdata_object_string": [],
+    "scipy.stats.tests.test_rank.TestRankData.test_large_int": [],
+    "scipy.stats.tests.test_rank.TestRankData.test_big_tie": [],
+    "scipy.stats.tests.test_rank.TestRankData.test_axis": [],
+    "scipy.stats.tests.test_rank.TestRankData.test_size_0_axis": [],
+    "scipy.stats.tests.test_rank.TestTieCorrect": [],
+    "scipy.stats.tests.test_rank.TestRankData": []
+}

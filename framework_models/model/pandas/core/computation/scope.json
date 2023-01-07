@@ -1,0 +1,17 @@
+{
+    "pandas.core.computation.scope.ensure_scope": [],
+    "pandas.core.computation.scope._replacer": [],
+    "pandas.core.computation.scope._raw_hex_id": [],
+    "pandas.core.computation.scope._get_pretty_string": [],
+    "pandas.core.computation.scope.Scope.__init__": [],
+    "pandas.core.computation.scope.Scope.__repr__": [],
+    "pandas.core.computation.scope.Scope.has_resolvers": [],
+    "pandas.core.computation.scope.Scope.resolve": [],
+    "pandas.core.computation.scope.Scope.swapkey": [],
+    "pandas.core.computation.scope.Scope._get_vars": [],
+    "pandas.core.computation.scope.Scope._update": [],
+    "pandas.core.computation.scope.Scope.add_tmp": [],
+    "pandas.core.computation.scope.Scope.ntemps": [],
+    "pandas.core.computation.scope.Scope.full_scope": [],
+    "pandas.core.computation.scope.Scope": []
+}

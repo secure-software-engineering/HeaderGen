@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.saved_model.revived_types.register_revived_type": [],
+    "tensorflow.python.saved_model.revived_types.serialize": [],
+    "tensorflow.python.saved_model.revived_types.deserialize": [],
+    "tensorflow.python.saved_model.revived_types.registered_identifiers": [],
+    "tensorflow.python.saved_model.revived_types.get_setter": [],
+    "tensorflow.python.saved_model.revived_types.VersionedTypeRegistration.__init__": [],
+    "tensorflow.python.saved_model.revived_types.VersionedTypeRegistration.to_proto": [],
+    "tensorflow.python.saved_model.revived_types.VersionedTypeRegistration.from_proto": [],
+    "tensorflow.python.saved_model.revived_types.VersionedTypeRegistration.should_load": [],
+    "tensorflow.python.saved_model.revived_types.VersionedTypeRegistration": []
+}

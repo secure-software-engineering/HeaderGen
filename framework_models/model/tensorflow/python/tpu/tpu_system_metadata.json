@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.tpu.tpu_system_metadata._query_tpu_system_metadata": [],
+    "tensorflow.python.tpu.tpu_system_metadata._obtain_topology": [],
+    "tensorflow.python.tpu.tpu_system_metadata.get_session_config_with_timeout": [],
+    "tensorflow.python.tpu.tpu_system_metadata.master_job": [],
+    "tensorflow.python.tpu.tpu_system_metadata.TPUSystemMetadata.__new__": [],
+    "tensorflow.python.tpu.tpu_system_metadata.TPUSystemMetadata": []
+}

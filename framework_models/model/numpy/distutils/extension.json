@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.extension.Extension.__init__": [],
+    "numpy.distutils.extension.Extension.has_cxx_sources": [],
+    "numpy.distutils.extension.Extension.has_f2py_sources": [],
+    "numpy.distutils.extension.Extension": []
+}

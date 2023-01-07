@@ -1,0 +1,15 @@
+{
+    "pandas.tests.indexes.numeric.test_setops.index_large": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps.test_union_non_numeric": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps.test_intersection": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps.test_int_float_union_dtype": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps.test_range_float_union_dtype": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps.test_float64_index_difference": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps.test_intersection_uint64_outside_int64_range": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps.test_intersection_monotonic": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps.test_symmetric_difference": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOpsSort.test_union_sort_other_special": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOpsSort.test_union_sort_special_true": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOps": [],
+    "pandas.tests.indexes.numeric.test_setops.TestSetOpsSort": []
+}

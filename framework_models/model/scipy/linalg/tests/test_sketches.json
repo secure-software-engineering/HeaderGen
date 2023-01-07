@@ -1,0 +1,8 @@
+{
+    "scipy.linalg.tests.test_sketches.TestClarksonWoodruffTransform.test_sketch_dimensions": [],
+    "scipy.linalg.tests.test_sketches.TestClarksonWoodruffTransform.test_seed_returns_identical_transform_matrix": [],
+    "scipy.linalg.tests.test_sketches.TestClarksonWoodruffTransform.test_seed_returns_identically": [],
+    "scipy.linalg.tests.test_sketches.TestClarksonWoodruffTransform.test_sketch_preserves_frobenius_norm": [],
+    "scipy.linalg.tests.test_sketches.TestClarksonWoodruffTransform.test_sketch_preserves_vector_norm": [],
+    "scipy.linalg.tests.test_sketches.TestClarksonWoodruffTransform": []
+}

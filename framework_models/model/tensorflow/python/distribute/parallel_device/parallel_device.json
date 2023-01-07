@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.distribute.parallel_device.parallel_device.unpack": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice.__init__": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice._pack_tensor": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice.pack": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice._unpack_tensor": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice.unpack": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice.device_ids": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice._assert_eager": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice.__enter__": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice.__exit__": [],
+    "tensorflow.python.distribute.parallel_device.parallel_device.ParallelDevice": []
+}

@@ -1,0 +1,21 @@
+{
+    "keras.engine.training_generator_v1.model_iteration": [],
+    "keras.engine.training_generator_v1._get_next_batch": [],
+    "keras.engine.training_generator_v1._validate_arguments": [],
+    "keras.engine.training_generator_v1.convert_to_generator_like": [],
+    "keras.engine.training_generator_v1._make_enqueued_generator": [],
+    "keras.engine.training_generator_v1._make_execution_function": [],
+    "keras.engine.training_generator_v1._get_num_samples_or_steps": [],
+    "keras.engine.training_generator_v1.GeneratorOrSequenceTrainingLoop.fit": [],
+    "keras.engine.training_generator_v1.GeneratorOrSequenceTrainingLoop.evaluate": [],
+    "keras.engine.training_generator_v1.GeneratorOrSequenceTrainingLoop.predict": [],
+    "keras.engine.training_generator_v1.EagerDatasetOrIteratorTrainingLoop.fit": [],
+    "keras.engine.training_generator_v1.EagerDatasetOrIteratorTrainingLoop.evaluate": [],
+    "keras.engine.training_generator_v1.EagerDatasetOrIteratorTrainingLoop.predict": [],
+    "keras.engine.training_generator_v1.GeneratorLikeTrainingLoop.fit": [],
+    "keras.engine.training_generator_v1.GeneratorLikeTrainingLoop.evaluate": [],
+    "keras.engine.training_generator_v1.GeneratorLikeTrainingLoop.predict": [],
+    "keras.engine.training_generator_v1.GeneratorOrSequenceTrainingLoop": [],
+    "keras.engine.training_generator_v1.EagerDatasetOrIteratorTrainingLoop": [],
+    "keras.engine.training_generator_v1.GeneratorLikeTrainingLoop": []
+}

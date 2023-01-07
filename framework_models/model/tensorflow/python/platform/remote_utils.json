@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.platform.remote_utils.get_default_communication_protocol": [],
+    "tensorflow.python.platform.remote_utils.is_remote_path": [],
+    "tensorflow.python.platform.remote_utils.get_appendable_file_encoding": [],
+    "tensorflow.python.platform.remote_utils.coordination_service_type": []
+}

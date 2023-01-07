@@ -1,0 +1,6 @@
+{
+    "statsmodels.tools.tests.test_eval_measures.test_eval_measures": [],
+    "statsmodels.tools.tests.test_eval_measures.test_ic_equivalence": [],
+    "statsmodels.tools.tests.test_eval_measures.test_ic": [],
+    "statsmodels.tools.tests.test_eval_measures.test_iqr_axis": []
+}

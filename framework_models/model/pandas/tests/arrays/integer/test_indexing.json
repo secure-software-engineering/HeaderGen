@@ -1,0 +1,4 @@
+{
+    "pandas.tests.arrays.integer.test_indexing.test_array_setitem_nullable_boolean_mask": [],
+    "pandas.tests.arrays.integer.test_indexing.test_array_setitem": []
+}

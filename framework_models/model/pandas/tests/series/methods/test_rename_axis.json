@@ -1,0 +1,6 @@
+{
+    "pandas.tests.series.methods.test_rename_axis.TestSeriesRenameAxis.test_rename_axis_mapper": [],
+    "pandas.tests.series.methods.test_rename_axis.TestSeriesRenameAxis.test_rename_axis_inplace": [],
+    "pandas.tests.series.methods.test_rename_axis.TestSeriesRenameAxis.test_rename_axis_none": [],
+    "pandas.tests.series.methods.test_rename_axis.TestSeriesRenameAxis": []
+}

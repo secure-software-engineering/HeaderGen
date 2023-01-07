@@ -1,0 +1,9 @@
+{
+    "tensorflow.lite.toco.logging.gen_html.html_escape": [],
+    "tensorflow.lite.toco.logging.gen_html.get_input_type_from_signature": [],
+    "tensorflow.lite.toco.logging.gen_html.get_operator_type": [],
+    "tensorflow.lite.toco.logging.gen_html.gen_conversion_log_html": [],
+    "tensorflow.lite.toco.logging.gen_html.HTMLGenerator.__init__": [],
+    "tensorflow.lite.toco.logging.gen_html.HTMLGenerator.generate": [],
+    "tensorflow.lite.toco.logging.gen_html.HTMLGenerator": []
+}

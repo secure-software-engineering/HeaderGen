@@ -1,0 +1,6 @@
+{
+    "pandas.core.ops.common.unpack_zerodim_and_defer": [],
+    "pandas.core.ops.common._unpack_zerodim_and_defer": [],
+    "pandas.core.ops.common.get_op_result_name": [],
+    "pandas.core.ops.common._maybe_match_name": []
+}

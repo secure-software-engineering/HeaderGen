@@ -1,0 +1,9 @@
+{
+    "matplotlib.backends.backend_wxagg._convert_agg_to_wx_bitmap": [],
+    "matplotlib.backends.backend_wxagg.FigureFrameWxAgg.get_canvas": [],
+    "matplotlib.backends.backend_wxagg.FigureCanvasWxAgg.draw": [],
+    "matplotlib.backends.backend_wxagg.FigureCanvasWxAgg.blit": [],
+    "matplotlib.backends.backend_wxagg.FigureFrameWxAgg": [],
+    "matplotlib.backends.backend_wxagg.FigureCanvasWxAgg": [],
+    "matplotlib.backends.backend_wxagg._BackendWxAgg": []
+}

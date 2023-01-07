@@ -1,0 +1,9 @@
+{
+    "scipy.fft._backend._backend_from_arg": [],
+    "scipy.fft._backend.set_global_backend": [],
+    "scipy.fft._backend.register_backend": [],
+    "scipy.fft._backend.set_backend": [],
+    "scipy.fft._backend.skip_backend": [],
+    "scipy.fft._backend._ScipyBackend.__ua_function__": [],
+    "scipy.fft._backend._ScipyBackend": []
+}

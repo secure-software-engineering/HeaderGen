@@ -1,0 +1,4 @@
+{
+    "scipy.stats._wilcoxon_data._generate_wilcoxon_exact_table": [],
+    "scipy.stats._wilcoxon_data._generate_wilcoxon_exact_table_fast": []
+}

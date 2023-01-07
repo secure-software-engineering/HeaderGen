@@ -1,0 +1,21 @@
+{
+    "scipy.interpolate.tests.test_rbf.check_rbf1d_interpolation": [],
+    "scipy.interpolate.tests.test_rbf.check_rbf2d_interpolation": [],
+    "scipy.interpolate.tests.test_rbf.check_rbf3d_interpolation": [],
+    "scipy.interpolate.tests.test_rbf.test_rbf_interpolation": [],
+    "scipy.interpolate.tests.test_rbf.check_2drbf1d_interpolation": [],
+    "scipy.interpolate.tests.test_rbf.check_2drbf2d_interpolation": [],
+    "scipy.interpolate.tests.test_rbf.check_2drbf3d_interpolation": [],
+    "scipy.interpolate.tests.test_rbf.test_2drbf_interpolation": [],
+    "scipy.interpolate.tests.test_rbf.check_rbf1d_regularity": [],
+    "scipy.interpolate.tests.test_rbf.test_rbf_regularity": [],
+    "scipy.interpolate.tests.test_rbf.check_2drbf1d_regularity": [],
+    "scipy.interpolate.tests.test_rbf.test_2drbf_regularity": [],
+    "scipy.interpolate.tests.test_rbf.check_rbf1d_stability": [],
+    "scipy.interpolate.tests.test_rbf.test_rbf_stability": [],
+    "scipy.interpolate.tests.test_rbf.test_default_construction": [],
+    "scipy.interpolate.tests.test_rbf.test_function_is_callable": [],
+    "scipy.interpolate.tests.test_rbf.test_two_arg_function_is_callable": [],
+    "scipy.interpolate.tests.test_rbf.test_rbf_epsilon_none": [],
+    "scipy.interpolate.tests.test_rbf.test_rbf_epsilon_none_collinear": []
+}

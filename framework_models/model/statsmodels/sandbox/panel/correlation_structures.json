@@ -1,0 +1,14 @@
+{
+    "statsmodels.sandbox.panel.correlation_structures.corr_equi": [],
+    "statsmodels.sandbox.panel.correlation_structures.corr_ar": [],
+    "statsmodels.sandbox.panel.correlation_structures.corr_arma": [],
+    "statsmodels.sandbox.panel.correlation_structures.corr2cov": [],
+    "statsmodels.sandbox.panel.correlation_structures.whiten_ar": [],
+    "statsmodels.sandbox.panel.correlation_structures.yule_walker_acov": [],
+    "statsmodels.sandbox.panel.correlation_structures.ARCovariance.__init__": [],
+    "statsmodels.sandbox.panel.correlation_structures.ARCovariance.fit": [],
+    "statsmodels.sandbox.panel.correlation_structures.ARCovariance.whiten": [],
+    "statsmodels.sandbox.panel.correlation_structures.ARCovariance.corr": [],
+    "statsmodels.sandbox.panel.correlation_structures.ARCovariance.cov": [],
+    "statsmodels.sandbox.panel.correlation_structures.ARCovariance": []
+}

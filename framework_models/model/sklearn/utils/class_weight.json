@@ -1,0 +1,4 @@
+{
+    "sklearn.utils.class_weight.compute_class_weight": [],
+    "sklearn.utils.class_weight.compute_sample_weight": []
+}

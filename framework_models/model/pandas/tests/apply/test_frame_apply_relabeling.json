@@ -1,0 +1,6 @@
+{
+    "pandas.tests.apply.test_frame_apply_relabeling.test_agg_relabel": [],
+    "pandas.tests.apply.test_frame_apply_relabeling.test_agg_relabel_multi_columns_multi_methods": [],
+    "pandas.tests.apply.test_frame_apply_relabeling.test_agg_relabel_partial_functions": [],
+    "pandas.tests.apply.test_frame_apply_relabeling.test_agg_namedtuple": []
+}

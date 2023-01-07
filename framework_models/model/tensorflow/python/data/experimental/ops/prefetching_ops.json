@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.data.experimental.ops.prefetching_ops.prefetch_to_device": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops.copy_to_device": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops.map_on_gpu": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops._CopyToDeviceDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops._CopyToDeviceDataset.make_one_shot_iterator": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops._MapOnGpuDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops._MapOnGpuDataset._functions": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops._MapOnGpuDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops._MapOnGpuDataset._transformation_name": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops._CopyToDeviceDataset": [],
+    "tensorflow.python.data.experimental.ops.prefetching_ops._MapOnGpuDataset": []
+}

@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.framework.traceable_stack.TraceableObject.__init__": [],
+    "tensorflow.python.framework.traceable_stack.TraceableObject.set_filename_and_line_from_caller": [],
+    "tensorflow.python.framework.traceable_stack.TraceableObject.copy_metadata": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack.__init__": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack.push_obj": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack.pop_obj": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack.peek_top_obj": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack.peek_objs": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack.peek_traceable_objs": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack.__len__": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack.copy": [],
+    "tensorflow.python.framework.traceable_stack.TraceableObject": [],
+    "tensorflow.python.framework.traceable_stack.TraceableStack": []
+}

@@ -1,0 +1,10 @@
+{
+    "scipy._lib._testutils._pytest_has_xdist": [],
+    "scipy._lib._testutils.check_free_memory": [],
+    "scipy._lib._testutils._parse_size": [],
+    "scipy._lib._testutils._get_mem_available": [],
+    "scipy._lib._testutils.PytestTester.__init__": [],
+    "scipy._lib._testutils.PytestTester.__call__": [],
+    "scipy._lib._testutils.FPUModeChangeWarning": [],
+    "scipy._lib._testutils.PytestTester": []
+}

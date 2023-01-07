@@ -1,0 +1,14 @@
+{
+    "pandas.core.construction.array": [],
+    "pandas.core.construction.extract_array": [],
+    "pandas.core.construction.ensure_wrapped_if_datetimelike": [],
+    "pandas.core.construction.sanitize_masked_array": [],
+    "pandas.core.construction.sanitize_array": [],
+    "pandas.core.construction.range_to_ndarray": [],
+    "pandas.core.construction._sanitize_ndim": [],
+    "pandas.core.construction._sanitize_str_dtypes": [],
+    "pandas.core.construction._maybe_repeat": [],
+    "pandas.core.construction._try_cast": [],
+    "pandas.core.construction.is_empty_data": [],
+    "pandas.core.construction.create_series_with_explicit_dtype": []
+}

@@ -1,0 +1,14 @@
+{
+    "plotly.graph_objs.indicator._gauge.Gauge.axis": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.bar": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.bgcolor": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.bordercolor": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.borderwidth": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.shape": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.steps": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.stepdefaults": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.threshold": [],
+    "plotly.graph_objs.indicator._gauge.Gauge._prop_descriptions": [],
+    "plotly.graph_objs.indicator._gauge.Gauge.__init__": [],
+    "plotly.graph_objs.indicator._gauge.Gauge": []
+}

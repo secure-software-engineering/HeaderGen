@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.framework.meta_graph._node_def": [],
+    "tensorflow.python.framework.meta_graph._read_file": [],
+    "tensorflow.python.framework.meta_graph.ops_used_by_graph_def": [],
+    "tensorflow.python.framework.meta_graph.stripped_op_list_for_graph": [],
+    "tensorflow.python.framework.meta_graph._get_kind_name": [],
+    "tensorflow.python.framework.meta_graph._op_name": [],
+    "tensorflow.python.framework.meta_graph._get_scope": [],
+    "tensorflow.python.framework.meta_graph._find_extraneous_saver_nodes": [],
+    "tensorflow.python.framework.meta_graph._should_include_node": [],
+    "tensorflow.python.framework.meta_graph.add_collection_def": [],
+    "tensorflow.python.framework.meta_graph._is_default_attr_value": [],
+    "tensorflow.python.framework.meta_graph.strip_graph_default_valued_attrs": [],
+    "tensorflow.python.framework.meta_graph.create_meta_graph_def": [],
+    "tensorflow.python.framework.meta_graph.read_meta_graph_file": [],
+    "tensorflow.python.framework.meta_graph.import_scoped_meta_graph": [],
+    "tensorflow.python.framework.meta_graph.import_scoped_meta_graph_with_return_elements": [],
+    "tensorflow.python.framework.meta_graph.export_scoped_meta_graph": [],
+    "tensorflow.python.framework.meta_graph.copy_scoped_meta_graph": []
+}

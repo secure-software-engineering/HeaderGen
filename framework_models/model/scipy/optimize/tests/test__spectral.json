@@ -1,0 +1,20 @@
+{
+    "scipy.optimize.tests.test__spectral.test_performance": [],
+    "scipy.optimize.tests.test__spectral.test_complex": [],
+    "scipy.optimize.tests.test__spectral.test_linear_definite": [],
+    "scipy.optimize.tests.test__spectral.test_shape": [],
+    "scipy.optimize.tests.test__spectral.F_1": [],
+    "scipy.optimize.tests.test__spectral.x0_1": [],
+    "scipy.optimize.tests.test__spectral.F_2": [],
+    "scipy.optimize.tests.test__spectral.x0_2": [],
+    "scipy.optimize.tests.test__spectral.F_4": [],
+    "scipy.optimize.tests.test__spectral.x0_4": [],
+    "scipy.optimize.tests.test__spectral.F_6": [],
+    "scipy.optimize.tests.test__spectral.x0_6": [],
+    "scipy.optimize.tests.test__spectral.F_7": [],
+    "scipy.optimize.tests.test__spectral.x0_7": [],
+    "scipy.optimize.tests.test__spectral.F_9": [],
+    "scipy.optimize.tests.test__spectral.x0_9": [],
+    "scipy.optimize.tests.test__spectral.F_10": [],
+    "scipy.optimize.tests.test__spectral.x0_10": []
+}

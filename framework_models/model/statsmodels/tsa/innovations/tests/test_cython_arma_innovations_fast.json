@@ -1,0 +1,8 @@
+{
+    "statsmodels.tsa.innovations.tests.test_cython_arma_innovations_fast.test_brockwell_davis_ex533": [],
+    "statsmodels.tsa.innovations.tests.test_cython_arma_innovations_fast.test_brockwell_davis_ex534": [],
+    "statsmodels.tsa.innovations.tests.test_cython_arma_innovations_fast.test_innovations_algo_filter_kalman_filter": [],
+    "statsmodels.tsa.innovations.tests.test_cython_arma_innovations_fast.test_innovations_algo_direct_filter_kalman_filter": [],
+    "statsmodels.tsa.innovations.tests.test_cython_arma_innovations_fast.test_integrated_process": [],
+    "statsmodels.tsa.innovations.tests.test_cython_arma_innovations_fast.test_regression_with_arma_errors": []
+}

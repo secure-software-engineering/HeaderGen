@@ -1,0 +1,5 @@
+{
+    "scipy.optimize._trustregion_ncg._minimize_trust_ncg": [],
+    "scipy.optimize._trustregion_ncg.CGSteihaugSubproblem.solve": [],
+    "scipy.optimize._trustregion_ncg.CGSteihaugSubproblem": []
+}

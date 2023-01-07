@@ -1,0 +1,7 @@
+{
+    "statsmodels.discrete._diagnostics_count._combine_bins": [],
+    "statsmodels.discrete._diagnostics_count.plot_probs": [],
+    "statsmodels.discrete._diagnostics_count.test_chisquare_prob": [],
+    "statsmodels.discrete._diagnostics_count.test_poisson_zeroinflation": [],
+    "statsmodels.discrete._diagnostics_count.test_poisson_zeroinflation_brock": []
+}

@@ -1,0 +1,36 @@
+from numpy.distutils.misc_util import mingw32 as mingw32
+from typing import Any
+
+C_ABI_VERSION: int
+C_API_VERSION: int
+
+class MismatchCAPIWarning(Warning): ...
+
+def is_released(config): ...
+def get_api_versions(apiversion, codegen_dir): ...
+def check_api_version(apiversion, codegen_dir) -> None: ...
+
+MANDATORY_FUNCS: Any
+OPTIONAL_STDFUNCS: Any
+OPTIONAL_HEADERS: Any
+OPTIONAL_INTRINSICS: Any
+OPTIONAL_FUNCTION_ATTRIBUTES: Any
+OPTIONAL_FUNCTION_ATTRIBUTES_WITH_INTRINSICS: Any
+OPTIONAL_VARIABLE_ATTRIBUTES: Any
+OPTIONAL_STDFUNCS_MAYBE: Any
+C99_FUNCS: Any
+C99_FUNCS_SINGLE: Any
+C99_FUNCS_EXTENDED: Any
+C99_COMPLEX_TYPES: Any
+C99_COMPLEX_FUNCS: Any
+
+def fname2def(name): ...
+def sym2def(symbol): ...
+def type2def(symbol): ...
+def check_long_double_representation(cmd): ...
+
+LONG_DOUBLE_REPRESENTATION_SRC: str
+
+def pyod(filename): ...
+def long_double_representation(lines): ...
+def check_for_right_shift_internal_compiler_error(cmd): ...

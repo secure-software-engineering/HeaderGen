@@ -1,0 +1,8 @@
+{
+    "numpy.f2py.tests.test_regression._path": [],
+    "numpy.f2py.tests.test_regression.test_include_path": [],
+    "numpy.f2py.tests.test_regression.TestIntentInOut.test_inout": [],
+    "numpy.f2py.tests.test_regression.TestNumpyVersionAttribute.test_numpy_version_attribute": [],
+    "numpy.f2py.tests.test_regression.TestIntentInOut": [],
+    "numpy.f2py.tests.test_regression.TestNumpyVersionAttribute": []
+}

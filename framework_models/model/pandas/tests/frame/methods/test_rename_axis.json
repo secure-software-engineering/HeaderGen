@@ -1,0 +1,7 @@
+{
+    "pandas.tests.frame.methods.test_rename_axis.TestDataFrameRenameAxis.test_rename_axis_inplace": [],
+    "pandas.tests.frame.methods.test_rename_axis.TestDataFrameRenameAxis.test_rename_axis_raises": [],
+    "pandas.tests.frame.methods.test_rename_axis.TestDataFrameRenameAxis.test_rename_axis_mapper": [],
+    "pandas.tests.frame.methods.test_rename_axis.TestDataFrameRenameAxis.test_rename_axis_none": [],
+    "pandas.tests.frame.methods.test_rename_axis.TestDataFrameRenameAxis": []
+}

@@ -1,0 +1,22 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint.operator": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._assert_non_singular": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._assert_positive_definite": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._assert_self_adjoint": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._matvec": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._log_abs_determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._trace": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._solve": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._solvevec": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._to_dense": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._add_to_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._eigvals": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._cond": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_adjoint.LinearOperatorAdjoint": []
+}

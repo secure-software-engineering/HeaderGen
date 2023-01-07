@@ -1,0 +1,9 @@
+{
+    "sklearn.preprocessing._discretization.KBinsDiscretizer.__init__": [],
+    "sklearn.preprocessing._discretization.KBinsDiscretizer.fit": [],
+    "sklearn.preprocessing._discretization.KBinsDiscretizer._validate_n_bins": [],
+    "sklearn.preprocessing._discretization.KBinsDiscretizer.transform": [],
+    "sklearn.preprocessing._discretization.KBinsDiscretizer.inverse_transform": [],
+    "sklearn.preprocessing._discretization.KBinsDiscretizer.get_feature_names_out": [],
+    "sklearn.preprocessing._discretization.KBinsDiscretizer": []
+}

@@ -1,0 +1,12 @@
+{
+    "scipy.special.tests.test_logit.TestLogit.check_logit_out": [],
+    "scipy.special.tests.test_logit.TestLogit.test_float32": [],
+    "scipy.special.tests.test_logit.TestLogit.test_float64": [],
+    "scipy.special.tests.test_logit.TestLogit.test_nan": [],
+    "scipy.special.tests.test_logit.TestExpit.check_expit_out": [],
+    "scipy.special.tests.test_logit.TestExpit.test_float32": [],
+    "scipy.special.tests.test_logit.TestExpit.test_float64": [],
+    "scipy.special.tests.test_logit.TestExpit.test_large": [],
+    "scipy.special.tests.test_logit.TestLogit": [],
+    "scipy.special.tests.test_logit.TestExpit": []
+}

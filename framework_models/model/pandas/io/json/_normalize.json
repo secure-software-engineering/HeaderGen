@@ -1,0 +1,8 @@
+{
+    "pandas.io.json._normalize.convert_to_line_delimits": [],
+    "pandas.io.json._normalize.nested_to_record": [],
+    "pandas.io.json._normalize._normalise_json": [],
+    "pandas.io.json._normalize._normalise_json_ordered": [],
+    "pandas.io.json._normalize._simple_json_normalize": [],
+    "pandas.io.json._normalize._json_normalize": []
+}

@@ -1,0 +1,7 @@
+{
+    "scipy.misc.common.central_diff_weights": [],
+    "scipy.misc.common.derivative": [],
+    "scipy.misc.common.ascent": [],
+    "scipy.misc.common.face": [],
+    "scipy.misc.common.electrocardiogram": []
+}

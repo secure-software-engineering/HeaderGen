@@ -1,0 +1,18 @@
+{
+    "tensorflow.lite.python.tflite_convert._parse_array": [],
+    "tensorflow.lite.python.tflite_convert._parse_set": [],
+    "tensorflow.lite.python.tflite_convert._parse_inference_type": [],
+    "tensorflow.lite.python.tflite_convert._get_tflite_converter": [],
+    "tensorflow.lite.python.tflite_convert._convert_tf1_model": [],
+    "tensorflow.lite.python.tflite_convert._convert_tf2_model": [],
+    "tensorflow.lite.python.tflite_convert._check_tf1_flags": [],
+    "tensorflow.lite.python.tflite_convert._check_tf2_flags": [],
+    "tensorflow.lite.python.tflite_convert._get_tf1_flags": [],
+    "tensorflow.lite.python.tflite_convert._get_tf2_flags": [],
+    "tensorflow.lite.python.tflite_convert._get_parser": [],
+    "tensorflow.lite.python.tflite_convert.run_main": [],
+    "tensorflow.lite.python.tflite_convert.main": [],
+    "tensorflow.lite.python.tflite_convert._ParseBooleanFlag.__init__": [],
+    "tensorflow.lite.python.tflite_convert._ParseBooleanFlag.__call__": [],
+    "tensorflow.lite.python.tflite_convert._ParseBooleanFlag": []
+}

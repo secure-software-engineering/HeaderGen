@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.image_ops.flat_transforms_to_matrices": [],
+    "tensorflow.python.ops.image_ops.matrices_to_flat_transforms": [],
+    "tensorflow.python.ops.image_ops._image_projective_transform_grad": [],
+    "tensorflow.python.ops.image_ops._image_projective_transform_v3_grad": []
+}

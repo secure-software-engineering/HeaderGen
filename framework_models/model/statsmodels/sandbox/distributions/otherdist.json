@@ -1,0 +1,16 @@
+{
+    "statsmodels.sandbox.distributions.otherdist.ParametricMixtureD.__init__": [],
+    "statsmodels.sandbox.distributions.otherdist.ParametricMixtureD.rvs": [],
+    "statsmodels.sandbox.distributions.otherdist.ParametricMixtureD.pdf": [],
+    "statsmodels.sandbox.distributions.otherdist.ParametricMixtureD.cdf": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous.__init__": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous._get_clip_lower": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous.rvs": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous.pdf": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous.cdf": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous.sf": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous.ppf": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous.plot": [],
+    "statsmodels.sandbox.distributions.otherdist.ParametricMixtureD": [],
+    "statsmodels.sandbox.distributions.otherdist.ClippedContinuous": []
+}

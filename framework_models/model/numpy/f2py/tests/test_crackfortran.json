@@ -1,0 +1,12 @@
+{
+    "numpy.f2py.tests.test_crackfortran.TestNoSpace.test_module": [],
+    "numpy.f2py.tests.test_crackfortran.TestPublicPrivate.test_defaultPrivate": [],
+    "numpy.f2py.tests.test_crackfortran.TestPublicPrivate.test_defaultPublic": [],
+    "numpy.f2py.tests.test_crackfortran.TestExternal.test_external_as_statement": [],
+    "numpy.f2py.tests.test_crackfortran.TestExternal.test_external_as_attribute": [],
+    "numpy.f2py.tests.test_crackfortran.TestCrackFortran.test_gh2848": [],
+    "numpy.f2py.tests.test_crackfortran.TestNoSpace": [],
+    "numpy.f2py.tests.test_crackfortran.TestPublicPrivate": [],
+    "numpy.f2py.tests.test_crackfortran.TestExternal": [],
+    "numpy.f2py.tests.test_crackfortran.TestCrackFortran": []
+}

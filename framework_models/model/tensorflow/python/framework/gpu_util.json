@@ -1,0 +1,3 @@
+{
+    "tensorflow.python.framework.gpu_util.compute_capability_from_device_desc": []
+}

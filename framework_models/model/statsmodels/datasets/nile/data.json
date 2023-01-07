@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.nile.data.load": [],
+    "statsmodels.datasets.nile.data.load_pandas": [],
+    "statsmodels.datasets.nile.data._get_data": []
+}

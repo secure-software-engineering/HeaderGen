@@ -1,0 +1,13 @@
+from typing import Any
+
+__doc__: str
+py_ver: Any
+DEFAULT_NM: Any
+DEF_HEADER: Any
+FUNC_RE: Any
+DATA_RE: Any
+
+def parse_cmd(): ...
+def getnm(nm_cmd=..., shell: bool = ...): ...
+def parse_nm(nm_output): ...
+def output_def(dlist, flist, header, file=...) -> None: ...

@@ -1,0 +1,12 @@
+{
+    "scipy.signal.fir_filter_design._get_fs": [],
+    "scipy.signal.fir_filter_design.kaiser_beta": [],
+    "scipy.signal.fir_filter_design.kaiser_atten": [],
+    "scipy.signal.fir_filter_design.kaiserord": [],
+    "scipy.signal.fir_filter_design.firwin": [],
+    "scipy.signal.fir_filter_design.firwin2": [],
+    "scipy.signal.fir_filter_design.remez": [],
+    "scipy.signal.fir_filter_design.firls": [],
+    "scipy.signal.fir_filter_design._dhtm": [],
+    "scipy.signal.fir_filter_design.minimum_phase": []
+}

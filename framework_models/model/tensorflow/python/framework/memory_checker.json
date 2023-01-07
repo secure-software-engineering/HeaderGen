@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.framework.memory_checker._get_test_name_best_effort": [],
+    "tensorflow.python.framework.memory_checker.MemoryChecker.__enter__": [],
+    "tensorflow.python.framework.memory_checker.MemoryChecker.__exit__": [],
+    "tensorflow.python.framework.memory_checker.MemoryChecker.record_snapshot": [],
+    "tensorflow.python.framework.memory_checker.MemoryChecker.report": [],
+    "tensorflow.python.framework.memory_checker.MemoryChecker.assert_no_leak_if_all_possibly_except_one": [],
+    "tensorflow.python.framework.memory_checker.MemoryChecker.assert_no_new_python_objects": [],
+    "tensorflow.python.framework.memory_checker.MemoryChecker": []
+}

@@ -1,0 +1,22 @@
+{
+    "scipy.integrate._ivp.rk.rk_step": [],
+    "scipy.integrate._ivp.rk.RungeKutta.__init__": [],
+    "scipy.integrate._ivp.rk.RungeKutta._estimate_error": [],
+    "scipy.integrate._ivp.rk.RungeKutta._estimate_error_norm": [],
+    "scipy.integrate._ivp.rk.RungeKutta._step_impl": [],
+    "scipy.integrate._ivp.rk.RungeKutta._dense_output_impl": [],
+    "scipy.integrate._ivp.rk.DOP853.__init__": [],
+    "scipy.integrate._ivp.rk.DOP853._estimate_error": [],
+    "scipy.integrate._ivp.rk.DOP853._estimate_error_norm": [],
+    "scipy.integrate._ivp.rk.DOP853._dense_output_impl": [],
+    "scipy.integrate._ivp.rk.RkDenseOutput.__init__": [],
+    "scipy.integrate._ivp.rk.RkDenseOutput._call_impl": [],
+    "scipy.integrate._ivp.rk.Dop853DenseOutput.__init__": [],
+    "scipy.integrate._ivp.rk.Dop853DenseOutput._call_impl": [],
+    "scipy.integrate._ivp.rk.RungeKutta": [],
+    "scipy.integrate._ivp.rk.RK23": [],
+    "scipy.integrate._ivp.rk.RK45": [],
+    "scipy.integrate._ivp.rk.DOP853": [],
+    "scipy.integrate._ivp.rk.RkDenseOutput": [],
+    "scipy.integrate._ivp.rk.Dop853DenseOutput": []
+}

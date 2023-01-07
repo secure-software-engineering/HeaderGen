@@ -1,0 +1,10 @@
+{
+    "sklearn.linear_model._theil_sen._modified_weiszfeld_step": [],
+    "sklearn.linear_model._theil_sen._spatial_median": [],
+    "sklearn.linear_model._theil_sen._breakdown_point": [],
+    "sklearn.linear_model._theil_sen._lstsq": [],
+    "sklearn.linear_model._theil_sen.TheilSenRegressor.__init__": [],
+    "sklearn.linear_model._theil_sen.TheilSenRegressor._check_subparams": [],
+    "sklearn.linear_model._theil_sen.TheilSenRegressor.fit": [],
+    "sklearn.linear_model._theil_sen.TheilSenRegressor": []
+}

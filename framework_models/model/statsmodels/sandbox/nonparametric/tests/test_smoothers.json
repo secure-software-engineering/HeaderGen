@@ -1,0 +1,14 @@
+{
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.CheckSmoother.test_predict": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.CheckSmoother.test_coef": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.CheckSmoother.test_df": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.BasePolySmoother.setup_class": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.TestPolySmoother1.setup_class": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.TestPolySmoother2.setup_class": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.TestPolySmoother3.setup_class": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.CheckSmoother": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.BasePolySmoother": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.TestPolySmoother1": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.TestPolySmoother2": [],
+    "statsmodels.sandbox.nonparametric.tests.test_smoothers.TestPolySmoother3": []
+}

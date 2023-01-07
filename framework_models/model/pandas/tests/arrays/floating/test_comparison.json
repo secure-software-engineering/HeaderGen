@@ -1,0 +1,11 @@
+{
+    "pandas.tests.arrays.floating.test_comparison.test_equals": [],
+    "pandas.tests.arrays.floating.test_comparison.TestComparisonOps._compare_other": [],
+    "pandas.tests.arrays.floating.test_comparison.TestComparisonOps.test_scalar": [],
+    "pandas.tests.arrays.floating.test_comparison.TestComparisonOps.test_array": [],
+    "pandas.tests.arrays.floating.test_comparison.TestComparisonOps.test_compare_with_booleanarray": [],
+    "pandas.tests.arrays.floating.test_comparison.TestComparisonOps.test_compare_with_integerarray": [],
+    "pandas.tests.arrays.floating.test_comparison.TestComparisonOps.test_no_shared_mask": [],
+    "pandas.tests.arrays.floating.test_comparison.TestComparisonOps.test_compare_to_string": [],
+    "pandas.tests.arrays.floating.test_comparison.TestComparisonOps": []
+}

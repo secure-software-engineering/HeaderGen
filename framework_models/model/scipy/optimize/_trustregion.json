@@ -1,0 +1,13 @@
+{
+    "scipy.optimize._trustregion._minimize_trust_region": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.__init__": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.__call__": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.fun": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.jac": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.hess": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.hessp": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.jac_mag": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.get_boundaries_intersections": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem.solve": [],
+    "scipy.optimize._trustregion.BaseQuadraticSubproblem": []
+}

@@ -1,0 +1,20 @@
+{
+    "pandas.tests.frame.test_nonunique_indexes.check": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_setattr_columns_vs_construct_with_columns": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_setattr_columns_vs_construct_with_columns_datetimeindx": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_insert_with_duplicate_columns": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_dup_across_dtypes": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_column_dups_indexes": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_changing_dtypes_with_duplicate_columns": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_dup_columns_comparisons": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_mixed_column_selection": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_multi_axis_dups": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_columns_with_dups": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_columns_with_dup_index": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_multi_dtype": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_multi_dtype2": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_dups_across_blocks": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_dup_columns_across_dtype": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes.test_set_value_by_index": [],
+    "pandas.tests.frame.test_nonunique_indexes.TestDataFrameNonuniqueIndexes": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.tests.series.test_unary.TestSeriesUnaryOps.test_neg": [],
+    "pandas.tests.series.test_unary.TestSeriesUnaryOps.test_invert": [],
+    "pandas.tests.series.test_unary.TestSeriesUnaryOps.test_all_numeric_unary_operators": [],
+    "pandas.tests.series.test_unary.TestSeriesUnaryOps.test_unary_float_op_mask": [],
+    "pandas.tests.series.test_unary.TestSeriesUnaryOps": []
+}

@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.ops.gen_encode_proto_ops.encode_proto": [],
+    "tensorflow.python.ops.gen_encode_proto_ops.encode_proto_eager_fallback": []
+}

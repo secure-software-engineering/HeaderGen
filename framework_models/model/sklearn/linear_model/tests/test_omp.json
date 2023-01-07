@@ -1,0 +1,21 @@
+{
+    "sklearn.linear_model.tests.test_omp.test_assure_warning_when_normalize": [],
+    "sklearn.linear_model.tests.test_omp.test_correct_shapes": [],
+    "sklearn.linear_model.tests.test_omp.test_correct_shapes_gram": [],
+    "sklearn.linear_model.tests.test_omp.test_n_nonzero_coefs": [],
+    "sklearn.linear_model.tests.test_omp.test_tol": [],
+    "sklearn.linear_model.tests.test_omp.test_with_without_gram": [],
+    "sklearn.linear_model.tests.test_omp.test_with_without_gram_tol": [],
+    "sklearn.linear_model.tests.test_omp.test_unreachable_accuracy": [],
+    "sklearn.linear_model.tests.test_omp.test_bad_input": [],
+    "sklearn.linear_model.tests.test_omp.test_perfect_signal_recovery": [],
+    "sklearn.linear_model.tests.test_omp.test_orthogonal_mp_gram_readonly": [],
+    "sklearn.linear_model.tests.test_omp.test_estimator": [],
+    "sklearn.linear_model.tests.test_omp.test_identical_regressors": [],
+    "sklearn.linear_model.tests.test_omp.test_swapped_regressors": [],
+    "sklearn.linear_model.tests.test_omp.test_no_atoms": [],
+    "sklearn.linear_model.tests.test_omp.test_omp_path": [],
+    "sklearn.linear_model.tests.test_omp.test_omp_return_path_prop_with_gram": [],
+    "sklearn.linear_model.tests.test_omp.test_omp_cv": [],
+    "sklearn.linear_model.tests.test_omp.test_omp_reaches_least_squares": []
+}

@@ -1,0 +1,14 @@
+{
+    "pandas.tests.scalar.timedelta.test_constructors.test_construction": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_td_construction_with_np_dtypes": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_td_from_repr_roundtrip": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_overflow_on_construction": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_construction_out_of_bounds_td64": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_iso_constructor": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_iso_constructor_raises": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_td_constructor_on_nanoseconds": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_td_constructor_value_error": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_timedelta_constructor_identity": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_string_with_unit": [],
+    "pandas.tests.scalar.timedelta.test_constructors.test_string_without_numbers": []
+}

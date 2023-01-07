@@ -1,0 +1,10 @@
+{
+    "numpy.matlib.empty": [],
+    "numpy.matlib.ones": [],
+    "numpy.matlib.zeros": [],
+    "numpy.matlib.identity": [],
+    "numpy.matlib.eye": [],
+    "numpy.matlib.rand": [],
+    "numpy.matlib.randn": [],
+    "numpy.matlib.repmat": []
+}

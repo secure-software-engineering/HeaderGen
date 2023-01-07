@@ -1,0 +1,19 @@
+{
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_union": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_union_sort_false": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_union_coverage": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_union_bug_1730": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_union_bug_1745": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_union_bug_4564": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_union_freq_infer": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_intersection_bug_1708": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_intersection_equal": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_intersection_zero_length": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_zero_length_input_index": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_intersection": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex.test_intersection_non_monotonic": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndexDifference.test_difference_freq": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndexDifference.test_difference_sort": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndex": [],
+    "pandas.tests.indexes.timedeltas.test_setops.TestTimedeltaIndexDifference": []
+}

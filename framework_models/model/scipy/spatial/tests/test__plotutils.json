@@ -1,0 +1,6 @@
+{
+    "scipy.spatial.tests.test__plotutils.TestPlotting.test_delaunay": [],
+    "scipy.spatial.tests.test__plotutils.TestPlotting.test_voronoi": [],
+    "scipy.spatial.tests.test__plotutils.TestPlotting.test_convex_hull": [],
+    "scipy.spatial.tests.test__plotutils.TestPlotting": []
+}

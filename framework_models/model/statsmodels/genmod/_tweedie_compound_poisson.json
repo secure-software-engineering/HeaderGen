@@ -1,0 +1,11 @@
+{
+    "statsmodels.genmod._tweedie_compound_poisson._theta": [],
+    "statsmodels.genmod._tweedie_compound_poisson._alpha": [],
+    "statsmodels.genmod._tweedie_compound_poisson._logWj": [],
+    "statsmodels.genmod._tweedie_compound_poisson.kappa": [],
+    "statsmodels.genmod._tweedie_compound_poisson._sumw": [],
+    "statsmodels.genmod._tweedie_compound_poisson.logW": [],
+    "statsmodels.genmod._tweedie_compound_poisson.density_at_zero": [],
+    "statsmodels.genmod._tweedie_compound_poisson.density_otherwise": [],
+    "statsmodels.genmod._tweedie_compound_poisson.series_density": []
+}

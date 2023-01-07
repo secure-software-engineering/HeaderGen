@@ -1,0 +1,1098 @@
+{
+    "07-predict-future-sales:1": [
+        "Library Loading"
+    ],
+    "07-predict-future-sales:2": [
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:3": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:4": [
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:5": [
+        "Visualization",
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:6": [
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:7": [
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:8": [
+        "Visualization",
+        "Library Loading"
+    ],
+    "07-predict-future-sales:9": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:10": [
+        "Visualization"
+    ],
+    "07-predict-future-sales:11": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:12": [
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:13": [
+        "Model Building and Training",
+        "Library Loading"
+    ],
+    "07-predict-future-sales:14": [
+        "Model Building and Training",
+        "Library Loading"
+    ],
+    "07-predict-future-sales:15": [
+        "Library Loading",
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:16": [
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:17": [
+        "Feature Engineering"
+    ],
+    "07-predict-future-sales:18": [
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:19": [
+        "Model Building and Training",
+        "Library Loading"
+    ],
+    "07-predict-future-sales:20": [
+        "Model Building and Training"
+    ],
+    "07-predict-future-sales:21": [
+        "Library Loading",
+        "Feature Engineering"
+    ],
+    "07-predict-future-sales:22": [
+        "",
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:23": [
+        "Data Preparation"
+    ],
+    "07-predict-future-sales:24": [
+        ""
+    ],
+    "09-prediction-future-sales-with-keras:1": [
+        "Library Loading"
+    ],
+    "09-prediction-future-sales-with-keras:2": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:3": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:4": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:5": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:6": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:7": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:8": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:9": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:10": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:11": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:12": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:13": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:14": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:15": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:16": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:17": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:18": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:19": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:20": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:21": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:22": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:23": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:24": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:25": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:26": [
+        "Feature Engineering"
+    ],
+    "09-prediction-future-sales-with-keras:27": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:28": [
+        "Feature Engineering"
+    ],
+    "09-prediction-future-sales-with-keras:29": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:30": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:31": [
+        "Library Loading"
+    ],
+    "09-prediction-future-sales-with-keras:32": [
+        "",
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:33": [
+        "Visualization"
+    ],
+    "09-prediction-future-sales-with-keras:34": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:35": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:36": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:37": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:38": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:39": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:40": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:41": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:42": [
+        "Library Loading",
+        "Feature Engineering"
+    ],
+    "09-prediction-future-sales-with-keras:43": [
+        "Library Loading"
+    ],
+    "09-prediction-future-sales-with-keras:44": [
+        "Model Building and Training"
+    ],
+    "09-prediction-future-sales-with-keras:45": [
+        "Model Building and Training"
+    ],
+    "09-prediction-future-sales-with-keras:46": [
+        "Model Building and Training"
+    ],
+    "09-prediction-future-sales-with-keras:47": [
+        "Model Building and Training",
+        "Library Loading"
+    ],
+    "09-prediction-future-sales-with-keras:48": [
+        "Model Building and Training"
+    ],
+    "09-prediction-future-sales-with-keras:49": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:50": [
+        "Data Preparation"
+    ],
+    "09-prediction-future-sales-with-keras:51": [
+        ""
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:1": [
+        "Library Loading"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:2": [
+        "Data Preparation"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:3": [
+        "Data Preparation"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:4": [
+        "Feature Engineering"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:5": [
+        "Feature Engineering"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:6": [
+        "Data Preparation"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:7": [
+        "Model Building and Training"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:8": [
+        "Model Building and Training"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:9": [
+        ""
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:10": [
+        "Model Building and Training"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:11": [
+        "Model Building and Training"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:12": [
+        "Data Preparation"
+    ],
+    "11-starter-keras-simple-nn-kfold-cv:13": [
+        ""
+    ],
+    "12-keras-nn-with-scaling-and-regularization:1": [
+        "Library Loading"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:2": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:3": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:4": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:5": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:6": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:7": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:8": [
+        "Library Loading",
+        "Feature Engineering"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:9": [
+        "Model Building and Training"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:10": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:11": [
+        ""
+    ],
+    "12-keras-nn-with-scaling-and-regularization:12": [
+        "Model Building and Training"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:13": [
+        "Model Building and Training"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:14": [
+        "Model Building and Training"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:15": [
+        "Model Building and Training"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:16": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:17": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:18": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:19": [
+        "Data Preparation"
+    ],
+    "12-keras-nn-with-scaling-and-regularization:20": [
+        ""
+    ],
+    "13-nn-with-magic-augmentation:1": [
+        "Model Building and Training",
+        "Library Loading",
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "13-nn-with-magic-augmentation:2": [
+        "Data Preparation"
+    ],
+    "13-nn-with-magic-augmentation:3": [
+        ""
+    ],
+    "14-multibranch-nn-baseline-magic:1": [
+        "Library Loading"
+    ],
+    "14-multibranch-nn-baseline-magic:2": [
+        "Model Building and Training",
+        "Visualization"
+    ],
+    "14-multibranch-nn-baseline-magic:3": [
+        "Data Preparation"
+    ],
+    "14-multibranch-nn-baseline-magic:4": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "14-multibranch-nn-baseline-magic:5": [
+        "Feature Engineering"
+    ],
+    "14-multibranch-nn-baseline-magic:6": [
+        "Feature Engineering"
+    ],
+    "14-multibranch-nn-baseline-magic:7": [
+        "Feature Engineering"
+    ],
+    "14-multibranch-nn-baseline-magic:8": [
+        "Feature Engineering"
+    ],
+    "14-multibranch-nn-baseline-magic:9": [
+        "Feature Engineering"
+    ],
+    "14-multibranch-nn-baseline-magic:10": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "14-multibranch-nn-baseline-magic:11": [
+        "Feature Engineering"
+    ],
+    "14-multibranch-nn-baseline-magic:12": [
+        "Feature Engineering"
+    ],
+    "14-multibranch-nn-baseline-magic:13": [
+        "Feature Engineering"
+    ],
+    "14-multibranch-nn-baseline-magic:14": [
+        "Model Building and Training"
+    ],
+    "14-multibranch-nn-baseline-magic:15": [
+        ""
+    ],
+    "14-multibranch-nn-baseline-magic:16": [
+        "Model Building and Training"
+    ],
+    "14-multibranch-nn-baseline-magic:17": [
+        "Model Building and Training",
+        "Data Preparation"
+    ],
+    "14-multibranch-nn-baseline-magic:18": [
+        "Model Building and Training"
+    ],
+    "14-multibranch-nn-baseline-magic:19": [
+        "Model Building and Training"
+    ],
+    "14-multibranch-nn-baseline-magic:20": [
+        "Data Preparation"
+    ],
+    "14-multibranch-nn-baseline-magic:21": [
+        ""
+    ],
+    "15-nn-embedding:1": [
+        "Library Loading"
+    ],
+    "15-nn-embedding:2": [
+        "Data Preparation"
+    ],
+    "15-nn-embedding:3": [
+        "Data Preparation"
+    ],
+    "15-nn-embedding:4": [
+        "Library Loading"
+    ],
+    "15-nn-embedding:5": [
+        "Feature Engineering"
+    ],
+    "15-nn-embedding:6": [
+        ""
+    ],
+    "15-nn-embedding:7": [
+        "Library Loading",
+        "Feature Engineering"
+    ],
+    "15-nn-embedding:8": [
+        "Model Building and Training"
+    ],
+    "15-nn-embedding:9": [
+        "Library Loading"
+    ],
+    "15-nn-embedding:10": [
+        ""
+    ],
+    "15-nn-embedding:11": [
+        "Model Building and Training",
+        "Library Loading"
+    ],
+    "15-nn-embedding:12": [
+        "Model Building and Training"
+    ],
+    "15-nn-embedding:13": [
+        "Model Building and Training"
+    ],
+    "15-nn-embedding:14": [
+        "Model Building and Training"
+    ],
+    "15-nn-embedding:15": [
+        "Data Preparation"
+    ],
+    "15-nn-embedding:16": [
+        "Model Building and Training"
+    ],
+    "15-nn-embedding:17": [
+        "Model Building and Training"
+    ],
+    "15-nn-embedding:18": [
+        "Library Loading"
+    ],
+    "15-nn-embedding:19": [
+        "Library Loading"
+    ],
+    "15-nn-embedding:20": [
+        "Feature Engineering"
+    ],
+    "15-nn-embedding:21": [
+        "Data Preparation"
+    ],
+    "15-nn-embedding:22": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "15-nn-embedding:23": [
+        "Visualization"
+    ],
+    "15-nn-embedding:24": [
+        ""
+    ],
+    "15-nn-embedding:25": [
+        ""
+    ],
+    "01-keras-deep-learning-to-solve-titanic:1": [
+        "Library Loading",
+        "Data Preparation"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:2": [
+        "Data Preparation"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:3": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:4": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:5": [
+        "Data Preparation"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:6": [
+        "Visualization"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:7": [
+        "Data Preparation"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:8": [
+        "Visualization"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:9": [
+        ""
+    ],
+    "01-keras-deep-learning-to-solve-titanic:10": [
+        "Model Building and Training"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:11": [
+        "Visualization"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:12": [
+        "Visualization"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:13": [
+        ""
+    ],
+    "01-keras-deep-learning-to-solve-titanic:14": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:15": [
+        "Visualization"
+    ],
+    "01-keras-deep-learning-to-solve-titanic:16": [
+        "Model Building and Training",
+        "Visualization"
+    ],
+    "02-relu-sigmoid:1": [
+        "Library Loading"
+    ],
+    "02-relu-sigmoid:2": [
+        "Data Preparation"
+    ],
+    "02-relu-sigmoid:3": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "02-relu-sigmoid:4": [
+        "Data Preparation"
+    ],
+    "02-relu-sigmoid:5": [
+        "Feature Engineering"
+    ],
+    "02-relu-sigmoid:6": [
+        "Feature Engineering"
+    ],
+    "02-relu-sigmoid:7": [
+        "Model Building and Training"
+    ],
+    "02-relu-sigmoid:8": [
+        "Model Building and Training"
+    ],
+    "02-relu-sigmoid:9": [
+        "Model Building and Training",
+        "Visualization"
+    ],
+    "02-relu-sigmoid:10": [
+        "Model Building and Training"
+    ],
+    "02-relu-sigmoid:11": [
+        "Model Building and Training"
+    ],
+    "02-relu-sigmoid:12": [
+        "Feature Engineering"
+    ],
+    "02-relu-sigmoid:13": [
+        "Model Building and Training"
+    ],
+    "02-relu-sigmoid:14": [
+        ""
+    ],
+    "02-relu-sigmoid:15": [
+        "Data Preparation"
+    ],
+    "02-relu-sigmoid:16": [
+        ""
+    ],
+    "03-titanic-easy-deeplearning-acc-78:1": [
+        "Library Loading",
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "03-titanic-easy-deeplearning-acc-78:2": [
+        "Model Building and Training"
+    ],
+    "03-titanic-easy-deeplearning-acc-78:3": [
+        "Model Building and Training"
+    ],
+    "03-titanic-easy-deeplearning-acc-78:4": [
+        "Model Building and Training",
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "03-titanic-easy-deeplearning-acc-78:5": [
+        ""
+    ],
+    "04-complete-analysis-of-titanic:1": [
+        "Library Loading"
+    ],
+    "04-complete-analysis-of-titanic:2": [
+        "Library Loading"
+    ],
+    "04-complete-analysis-of-titanic:3": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:4": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:5": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:6": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:7": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:8": [
+        "Visualization"
+    ],
+    "04-complete-analysis-of-titanic:9": [
+        "Visualization"
+    ],
+    "04-complete-analysis-of-titanic:10": [
+        "Visualization"
+    ],
+    "04-complete-analysis-of-titanic:11": [
+        "Visualization"
+    ],
+    "04-complete-analysis-of-titanic:12": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:13": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:14": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:15": [
+        "Feature Engineering"
+    ],
+    "04-complete-analysis-of-titanic:16": [
+        "Feature Engineering"
+    ],
+    "04-complete-analysis-of-titanic:17": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:18": [
+        "Visualization"
+    ],
+    "04-complete-analysis-of-titanic:19": [
+        "Visualization"
+    ],
+    "04-complete-analysis-of-titanic:20": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:21": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:22": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:23": [
+        "Feature Engineering"
+    ],
+    "04-complete-analysis-of-titanic:24": [
+        "Feature Engineering"
+    ],
+    "04-complete-analysis-of-titanic:25": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:26": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:27": [
+        "Feature Engineering"
+    ],
+    "04-complete-analysis-of-titanic:28": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:29": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:30": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:31": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:32": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:33": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:34": [
+        "Library Loading",
+        "Feature Engineering"
+    ],
+    "04-complete-analysis-of-titanic:35": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:36": [
+        "Library Loading",
+        "Feature Engineering"
+    ],
+    "04-complete-analysis-of-titanic:37": [
+        "Library Loading"
+    ],
+    "04-complete-analysis-of-titanic:38": [
+        "Model Building and Training"
+    ],
+    "04-complete-analysis-of-titanic:39": [
+        "Model Building and Training"
+    ],
+    "04-complete-analysis-of-titanic:40": [
+        "Model Building and Training"
+    ],
+    "04-complete-analysis-of-titanic:41": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:42": [
+        "Data Preparation"
+    ],
+    "04-complete-analysis-of-titanic:43": [
+        ""
+    ],
+    "05-mytitanic:1": [
+        "Library Loading",
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "05-mytitanic:2": [
+        "Library Loading",
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "05-mytitanic:3": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "05-mytitanic:4": [
+        "Model Building and Training"
+    ],
+    "05-mytitanic:5": [
+        "Model Building and Training"
+    ],
+    "05-mytitanic:6": [
+        "Data Preparation"
+    ],
+    "06-predicting-future-sales-with-lstm:1": [
+        "Library Loading"
+    ],
+    "06-predicting-future-sales-with-lstm:2": [
+        "Model Building and Training",
+        "Library Loading",
+        "Visualization",
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "06-predicting-future-sales-with-lstm:3": [
+        ""
+    ],
+    "08-stacked-lstm-top-5-4-mae:1": [
+        "Library Loading"
+    ],
+    "08-stacked-lstm-top-5-4-mae:2": [
+        "Library Loading"
+    ],
+    "08-stacked-lstm-top-5-4-mae:3": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:4": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:5": [
+        "Feature Engineering"
+    ],
+    "08-stacked-lstm-top-5-4-mae:6": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:7": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:8": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:9": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:10": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:11": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:12": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:13": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:14": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:15": [
+        "Library Loading"
+    ],
+    "08-stacked-lstm-top-5-4-mae:16": [
+        "Model Building and Training"
+    ],
+    "08-stacked-lstm-top-5-4-mae:17": [
+        ""
+    ],
+    "08-stacked-lstm-top-5-4-mae:18": [
+        ""
+    ],
+    "08-stacked-lstm-top-5-4-mae:19": [
+        "Model Building and Training"
+    ],
+    "08-stacked-lstm-top-5-4-mae:20": [
+        "Model Building and Training"
+    ],
+    "08-stacked-lstm-top-5-4-mae:21": [
+        "Data Preparation"
+    ],
+    "08-stacked-lstm-top-5-4-mae:22": [
+        ""
+    ],
+    "08-stacked-lstm-top-5-4-mae:23": [
+        ""
+    ],
+    "10-keras-begineer-friendly:1": [
+        "Library Loading"
+    ],
+    "10-keras-begineer-friendly:2": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:3": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:4": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:5": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:6": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:7": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:8": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:9": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:10": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:11": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:12": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:13": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:14": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:15": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:16": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:17": [
+        "Feature Engineering"
+    ],
+    "10-keras-begineer-friendly:18": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:19": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:20": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:21": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:22": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:23": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:24": [
+        "Feature Engineering"
+    ],
+    "10-keras-begineer-friendly:25": [
+        "Feature Engineering"
+    ],
+    "10-keras-begineer-friendly:26": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:27": [
+        ""
+    ],
+    "10-keras-begineer-friendly:28": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:29": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:30": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:31": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:32": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:33": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:34": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:35": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:36": [
+        "Library Loading"
+    ],
+    "10-keras-begineer-friendly:37": [
+        "Feature Engineering"
+    ],
+    "10-keras-begineer-friendly:38": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:39": [
+        ""
+    ],
+    "10-keras-begineer-friendly:40": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:41": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:42": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:43": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:44": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:45": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:46": [
+        "Feature Engineering"
+    ],
+    "10-keras-begineer-friendly:47": [
+        "Model Building and Training"
+    ],
+    "10-keras-begineer-friendly:48": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:49": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:50": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:51": [
+        "Model Building and Training"
+    ],
+    "10-keras-begineer-friendly:52": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:53": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:54": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:55": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:56": [
+        ""
+    ],
+    "10-keras-begineer-friendly:57": [
+        ""
+    ],
+    "10-keras-begineer-friendly:58": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:59": [
+        "Model Building and Training"
+    ],
+    "10-keras-begineer-friendly:60": [
+        "",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:61": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:62": [
+        ""
+    ],
+    "10-keras-begineer-friendly:63": [
+        ""
+    ],
+    "10-keras-begineer-friendly:64": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:65": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:66": [
+        ""
+    ],
+    "10-keras-begineer-friendly:67": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:68": [
+        "Feature Engineering",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:69": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:70": [
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:71": [
+        ""
+    ],
+    "10-keras-begineer-friendly:72": [
+        "",
+        "Data Preparation"
+    ],
+    "10-keras-begineer-friendly:73": [
+        ""
+    ]
+}

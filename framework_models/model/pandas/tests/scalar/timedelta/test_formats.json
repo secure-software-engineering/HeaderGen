@@ -1,0 +1,4 @@
+{
+    "pandas.tests.scalar.timedelta.test_formats.test_repr": [],
+    "pandas.tests.scalar.timedelta.test_formats.test_isoformat": []
+}

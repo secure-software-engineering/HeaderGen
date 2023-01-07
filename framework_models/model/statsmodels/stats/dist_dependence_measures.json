@@ -1,0 +1,11 @@
+{
+    "statsmodels.stats.dist_dependence_measures.distance_covariance_test": [],
+    "statsmodels.stats.dist_dependence_measures._validate_and_tranform_x_and_y": [],
+    "statsmodels.stats.dist_dependence_measures._empirical_pvalue": [],
+    "statsmodels.stats.dist_dependence_measures._asymptotic_pvalue": [],
+    "statsmodels.stats.dist_dependence_measures._get_test_statistic_distribution": [],
+    "statsmodels.stats.dist_dependence_measures.distance_statistics": [],
+    "statsmodels.stats.dist_dependence_measures.distance_covariance": [],
+    "statsmodels.stats.dist_dependence_measures.distance_variance": [],
+    "statsmodels.stats.dist_dependence_measures.distance_correlation": []
+}

@@ -1,0 +1,8 @@
+{
+    "pandas.tests.io.parser.test_converters.test_converters_type_must_be_dict": [],
+    "pandas.tests.io.parser.test_converters.test_converters": [],
+    "pandas.tests.io.parser.test_converters.test_converters_no_implicit_conv": [],
+    "pandas.tests.io.parser.test_converters.test_converters_euro_decimal_format": [],
+    "pandas.tests.io.parser.test_converters.test_converters_corner_with_nans": [],
+    "pandas.tests.io.parser.test_converters.test_converter_index_col_bug": []
+}

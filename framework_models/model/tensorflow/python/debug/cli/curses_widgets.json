@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.debug.cli.curses_widgets.NavigationHistoryItem.__init__": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.__init__": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.add_item": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.update_scroll_position": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.size": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.pointer": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.go_back": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.go_forward": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.can_go_back": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.can_go_forward": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory.render": [],
+    "tensorflow.python.debug.cli.curses_widgets.NavigationHistoryItem": [],
+    "tensorflow.python.debug.cli.curses_widgets.CursesNavigationHistory": []
+}

@@ -1,0 +1,9 @@
+{
+    "scipy.special._precompute.wright_bessel.series_small_a": [],
+    "scipy.special._precompute.wright_bessel.dg_series": [],
+    "scipy.special._precompute.wright_bessel.pg_series": [],
+    "scipy.special._precompute.wright_bessel.series_small_a_small_b": [],
+    "scipy.special._precompute.wright_bessel.asymptotic_series": [],
+    "scipy.special._precompute.wright_bessel.optimal_epsilon_integral": [],
+    "scipy.special._precompute.wright_bessel.main": []
+}

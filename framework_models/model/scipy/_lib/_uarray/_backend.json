@@ -1,0 +1,19 @@
+{
+    "scipy._lib._uarray._backend.unpickle_function": [],
+    "scipy._lib._uarray._backend.pickle_function": [],
+    "scipy._lib._uarray._backend.create_multimethod": [],
+    "scipy._lib._uarray._backend.generate_multimethod": [],
+    "scipy._lib._uarray._backend.set_backend": [],
+    "scipy._lib._uarray._backend.skip_backend": [],
+    "scipy._lib._uarray._backend.get_defaults": [],
+    "scipy._lib._uarray._backend.set_global_backend": [],
+    "scipy._lib._uarray._backend.register_backend": [],
+    "scipy._lib._uarray._backend.clear_backends": [],
+    "scipy._lib._uarray._backend.mark_as": [],
+    "scipy._lib._uarray._backend.all_of_type": [],
+    "scipy._lib._uarray._backend.wrap_single_convertor": [],
+    "scipy._lib._uarray._backend.Dispatchable.__init__": [],
+    "scipy._lib._uarray._backend.Dispatchable.__getitem__": [],
+    "scipy._lib._uarray._backend.Dispatchable.__str__": [],
+    "scipy._lib._uarray._backend.Dispatchable": []
+}

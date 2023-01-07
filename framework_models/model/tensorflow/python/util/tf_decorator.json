@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.util.tf_decorator.make_decorator": [],
+    "tensorflow.python.util.tf_decorator._has_tf_decorator_attr": [],
+    "tensorflow.python.util.tf_decorator.rewrap": [],
+    "tensorflow.python.util.tf_decorator.unwrap": [],
+    "tensorflow.python.util.tf_decorator.TFDecorator.__init__": [],
+    "tensorflow.python.util.tf_decorator.TFDecorator.__get__": [],
+    "tensorflow.python.util.tf_decorator.TFDecorator.__call__": [],
+    "tensorflow.python.util.tf_decorator.TFDecorator.decorated_target": [],
+    "tensorflow.python.util.tf_decorator.TFDecorator.decorator_name": [],
+    "tensorflow.python.util.tf_decorator.TFDecorator.decorator_doc": [],
+    "tensorflow.python.util.tf_decorator.TFDecorator.decorator_argspec": [],
+    "tensorflow.python.util.tf_decorator.TFDecorator": []
+}

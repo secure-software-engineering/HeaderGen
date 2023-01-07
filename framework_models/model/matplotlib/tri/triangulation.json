@@ -1,0 +1,12 @@
+{
+    "matplotlib.tri.triangulation.Triangulation.__init__": [],
+    "matplotlib.tri.triangulation.Triangulation.calculate_plane_coefficients": [],
+    "matplotlib.tri.triangulation.Triangulation.edges": [],
+    "matplotlib.tri.triangulation.Triangulation.get_cpp_triangulation": [],
+    "matplotlib.tri.triangulation.Triangulation.get_masked_triangles": [],
+    "matplotlib.tri.triangulation.Triangulation.get_from_args_and_kwargs": [],
+    "matplotlib.tri.triangulation.Triangulation.get_trifinder": [],
+    "matplotlib.tri.triangulation.Triangulation.neighbors": [],
+    "matplotlib.tri.triangulation.Triangulation.set_mask": [],
+    "matplotlib.tri.triangulation.Triangulation": []
+}

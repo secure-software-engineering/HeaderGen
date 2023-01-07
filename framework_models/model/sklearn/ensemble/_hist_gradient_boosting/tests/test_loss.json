@@ -1,0 +1,12 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.get_derivatives_helper": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_derivatives": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_numerical_gradients": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_baseline_least_squares": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_baseline_absolute_error": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_baseline_poisson": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_baseline_binary_crossentropy": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_baseline_categorical_crossentropy": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_sample_weight_multiplies_gradients": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_loss.test_init_gradient_and_hessians_sample_weight": []
+}

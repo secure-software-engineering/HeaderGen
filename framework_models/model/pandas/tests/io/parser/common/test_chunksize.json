@@ -1,0 +1,14 @@
+{
+    "pandas.tests.io.parser.common.test_chunksize.test_read_chunksize_with_index": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_read_chunksize_bad": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_read_chunksize_and_nrows": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_read_chunksize_and_nrows_changing_size": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_get_chunk_passed_chunksize": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_read_chunksize_compat": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_read_chunksize_jagged_names": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_chunk_begins_with_newline_whitespace": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_chunks_have_consistent_numerical_type": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_warn_if_chunks_have_mismatched_type": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_empty_with_nrows_chunksize": [],
+    "pandas.tests.io.parser.common.test_chunksize.test_read_csv_memory_growth_chunksize": []
+}

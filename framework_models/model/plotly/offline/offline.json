@@ -1,0 +1,16 @@
+{
+    "plotly.offline.offline.download_plotlyjs": [],
+    "plotly.offline.offline.get_plotlyjs_version": [],
+    "plotly.offline.offline.get_plotlyjs": [],
+    "plotly.offline.offline._build_resize_script": [],
+    "plotly.offline.offline._build_mathjax_script": [],
+    "plotly.offline.offline._get_jconfig": [],
+    "plotly.offline.offline.get_image_download_script": [],
+    "plotly.offline.offline.build_save_image_post_script": [],
+    "plotly.offline.offline.init_notebook_mode": [],
+    "plotly.offline.offline.iplot": ["VISUALIZATION"],
+    "plotly.offline.offline.plot": [],
+    "plotly.offline.offline.plot_mpl": [],
+    "plotly.offline.offline.iplot_mpl": ["VISUALIZATION"],
+    "plotly.offline.offline.enable_mpl_offline": []
+}

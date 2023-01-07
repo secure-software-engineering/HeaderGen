@@ -1,0 +1,8 @@
+{
+    "keras.backend_config.epsilon": [],
+    "keras.backend_config.set_epsilon": [],
+    "keras.backend_config.floatx": [],
+    "keras.backend_config.set_floatx": [],
+    "keras.backend_config.image_data_format": [],
+    "keras.backend_config.set_image_data_format": []
+}

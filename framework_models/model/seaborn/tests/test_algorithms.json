@@ -1,0 +1,17 @@
+{
+    "seaborn.tests.test_algorithms.random": [],
+    "seaborn.tests.test_algorithms.test_bootstrap": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_length": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_range": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_multiarg": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_axis": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_seed": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_ols": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_units": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_arglength": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_string_func": [],
+    "seaborn.tests.test_algorithms.test_bootstrap_reproducibility": [],
+    "seaborn.tests.test_algorithms.test_seed_new": [],
+    "seaborn.tests.test_algorithms.test_seed_old": [],
+    "seaborn.tests.test_algorithms.test_bad_seed_old": []
+}

@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.ops.logging_ops.Print": [],
+    "tensorflow.python.ops.logging_ops._generate_placeholder_string": [],
+    "tensorflow.python.ops.logging_ops._is_filepath": [],
+    "tensorflow.python.ops.logging_ops.print_v2": [],
+    "tensorflow.python.ops.logging_ops._PrintGrad": [],
+    "tensorflow.python.ops.logging_ops._Collect": [],
+    "tensorflow.python.ops.logging_ops.histogram_summary": [],
+    "tensorflow.python.ops.logging_ops.image_summary": [],
+    "tensorflow.python.ops.logging_ops.audio_summary": [],
+    "tensorflow.python.ops.logging_ops.merge_summary": [],
+    "tensorflow.python.ops.logging_ops.merge_all_summaries": [],
+    "tensorflow.python.ops.logging_ops.get_summary_op": [],
+    "tensorflow.python.ops.logging_ops.scalar_summary": []
+}

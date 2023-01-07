@@ -1,0 +1,13 @@
+{
+    "sklearn.inspection._plot.partial_dependence.plot_partial_dependence": [],
+    "sklearn.inspection._plot.partial_dependence._plot_partial_dependence": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay.__init__": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay.from_estimator": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay._get_sample_count": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay._plot_ice_lines": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay._plot_average_dependence": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay._plot_one_way_partial_dependence": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay._plot_two_way_partial_dependence": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay.plot": [],
+    "sklearn.inspection._plot.partial_dependence.PartialDependenceDisplay": []
+}

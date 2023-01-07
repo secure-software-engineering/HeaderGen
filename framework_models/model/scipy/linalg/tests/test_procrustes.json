@@ -1,0 +1,13 @@
+{
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_ndim_too_large": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_ndim_too_small": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_shape_mismatch": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_checkfinite_exception": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_scale_invariance": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_array_conversion": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes": [],
+    "scipy.linalg.tests.test_procrustes._centered": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_exact_example": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_stretched_example": [],
+    "scipy.linalg.tests.test_procrustes.test_orthogonal_procrustes_skbio_example": []
+}

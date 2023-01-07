@@ -1,0 +1,12 @@
+{
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_memory_no_likelihood": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_memory_no_likelihood_extras": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_memory_no_likelihood_multivariate": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_memory_no_likelihood_multivariate_extra": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_fit": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_low_memory_filter": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_low_memory_fit": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_fittedvalues_resid_predict": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_get_prediction_memory_conserve": [],
+    "statsmodels.tsa.statespace.tests.test_conserve_memory.test_invalid_fittedvalues_resid_predict": []
+}

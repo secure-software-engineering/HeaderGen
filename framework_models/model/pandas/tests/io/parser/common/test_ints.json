@@ -1,0 +1,12 @@
+{
+    "pandas.tests.io.parser.common.test_ints.test_int_conversion": [],
+    "pandas.tests.io.parser.common.test_ints.test_parse_bool": [],
+    "pandas.tests.io.parser.common.test_ints.test_parse_integers_above_fp_precision": [],
+    "pandas.tests.io.parser.common.test_ints.test_integer_overflow_bug": [],
+    "pandas.tests.io.parser.common.test_ints.test_int64_min_issues": [],
+    "pandas.tests.io.parser.common.test_ints.test_int64_overflow": [],
+    "pandas.tests.io.parser.common.test_ints.test_int64_uint64_range": [],
+    "pandas.tests.io.parser.common.test_ints.test_outside_int64_uint64_range": [],
+    "pandas.tests.io.parser.common.test_ints.test_numeric_range_too_wide": [],
+    "pandas.tests.io.parser.common.test_ints.test_integer_precision": []
+}

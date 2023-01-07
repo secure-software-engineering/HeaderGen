@@ -1,0 +1,15 @@
+{
+    "sklearn.neighbors._lof.LocalOutlierFactor.__init__": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor._check_novelty_fit_predict": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor.fit_predict": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor.fit": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor._check_novelty_predict": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor.predict": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor._predict": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor._check_novelty_decision_function": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor.decision_function": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor._check_novelty_score_samples": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor.score_samples": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor._local_reachability_density": [],
+    "sklearn.neighbors._lof.LocalOutlierFactor": []
+}

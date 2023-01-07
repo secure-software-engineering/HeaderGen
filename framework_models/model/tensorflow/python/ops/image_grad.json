@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.ops.image_grad._ResizeNearestNeighborGrad": [],
+    "tensorflow.python.ops.image_grad._ResizeBilinearGrad": [],
+    "tensorflow.python.ops.image_grad._ScaleAndTranslateGrad": [],
+    "tensorflow.python.ops.image_grad._ResizeBicubicGrad": [],
+    "tensorflow.python.ops.image_grad._CropAndResizeGrad": [],
+    "tensorflow.python.ops.image_grad._CustomReciprocal": [],
+    "tensorflow.python.ops.image_grad._RGBToHSVGrad": []
+}

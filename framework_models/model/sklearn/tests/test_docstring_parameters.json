@@ -1,0 +1,9 @@
+{
+    "sklearn.tests.test_docstring_parameters.test_docstring_parameters": [],
+    "sklearn.tests.test_docstring_parameters.test_tabs": [],
+    "sklearn.tests.test_docstring_parameters._construct_searchcv_instance": [],
+    "sklearn.tests.test_docstring_parameters._construct_compose_pipeline_instance": [],
+    "sklearn.tests.test_docstring_parameters._construct_sparse_coder": [],
+    "sklearn.tests.test_docstring_parameters.test_fit_docstring_attributes": [],
+    "sklearn.tests.test_docstring_parameters._get_all_fitted_attributes": []
+}

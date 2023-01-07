@@ -1,0 +1,21 @@
+{
+    "sklearn.cluster._bicluster._scale_normalize": [],
+    "sklearn.cluster._bicluster._bistochastic_normalize": [],
+    "sklearn.cluster._bicluster._log_normalize": [],
+    "sklearn.cluster._bicluster.BaseSpectral.__init__": [],
+    "sklearn.cluster._bicluster.BaseSpectral._check_parameters": [],
+    "sklearn.cluster._bicluster.BaseSpectral.fit": [],
+    "sklearn.cluster._bicluster.BaseSpectral._svd": [],
+    "sklearn.cluster._bicluster.BaseSpectral._k_means": [],
+    "sklearn.cluster._bicluster.BaseSpectral._more_tags": [],
+    "sklearn.cluster._bicluster.SpectralCoclustering.__init__": [],
+    "sklearn.cluster._bicluster.SpectralCoclustering._fit": [],
+    "sklearn.cluster._bicluster.SpectralBiclustering.__init__": [],
+    "sklearn.cluster._bicluster.SpectralBiclustering._check_parameters": [],
+    "sklearn.cluster._bicluster.SpectralBiclustering._fit": [],
+    "sklearn.cluster._bicluster.SpectralBiclustering._fit_best_piecewise": [],
+    "sklearn.cluster._bicluster.SpectralBiclustering._project_and_cluster": [],
+    "sklearn.cluster._bicluster.BaseSpectral": [],
+    "sklearn.cluster._bicluster.SpectralCoclustering": [],
+    "sklearn.cluster._bicluster.SpectralBiclustering": []
+}

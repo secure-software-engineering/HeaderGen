@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.tools.strip_unused_lib.strip_unused": [],
+    "tensorflow.python.tools.strip_unused_lib.strip_unused_from_files": []
+}

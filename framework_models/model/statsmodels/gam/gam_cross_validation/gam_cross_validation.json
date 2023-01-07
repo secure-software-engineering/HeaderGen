@@ -1,0 +1,16 @@
+{
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation._split_train_test_smoothers": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.BaseCV.__init__": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.BaseCV.fit": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.BaseCV._error": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.MultivariateGAMCV.__init__": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.MultivariateGAMCV._error": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.BasePenaltiesPathCV.__init__": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.BasePenaltiesPathCV.plot_path": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.MultivariateGAMCVPath.__init__": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.MultivariateGAMCVPath.fit": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.BaseCV": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.MultivariateGAMCV": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.BasePenaltiesPathCV": [],
+    "statsmodels.gam.gam_cross_validation.gam_cross_validation.MultivariateGAMCVPath": []
+}

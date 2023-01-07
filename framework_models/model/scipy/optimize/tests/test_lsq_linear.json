@@ -1,0 +1,17 @@
+{
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.setup_method": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.test_dense_no_bounds": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.test_dense_bounds": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.test_np_matrix": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.test_dense_rank_deficient": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.test_full_result": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.test_almost_singular": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.test_large_rank_deficient": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin.test_convergence_small_matrix": [],
+    "scipy.optimize.tests.test_lsq_linear.SparseMixin.test_sparse_and_LinearOperator": [],
+    "scipy.optimize.tests.test_lsq_linear.SparseMixin.test_sparse_bounds": [],
+    "scipy.optimize.tests.test_lsq_linear.BaseMixin": [],
+    "scipy.optimize.tests.test_lsq_linear.SparseMixin": [],
+    "scipy.optimize.tests.test_lsq_linear.TestTRF": [],
+    "scipy.optimize.tests.test_lsq_linear.TestBVLS": []
+}

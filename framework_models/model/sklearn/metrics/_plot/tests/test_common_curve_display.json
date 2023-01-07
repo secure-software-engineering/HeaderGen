@@ -1,0 +1,8 @@
+{
+    "sklearn.metrics._plot.tests.test_common_curve_display.data": [],
+    "sklearn.metrics._plot.tests.test_common_curve_display.data_binary": [],
+    "sklearn.metrics._plot.tests.test_common_curve_display.test_display_curve_error_non_binary": [],
+    "sklearn.metrics._plot.tests.test_common_curve_display.test_display_curve_error_no_response": [],
+    "sklearn.metrics._plot.tests.test_common_curve_display.test_display_curve_estimator_name_multiple_calls": [],
+    "sklearn.metrics._plot.tests.test_common_curve_display.test_display_curve_not_fitted_errors": []
+}

@@ -1,0 +1,12 @@
+{
+    "numpy.distutils.conv_template.parse_structure": [],
+    "numpy.distutils.conv_template.paren_repl": [],
+    "numpy.distutils.conv_template.parse_values": [],
+    "numpy.distutils.conv_template.parse_loop_header": [],
+    "numpy.distutils.conv_template.parse_string": [],
+    "numpy.distutils.conv_template.process_str": [],
+    "numpy.distutils.conv_template.resolve_includes": [],
+    "numpy.distutils.conv_template.process_file": [],
+    "numpy.distutils.conv_template.unique_key": [],
+    "numpy.distutils.conv_template.main": []
+}

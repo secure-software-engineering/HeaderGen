@@ -1,0 +1,16 @@
+{
+    "sklearn.neural_network.tests.test_rbm.test_fit": [],
+    "sklearn.neural_network.tests.test_rbm.test_partial_fit": [],
+    "sklearn.neural_network.tests.test_rbm.test_transform": [],
+    "sklearn.neural_network.tests.test_rbm.test_small_sparse": [],
+    "sklearn.neural_network.tests.test_rbm.test_small_sparse_partial_fit": [],
+    "sklearn.neural_network.tests.test_rbm.test_sample_hiddens": [],
+    "sklearn.neural_network.tests.test_rbm.test_fit_gibbs": [],
+    "sklearn.neural_network.tests.test_rbm.test_fit_gibbs_sparse": [],
+    "sklearn.neural_network.tests.test_rbm.test_gibbs_smoke": [],
+    "sklearn.neural_network.tests.test_rbm.test_score_samples": [],
+    "sklearn.neural_network.tests.test_rbm.test_rbm_verbose": [],
+    "sklearn.neural_network.tests.test_rbm.test_sparse_and_verbose": [],
+    "sklearn.neural_network.tests.test_rbm.test_transformer_dtypes_casting": [],
+    "sklearn.neural_network.tests.test_rbm.test_convergence_dtype_consistency": []
+}

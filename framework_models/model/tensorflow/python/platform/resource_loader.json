@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.platform.resource_loader.load_resource": [],
+    "tensorflow.python.platform.resource_loader.get_data_files_path": [],
+    "tensorflow.python.platform.resource_loader.get_root_dir_with_all_resources": [],
+    "tensorflow.python.platform.resource_loader.get_path_to_datafile": [],
+    "tensorflow.python.platform.resource_loader.readahead_file_path": []
+}

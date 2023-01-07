@@ -1,0 +1,16 @@
+{
+    "statsmodels.tsa.base.tsa_model.get_index_loc": [],
+    "statsmodels.tsa.base.tsa_model.get_index_label_loc": [],
+    "statsmodels.tsa.base.tsa_model.get_prediction_index": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModel.__init__": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModel._init_dates": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModel._get_index_loc": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModel._get_index_label_loc": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModel._get_prediction_index": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModel._get_exog_names": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModel._set_exog_names": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModelResults.__init__": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModel": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesModelResults": [],
+    "statsmodels.tsa.base.tsa_model.TimeSeriesResultsWrapper": []
+}

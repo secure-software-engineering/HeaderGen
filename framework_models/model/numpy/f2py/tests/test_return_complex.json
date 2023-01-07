@@ -1,0 +1,8 @@
+{
+    "numpy.f2py.tests.test_return_complex.TestReturnComplex.check_function": [],
+    "numpy.f2py.tests.test_return_complex.TestF77ReturnComplex.test_all": [],
+    "numpy.f2py.tests.test_return_complex.TestF90ReturnComplex.test_all": [],
+    "numpy.f2py.tests.test_return_complex.TestReturnComplex": [],
+    "numpy.f2py.tests.test_return_complex.TestF77ReturnComplex": [],
+    "numpy.f2py.tests.test_return_complex.TestF90ReturnComplex": []
+}

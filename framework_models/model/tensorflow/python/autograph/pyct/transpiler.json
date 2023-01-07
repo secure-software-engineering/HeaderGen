@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.autograph.pyct.transpiler._wrap_into_factory": [],
+    "tensorflow.python.autograph.pyct.transpiler._PythonFnFactory.__init__": [],
+    "tensorflow.python.autograph.pyct.transpiler._PythonFnFactory.create": [],
+    "tensorflow.python.autograph.pyct.transpiler._PythonFnFactory.instantiate": [],
+    "tensorflow.python.autograph.pyct.transpiler.GenericTranspiler.get_transformed_name": [],
+    "tensorflow.python.autograph.pyct.transpiler.GenericTranspiler.transform_ast": [],
+    "tensorflow.python.autograph.pyct.transpiler.GenericTranspiler.transform": [],
+    "tensorflow.python.autograph.pyct.transpiler.GenericTranspiler._erase_arg_defaults": [],
+    "tensorflow.python.autograph.pyct.transpiler.GenericTranspiler.transform_module": [],
+    "tensorflow.python.autograph.pyct.transpiler.GenericTranspiler.transform_function": [],
+    "tensorflow.python.autograph.pyct.transpiler.PyToPy.__init__": [],
+    "tensorflow.python.autograph.pyct.transpiler.PyToPy.get_extra_locals": [],
+    "tensorflow.python.autograph.pyct.transpiler.PyToPy.get_caching_key": [],
+    "tensorflow.python.autograph.pyct.transpiler.PyToPy._cached_factory": [],
+    "tensorflow.python.autograph.pyct.transpiler.PyToPy.transform_function": [],
+    "tensorflow.python.autograph.pyct.transpiler._PythonFnFactory": [],
+    "tensorflow.python.autograph.pyct.transpiler.GenericTranspiler": [],
+    "tensorflow.python.autograph.pyct.transpiler.PyToPy": []
+}

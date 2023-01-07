@@ -1,0 +1,5 @@
+{
+    "scipy.optimize._linprog.linprog_verbose_callback": [],
+    "scipy.optimize._linprog.linprog_terse_callback": [],
+    "scipy.optimize._linprog.linprog": []
+}

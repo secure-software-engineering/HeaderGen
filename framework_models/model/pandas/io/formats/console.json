@@ -1,0 +1,5 @@
+{
+    "pandas.io.formats.console.get_console_size": [],
+    "pandas.io.formats.console.in_interactive_session": [],
+    "pandas.io.formats.console.in_ipython_frontend": []
+}

@@ -1,0 +1,21 @@
+{
+    "statsmodels.multivariate.tests.test_pca.test_missing": [],
+    "statsmodels.multivariate.tests.test_pca.test_too_many_missing": [],
+    "statsmodels.multivariate.tests.test_pca.test_gls_warning": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.setup_class": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_smoke_plot_and_repr": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_eig_svd_equiv": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_options": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_against_reference": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_warnings_and_errors": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_pandas": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_gls_and_weights": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_wide": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_projection": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_replace_missing": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_rsquare": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_missing_dataframe": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_equivalence": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA.test_equivalence_full_matrices": [],
+    "statsmodels.multivariate.tests.test_pca.TestPCA": []
+}

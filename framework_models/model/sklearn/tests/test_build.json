@@ -1,0 +1,3 @@
+{
+    "sklearn.tests.test_build.test_openmp_parallelism_enabled": []
+}

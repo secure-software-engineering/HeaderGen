@@ -1,0 +1,10 @@
+{
+    "scipy.sparse.linalg.isolve.tests.test_minres.get_sample_problem": [],
+    "scipy.sparse.linalg.isolve.tests.test_minres.test_singular": [],
+    "scipy.sparse.linalg.isolve.tests.test_minres.test_x0_is_used_by": [],
+    "scipy.sparse.linalg.isolve.tests.test_minres.test_shift": [],
+    "scipy.sparse.linalg.isolve.tests.test_minres.test_asymmetric_fail": [],
+    "scipy.sparse.linalg.isolve.tests.test_minres.test_minres_non_default_x0": [],
+    "scipy.sparse.linalg.isolve.tests.test_minres.test_minres_precond_non_default_x0": [],
+    "scipy.sparse.linalg.isolve.tests.test_minres.test_minres_precond_exact_x0": []
+}

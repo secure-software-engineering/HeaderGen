@@ -1,0 +1,9 @@
+{
+  "6": [
+    "main.MyClass:1.func:2.nested:3"
+  ],
+  "10": [
+    "main.MyClass:1.func:2",
+    "main.MyClass:1.func:2.nested:3"
+  ]
+}

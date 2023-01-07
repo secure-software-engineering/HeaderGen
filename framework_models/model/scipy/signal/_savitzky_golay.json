@@ -1,0 +1,7 @@
+{
+    "scipy.signal._savitzky_golay.savgol_coeffs": [],
+    "scipy.signal._savitzky_golay._polyder": [],
+    "scipy.signal._savitzky_golay._fit_edge": [],
+    "scipy.signal._savitzky_golay._fit_edges_polyfit": [],
+    "scipy.signal._savitzky_golay.savgol_filter": []
+}

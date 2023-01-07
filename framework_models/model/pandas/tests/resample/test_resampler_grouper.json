@@ -1,0 +1,20 @@
+{
+    "pandas.tests.resample.test_resampler_grouper.test_deferred_with_groupby": [],
+    "pandas.tests.resample.test_resampler_grouper.test_getitem": [],
+    "pandas.tests.resample.test_resampler_grouper.test_getitem_multiple": [],
+    "pandas.tests.resample.test_resampler_grouper.test_groupby_resample_on_api_with_getitem": [],
+    "pandas.tests.resample.test_resampler_grouper.test_groupby_with_origin": [],
+    "pandas.tests.resample.test_resampler_grouper.test_nearest": [],
+    "pandas.tests.resample.test_resampler_grouper.test_methods": [],
+    "pandas.tests.resample.test_resampler_grouper.test_apply": [],
+    "pandas.tests.resample.test_resampler_grouper.test_apply_with_mutated_index": [],
+    "pandas.tests.resample.test_resampler_grouper.test_apply_columns_multilevel": [],
+    "pandas.tests.resample.test_resampler_grouper.test_resample_groupby_with_label": [],
+    "pandas.tests.resample.test_resampler_grouper.test_consistency_with_window": [],
+    "pandas.tests.resample.test_resampler_grouper.test_median_duplicate_columns": [],
+    "pandas.tests.resample.test_resampler_grouper.test_apply_to_one_column_of_df": [],
+    "pandas.tests.resample.test_resampler_grouper.test_resample_groupby_agg": [],
+    "pandas.tests.resample.test_resampler_grouper.test_resample_groupby_agg_listlike": [],
+    "pandas.tests.resample.test_resampler_grouper.test_empty": [],
+    "pandas.tests.resample.test_resampler_grouper.test_resample_groupby_agg_object_dtype_all_nan": []
+}

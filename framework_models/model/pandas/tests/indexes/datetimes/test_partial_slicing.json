@@ -1,0 +1,20 @@
+{
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_monotone_DTI_indexing_bug": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_slice_year": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_slice_end_of_period_resolution": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_slice_quarter": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_slice_month": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_partial_slice": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_partial_slice_daily": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_partial_slice_hourly": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_partial_slice_minutely": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_partial_slice_second_precision": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_partial_slicing_dataframe": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_partial_slicing_with_multiindex": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_partial_slice_doesnt_require_monotonicity": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_loc_datetime_length_one": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_selection_by_datetimelike": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_getitem_with_datestring_with_UTC_offset": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing.test_slice_reduce_to_series": [],
+    "pandas.tests.indexes.datetimes.test_partial_slicing.TestSlicing": []
+}

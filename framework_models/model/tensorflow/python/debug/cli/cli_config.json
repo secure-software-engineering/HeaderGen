@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.debug.cli.cli_config.CLIConfig.__init__": [],
+    "tensorflow.python.debug.cli.cli_config.CLIConfig.get": [],
+    "tensorflow.python.debug.cli.cli_config.CLIConfig.set": [],
+    "tensorflow.python.debug.cli.cli_config.CLIConfig.set_callback": [],
+    "tensorflow.python.debug.cli.cli_config.CLIConfig._default_config_file_path": [],
+    "tensorflow.python.debug.cli.cli_config.CLIConfig._save_to_file": [],
+    "tensorflow.python.debug.cli.cli_config.CLIConfig.summarize": [],
+    "tensorflow.python.debug.cli.cli_config.CLIConfig._load_from_file": [],
+    "tensorflow.python.debug.cli.cli_config.CLIConfig": []
+}

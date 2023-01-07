@@ -1,0 +1,7 @@
+{
+    "numpy.distutils.fcompiler.fujitsu.FujitsuFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.fujitsu.FujitsuFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.fujitsu.FujitsuFCompiler.runtime_library_dir_option": [],
+    "numpy.distutils.fcompiler.fujitsu.FujitsuFCompiler.get_libraries": [],
+    "numpy.distutils.fcompiler.fujitsu.FujitsuFCompiler": []
+}

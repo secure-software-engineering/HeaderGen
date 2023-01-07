@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.fcompiler.vast.VastFCompiler.find_executables": [],
+    "numpy.distutils.fcompiler.vast.VastFCompiler.get_version_cmd": [],
+    "numpy.distutils.fcompiler.vast.VastFCompiler.get_flags_arch": [],
+    "numpy.distutils.fcompiler.vast.VastFCompiler": []
+}

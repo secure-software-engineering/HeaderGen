@@ -1,0 +1,6 @@
+{
+    "pandas.tests.series.indexing.test_mask.test_mask": [],
+    "pandas.tests.series.indexing.test_mask.test_mask_inplace": [],
+    "pandas.tests.series.indexing.test_mask.test_mask_stringdtype": [],
+    "pandas.tests.series.indexing.test_mask.test_mask_pos_args_deprecation": []
+}

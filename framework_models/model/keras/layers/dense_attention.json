@@ -1,0 +1,22 @@
+{
+    "keras.layers.dense_attention._lower_triangular_mask": [],
+    "keras.layers.dense_attention._merge_masks": [],
+    "keras.layers.dense_attention.BaseDenseAttention.__init__": [],
+    "keras.layers.dense_attention.BaseDenseAttention._calculate_scores": [],
+    "keras.layers.dense_attention.BaseDenseAttention._apply_scores": [],
+    "keras.layers.dense_attention.BaseDenseAttention.call": [],
+    "keras.layers.dense_attention.BaseDenseAttention.compute_mask": [],
+    "keras.layers.dense_attention.BaseDenseAttention._validate_call_args": [],
+    "keras.layers.dense_attention.BaseDenseAttention.get_config": [],
+    "keras.layers.dense_attention.Attention.__init__": [],
+    "keras.layers.dense_attention.Attention.build": [],
+    "keras.layers.dense_attention.Attention._calculate_scores": [],
+    "keras.layers.dense_attention.Attention.get_config": [],
+    "keras.layers.dense_attention.AdditiveAttention.__init__": [],
+    "keras.layers.dense_attention.AdditiveAttention.build": [],
+    "keras.layers.dense_attention.AdditiveAttention._calculate_scores": [],
+    "keras.layers.dense_attention.AdditiveAttention.get_config": [],
+    "keras.layers.dense_attention.BaseDenseAttention": [],
+    "keras.layers.dense_attention.Attention": [],
+    "keras.layers.dense_attention.AdditiveAttention": []
+}

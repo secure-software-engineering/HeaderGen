@@ -1,0 +1,6 @@
+{
+    "pandas.core.window.numba_.generate_numba_apply_func": [],
+    "pandas.core.window.numba_.generate_numba_ewma_func": [],
+    "pandas.core.window.numba_.generate_numba_table_func": [],
+    "pandas.core.window.numba_.generate_manual_numpy_nan_agg_with_axis": []
+}

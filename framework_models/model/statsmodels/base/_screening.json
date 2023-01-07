@@ -1,0 +1,10 @@
+{
+    "statsmodels.base._screening.ScreeningResults.__init__": [],
+    "statsmodels.base._screening.VariableScreening.__init__": [],
+    "statsmodels.base._screening.VariableScreening._get_penal": [],
+    "statsmodels.base._screening.VariableScreening.ranking_measure": [],
+    "statsmodels.base._screening.VariableScreening.screen_exog": [],
+    "statsmodels.base._screening.VariableScreening.screen_exog_iterator": [],
+    "statsmodels.base._screening.ScreeningResults": [],
+    "statsmodels.base._screening.VariableScreening": []
+}

@@ -1,0 +1,57 @@
+{
+    "1": [
+        "Library Loading",
+        "Data Loading",
+        "Data Profiling and Exploratory Data Analysis"
+    ],
+    "2": [
+        "Data Profiling and Exploratory Data Analysis"
+    ],
+    "3": [
+        "Data Cleaning Filtering",
+        "Feature Transformation"
+    ],
+    "4": [
+        "Data Profiling and Exploratory Data Analysis",
+        "Data Cleaning Filtering",
+        "Feature Transformation"
+    ],
+    "5": [
+        "Data Profiling and Exploratory Data Analysis"
+    ],
+    "6": [
+        "Visualization"
+    ],
+    "7": [
+        "Data Profiling and Exploratory Data Analysis",
+        "Data Sub-sampling and Train-test Splitting"
+    ],
+    "8": [
+        "Visualization"
+    ],
+    "9": [
+    ],
+    "10": [
+        "Model Training",
+        "Model Validation and Assembling"
+    ],
+    "11": [
+        "Visualization"
+    ],
+    "12": [
+        "Visualization"
+    ],
+    "13": [
+    ],
+    "14": [
+        "Data Profiling and Exploratory Data Analysis",
+        "Data Cleaning Filtering"
+    ],
+    "15": [
+        "Visualization"
+    ],
+    "16": [
+        "Visualization",
+        "Model Validation and Assembling"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "sklearn.linear_model.tests.test_perceptron.test_perceptron_accuracy": [],
+    "sklearn.linear_model.tests.test_perceptron.test_perceptron_correctness": [],
+    "sklearn.linear_model.tests.test_perceptron.test_undefined_methods": [],
+    "sklearn.linear_model.tests.test_perceptron.test_perceptron_l1_ratio": [],
+    "sklearn.linear_model.tests.test_perceptron.MyPerceptron.__init__": [],
+    "sklearn.linear_model.tests.test_perceptron.MyPerceptron.fit": [],
+    "sklearn.linear_model.tests.test_perceptron.MyPerceptron.project": [],
+    "sklearn.linear_model.tests.test_perceptron.MyPerceptron.predict": [],
+    "sklearn.linear_model.tests.test_perceptron.MyPerceptron": []
+}

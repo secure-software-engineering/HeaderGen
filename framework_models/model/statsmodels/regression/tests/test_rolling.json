@@ -1,0 +1,20 @@
+{
+    "statsmodels.regression.tests.test_rolling.gen_data": [],
+    "statsmodels.regression.tests.test_rolling.data": [],
+    "statsmodels.regression.tests.test_rolling.basic_data": [],
+    "statsmodels.regression.tests.test_rolling.weighted_data": [],
+    "statsmodels.regression.tests.test_rolling.get_single": [],
+    "statsmodels.regression.tests.test_rolling.get_sub": [],
+    "statsmodels.regression.tests.test_rolling.test_has_nan": [],
+    "statsmodels.regression.tests.test_rolling.test_weighted_against_wls": [],
+    "statsmodels.regression.tests.test_rolling.test_against_wls_inference": [],
+    "statsmodels.regression.tests.test_rolling.test_raise": [],
+    "statsmodels.regression.tests.test_rolling.test_error": [],
+    "statsmodels.regression.tests.test_rolling.test_save_load": [],
+    "statsmodels.regression.tests.test_rolling.test_formula": [],
+    "statsmodels.regression.tests.test_rolling.test_plot": [],
+    "statsmodels.regression.tests.test_rolling.test_methods": [],
+    "statsmodels.regression.tests.test_rolling.test_params_only": [],
+    "statsmodels.regression.tests.test_rolling.test_min_nobs": [],
+    "statsmodels.regression.tests.test_rolling.test_expanding": []
+}

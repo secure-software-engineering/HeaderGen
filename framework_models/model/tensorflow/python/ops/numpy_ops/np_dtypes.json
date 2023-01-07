@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.numpy_ops.np_dtypes.is_prefer_float32": [],
+    "tensorflow.python.ops.numpy_ops.np_dtypes.set_prefer_float32": [],
+    "tensorflow.python.ops.numpy_ops.np_dtypes.is_allow_float64": [],
+    "tensorflow.python.ops.numpy_ops.np_dtypes.set_allow_float64": [],
+    "tensorflow.python.ops.numpy_ops.np_dtypes.canonicalize_dtype": [],
+    "tensorflow.python.ops.numpy_ops.np_dtypes._result_type": [],
+    "tensorflow.python.ops.numpy_ops.np_dtypes._get_cached_dtype": [],
+    "tensorflow.python.ops.numpy_ops.np_dtypes.default_float_type": []
+}

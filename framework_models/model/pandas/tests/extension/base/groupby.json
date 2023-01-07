@@ -1,0 +1,11 @@
+{
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests.test_grouping_grouper": [],
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests.test_groupby_extension_agg": [],
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests.test_groupby_agg_extension": [],
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests.test_groupby_extension_no_sort": [],
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests.test_groupby_extension_transform": [],
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests.test_groupby_extension_apply": [],
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests.test_groupby_apply_identity": [],
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests.test_in_numeric_groupby": [],
+    "pandas.tests.extension.base.groupby.BaseGroupbyTests": []
+}

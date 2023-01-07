@@ -1,0 +1,15 @@
+{
+    "scipy.optimize.tests.test_trustregion.Accumulator.__init__": [],
+    "scipy.optimize.tests.test_trustregion.Accumulator.__call__": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.setup_method": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.test_dogleg_accuracy": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.test_dogleg_callback": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.test_solver_concordance": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.test_trust_ncg_hessp": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.test_trust_ncg_start_in_optimum": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.test_trust_krylov_start_in_optimum": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.test_trust_exact_start_in_optimum": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers.test_finite_differences": [],
+    "scipy.optimize.tests.test_trustregion.Accumulator": [],
+    "scipy.optimize.tests.test_trustregion.TestTrustRegionSolvers": []
+}

@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.framework.combinations.EagerGraphCombination.context_managers": [],
+    "tensorflow.python.framework.combinations.EagerGraphCombination.parameter_modifiers": [],
+    "tensorflow.python.framework.combinations.TFVersionCombination.should_execute_combination": [],
+    "tensorflow.python.framework.combinations.TFVersionCombination.parameter_modifiers": [],
+    "tensorflow.python.framework.combinations.EagerGraphCombination": [],
+    "tensorflow.python.framework.combinations.TFVersionCombination": []
+}

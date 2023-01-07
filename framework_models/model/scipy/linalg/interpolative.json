@@ -1,0 +1,14 @@
+{
+    "scipy.linalg.interpolative._is_real": [],
+    "scipy.linalg.interpolative.seed": [],
+    "scipy.linalg.interpolative.rand": [],
+    "scipy.linalg.interpolative.interp_decomp": [],
+    "scipy.linalg.interpolative.reconstruct_matrix_from_id": [],
+    "scipy.linalg.interpolative.reconstruct_interp_matrix": [],
+    "scipy.linalg.interpolative.reconstruct_skel_matrix": [],
+    "scipy.linalg.interpolative.id_to_svd": [],
+    "scipy.linalg.interpolative.estimate_spectral_norm": [],
+    "scipy.linalg.interpolative.estimate_spectral_norm_diff": [],
+    "scipy.linalg.interpolative.svd": [],
+    "scipy.linalg.interpolative.estimate_rank": []
+}

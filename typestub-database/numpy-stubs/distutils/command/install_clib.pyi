@@ -1,0 +1,13 @@
+from distutils.core import Command
+from numpy.distutils.misc_util import get_cmd as get_cmd
+from typing import Any
+
+class install_clib(Command):
+    description: str
+    user_options: Any
+    install_dir: Any
+    outfiles: Any
+    def initialize_options(self) -> None: ...
+    def finalize_options(self) -> None: ...
+    def run(self) -> None: ...
+    def get_outputs(self): ...

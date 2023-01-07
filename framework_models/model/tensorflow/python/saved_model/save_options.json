@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.saved_model.save_options._validate_namespace_whitelist": [],
+    "tensorflow.python.saved_model.save_options.VariablePolicy._save_variable_devices": [],
+    "tensorflow.python.saved_model.save_options.VariablePolicy._expand_distributed_variables": [],
+    "tensorflow.python.saved_model.save_options.VariablePolicy.from_obj": [],
+    "tensorflow.python.saved_model.save_options.SaveOptions.__init__": [],
+    "tensorflow.python.saved_model.save_options.VariablePolicy": [],
+    "tensorflow.python.saved_model.save_options.SaveOptions": []
+}

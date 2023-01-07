@@ -1,0 +1,5 @@
+{
+    "numpy.random._pickle.__generator_ctor": [],
+    "numpy.random._pickle.__bit_generator_ctor": [],
+    "numpy.random._pickle.__randomstate_ctor": []
+}

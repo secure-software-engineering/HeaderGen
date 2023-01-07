@@ -1,0 +1,4 @@
+{
+    "pandas.tests.tseries.offsets.test_offsets_properties.test_on_offset_implementations": [],
+    "pandas.tests.tseries.offsets.test_offsets_properties.test_shift_across_dst": []
+}

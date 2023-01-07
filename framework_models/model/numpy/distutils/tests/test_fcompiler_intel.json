@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.tests.test_fcompiler_intel.TestIntelFCompilerVersions.test_32bit_version": [],
+    "numpy.distutils.tests.test_fcompiler_intel.TestIntelEM64TFCompilerVersions.test_64bit_version": [],
+    "numpy.distutils.tests.test_fcompiler_intel.TestIntelFCompilerVersions": [],
+    "numpy.distutils.tests.test_fcompiler_intel.TestIntelEM64TFCompilerVersions": []
+}

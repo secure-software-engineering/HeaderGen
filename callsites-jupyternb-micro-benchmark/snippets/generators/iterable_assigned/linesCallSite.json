@@ -1,0 +1,9 @@
+{
+  "18": [
+    "main.Cls:1.__init__:2"
+  ],
+  "20": [
+    "main.Cls:1.__iter__:5",
+    "main.Cls:1.__next__:9"
+  ]
+}

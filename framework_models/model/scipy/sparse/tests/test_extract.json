@@ -1,0 +1,7 @@
+{
+    "scipy.sparse.tests.test_extract.TestExtract.setup_method": [],
+    "scipy.sparse.tests.test_extract.TestExtract.find": [],
+    "scipy.sparse.tests.test_extract.TestExtract.test_tril": [],
+    "scipy.sparse.tests.test_extract.TestExtract.test_triu": [],
+    "scipy.sparse.tests.test_extract.TestExtract": []
+}

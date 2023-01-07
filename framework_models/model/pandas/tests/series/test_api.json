@@ -1,0 +1,16 @@
+{
+    "pandas.tests.series.test_api.TestSeriesMisc.test_tab_completion": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_tab_completion_with_categorical": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_index_tab_completion": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_not_hashable": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_contains": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_raise_on_info": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_axis_alias": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_class_axis": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_ndarray_compat": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_empty_method": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_integer_series_size": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_attrs": [],
+    "pandas.tests.series.test_api.TestSeriesMisc.test_inspect_getmembers": [],
+    "pandas.tests.series.test_api.TestSeriesMisc": []
+}

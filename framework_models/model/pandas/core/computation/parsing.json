@@ -1,0 +1,7 @@
+{
+    "pandas.core.computation.parsing.create_valid_python_identifier": [],
+    "pandas.core.computation.parsing.clean_backtick_quoted_toks": [],
+    "pandas.core.computation.parsing.clean_column_name": [],
+    "pandas.core.computation.parsing.tokenize_backtick_quoted_string": [],
+    "pandas.core.computation.parsing.tokenize_string": []
+}

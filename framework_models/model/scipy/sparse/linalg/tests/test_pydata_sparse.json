@@ -1,0 +1,22 @@
+{
+    "scipy.sparse.linalg.tests.test_pydata_sparse.sparse_cls": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.sp_sparse_cls": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.same_matrix": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.matrices": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_isolve_gmres": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_lsmr": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_lsqr": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_eigs": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_svds": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_lobpcg": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_spsolve": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_splu": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_spilu": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_spsolve_triangular": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_onenormest": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_inv": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_expm": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_expm_multiply": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_eq": [],
+    "scipy.sparse.linalg.tests.test_pydata_sparse.test_ne": []
+}

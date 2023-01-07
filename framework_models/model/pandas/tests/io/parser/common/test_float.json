@@ -1,0 +1,6 @@
+{
+    "pandas.tests.io.parser.common.test_float.test_float_parser": [],
+    "pandas.tests.io.parser.common.test_float.test_scientific_no_exponent": [],
+    "pandas.tests.io.parser.common.test_float.test_very_negative_exponent": [],
+    "pandas.tests.io.parser.common.test_float.test_too_many_exponent_digits": []
+}

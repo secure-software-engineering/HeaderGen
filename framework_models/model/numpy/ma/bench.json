@@ -1,0 +1,6 @@
+{
+    "numpy.ma.bench.timer": [],
+    "numpy.ma.bench.compare_functions_1v": [],
+    "numpy.ma.bench.compare_methods": [],
+    "numpy.ma.bench.compare_functions_2v": []
+}

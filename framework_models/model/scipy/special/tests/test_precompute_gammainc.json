@@ -1,0 +1,7 @@
+{
+    "scipy.special.tests.test_precompute_gammainc.test_g": [],
+    "scipy.special.tests.test_precompute_gammainc.test_alpha": [],
+    "scipy.special.tests.test_precompute_gammainc.test_d": [],
+    "scipy.special.tests.test_precompute_gammainc.test_gammainc": [],
+    "scipy.special.tests.test_precompute_gammainc.test_gammaincc": []
+}

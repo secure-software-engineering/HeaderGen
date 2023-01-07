@@ -1,0 +1,21 @@
+{
+    "statsmodels.nonparametric.tests.test_lowess.test_returns_inputs": [],
+    "statsmodels.nonparametric.tests.test_lowess.test_xvals_dtype": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_import": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_flat": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_range": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.generate": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_simple": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_iter_0": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_iter_0_3": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_frac_2_3": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_frac_1_5": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_delta_0": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_delta_rdef": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_delta_1": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_options": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_duplicate_xs": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_spike": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess.test_exog_predict": [],
+    "statsmodels.nonparametric.tests.test_lowess.TestLowess": []
+}

@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.tools.api.generator.doc_srcs.get_doc_sources": [],
+    "tensorflow.python.tools.api.generator.doc_srcs.DocSource.__init__": [],
+    "tensorflow.python.tools.api.generator.doc_srcs.DocSource": []
+}

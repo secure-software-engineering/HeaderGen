@@ -1,0 +1,14 @@
+{
+    "tensorflow.tools.pip_package.setup.find_files": [],
+    "tensorflow.tools.pip_package.setup.BinaryDistribution.has_ext_modules": [],
+    "tensorflow.tools.pip_package.setup.InstallCommand.finalize_options": [],
+    "tensorflow.tools.pip_package.setup.InstallHeaders.initialize_options": [],
+    "tensorflow.tools.pip_package.setup.InstallHeaders.finalize_options": [],
+    "tensorflow.tools.pip_package.setup.InstallHeaders.mkdir_and_copy_file": [],
+    "tensorflow.tools.pip_package.setup.InstallHeaders.run": [],
+    "tensorflow.tools.pip_package.setup.InstallHeaders.get_inputs": [],
+    "tensorflow.tools.pip_package.setup.InstallHeaders.get_outputs": [],
+    "tensorflow.tools.pip_package.setup.BinaryDistribution": [],
+    "tensorflow.tools.pip_package.setup.InstallCommand": [],
+    "tensorflow.tools.pip_package.setup.InstallHeaders": []
+}

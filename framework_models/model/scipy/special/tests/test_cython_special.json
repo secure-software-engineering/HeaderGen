@@ -1,0 +1,5 @@
+{
+    "scipy.special.tests.test_cython_special._generate_test_points": [],
+    "scipy.special.tests.test_cython_special.test_cython_api_completeness": [],
+    "scipy.special.tests.test_cython_special.test_cython_api": []
+}

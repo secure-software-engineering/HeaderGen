@@ -1,0 +1,5 @@
+{
+    "pandas.io.gbq._try_import": [],
+    "pandas.io.gbq.read_gbq": [],
+    "pandas.io.gbq.to_gbq": []
+}

@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.timedeltas.test_formats.TestTimedeltaIndexRendering.test_representation": [],
+    "pandas.tests.indexes.timedeltas.test_formats.TestTimedeltaIndexRendering.test_representation_to_series": [],
+    "pandas.tests.indexes.timedeltas.test_formats.TestTimedeltaIndexRendering.test_summary": [],
+    "pandas.tests.indexes.timedeltas.test_formats.TestTimedeltaIndexRendering": []
+}

@@ -1,0 +1,11 @@
+{
+  "1": [
+    "<builtin>.StopIteration"
+  ],
+  "2": [
+    "main_nb.func:1.__init__:1",
+    "main_nb.func:1.__iter__:1",
+    "main_nb.func:1.__next__:1",
+    "<builtin>.StopIteration"
+  ]
+}

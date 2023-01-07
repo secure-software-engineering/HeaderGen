@@ -1,0 +1,21 @@
+{
+    "scipy.sparse.linalg.tests.test_interface.test_repr": [],
+    "scipy.sparse.linalg.tests.test_interface.test_identity": [],
+    "scipy.sparse.linalg.tests.test_interface.test_attributes": [],
+    "scipy.sparse.linalg.tests.test_interface.matvec": [],
+    "scipy.sparse.linalg.tests.test_interface.test_pickle": [],
+    "scipy.sparse.linalg.tests.test_interface.test_inheritance": [],
+    "scipy.sparse.linalg.tests.test_interface.test_dtypes_of_operator_sum": [],
+    "scipy.sparse.linalg.tests.test_interface.test_no_double_init": [],
+    "scipy.sparse.linalg.tests.test_interface.test_adjoint_conjugate": [],
+    "scipy.sparse.linalg.tests.test_interface.test_ndim": [],
+    "scipy.sparse.linalg.tests.test_interface.test_transpose_noconjugate": [],
+    "scipy.sparse.linalg.tests.test_interface.TestLinearOperator.setup_method": [],
+    "scipy.sparse.linalg.tests.test_interface.TestLinearOperator.test_matvec": [],
+    "scipy.sparse.linalg.tests.test_interface.TestLinearOperator.test_matmul": [],
+    "scipy.sparse.linalg.tests.test_interface.TestAsLinearOperator.setup_method": [],
+    "scipy.sparse.linalg.tests.test_interface.TestAsLinearOperator.test_basic": [],
+    "scipy.sparse.linalg.tests.test_interface.TestAsLinearOperator.test_dot": [],
+    "scipy.sparse.linalg.tests.test_interface.TestLinearOperator": [],
+    "scipy.sparse.linalg.tests.test_interface.TestAsLinearOperator": []
+}

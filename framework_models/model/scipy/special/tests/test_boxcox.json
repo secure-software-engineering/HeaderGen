@@ -1,0 +1,10 @@
+{
+    "scipy.special.tests.test_boxcox.test_boxcox_basic": [],
+    "scipy.special.tests.test_boxcox.test_boxcox_underflow": [],
+    "scipy.special.tests.test_boxcox.test_boxcox_nonfinite": [],
+    "scipy.special.tests.test_boxcox.test_boxcox1p_basic": [],
+    "scipy.special.tests.test_boxcox.test_boxcox1p_underflow": [],
+    "scipy.special.tests.test_boxcox.test_boxcox1p_nonfinite": [],
+    "scipy.special.tests.test_boxcox.test_inv_boxcox": [],
+    "scipy.special.tests.test_boxcox.test_inv_boxcox1p_underflow": []
+}

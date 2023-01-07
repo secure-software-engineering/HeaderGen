@@ -1,0 +1,14 @@
+{
+    "scipy.cluster.vq.whiten": [],
+    "scipy.cluster.vq.vq": [],
+    "scipy.cluster.vq.py_vq": [],
+    "scipy.cluster.vq._kmeans": [],
+    "scipy.cluster.vq.kmeans": [],
+    "scipy.cluster.vq._kpoints": [],
+    "scipy.cluster.vq._krandinit": [],
+    "scipy.cluster.vq._kpp": [],
+    "scipy.cluster.vq._missing_warn": [],
+    "scipy.cluster.vq._missing_raise": [],
+    "scipy.cluster.vq.kmeans2": [],
+    "scipy.cluster.vq.ClusterError": []
+}

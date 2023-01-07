@@ -1,0 +1,20 @@
+{
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.f": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_one_argument": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_one_and_one_arguments": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_two_arguments": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_two_and_two_arguments": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_three_arguments": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_four_arguments": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.g": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_one_and_three_arguments_default_allowed_args": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_three_arguments_default_allowed_args": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_three_positional_argument_with_warning_message_analysis": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.h": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_all_keyword_arguments": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_one_positional_argument": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_one_positional_argument_with_warning_message_analysis": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.test_class": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.Foo.baz": [],
+    "pandas.tests.util.test_deprecate_nonkeyword_arguments.Foo": []
+}

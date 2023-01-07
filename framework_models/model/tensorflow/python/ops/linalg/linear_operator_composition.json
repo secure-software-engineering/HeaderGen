@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition.operators": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition._determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition._log_abs_determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition._solve": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_composition.LinearOperatorComposition": []
+}

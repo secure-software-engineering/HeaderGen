@@ -1,0 +1,17 @@
+{
+    "numpy.distutils.ccompiler._needs_build": [],
+    "numpy.distutils.ccompiler.replace_method": [],
+    "numpy.distutils.ccompiler.CCompiler_find_executables": [],
+    "numpy.distutils.ccompiler.CCompiler_spawn": [],
+    "numpy.distutils.ccompiler.CCompiler_object_filenames": [],
+    "numpy.distutils.ccompiler.CCompiler_compile": [],
+    "numpy.distutils.ccompiler.CCompiler_customize_cmd": [],
+    "numpy.distutils.ccompiler._compiler_to_string": [],
+    "numpy.distutils.ccompiler.CCompiler_show_customization": [],
+    "numpy.distutils.ccompiler.CCompiler_customize": [],
+    "numpy.distutils.ccompiler.simple_version_match": [],
+    "numpy.distutils.ccompiler.CCompiler_get_version": [],
+    "numpy.distutils.ccompiler.CCompiler_cxx_compiler": [],
+    "numpy.distutils.ccompiler.new_compiler": [],
+    "numpy.distutils.ccompiler.gen_lib_options": []
+}

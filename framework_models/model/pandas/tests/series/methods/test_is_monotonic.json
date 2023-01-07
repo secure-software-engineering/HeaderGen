@@ -1,0 +1,5 @@
+{
+    "pandas.tests.series.methods.test_is_monotonic.TestIsMonotonic.test_is_monotonic_numeric": [],
+    "pandas.tests.series.methods.test_is_monotonic.TestIsMonotonic.test_is_monotonic_dt64": [],
+    "pandas.tests.series.methods.test_is_monotonic.TestIsMonotonic": []
+}

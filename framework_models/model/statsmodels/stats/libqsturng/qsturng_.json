@@ -1,0 +1,14 @@
+{
+    "statsmodels.stats.libqsturng.qsturng_._isfloat": [],
+    "statsmodels.stats.libqsturng.qsturng_._phi": [],
+    "statsmodels.stats.libqsturng.qsturng_._ptransform": [],
+    "statsmodels.stats.libqsturng.qsturng_._func": [],
+    "statsmodels.stats.libqsturng.qsturng_._select_ps": [],
+    "statsmodels.stats.libqsturng.qsturng_._interpolate_p": [],
+    "statsmodels.stats.libqsturng.qsturng_._select_vs": [],
+    "statsmodels.stats.libqsturng.qsturng_._interpolate_v": [],
+    "statsmodels.stats.libqsturng.qsturng_._qsturng": [],
+    "statsmodels.stats.libqsturng.qsturng_.qsturng": [],
+    "statsmodels.stats.libqsturng.qsturng_._psturng": [],
+    "statsmodels.stats.libqsturng.qsturng_.psturng": []
+}

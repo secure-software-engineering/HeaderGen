@@ -1,0 +1,14 @@
+{
+    "pandas.tests.indexes.interval.test_base.TestBase.simple_index": [],
+    "pandas.tests.indexes.interval.test_base.TestBase.index": [],
+    "pandas.tests.indexes.interval.test_base.TestBase.create_index": [],
+    "pandas.tests.indexes.interval.test_base.TestBase.test_repr_max_seq_item_setting": [],
+    "pandas.tests.indexes.interval.test_base.TestBase.test_repr_roundtrip": [],
+    "pandas.tests.indexes.interval.test_base.TestBase.test_take": [],
+    "pandas.tests.indexes.interval.test_base.TestBase.test_where": [],
+    "pandas.tests.indexes.interval.test_base.TestBase.test_getitem_2d_deprecated": [],
+    "pandas.tests.indexes.interval.test_base.TestPutmask.test_putmask_dt64": [],
+    "pandas.tests.indexes.interval.test_base.TestPutmask.test_putmask_td64": [],
+    "pandas.tests.indexes.interval.test_base.TestBase": [],
+    "pandas.tests.indexes.interval.test_base.TestPutmask": []
+}

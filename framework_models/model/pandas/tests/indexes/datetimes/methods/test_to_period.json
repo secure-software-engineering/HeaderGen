@@ -1,0 +1,15 @@
+{
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_dti_to_period": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_quarterly": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_quarterlyish": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_annualish": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_monthish": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_infer": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_period_dt64_round_trip": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_millisecond": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_microsecond": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_tz": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_tz_utc_offset_consistency": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod.test_to_period_nofreq": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_period.TestToPeriod": []
+}

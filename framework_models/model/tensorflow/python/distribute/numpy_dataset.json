@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.distribute.numpy_dataset.init_var_from_numpy": [],
+    "tensorflow.python.distribute.numpy_dataset.one_host_numpy_dataset": [],
+    "tensorflow.python.distribute.numpy_dataset.SingleDevice.__init__": [],
+    "tensorflow.python.distribute.numpy_dataset.SingleDevice": []
+}

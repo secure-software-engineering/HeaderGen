@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.summary.summary.scalar": [],
+    "tensorflow.python.summary.summary.image": [],
+    "tensorflow.python.summary.summary.histogram": [],
+    "tensorflow.python.summary.summary.audio": [],
+    "tensorflow.python.summary.summary.text": [],
+    "tensorflow.python.summary.summary.tensor_summary": [],
+    "tensorflow.python.summary.summary.merge": [],
+    "tensorflow.python.summary.summary.merge_all": [],
+    "tensorflow.python.summary.summary.get_summary_description": []
+}

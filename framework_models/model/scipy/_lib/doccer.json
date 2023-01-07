@@ -1,0 +1,11 @@
+{
+    "scipy._lib.doccer.docformat": [],
+    "scipy._lib.doccer.inherit_docstring_from": [],
+    "scipy._lib.doccer.extend_notes_in_docstring": [],
+    "scipy._lib.doccer.replace_notes_in_docstring": [],
+    "scipy._lib.doccer.indentcount_lines": [],
+    "scipy._lib.doccer.filldoc": [],
+    "scipy._lib.doccer.unindent_dict": [],
+    "scipy._lib.doccer.unindent_string": [],
+    "scipy._lib.doccer.doc_replace": []
+}

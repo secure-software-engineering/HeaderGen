@@ -1,0 +1,7 @@
+{
+    "scipy.optimize._trustregion_dogleg._minimize_dogleg": [],
+    "scipy.optimize._trustregion_dogleg.DoglegSubproblem.cauchy_point": [],
+    "scipy.optimize._trustregion_dogleg.DoglegSubproblem.newton_point": [],
+    "scipy.optimize._trustregion_dogleg.DoglegSubproblem.solve": [],
+    "scipy.optimize._trustregion_dogleg.DoglegSubproblem": []
+}

@@ -1,0 +1,6 @@
+{
+    "scipy.sparse.tests.test_csc.test_csc_getrow": [],
+    "scipy.sparse.tests.test_csc.test_csc_getcol": [],
+    "scipy.sparse.tests.test_csc.test_csc_empty_slices": [],
+    "scipy.sparse.tests.test_csc.test_argmax_overflow": []
+}

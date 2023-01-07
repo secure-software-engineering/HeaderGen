@@ -1,0 +1,17 @@
+{
+    "scipy.linalg.tests.test_solvers._load_data": [],
+    "scipy.linalg.tests.test_solvers.test_solve_continuous_are": [],
+    "scipy.linalg.tests.test_solvers.test_solve_discrete_are": [],
+    "scipy.linalg.tests.test_solvers.test_solve_generalized_continuous_are": [],
+    "scipy.linalg.tests.test_solvers.test_solve_generalized_discrete_are": [],
+    "scipy.linalg.tests.test_solvers.test_are_validate_args": [],
+    "scipy.linalg.tests.test_solvers.TestSolveLyapunov.test_continuous_squareness_and_shape": [],
+    "scipy.linalg.tests.test_solvers.TestSolveLyapunov.check_continuous_case": [],
+    "scipy.linalg.tests.test_solvers.TestSolveLyapunov.check_discrete_case": [],
+    "scipy.linalg.tests.test_solvers.TestSolveLyapunov.test_cases": [],
+    "scipy.linalg.tests.test_solvers.TestSolveSylvester.check_case": [],
+    "scipy.linalg.tests.test_solvers.TestSolveSylvester.test_cases": [],
+    "scipy.linalg.tests.test_solvers.TestSolveSylvester.test_trivial": [],
+    "scipy.linalg.tests.test_solvers.TestSolveLyapunov": [],
+    "scipy.linalg.tests.test_solvers.TestSolveSylvester": []
+}

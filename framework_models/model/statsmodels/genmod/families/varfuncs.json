@@ -1,0 +1,19 @@
+{
+    "statsmodels.genmod.families.varfuncs.VarianceFunction.__call__": [],
+    "statsmodels.genmod.families.varfuncs.VarianceFunction.deriv": [],
+    "statsmodels.genmod.families.varfuncs.Power.__init__": [],
+    "statsmodels.genmod.families.varfuncs.Power.__call__": [],
+    "statsmodels.genmod.families.varfuncs.Power.deriv": [],
+    "statsmodels.genmod.families.varfuncs.Binomial.__init__": [],
+    "statsmodels.genmod.families.varfuncs.Binomial._clean": [],
+    "statsmodels.genmod.families.varfuncs.Binomial.__call__": [],
+    "statsmodels.genmod.families.varfuncs.Binomial.deriv": [],
+    "statsmodels.genmod.families.varfuncs.NegativeBinomial.__init__": [],
+    "statsmodels.genmod.families.varfuncs.NegativeBinomial._clean": [],
+    "statsmodels.genmod.families.varfuncs.NegativeBinomial.__call__": [],
+    "statsmodels.genmod.families.varfuncs.NegativeBinomial.deriv": [],
+    "statsmodels.genmod.families.varfuncs.VarianceFunction": [],
+    "statsmodels.genmod.families.varfuncs.Power": [],
+    "statsmodels.genmod.families.varfuncs.Binomial": [],
+    "statsmodels.genmod.families.varfuncs.NegativeBinomial": []
+}

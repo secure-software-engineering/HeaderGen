@@ -1,0 +1,16 @@
+{
+    "statsmodels.stats.moment_helpers._convert_to_multidim": [],
+    "statsmodels.stats.moment_helpers._convert_from_multidim": [],
+    "statsmodels.stats.moment_helpers.mc2mnc": [],
+    "statsmodels.stats.moment_helpers.mnc2mc": [],
+    "statsmodels.stats.moment_helpers.cum2mc": [],
+    "statsmodels.stats.moment_helpers.mnc2cum": [],
+    "statsmodels.stats.moment_helpers.mc2cum": [],
+    "statsmodels.stats.moment_helpers.mvsk2mc": [],
+    "statsmodels.stats.moment_helpers.mvsk2mnc": [],
+    "statsmodels.stats.moment_helpers.mc2mvsk": [],
+    "statsmodels.stats.moment_helpers.mnc2mvsk": [],
+    "statsmodels.stats.moment_helpers.cov2corr": [],
+    "statsmodels.stats.moment_helpers.corr2cov": [],
+    "statsmodels.stats.moment_helpers.se_cov": []
+}

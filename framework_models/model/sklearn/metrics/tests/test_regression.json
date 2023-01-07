@@ -1,0 +1,15 @@
+{
+    "sklearn.metrics.tests.test_regression.test_regression_metrics": [],
+    "sklearn.metrics.tests.test_regression.test_mean_squared_error_multioutput_raw_value_squared": [],
+    "sklearn.metrics.tests.test_regression.test_multioutput_regression": [],
+    "sklearn.metrics.tests.test_regression.test_regression_metrics_at_limits": [],
+    "sklearn.metrics.tests.test_regression.test__check_reg_targets": [],
+    "sklearn.metrics.tests.test_regression.test__check_reg_targets_exception": [],
+    "sklearn.metrics.tests.test_regression.test_regression_multioutput_array": [],
+    "sklearn.metrics.tests.test_regression.test_regression_custom_weights": [],
+    "sklearn.metrics.tests.test_regression.test_regression_single_sample": [],
+    "sklearn.metrics.tests.test_regression.test_tweedie_deviance_continuity": [],
+    "sklearn.metrics.tests.test_regression.test_mean_absolute_percentage_error": [],
+    "sklearn.metrics.tests.test_regression.test_mean_pinball_loss_on_constant_predictions": [],
+    "sklearn.metrics.tests.test_regression.test_dummy_quantile_parameter_tuning": []
+}

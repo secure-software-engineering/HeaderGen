@@ -1,0 +1,6 @@
+{
+    "pandas.tests.strings.test_string_array.test_string_array": [],
+    "pandas.tests.strings.test_string_array.test_string_array_numeric_integer_array": [],
+    "pandas.tests.strings.test_string_array.test_string_array_boolean_array": [],
+    "pandas.tests.strings.test_string_array.test_string_array_extract": []
+}

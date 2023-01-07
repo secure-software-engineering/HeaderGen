@@ -1,0 +1,22 @@
+{
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholesky.test_simple": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholesky.test_check_finite": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholesky.test_simple_complex": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholesky.test_random": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholesky.test_random_complex": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholeskyBanded.test_check_finite": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholeskyBanded.test_upper_real": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholeskyBanded.test_upper_complex": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholeskyBanded.test_lower_real": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholeskyBanded.test_lower_complex": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestOverwrite.test_cholesky": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestOverwrite.test_cho_factor": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestOverwrite.test_cho_solve": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestOverwrite.test_cholesky_banded": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestOverwrite.test_cho_solve_banded": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestEmptyArray.test_cho_factor_empty_square": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholesky": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestCholeskyBanded": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestOverwrite": [],
+    "scipy.linalg.tests.test_decomp_cholesky.TestEmptyArray": []
+}

@@ -1,0 +1,12 @@
+{
+    "pandas.tests.base.test_constructors.constructor": [],
+    "pandas.tests.base.test_constructors.TestPandasDelegate.setup_method": [],
+    "pandas.tests.base.test_constructors.TestPandasDelegate.test_invalid_delegation": [],
+    "pandas.tests.base.test_constructors.TestPandasDelegate.test_memory_usage": [],
+    "pandas.tests.base.test_constructors.TestNoNewAttributesMixin.test_mixin": [],
+    "pandas.tests.base.test_constructors.TestConstruction.test_constructor_datetime_outofbound": [],
+    "pandas.tests.base.test_constructors.TestConstruction.test_constructor_datetime_nonns": [],
+    "pandas.tests.base.test_constructors.TestPandasDelegate": [],
+    "pandas.tests.base.test_constructors.TestNoNewAttributesMixin": [],
+    "pandas.tests.base.test_constructors.TestConstruction": []
+}

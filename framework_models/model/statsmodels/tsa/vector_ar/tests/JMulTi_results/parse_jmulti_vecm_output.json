@@ -1,0 +1,7 @@
+{
+    "statsmodels.tsa.vector_ar.tests.JMulTi_results.parse_jmulti_vecm_output.print_debug_output": [],
+    "statsmodels.tsa.vector_ar.tests.JMulTi_results.parse_jmulti_vecm_output.dt_s_tup_to_string": [],
+    "statsmodels.tsa.vector_ar.tests.JMulTi_results.parse_jmulti_vecm_output.sublists": [],
+    "statsmodels.tsa.vector_ar.tests.JMulTi_results.parse_jmulti_vecm_output.stringify_var_names": [],
+    "statsmodels.tsa.vector_ar.tests.JMulTi_results.parse_jmulti_vecm_output.load_results_jmulti": []
+}

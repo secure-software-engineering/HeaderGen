@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexing.multiindex.test_sorted.TestMultiIndexSorted.test_getitem_multilevel_index_tuple_not_sorted": [],
+    "pandas.tests.indexing.multiindex.test_sorted.TestMultiIndexSorted.test_getitem_slice_not_sorted": [],
+    "pandas.tests.indexing.multiindex.test_sorted.TestMultiIndexSorted.test_frame_getitem_not_sorted2": [],
+    "pandas.tests.indexing.multiindex.test_sorted.TestMultiIndexSorted.test_sort_values_key": [],
+    "pandas.tests.indexing.multiindex.test_sorted.TestMultiIndexSorted.test_frame_getitem_not_sorted": [],
+    "pandas.tests.indexing.multiindex.test_sorted.TestMultiIndexSorted.test_series_getitem_not_sorted": [],
+    "pandas.tests.indexing.multiindex.test_sorted.TestMultiIndexSorted": []
+}

@@ -1,0 +1,7 @@
+{
+    "sklearn.feature_selection._variance_threshold.VarianceThreshold.__init__": [],
+    "sklearn.feature_selection._variance_threshold.VarianceThreshold.fit": [],
+    "sklearn.feature_selection._variance_threshold.VarianceThreshold._get_support_mask": [],
+    "sklearn.feature_selection._variance_threshold.VarianceThreshold._more_tags": [],
+    "sklearn.feature_selection._variance_threshold.VarianceThreshold": []
+}

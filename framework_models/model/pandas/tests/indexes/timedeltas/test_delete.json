@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.timedeltas.test_delete.TestTimedeltaIndexDelete.test_delete": [],
+    "pandas.tests.indexes.timedeltas.test_delete.TestTimedeltaIndexDelete.test_delete_slice": [],
+    "pandas.tests.indexes.timedeltas.test_delete.TestTimedeltaIndexDelete.test_delete_doesnt_infer_freq": [],
+    "pandas.tests.indexes.timedeltas.test_delete.TestTimedeltaIndexDelete": []
+}

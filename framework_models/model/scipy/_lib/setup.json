@@ -1,0 +1,5 @@
+{
+    "scipy._lib.setup.check_boost_submodule": [],
+    "scipy._lib.setup.build_clib_pre_build_hook": [],
+    "scipy._lib.setup.configuration": []
+}

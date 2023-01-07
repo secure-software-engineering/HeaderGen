@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.autograph.pyct.naming.Namer.__init__": [],
+    "tensorflow.python.autograph.pyct.naming.Namer.new_symbol": [],
+    "tensorflow.python.autograph.pyct.naming.Namer": []
+}

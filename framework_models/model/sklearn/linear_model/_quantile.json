@@ -1,0 +1,5 @@
+{
+    "sklearn.linear_model._quantile.QuantileRegressor.__init__": [],
+    "sklearn.linear_model._quantile.QuantileRegressor.fit": [],
+    "sklearn.linear_model._quantile.QuantileRegressor": []
+}

@@ -1,0 +1,7 @@
+{
+    "sklearn.metrics._plot.tests.test_plot_roc_curve.data": [],
+    "sklearn.metrics._plot.tests.test_plot_roc_curve.data_binary": [],
+    "sklearn.metrics._plot.tests.test_plot_roc_curve.test_plot_roc_curve": [],
+    "sklearn.metrics._plot.tests.test_plot_roc_curve.test_roc_curve_not_fitted_errors": [],
+    "sklearn.metrics._plot.tests.test_plot_roc_curve.test_plot_roc_curve_pos_label": []
+}

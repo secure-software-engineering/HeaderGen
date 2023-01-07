@@ -1,0 +1,20 @@
+{
+    "pandas.tests.io.formats.style.test_format.df": [],
+    "pandas.tests.io.formats.style.test_format.styler": [],
+    "pandas.tests.io.formats.style.test_format.test_display_format": [],
+    "pandas.tests.io.formats.style.test_format.test_format_dict": [],
+    "pandas.tests.io.formats.style.test_format.test_format_string": [],
+    "pandas.tests.io.formats.style.test_format.test_format_callable": [],
+    "pandas.tests.io.formats.style.test_format.test_format_with_na_rep": [],
+    "pandas.tests.io.formats.style.test_format.test_format_non_numeric_na": [],
+    "pandas.tests.io.formats.style.test_format.test_format_clear": [],
+    "pandas.tests.io.formats.style.test_format.test_format_escape_html": [],
+    "pandas.tests.io.formats.style.test_format.test_format_escape_na_rep": [],
+    "pandas.tests.io.formats.style.test_format.test_format_escape_floats": [],
+    "pandas.tests.io.formats.style.test_format.test_format_raises": [],
+    "pandas.tests.io.formats.style.test_format.test_format_with_precision": [],
+    "pandas.tests.io.formats.style.test_format.test_format_subset": [],
+    "pandas.tests.io.formats.style.test_format.test_format_thousands": [],
+    "pandas.tests.io.formats.style.test_format.test_format_decimal": [],
+    "pandas.tests.io.formats.style.test_format.test_str_escape_error": []
+}

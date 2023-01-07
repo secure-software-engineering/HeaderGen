@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.autograph.converters.lists.transform": [],
+    "tensorflow.python.autograph.converters.lists._Statement.__init__": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer.visit_List": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer._replace_append_call": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer._replace_pop_call": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer._replace_stack_call": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer.visit_Call": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer._generate_pop_operation": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer._postprocess_statement": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer._visit_and_process_block": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer.visit_FunctionDef": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer.visit_For": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer.visit_While": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer.visit_If": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer.visit_With": [],
+    "tensorflow.python.autograph.converters.lists._Statement": [],
+    "tensorflow.python.autograph.converters.lists.ListTransformer": []
+}

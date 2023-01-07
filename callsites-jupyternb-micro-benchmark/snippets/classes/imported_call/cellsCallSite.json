@@ -1,0 +1,6 @@
+{
+  "2": [
+    "to_import_call.MyClass.__init__",
+    "to_import_call.MyClass.func"
+  ]
+}

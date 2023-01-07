@@ -1,0 +1,16 @@
+{
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_numpy_scalars_ok": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.get_op_from_name": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_empty_ok": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_logical_length_mismatch_raises": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_logical_nan_raises": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_non_bool_or_na_other_raises": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_kleene_or": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_kleene_or_scalar": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_kleene_and": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_kleene_and_scalar": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_kleene_xor": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_kleene_xor_scalar": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps.test_no_masked_assumptions": [],
+    "pandas.tests.arrays.boolean.test_logical.TestLogicalOps": []
+}

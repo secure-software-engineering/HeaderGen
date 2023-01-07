@@ -1,0 +1,19 @@
+{
+    "sklearn.svm.tests.test_sparse.check_svm_model_equal": [],
+    "sklearn.svm.tests.test_sparse.test_svc": [],
+    "sklearn.svm.tests.test_sparse.test_unsorted_indices": [],
+    "sklearn.svm.tests.test_sparse.test_svc_with_custom_kernel": [],
+    "sklearn.svm.tests.test_sparse.test_svc_iris": [],
+    "sklearn.svm.tests.test_sparse.test_sparse_decision_function": [],
+    "sklearn.svm.tests.test_sparse.test_error": [],
+    "sklearn.svm.tests.test_sparse.test_linearsvc": [],
+    "sklearn.svm.tests.test_sparse.test_linearsvc_iris": [],
+    "sklearn.svm.tests.test_sparse.test_weight": [],
+    "sklearn.svm.tests.test_sparse.test_sample_weights": [],
+    "sklearn.svm.tests.test_sparse.test_sparse_liblinear_intercept_handling": [],
+    "sklearn.svm.tests.test_sparse.test_sparse_oneclasssvm": [],
+    "sklearn.svm.tests.test_sparse.test_sparse_realdata": [],
+    "sklearn.svm.tests.test_sparse.test_sparse_svc_clone_with_callable_kernel": [],
+    "sklearn.svm.tests.test_sparse.test_timeout": [],
+    "sklearn.svm.tests.test_sparse.test_consistent_proba": []
+}

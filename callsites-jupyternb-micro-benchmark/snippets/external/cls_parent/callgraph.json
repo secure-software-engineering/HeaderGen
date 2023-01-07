@@ -1,0 +1,9 @@
+{
+    "main": [
+        "main.A.fn"
+    ],
+    "main.A.fn": [
+        "pycg_external_module.ext.Parent.parent_fun"
+    ],
+    "pycg_external_module.ext.Parent.parent_fun": []
+}

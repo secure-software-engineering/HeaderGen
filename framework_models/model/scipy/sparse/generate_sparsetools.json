@@ -1,0 +1,6 @@
+{
+    "scipy.sparse.generate_sparsetools.get_thunk_type_set": [],
+    "scipy.sparse.generate_sparsetools.parse_routine": [],
+    "scipy.sparse.generate_sparsetools.main": [],
+    "scipy.sparse.generate_sparsetools.write_autogen_blurb": []
+}

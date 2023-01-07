@@ -1,0 +1,8 @@
+{
+    "statsmodels.sandbox.tests.maketests_mlabwrap.generate_princomp": [],
+    "statsmodels.sandbox.tests.maketests_mlabwrap.generate_armarep": [],
+    "statsmodels.sandbox.tests.maketests_mlabwrap.exampletest": [],
+    "statsmodels.sandbox.tests.maketests_mlabwrap.HoldIt.__init__": [],
+    "statsmodels.sandbox.tests.maketests_mlabwrap.HoldIt.save": [],
+    "statsmodels.sandbox.tests.maketests_mlabwrap.HoldIt": []
+}

@@ -1,0 +1,7 @@
+{
+    "scipy.optimize._highs.setup.pre_build_hook": [],
+    "scipy.optimize._highs.setup.basiclu_pre_build_hook": [],
+    "scipy.optimize._highs.setup._get_sources": [],
+    "scipy.optimize._highs.setup._get_version": [],
+    "scipy.optimize._highs.setup.configuration": []
+}

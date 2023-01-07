@@ -1,0 +1,6 @@
+{
+    "scipy.linalg.decomp_schur.schur": [],
+    "scipy.linalg.decomp_schur._commonType": [],
+    "scipy.linalg.decomp_schur._castCopy": [],
+    "scipy.linalg.decomp_schur.rsf2csf": []
+}

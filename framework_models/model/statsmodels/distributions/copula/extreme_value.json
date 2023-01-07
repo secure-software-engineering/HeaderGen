@@ -1,0 +1,10 @@
+{
+    "statsmodels.distributions.copula.extreme_value.copula_bv_ev": [],
+    "statsmodels.distributions.copula.extreme_value.ExtremeValueCopula.__init__": [],
+    "statsmodels.distributions.copula.extreme_value.ExtremeValueCopula._handle_args": [],
+    "statsmodels.distributions.copula.extreme_value.ExtremeValueCopula.cdf": [],
+    "statsmodels.distributions.copula.extreme_value.ExtremeValueCopula.pdf": [],
+    "statsmodels.distributions.copula.extreme_value.ExtremeValueCopula.logpdf": [],
+    "statsmodels.distributions.copula.extreme_value.ExtremeValueCopula.conditional_2g1": [],
+    "statsmodels.distributions.copula.extreme_value.ExtremeValueCopula": []
+}

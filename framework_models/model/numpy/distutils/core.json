@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.core._dict_append": [],
+    "numpy.distutils.core._command_line_ok": [],
+    "numpy.distutils.core.get_distribution": [],
+    "numpy.distutils.core.setup": [],
+    "numpy.distutils.core._check_append_library": [],
+    "numpy.distutils.core._check_append_ext_library": []
+}

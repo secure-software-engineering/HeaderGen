@@ -1,0 +1,16 @@
+{
+    "plotly.figure_factory._ternary_contour._ternary_layout": [],
+    "plotly.figure_factory._ternary_contour._replace_zero_coords": [],
+    "plotly.figure_factory._ternary_contour._ilr_transform": [],
+    "plotly.figure_factory._ternary_contour._ilr_inverse": [],
+    "plotly.figure_factory._ternary_contour._transform_barycentric_cartesian": [],
+    "plotly.figure_factory._ternary_contour._prepare_barycentric_coord": [],
+    "plotly.figure_factory._ternary_contour._compute_grid": [],
+    "plotly.figure_factory._ternary_contour._polygon_area": [],
+    "plotly.figure_factory._ternary_contour._colors": [],
+    "plotly.figure_factory._ternary_contour._is_invalid_contour": [],
+    "plotly.figure_factory._ternary_contour._extract_contours": [],
+    "plotly.figure_factory._ternary_contour._add_outer_contour": [],
+    "plotly.figure_factory._ternary_contour._contour_trace": [],
+    "plotly.figure_factory._ternary_contour.create_ternary_contour": []
+}

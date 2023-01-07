@@ -1,0 +1,9 @@
+{
+    "statsmodels.tsa.arima.model.ARIMA.__init__": [],
+    "statsmodels.tsa.arima.model.ARIMA._res_classes": [],
+    "statsmodels.tsa.arima.model.ARIMA.fit": [],
+    "statsmodels.tsa.arima.model.ARIMAResults.append": [],
+    "statsmodels.tsa.arima.model.ARIMA": [],
+    "statsmodels.tsa.arima.model.ARIMAResults": [],
+    "statsmodels.tsa.arima.model.ARIMAResultsWrapper": []
+}

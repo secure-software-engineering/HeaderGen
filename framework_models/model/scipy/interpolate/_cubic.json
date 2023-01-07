@@ -1,0 +1,18 @@
+{
+    "scipy.interpolate._cubic.prepare_input": [],
+    "scipy.interpolate._cubic.pchip_interpolate": [],
+    "scipy.interpolate._cubic.CubicHermiteSpline.__init__": [],
+    "scipy.interpolate._cubic.PchipInterpolator.__init__": [],
+    "scipy.interpolate._cubic.PchipInterpolator._edge_case": [],
+    "scipy.interpolate._cubic.PchipInterpolator._find_derivatives": [],
+    "scipy.interpolate._cubic.Akima1DInterpolator.__init__": [],
+    "scipy.interpolate._cubic.Akima1DInterpolator.extend": [],
+    "scipy.interpolate._cubic.Akima1DInterpolator.from_spline": [],
+    "scipy.interpolate._cubic.Akima1DInterpolator.from_bernstein_basis": [],
+    "scipy.interpolate._cubic.CubicSpline.__init__": [],
+    "scipy.interpolate._cubic.CubicSpline._validate_bc": [],
+    "scipy.interpolate._cubic.CubicHermiteSpline": [],
+    "scipy.interpolate._cubic.PchipInterpolator": [],
+    "scipy.interpolate._cubic.Akima1DInterpolator": [],
+    "scipy.interpolate._cubic.CubicSpline": []
+}

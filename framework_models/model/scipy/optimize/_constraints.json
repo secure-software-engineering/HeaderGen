@@ -1,0 +1,18 @@
+{
+    "scipy.optimize._constraints._arr_to_scalar": [],
+    "scipy.optimize._constraints.new_bounds_to_old": [],
+    "scipy.optimize._constraints.old_bound_to_new": [],
+    "scipy.optimize._constraints.strict_bounds": [],
+    "scipy.optimize._constraints.new_constraint_to_old": [],
+    "scipy.optimize._constraints.old_constraint_to_new": [],
+    "scipy.optimize._constraints.NonlinearConstraint.__init__": [],
+    "scipy.optimize._constraints.LinearConstraint.__init__": [],
+    "scipy.optimize._constraints.Bounds.__init__": [],
+    "scipy.optimize._constraints.Bounds.__repr__": [],
+    "scipy.optimize._constraints.PreparedConstraint.__init__": [],
+    "scipy.optimize._constraints.PreparedConstraint.violation": [],
+    "scipy.optimize._constraints.NonlinearConstraint": [],
+    "scipy.optimize._constraints.LinearConstraint": [],
+    "scipy.optimize._constraints.Bounds": [],
+    "scipy.optimize._constraints.PreparedConstraint": []
+}

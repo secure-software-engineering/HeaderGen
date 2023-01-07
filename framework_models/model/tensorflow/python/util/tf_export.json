@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.util.tf_export.get_symbol_from_name": [],
+    "tensorflow.python.util.tf_export.get_canonical_name_for_symbol": [],
+    "tensorflow.python.util.tf_export.get_canonical_name": [],
+    "tensorflow.python.util.tf_export.get_v1_names": [],
+    "tensorflow.python.util.tf_export.get_v2_names": [],
+    "tensorflow.python.util.tf_export.get_v1_constants": [],
+    "tensorflow.python.util.tf_export.get_v2_constants": [],
+    "tensorflow.python.util.tf_export.kwarg_only": [],
+    "tensorflow.python.util.tf_export.api_export.__init__": [],
+    "tensorflow.python.util.tf_export.api_export._validate_symbol_names": [],
+    "tensorflow.python.util.tf_export.api_export.__call__": [],
+    "tensorflow.python.util.tf_export.api_export.set_attr": [],
+    "tensorflow.python.util.tf_export.api_export.export_constant": [],
+    "tensorflow.python.util.tf_export.SymbolAlreadyExposedError": [],
+    "tensorflow.python.util.tf_export.InvalidSymbolNameError": [],
+    "tensorflow.python.util.tf_export.api_export": []
+}

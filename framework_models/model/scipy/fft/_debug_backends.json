@@ -1,0 +1,6 @@
+{
+    "scipy.fft._debug_backends.NumPyBackend.__ua_function__": [],
+    "scipy.fft._debug_backends.EchoBackend.__ua_function__": [],
+    "scipy.fft._debug_backends.NumPyBackend": [],
+    "scipy.fft._debug_backends.EchoBackend": []
+}

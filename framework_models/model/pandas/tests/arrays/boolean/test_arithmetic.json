@@ -1,0 +1,10 @@
+{
+    "pandas.tests.arrays.boolean.test_arithmetic.data": [],
+    "pandas.tests.arrays.boolean.test_arithmetic.left_array": [],
+    "pandas.tests.arrays.boolean.test_arithmetic.right_array": [],
+    "pandas.tests.arrays.boolean.test_arithmetic.test_add_mul": [],
+    "pandas.tests.arrays.boolean.test_arithmetic.test_sub": [],
+    "pandas.tests.arrays.boolean.test_arithmetic.test_div": [],
+    "pandas.tests.arrays.boolean.test_arithmetic.test_op_int8": [],
+    "pandas.tests.arrays.boolean.test_arithmetic.test_error_invalid_values": []
+}

@@ -1,0 +1,23 @@
+{
+    "numpy.distutils.mingw32ccompiler.get_msvcr_replacement": [],
+    "numpy.distutils.mingw32ccompiler.find_python_dll": [],
+    "numpy.distutils.mingw32ccompiler.dump_table": [],
+    "numpy.distutils.mingw32ccompiler.generate_def": [],
+    "numpy.distutils.mingw32ccompiler.find_dll": [],
+    "numpy.distutils.mingw32ccompiler.build_msvcr_library": [],
+    "numpy.distutils.mingw32ccompiler.build_import_library": [],
+    "numpy.distutils.mingw32ccompiler._check_for_import_lib": [],
+    "numpy.distutils.mingw32ccompiler._build_import_library_amd64": [],
+    "numpy.distutils.mingw32ccompiler._build_import_library_x86": [],
+    "numpy.distutils.mingw32ccompiler.msvc_manifest_xml": [],
+    "numpy.distutils.mingw32ccompiler.manifest_rc": [],
+    "numpy.distutils.mingw32ccompiler.check_embedded_msvcr_match_linked": [],
+    "numpy.distutils.mingw32ccompiler.configtest_name": [],
+    "numpy.distutils.mingw32ccompiler.manifest_name": [],
+    "numpy.distutils.mingw32ccompiler.rc_name": [],
+    "numpy.distutils.mingw32ccompiler.generate_manifest": [],
+    "numpy.distutils.mingw32ccompiler.Mingw32CCompiler.__init__": [],
+    "numpy.distutils.mingw32ccompiler.Mingw32CCompiler.link": [],
+    "numpy.distutils.mingw32ccompiler.Mingw32CCompiler.object_filenames": [],
+    "numpy.distutils.mingw32ccompiler.Mingw32CCompiler": []
+}

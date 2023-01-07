@@ -1,0 +1,18 @@
+{
+    "scipy.integrate._bvp.estimate_fun_jac": [],
+    "scipy.integrate._bvp.estimate_bc_jac": [],
+    "scipy.integrate._bvp.compute_jac_indices": [],
+    "scipy.integrate._bvp.stacked_matmul": [],
+    "scipy.integrate._bvp.construct_global_jac": [],
+    "scipy.integrate._bvp.collocation_fun": [],
+    "scipy.integrate._bvp.prepare_sys": [],
+    "scipy.integrate._bvp.solve_newton": [],
+    "scipy.integrate._bvp.print_iteration_header": [],
+    "scipy.integrate._bvp.print_iteration_progress": [],
+    "scipy.integrate._bvp.estimate_rms_residuals": [],
+    "scipy.integrate._bvp.create_spline": [],
+    "scipy.integrate._bvp.modify_mesh": [],
+    "scipy.integrate._bvp.wrap_functions": [],
+    "scipy.integrate._bvp.solve_bvp": [],
+    "scipy.integrate._bvp.BVPResult": []
+}

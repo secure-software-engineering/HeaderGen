@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.autograph.converters.slices.transform": [],
+    "tensorflow.python.autograph.converters.slices.SliceTransformer._process_single_assignment": [],
+    "tensorflow.python.autograph.converters.slices.SliceTransformer.visit_Assign": [],
+    "tensorflow.python.autograph.converters.slices.SliceTransformer.visit_Subscript": [],
+    "tensorflow.python.autograph.converters.slices.SliceTransformer": []
+}

@@ -1,0 +1,15 @@
+{
+    "scipy.sparse.linalg._onenormest.onenormest": [],
+    "scipy.sparse.linalg._onenormest._blocked_elementwise": [],
+    "scipy.sparse.linalg._onenormest.sign_round_up": [],
+    "scipy.sparse.linalg._onenormest._max_abs_axis1": [],
+    "scipy.sparse.linalg._onenormest._sum_abs_axis0": [],
+    "scipy.sparse.linalg._onenormest.elementary_vector": [],
+    "scipy.sparse.linalg._onenormest.vectors_are_parallel": [],
+    "scipy.sparse.linalg._onenormest.every_col_of_X_is_parallel_to_a_col_of_Y": [],
+    "scipy.sparse.linalg._onenormest.column_needs_resampling": [],
+    "scipy.sparse.linalg._onenormest.resample_column": [],
+    "scipy.sparse.linalg._onenormest.less_than_or_close": [],
+    "scipy.sparse.linalg._onenormest._algorithm_2_2": [],
+    "scipy.sparse.linalg._onenormest._onenormest_core": []
+}

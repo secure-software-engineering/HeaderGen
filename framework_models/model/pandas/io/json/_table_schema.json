@@ -1,0 +1,8 @@
+{
+    "pandas.io.json._table_schema.as_json_table_type": [],
+    "pandas.io.json._table_schema.set_default_names": [],
+    "pandas.io.json._table_schema.convert_pandas_type_to_json_field": [],
+    "pandas.io.json._table_schema.convert_json_field_to_pandas_type": [],
+    "pandas.io.json._table_schema.build_table_schema": [],
+    "pandas.io.json._table_schema.parse_table_schema": []
+}

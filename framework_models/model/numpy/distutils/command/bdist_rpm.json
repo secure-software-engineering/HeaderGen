@@ -1,0 +1,4 @@
+{
+    "numpy.distutils.command.bdist_rpm.bdist_rpm._make_spec_file": [],
+    "numpy.distutils.command.bdist_rpm.bdist_rpm": []
+}

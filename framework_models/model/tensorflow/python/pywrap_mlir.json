@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.pywrap_mlir.import_graphdef": [],
+    "tensorflow.python.pywrap_mlir.import_function": [],
+    "tensorflow.python.pywrap_mlir.experimental_convert_saved_model_to_mlir": [],
+    "tensorflow.python.pywrap_mlir.experimental_convert_saved_model_v1_to_mlir_lite": [],
+    "tensorflow.python.pywrap_mlir.experimental_convert_saved_model_v1_to_mlir": [],
+    "tensorflow.python.pywrap_mlir.experimental_run_pass_pipeline": []
+}

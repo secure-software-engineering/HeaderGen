@@ -1,0 +1,6 @@
+{
+    "scipy.stats.contingency.margins": [],
+    "scipy.stats.contingency.expected_freq": [],
+    "scipy.stats.contingency.chi2_contingency": [],
+    "scipy.stats.contingency.association": []
+}

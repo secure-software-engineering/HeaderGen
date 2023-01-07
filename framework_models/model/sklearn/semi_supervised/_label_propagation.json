@@ -1,0 +1,16 @@
+{
+    "sklearn.semi_supervised._label_propagation.BaseLabelPropagation.__init__": [],
+    "sklearn.semi_supervised._label_propagation.BaseLabelPropagation._get_kernel": [],
+    "sklearn.semi_supervised._label_propagation.BaseLabelPropagation._build_graph": [],
+    "sklearn.semi_supervised._label_propagation.BaseLabelPropagation.predict": [],
+    "sklearn.semi_supervised._label_propagation.BaseLabelPropagation.predict_proba": [],
+    "sklearn.semi_supervised._label_propagation.BaseLabelPropagation.fit": [],
+    "sklearn.semi_supervised._label_propagation.LabelPropagation.__init__": [],
+    "sklearn.semi_supervised._label_propagation.LabelPropagation._build_graph": [],
+    "sklearn.semi_supervised._label_propagation.LabelPropagation.fit": [],
+    "sklearn.semi_supervised._label_propagation.LabelSpreading.__init__": [],
+    "sklearn.semi_supervised._label_propagation.LabelSpreading._build_graph": [],
+    "sklearn.semi_supervised._label_propagation.BaseLabelPropagation": [],
+    "sklearn.semi_supervised._label_propagation.LabelPropagation": [],
+    "sklearn.semi_supervised._label_propagation.LabelSpreading": []
+}

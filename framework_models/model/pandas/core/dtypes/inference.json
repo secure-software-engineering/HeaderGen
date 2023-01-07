@@ -1,0 +1,15 @@
+{
+    "pandas.core.dtypes.inference.is_number": [],
+    "pandas.core.dtypes.inference.iterable_not_string": [],
+    "pandas.core.dtypes.inference.is_file_like": [],
+    "pandas.core.dtypes.inference.is_re": [],
+    "pandas.core.dtypes.inference.is_re_compilable": [],
+    "pandas.core.dtypes.inference.is_array_like": [],
+    "pandas.core.dtypes.inference.is_nested_list_like": [],
+    "pandas.core.dtypes.inference.is_dict_like": [],
+    "pandas.core.dtypes.inference.is_named_tuple": [],
+    "pandas.core.dtypes.inference.is_hashable": [],
+    "pandas.core.dtypes.inference.is_sequence": [],
+    "pandas.core.dtypes.inference.is_dataclass": [],
+    "pandas.core.dtypes.inference.is_inferred_bool_dtype": []
+}

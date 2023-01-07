@@ -1,0 +1,10 @@
+{
+    "scipy.sparse.linalg.dsolve.linsolve.use_solver": [],
+    "scipy.sparse.linalg.dsolve.linsolve._get_umf_family": [],
+    "scipy.sparse.linalg.dsolve.linsolve.spsolve": [],
+    "scipy.sparse.linalg.dsolve.linsolve.splu": [],
+    "scipy.sparse.linalg.dsolve.linsolve.spilu": [],
+    "scipy.sparse.linalg.dsolve.linsolve.factorized": [],
+    "scipy.sparse.linalg.dsolve.linsolve.spsolve_triangular": [],
+    "scipy.sparse.linalg.dsolve.linsolve.MatrixRankWarning": []
+}

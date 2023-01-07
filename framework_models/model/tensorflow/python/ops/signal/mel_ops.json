@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.signal.mel_ops._mel_to_hertz": [],
+    "tensorflow.python.ops.signal.mel_ops._hertz_to_mel": [],
+    "tensorflow.python.ops.signal.mel_ops._validate_arguments": [],
+    "tensorflow.python.ops.signal.mel_ops.linear_to_mel_weight_matrix": []
+}

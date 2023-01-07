@@ -1,0 +1,19 @@
+from tensorflow.python.util.deprecation import deprecated_endpoints as deprecated_endpoints
+from tensorflow.python.util.tf_export import tf_export as tf_export
+from typing import Any
+
+def nccl_all_reduce(input, reduction, num_devices, shared_name, name: Any | None = ...): ...
+
+NcclAllReduce: Any
+
+def nccl_all_reduce_eager_fallback(input, reduction, num_devices, shared_name, name, ctx): ...
+def nccl_broadcast(input, shape, name: Any | None = ...): ...
+
+NcclBroadcast: Any
+
+def nccl_broadcast_eager_fallback(input, shape, name, ctx): ...
+def nccl_reduce(input, reduction, name: Any | None = ...): ...
+
+NcclReduce: Any
+
+def nccl_reduce_eager_fallback(input, reduction, name, ctx): ...

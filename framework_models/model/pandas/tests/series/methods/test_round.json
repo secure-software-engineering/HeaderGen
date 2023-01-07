@@ -1,0 +1,8 @@
+{
+    "pandas.tests.series.methods.test_round.TestSeriesRound.test_round": [],
+    "pandas.tests.series.methods.test_round.TestSeriesRound.test_round_numpy": [],
+    "pandas.tests.series.methods.test_round.TestSeriesRound.test_round_numpy_with_nan": [],
+    "pandas.tests.series.methods.test_round.TestSeriesRound.test_round_builtin": [],
+    "pandas.tests.series.methods.test_round.TestSeriesRound.test_round_nat": [],
+    "pandas.tests.series.methods.test_round.TestSeriesRound": []
+}

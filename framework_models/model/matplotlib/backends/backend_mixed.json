@@ -1,0 +1,7 @@
+{
+    "matplotlib.backends.backend_mixed.MixedModeRenderer.__init__": [],
+    "matplotlib.backends.backend_mixed.MixedModeRenderer.__getattr__": [],
+    "matplotlib.backends.backend_mixed.MixedModeRenderer.start_rasterizing": [],
+    "matplotlib.backends.backend_mixed.MixedModeRenderer.stop_rasterizing": [],
+    "matplotlib.backends.backend_mixed.MixedModeRenderer": []
+}

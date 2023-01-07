@@ -1,0 +1,9 @@
+{
+    "pandas.tests.frame.methods.test_first_valid_index.TestFirstValidIndex.test_first_valid_index_single_nan": [],
+    "pandas.tests.frame.methods.test_first_valid_index.TestFirstValidIndex.test_first_valid_index_empty": [],
+    "pandas.tests.frame.methods.test_first_valid_index.TestFirstValidIndex.test_first_last_valid_frame": [],
+    "pandas.tests.frame.methods.test_first_valid_index.TestFirstValidIndex.test_first_last_valid": [],
+    "pandas.tests.frame.methods.test_first_valid_index.TestFirstValidIndex.test_first_last_valid_all_nan": [],
+    "pandas.tests.frame.methods.test_first_valid_index.TestFirstValidIndex.test_first_last_valid_preserves_freq": [],
+    "pandas.tests.frame.methods.test_first_valid_index.TestFirstValidIndex": []
+}

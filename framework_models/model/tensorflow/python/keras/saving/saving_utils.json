@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.keras.saving.saving_utils.extract_model_metrics": [],
+    "tensorflow.python.keras.saving.saving_utils.model_input_signature": [],
+    "tensorflow.python.keras.saving.saving_utils.raise_model_input_error": [],
+    "tensorflow.python.keras.saving.saving_utils.trace_model_call": [],
+    "tensorflow.python.keras.saving.saving_utils.model_metadata": [],
+    "tensorflow.python.keras.saving.saving_utils.should_overwrite": [],
+    "tensorflow.python.keras.saving.saving_utils.compile_args_from_training_config": [],
+    "tensorflow.python.keras.saving.saving_utils._deserialize_nested_config": [],
+    "tensorflow.python.keras.saving.saving_utils._serialize_nested_config": [],
+    "tensorflow.python.keras.saving.saving_utils._deserialize_metric": [],
+    "tensorflow.python.keras.saving.saving_utils._enforce_names_consistency": [],
+    "tensorflow.python.keras.saving.saving_utils.try_build_compiled_arguments": [],
+    "tensorflow.python.keras.saving.saving_utils.is_hdf5_filepath": []
+}

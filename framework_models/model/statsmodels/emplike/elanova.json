@@ -1,0 +1,7 @@
+{
+    "statsmodels.emplike.elanova._ANOVAOpt._opt_common_mu": [],
+    "statsmodels.emplike.elanova.ANOVA.__init__": [],
+    "statsmodels.emplike.elanova.ANOVA.compute_ANOVA": [],
+    "statsmodels.emplike.elanova._ANOVAOpt": [],
+    "statsmodels.emplike.elanova.ANOVA": []
+}

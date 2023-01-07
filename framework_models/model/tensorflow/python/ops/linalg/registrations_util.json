@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.linalg.registrations_util.combined_commuting_self_adjoint_hint": [],
+    "tensorflow.python.ops.linalg.registrations_util.is_square": [],
+    "tensorflow.python.ops.linalg.registrations_util.combined_commuting_positive_definite_hint": [],
+    "tensorflow.python.ops.linalg.registrations_util.combined_non_singular_hint": []
+}

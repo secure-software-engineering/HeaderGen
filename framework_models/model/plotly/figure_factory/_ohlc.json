@@ -1,0 +1,12 @@
+{
+    "plotly.figure_factory._ohlc.validate_ohlc": [],
+    "plotly.figure_factory._ohlc.make_increasing_ohlc": [],
+    "plotly.figure_factory._ohlc.make_decreasing_ohlc": [],
+    "plotly.figure_factory._ohlc.create_ohlc": [],
+    "plotly.figure_factory._ohlc._OHLC.__init__": [],
+    "plotly.figure_factory._ohlc._OHLC.get_all_xy": [],
+    "plotly.figure_factory._ohlc._OHLC.separate_increase_decrease": [],
+    "plotly.figure_factory._ohlc._OHLC.get_increase": [],
+    "plotly.figure_factory._ohlc._OHLC.get_decrease": [],
+    "plotly.figure_factory._ohlc._OHLC": []
+}

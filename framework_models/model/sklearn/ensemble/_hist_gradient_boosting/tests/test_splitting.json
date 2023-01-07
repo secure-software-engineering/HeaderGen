@@ -1,0 +1,10 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_splitting.test_histogram_split": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_splitting.test_gradient_and_hessian_sanity": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_splitting.test_split_indices": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_splitting.test_min_gain_to_split": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_splitting.test_splitting_missing_values": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_splitting.test_splitting_categorical_cat_smooth": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_splitting._assert_categories_equals_bitset": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_splitting.test_splitting_categorical_sanity": []
+}

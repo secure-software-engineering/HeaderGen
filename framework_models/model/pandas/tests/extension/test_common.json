@@ -1,0 +1,14 @@
+{
+    "pandas.tests.extension.test_common.test_astype": [],
+    "pandas.tests.extension.test_common.test_astype_no_copy": [],
+    "pandas.tests.extension.test_common.test_is_extension_array_dtype": [],
+    "pandas.tests.extension.test_common.DummyArray.__init__": [],
+    "pandas.tests.extension.test_common.DummyArray.__array__": [],
+    "pandas.tests.extension.test_common.DummyArray.dtype": [],
+    "pandas.tests.extension.test_common.DummyArray.astype": [],
+    "pandas.tests.extension.test_common.TestExtensionArrayDtype.test_is_extension_array_dtype": [],
+    "pandas.tests.extension.test_common.TestExtensionArrayDtype.test_is_not_extension_array_dtype": [],
+    "pandas.tests.extension.test_common.DummyDtype": [],
+    "pandas.tests.extension.test_common.DummyArray": [],
+    "pandas.tests.extension.test_common.TestExtensionArrayDtype": []
+}

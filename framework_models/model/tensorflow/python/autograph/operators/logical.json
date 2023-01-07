@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.autograph.operators.logical.not_": [],
+    "tensorflow.python.autograph.operators.logical._tf_not": [],
+    "tensorflow.python.autograph.operators.logical._py_not": [],
+    "tensorflow.python.autograph.operators.logical.and_": [],
+    "tensorflow.python.autograph.operators.logical._tf_lazy_and": [],
+    "tensorflow.python.autograph.operators.logical._py_lazy_and": [],
+    "tensorflow.python.autograph.operators.logical.or_": [],
+    "tensorflow.python.autograph.operators.logical._tf_lazy_or": [],
+    "tensorflow.python.autograph.operators.logical._py_lazy_or": [],
+    "tensorflow.python.autograph.operators.logical.eq": [],
+    "tensorflow.python.autograph.operators.logical._tf_equal": [],
+    "tensorflow.python.autograph.operators.logical._py_equal": [],
+    "tensorflow.python.autograph.operators.logical.not_eq": []
+}

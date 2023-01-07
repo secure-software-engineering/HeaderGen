@@ -1,0 +1,6 @@
+from statsmodels.tsa.arima_process import arma_generate_sample as arma_generate_sample
+from statsmodels.tsa.arma_mle import Arma as Arma
+from typing import Any
+
+def mcarma22(niter: int = ..., nsample: int = ..., ar: Any | None = ..., ma: Any | None = ..., sig: float = ...): ...
+def mc_summary(res, rt: Any | None = ...) -> None: ...

@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.autograph.operators.exceptions.assert_stmt": [],
+    "tensorflow.python.autograph.operators.exceptions._tf_assert_stmt": [],
+    "tensorflow.python.autograph.operators.exceptions._py_assert_stmt": []
+}

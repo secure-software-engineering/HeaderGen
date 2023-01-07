@@ -1,0 +1,6 @@
+{
+    "scipy.special.tests.test_owens_t.test_symmetries": [],
+    "scipy.special.tests.test_owens_t.test_special_cases": [],
+    "scipy.special.tests.test_owens_t.test_nans": [],
+    "scipy.special.tests.test_owens_t.test_infs": []
+}

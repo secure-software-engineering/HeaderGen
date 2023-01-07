@@ -1,0 +1,19 @@
+{
+    "pandas.tests.test_expressions.TestExpressions.setup_method": [],
+    "pandas.tests.test_expressions.TestExpressions.teardown_method": [],
+    "pandas.tests.test_expressions.TestExpressions.call_op": [],
+    "pandas.tests.test_expressions.TestExpressions.run_arithmetic": [],
+    "pandas.tests.test_expressions.TestExpressions.run_binary": [],
+    "pandas.tests.test_expressions.TestExpressions.run_frame": [],
+    "pandas.tests.test_expressions.TestExpressions.test_arithmetic": [],
+    "pandas.tests.test_expressions.TestExpressions.test_invalid": [],
+    "pandas.tests.test_expressions.TestExpressions.test_binary_ops": [],
+    "pandas.tests.test_expressions.TestExpressions.test_comparison_ops": [],
+    "pandas.tests.test_expressions.TestExpressions.test_where": [],
+    "pandas.tests.test_expressions.TestExpressions.test_bool_ops_raise_on_arithmetic": [],
+    "pandas.tests.test_expressions.TestExpressions.test_bool_ops_warn_on_arithmetic": [],
+    "pandas.tests.test_expressions.TestExpressions.test_bool_ops_column_name_dtype": [],
+    "pandas.tests.test_expressions.TestExpressions.test_frame_series_axis": [],
+    "pandas.tests.test_expressions.TestExpressions.test_python_semantics_with_numexpr_installed": [],
+    "pandas.tests.test_expressions.TestExpressions": []
+}

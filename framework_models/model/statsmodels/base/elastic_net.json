@@ -1,0 +1,9 @@
+{
+    "statsmodels.base.elastic_net._gen_npfuncs": [],
+    "statsmodels.base.elastic_net.fit_elasticnet": [],
+    "statsmodels.base.elastic_net._opt_1d": [],
+    "statsmodels.base.elastic_net.RegularizedResults.__init__": [],
+    "statsmodels.base.elastic_net.RegularizedResults.fittedvalues": [],
+    "statsmodels.base.elastic_net.RegularizedResults": [],
+    "statsmodels.base.elastic_net.RegularizedResultsWrapper": []
+}

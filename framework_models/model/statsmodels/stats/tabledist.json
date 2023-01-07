@@ -1,0 +1,11 @@
+{
+    "statsmodels.stats.tabledist.TableDist.__init__": [],
+    "statsmodels.stats.tabledist.TableDist.polyn": [],
+    "statsmodels.stats.tabledist.TableDist.poly2d": [],
+    "statsmodels.stats.tabledist.TableDist.polyrbf": [],
+    "statsmodels.stats.tabledist.TableDist._critvals": [],
+    "statsmodels.stats.tabledist.TableDist.prob": [],
+    "statsmodels.stats.tabledist.TableDist.crit": [],
+    "statsmodels.stats.tabledist.TableDist.crit3": [],
+    "statsmodels.stats.tabledist.TableDist": []
+}

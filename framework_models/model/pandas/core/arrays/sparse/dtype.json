@@ -1,0 +1,22 @@
+{
+    "pandas.core.arrays.sparse.dtype.SparseDtype.__init__": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.__hash__": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.__eq__": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.fill_value": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype._is_na_fill_value": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype._is_numeric": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype._is_boolean": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.kind": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.type": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.subtype": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.name": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.__repr__": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.construct_array_type": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.construct_from_string": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype._parse_subtype": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.is_dtype": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype.update_dtype": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype._subtype_with_str": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype._get_common_dtype": [],
+    "pandas.core.arrays.sparse.dtype.SparseDtype": []
+}

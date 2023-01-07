@@ -1,0 +1,3 @@
+from .backend_qtcairo import FigureCanvasCairo as FigureCanvasCairo, FigureCanvasQT as FigureCanvasQT, FigureCanvasQTCairo as FigureCanvasQTCairo, RendererCairo as RendererCairo, _BackendQTCairo
+
+class _BackendQT5Cairo(_BackendQTCairo): ...

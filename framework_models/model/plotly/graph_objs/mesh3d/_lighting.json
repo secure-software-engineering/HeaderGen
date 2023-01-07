@@ -1,0 +1,12 @@
+{
+    "plotly.graph_objs.mesh3d._lighting.Lighting.ambient": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting.diffuse": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting.facenormalsepsilon": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting.fresnel": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting.roughness": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting.specular": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting.vertexnormalsepsilon": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting._prop_descriptions": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting.__init__": [],
+    "plotly.graph_objs.mesh3d._lighting.Lighting": []
+}

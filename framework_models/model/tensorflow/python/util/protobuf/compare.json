@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.util.protobuf.compare.assertProtoEqual": [],
+    "tensorflow.python.util.protobuf.compare.NormalizeNumberFields": [],
+    "tensorflow.python.util.protobuf.compare._IsMap": [],
+    "tensorflow.python.util.protobuf.compare._IsRepeatedContainer": [],
+    "tensorflow.python.util.protobuf.compare.ProtoEq": [],
+    "tensorflow.python.util.protobuf.compare.ProtoAssertions.assertProtoEqual": [],
+    "tensorflow.python.util.protobuf.compare.ProtoAssertions": []
+}

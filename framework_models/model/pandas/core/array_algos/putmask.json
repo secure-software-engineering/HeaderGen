@@ -1,0 +1,9 @@
+{
+    "pandas.core.array_algos.putmask.putmask_inplace": [],
+    "pandas.core.array_algos.putmask.putmask_smart": [],
+    "pandas.core.array_algos.putmask._putmask_preserve": [],
+    "pandas.core.array_algos.putmask.putmask_without_repeat": [],
+    "pandas.core.array_algos.putmask.validate_putmask": [],
+    "pandas.core.array_algos.putmask.extract_bool_array": [],
+    "pandas.core.array_algos.putmask.setitem_datetimelike_compat": []
+}

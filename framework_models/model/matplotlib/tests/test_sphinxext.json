@@ -1,0 +1,5 @@
+{
+    "matplotlib.tests.test_sphinxext.test_tinypages": [],
+    "matplotlib.tests.test_sphinxext.test_plot_html_show_source_link": [],
+    "matplotlib.tests.test_sphinxext.build_sphinx_html": []
+}

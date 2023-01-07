@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.training.adadelta.AdadeltaOptimizer.__init__": [],
+    "tensorflow.python.training.adadelta.AdadeltaOptimizer._create_slots": [],
+    "tensorflow.python.training.adadelta.AdadeltaOptimizer._prepare": [],
+    "tensorflow.python.training.adadelta.AdadeltaOptimizer._apply_dense": [],
+    "tensorflow.python.training.adadelta.AdadeltaOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.adadelta.AdadeltaOptimizer._apply_sparse": [],
+    "tensorflow.python.training.adadelta.AdadeltaOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.adadelta.AdadeltaOptimizer": []
+}

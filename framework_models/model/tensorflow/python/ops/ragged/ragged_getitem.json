@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.ops.ragged.ragged_getitem.ragged_tensor_getitem": [],
+    "tensorflow.python.ops.ragged.ragged_getitem._ragged_getitem": [],
+    "tensorflow.python.ops.ragged.ragged_getitem._slice_ragged_row_dimension": [],
+    "tensorflow.python.ops.ragged.ragged_getitem._ragged_getitem_inner_dimensions": [],
+    "tensorflow.python.ops.ragged.ragged_getitem._slice_length": [],
+    "tensorflow.python.ops.ragged.ragged_getitem._expand_ellipsis": [],
+    "tensorflow.python.ops.ragged.ragged_getitem._tensors_in_key_list": [],
+    "tensorflow.python.ops.ragged.ragged_getitem._build_ragged_tensor_from_value_ranges": [],
+    "tensorflow.python.ops.ragged.ragged_getitem._if_ge_zero": []
+}

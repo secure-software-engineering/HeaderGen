@@ -1,0 +1,13 @@
+{
+    "statsmodels.sandbox.regression.tools.norm_lls": [],
+    "statsmodels.sandbox.regression.tools.norm_lls_grad": [],
+    "statsmodels.sandbox.regression.tools.mean_grad": [],
+    "statsmodels.sandbox.regression.tools.normgrad": [],
+    "statsmodels.sandbox.regression.tools.tstd_lls": [],
+    "statsmodels.sandbox.regression.tools.norm_dlldy": [],
+    "statsmodels.sandbox.regression.tools.tstd_pdf": [],
+    "statsmodels.sandbox.regression.tools.ts_lls": [],
+    "statsmodels.sandbox.regression.tools.ts_dlldy": [],
+    "statsmodels.sandbox.regression.tools.tstd_dlldy": [],
+    "statsmodels.sandbox.regression.tools.locscale_grad": []
+}

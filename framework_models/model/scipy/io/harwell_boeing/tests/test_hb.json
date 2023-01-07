@@ -1,0 +1,8 @@
+{
+    "scipy.io.harwell_boeing.tests.test_hb.assert_csc_almost_equal": [],
+    "scipy.io.harwell_boeing.tests.test_hb.TestHBReader.test_simple": [],
+    "scipy.io.harwell_boeing.tests.test_hb.TestHBReadWrite.check_save_load": [],
+    "scipy.io.harwell_boeing.tests.test_hb.TestHBReadWrite.test_simple": [],
+    "scipy.io.harwell_boeing.tests.test_hb.TestHBReader": [],
+    "scipy.io.harwell_boeing.tests.test_hb.TestHBReadWrite": []
+}

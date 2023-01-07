@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.framework.tensor_conversion_registry._default_conversion_function": [],
+    "tensorflow.python.framework.tensor_conversion_registry.register_tensor_conversion_function": [],
+    "tensorflow.python.framework.tensor_conversion_registry.get": []
+}

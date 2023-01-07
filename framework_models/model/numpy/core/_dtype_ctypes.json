@@ -1,0 +1,7 @@
+{
+    "numpy.core._dtype_ctypes._from_ctypes_array": [],
+    "numpy.core._dtype_ctypes._from_ctypes_structure": [],
+    "numpy.core._dtype_ctypes._from_ctypes_scalar": [],
+    "numpy.core._dtype_ctypes._from_ctypes_union": [],
+    "numpy.core._dtype_ctypes.dtype_from_ctypes_type": []
+}

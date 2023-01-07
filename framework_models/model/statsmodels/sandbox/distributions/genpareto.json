@@ -1,0 +1,17 @@
+{
+    "statsmodels.sandbox.distributions.genpareto.paramstopot": [],
+    "statsmodels.sandbox.distributions.genpareto.paramsfrompot": [],
+    "statsmodels.sandbox.distributions.genpareto.warnif": [],
+    "statsmodels.sandbox.distributions.genpareto.meanexcess": [],
+    "statsmodels.sandbox.distributions.genpareto.meanexcess_plot": [],
+    "statsmodels.sandbox.distributions.genpareto.meanexcess_emp": [],
+    "statsmodels.sandbox.distributions.genpareto.meanexcess_dist": [],
+    "statsmodels.sandbox.distributions.genpareto.genpareto2_gen._argcheck": [],
+    "statsmodels.sandbox.distributions.genpareto.genpareto2_gen._pdf": [],
+    "statsmodels.sandbox.distributions.genpareto.genpareto2_gen._logpdf": [],
+    "statsmodels.sandbox.distributions.genpareto.genpareto2_gen._cdf": [],
+    "statsmodels.sandbox.distributions.genpareto.genpareto2_gen._ppf": [],
+    "statsmodels.sandbox.distributions.genpareto.genpareto2_gen._munp": [],
+    "statsmodels.sandbox.distributions.genpareto.genpareto2_gen._entropy": [],
+    "statsmodels.sandbox.distributions.genpareto.genpareto2_gen": []
+}

@@ -1,0 +1,4 @@
+{
+    "pandas.tests.indexes.test_numpy_compat.test_numpy_ufuncs_basic": [],
+    "pandas.tests.indexes.test_numpy_compat.test_numpy_ufuncs_other": []
+}

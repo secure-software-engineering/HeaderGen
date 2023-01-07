@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.eager.profiler_client.start_tracing": [],
+    "tensorflow.python.eager.profiler_client.monitor": []
+}

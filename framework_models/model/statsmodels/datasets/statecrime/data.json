@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.statecrime.data.load_pandas": [],
+    "statsmodels.datasets.statecrime.data.load": [],
+    "statsmodels.datasets.statecrime.data._get_data": []
+}

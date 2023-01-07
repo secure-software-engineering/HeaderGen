@@ -1,0 +1,13 @@
+{
+    "pandas.tests.frame.test_ufunc.test_unary_unary": [],
+    "pandas.tests.frame.test_ufunc.test_unary_binary": [],
+    "pandas.tests.frame.test_ufunc.test_binary_input_dispatch_binop": [],
+    "pandas.tests.frame.test_ufunc.test_ufunc_passes_args": [],
+    "pandas.tests.frame.test_ufunc.test_binary_input_aligns_columns": [],
+    "pandas.tests.frame.test_ufunc.test_binary_input_aligns_index": [],
+    "pandas.tests.frame.test_ufunc.test_binary_frame_series_raises": [],
+    "pandas.tests.frame.test_ufunc.test_unary_accumulate_axis": [],
+    "pandas.tests.frame.test_ufunc.test_frame_outer_deprecated": [],
+    "pandas.tests.frame.test_ufunc.test_alignment_deprecation": [],
+    "pandas.tests.frame.test_ufunc.test_alignment_deprecation_many_inputs": []
+}

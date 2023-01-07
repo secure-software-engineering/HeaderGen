@@ -1,0 +1,13 @@
+{
+    "pandas.tests.generic.test_series.TestSeries.test_set_axis_name_mi": [],
+    "pandas.tests.generic.test_series.TestSeries.test_set_axis_name_raises": [],
+    "pandas.tests.generic.test_series.TestSeries.test_get_bool_data_preserve_dtype": [],
+    "pandas.tests.generic.test_series.TestSeries.test_nonzero_single_element": [],
+    "pandas.tests.generic.test_series.TestSeries.test_nonzero_single_element_raise_1": [],
+    "pandas.tests.generic.test_series.TestSeries.test_nonzero_single_element_raise_2": [],
+    "pandas.tests.generic.test_series.TestSeries.test_nonzero_multiple_element_raise": [],
+    "pandas.tests.generic.test_series.TestSeries.test_nonbool_single_element_raise": [],
+    "pandas.tests.generic.test_series.TestSeries.test_metadata_propagation_indiv_resample": [],
+    "pandas.tests.generic.test_series.TestSeries.test_metadata_propagation_indiv": [],
+    "pandas.tests.generic.test_series.TestSeries": []
+}

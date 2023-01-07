@@ -1,0 +1,6 @@
+{
+    "pandas._testing._random.randbool": [],
+    "pandas._testing._random.rands_array": [],
+    "pandas._testing._random.randu_array": [],
+    "pandas._testing._random.rands": []
+}

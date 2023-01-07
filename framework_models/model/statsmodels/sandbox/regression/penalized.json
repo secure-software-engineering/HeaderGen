@@ -1,0 +1,19 @@
+{
+    "statsmodels.sandbox.regression.penalized.coef_restriction_meandiff": [],
+    "statsmodels.sandbox.regression.penalized.coef_restriction_diffbase": [],
+    "statsmodels.sandbox.regression.penalized.next_odd": [],
+    "statsmodels.sandbox.regression.penalized.coef_restriction_diffseq": [],
+    "statsmodels.sandbox.regression.penalized.TheilGLS.__init__": [],
+    "statsmodels.sandbox.regression.penalized.TheilGLS.fit": [],
+    "statsmodels.sandbox.regression.penalized.TheilGLS.select_pen_weight": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults.__init__": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults.hatmatrix_diag": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults.hatmatrix_trace": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults.gcv": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults.cv": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults.aicc": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults.test_compatibility": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults.share_data": [],
+    "statsmodels.sandbox.regression.penalized.TheilGLS": [],
+    "statsmodels.sandbox.regression.penalized.TheilRegressionResults": []
+}

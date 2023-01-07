@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.ops.resources.register_resource": [],
+    "tensorflow.python.ops.resources.shared_resources": [],
+    "tensorflow.python.ops.resources.local_resources": [],
+    "tensorflow.python.ops.resources.report_uninitialized_resources": [],
+    "tensorflow.python.ops.resources.initialize_resources": []
+}

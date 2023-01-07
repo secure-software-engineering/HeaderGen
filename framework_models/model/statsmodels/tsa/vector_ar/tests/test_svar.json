@@ -1,0 +1,10 @@
+{
+    "statsmodels.tsa.vector_ar.tests.test_svar.TestSVAR.setup_class": [],
+    "statsmodels.tsa.vector_ar.tests.test_svar.TestSVAR._reformat": [],
+    "statsmodels.tsa.vector_ar.tests.test_svar.TestSVAR.test_A": [],
+    "statsmodels.tsa.vector_ar.tests.test_svar.TestSVAR.test_B": [],
+    "statsmodels.tsa.vector_ar.tests.test_svar.TestSVAR.test_basic": [],
+    "statsmodels.tsa.vector_ar.tests.test_svar.TestSVAR.test_llf_ic": [],
+    "statsmodels.tsa.vector_ar.tests.test_svar.TestSVAR.test_irf": [],
+    "statsmodels.tsa.vector_ar.tests.test_svar.TestSVAR": []
+}

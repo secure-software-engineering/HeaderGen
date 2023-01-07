@@ -1,0 +1,14 @@
+{
+    "scipy.special.tests.test_log_softmax.test_log_softmax": [],
+    "scipy.special.tests.test_log_softmax.log_softmax_x": [],
+    "scipy.special.tests.test_log_softmax.log_softmax_expected": [],
+    "scipy.special.tests.test_log_softmax.test_log_softmax_translation": [],
+    "scipy.special.tests.test_log_softmax.test_log_softmax_noneaxis": [],
+    "scipy.special.tests.test_log_softmax.test_axes": [],
+    "scipy.special.tests.test_log_softmax.log_softmax_2d_x": [],
+    "scipy.special.tests.test_log_softmax.log_softmax_2d_expected": [],
+    "scipy.special.tests.test_log_softmax.test_log_softmax_2d_axis1": [],
+    "scipy.special.tests.test_log_softmax.test_log_softmax_2d_axis0": [],
+    "scipy.special.tests.test_log_softmax.test_log_softmax_3d": [],
+    "scipy.special.tests.test_log_softmax.test_log_softmax_scalar": []
+}

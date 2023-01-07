@@ -1,0 +1,3 @@
+from typing import Any
+
+def check_random_state(seed: Any | None = ...): ...

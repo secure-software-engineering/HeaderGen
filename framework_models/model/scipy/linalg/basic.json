@@ -1,0 +1,19 @@
+{
+    "scipy.linalg.basic._solve_check": [],
+    "scipy.linalg.basic.solve": [],
+    "scipy.linalg.basic.solve_triangular": [],
+    "scipy.linalg.basic.solve_banded": [],
+    "scipy.linalg.basic.solveh_banded": [],
+    "scipy.linalg.basic.solve_toeplitz": [],
+    "scipy.linalg.basic._get_axis_len": [],
+    "scipy.linalg.basic.solve_circulant": [],
+    "scipy.linalg.basic.inv": [],
+    "scipy.linalg.basic.det": [],
+    "scipy.linalg.basic.lstsq": [],
+    "scipy.linalg.basic.pinv": [],
+    "scipy.linalg.basic.pinv2": [],
+    "scipy.linalg.basic.pinvh": [],
+    "scipy.linalg.basic.matrix_balance": [],
+    "scipy.linalg.basic._validate_args_for_toeplitz_ops": [],
+    "scipy.linalg.basic.matmul_toeplitz": []
+}

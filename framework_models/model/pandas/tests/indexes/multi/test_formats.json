@@ -1,0 +1,16 @@
+{
+    "pandas.tests.indexes.multi.test_formats.test_format": [],
+    "pandas.tests.indexes.multi.test_formats.test_format_integer_names": [],
+    "pandas.tests.indexes.multi.test_formats.test_format_sparse_config": [],
+    "pandas.tests.indexes.multi.test_formats.test_format_sparse_display": [],
+    "pandas.tests.indexes.multi.test_formats.test_repr_with_unicode_data": [],
+    "pandas.tests.indexes.multi.test_formats.test_repr_roundtrip_raises": [],
+    "pandas.tests.indexes.multi.test_formats.test_unicode_string_with_unicode": [],
+    "pandas.tests.indexes.multi.test_formats.test_repr_max_seq_item_setting": [],
+    "pandas.tests.indexes.multi.test_formats.TestRepr.test_unicode_repr_issues": [],
+    "pandas.tests.indexes.multi.test_formats.TestRepr.test_repr_max_seq_items_equal_to_n": [],
+    "pandas.tests.indexes.multi.test_formats.TestRepr.test_repr": [],
+    "pandas.tests.indexes.multi.test_formats.TestRepr.test_rjust": [],
+    "pandas.tests.indexes.multi.test_formats.TestRepr.test_tuple_width": [],
+    "pandas.tests.indexes.multi.test_formats.TestRepr": []
+}

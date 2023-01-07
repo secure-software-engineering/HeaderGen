@@ -1,0 +1,15 @@
+{
+    "sklearn.utils.tests.test_cython_blas._numpy_to_cython": [],
+    "sklearn.utils.tests.test_cython_blas._no_op": [],
+    "sklearn.utils.tests.test_cython_blas.test_dot": [],
+    "sklearn.utils.tests.test_cython_blas.test_asum": [],
+    "sklearn.utils.tests.test_cython_blas.test_axpy": [],
+    "sklearn.utils.tests.test_cython_blas.test_nrm2": [],
+    "sklearn.utils.tests.test_cython_blas.test_copy": [],
+    "sklearn.utils.tests.test_cython_blas.test_scal": [],
+    "sklearn.utils.tests.test_cython_blas.test_rotg": [],
+    "sklearn.utils.tests.test_cython_blas.test_rot": [],
+    "sklearn.utils.tests.test_cython_blas.test_gemv": [],
+    "sklearn.utils.tests.test_cython_blas.test_ger": [],
+    "sklearn.utils.tests.test_cython_blas.test_gemm": []
+}

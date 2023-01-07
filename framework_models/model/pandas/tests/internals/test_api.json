@@ -1,0 +1,5 @@
+{
+    "pandas.tests.internals.test_api.test_internals_api": [],
+    "pandas.tests.internals.test_api.test_namespace": [],
+    "pandas.tests.internals.test_api.test_make_block_2d_with_dti": []
+}

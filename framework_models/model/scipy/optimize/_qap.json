@@ -1,0 +1,9 @@
+{
+    "scipy.optimize._qap.quadratic_assignment": [],
+    "scipy.optimize._qap._calc_score": [],
+    "scipy.optimize._qap._common_input_validation": [],
+    "scipy.optimize._qap._quadratic_assignment_faq": [],
+    "scipy.optimize._qap._split_matrix": [],
+    "scipy.optimize._qap._doubly_stochastic": [],
+    "scipy.optimize._qap._quadratic_assignment_2opt": []
+}

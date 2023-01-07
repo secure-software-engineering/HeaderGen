@@ -1,0 +1,7 @@
+{
+    "pandas.tests.io.formats.style.test_tooltip.df": [],
+    "pandas.tests.io.formats.style.test_tooltip.styler": [],
+    "pandas.tests.io.formats.style.test_tooltip.test_tooltip_render": [],
+    "pandas.tests.io.formats.style.test_tooltip.test_tooltip_ignored": [],
+    "pandas.tests.io.formats.style.test_tooltip.test_tooltip_css_class": []
+}

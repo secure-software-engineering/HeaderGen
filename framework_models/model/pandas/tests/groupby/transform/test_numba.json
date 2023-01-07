@@ -1,0 +1,10 @@
+{
+    "pandas.tests.groupby.transform.test_numba.test_correct_function_signature": [],
+    "pandas.tests.groupby.transform.test_numba.test_check_nopython_kwargs": [],
+    "pandas.tests.groupby.transform.test_numba.test_numba_vs_cython": [],
+    "pandas.tests.groupby.transform.test_numba.test_cache": [],
+    "pandas.tests.groupby.transform.test_numba.test_use_global_config": [],
+    "pandas.tests.groupby.transform.test_numba.test_multifunc_notimplimented": [],
+    "pandas.tests.groupby.transform.test_numba.test_args_not_cached": [],
+    "pandas.tests.groupby.transform.test_numba.test_index_data_correctly_passed": []
+}

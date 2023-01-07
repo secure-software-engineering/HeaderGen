@@ -1,0 +1,23 @@
+{
+    "scipy.fft.tests.test_helper.test_next_fast_len": [],
+    "scipy.fft.tests.test_helper._assert_n_smooth": [],
+    "scipy.fft.tests.test_helper.TestNextFastLen.test_next_fast_len": [],
+    "scipy.fft.tests.test_helper.TestNextFastLen.test_np_integers": [],
+    "scipy.fft.tests.test_helper.TestNextFastLen.testnext_fast_len_small": [],
+    "scipy.fft.tests.test_helper.TestNextFastLen.testnext_fast_len_big": [],
+    "scipy.fft.tests.test_helper.TestNextFastLen.test_keyword_args": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_py_0d_defaults": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_np_0d_defaults": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_py_1d_defaults": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_np_1d_defaults": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_py_2d_defaults": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_np_2d_defaults": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_np_5d_defaults": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_np_5d_set_shape": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_np_5d_set_axes": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_np_5d_set_shape_axes": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_shape_axes_subset": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes.test_errors": [],
+    "scipy.fft.tests.test_helper.TestNextFastLen": [],
+    "scipy.fft.tests.test_helper.Test_init_nd_shape_and_axes": []
+}

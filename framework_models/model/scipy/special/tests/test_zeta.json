@@ -1,0 +1,7 @@
+{
+    "scipy.special.tests.test_zeta.test_zeta": [],
+    "scipy.special.tests.test_zeta.test_zetac": [],
+    "scipy.special.tests.test_zeta.test_zetac_special_cases": [],
+    "scipy.special.tests.test_zeta.test_riemann_zeta_special_cases": [],
+    "scipy.special.tests.test_zeta.test_riemann_zeta_avoid_overflow": []
+}

@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.profiler.profiler_v2.start": [],
+    "tensorflow.python.profiler.profiler_v2.stop": [],
+    "tensorflow.python.profiler.profiler_v2.warmup": [],
+    "tensorflow.python.profiler.profiler_v2.start_server": [],
+    "tensorflow.python.profiler.profiler_v2.ProfilerOptions.__new__": [],
+    "tensorflow.python.profiler.profiler_v2.Profile.__init__": [],
+    "tensorflow.python.profiler.profiler_v2.Profile.__enter__": [],
+    "tensorflow.python.profiler.profiler_v2.Profile.__exit__": [],
+    "tensorflow.python.profiler.profiler_v2.ProfilerOptions": [],
+    "tensorflow.python.profiler.profiler_v2.Profile": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.tests.series.methods.test_convert.TestConvert.test_convert": [],
+    "pandas.tests.series.methods.test_convert.TestConvert.test_convert_no_arg_error": [],
+    "pandas.tests.series.methods.test_convert.TestConvert.test_convert_preserve_bool": [],
+    "pandas.tests.series.methods.test_convert.TestConvert.test_convert_preserve_all_bool": [],
+    "pandas.tests.series.methods.test_convert.TestConvert": []
+}

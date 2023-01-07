@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.data.experimental.ops.data_service_ops._get_validated_sharding_policy": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._serialize": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._validate_job_name": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._validate_compression": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._parse_service": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._decide_compression": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._distribute": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops.distribute": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._register_dataset": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops.register_dataset": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._from_dataset_id": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops.from_dataset_id": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops.ShardingPolicy._to_proto": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._DataServiceDatasetV2.__init__": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._DataServiceDatasetV2.element_spec": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._DataServiceDatasetV1.__init__": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops.ShardingPolicy": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._DataServiceDatasetV2": [],
+    "tensorflow.python.data.experimental.ops.data_service_ops._DataServiceDatasetV1": []
+}

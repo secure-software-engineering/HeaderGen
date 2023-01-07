@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.ops.distributions.uniform.Uniform.__init__": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._param_shapes": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform.low": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform.high": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform.range": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._batch_shape_tensor": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._batch_shape": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._event_shape_tensor": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._event_shape": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._sample_n": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._prob": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._cdf": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._entropy": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._mean": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._variance": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform._stddev": [],
+    "tensorflow.python.ops.distributions.uniform.Uniform": []
+}

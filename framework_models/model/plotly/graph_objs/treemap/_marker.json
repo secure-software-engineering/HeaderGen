@@ -1,0 +1,20 @@
+{
+    "plotly.graph_objs.treemap._marker.Marker.autocolorscale": [],
+    "plotly.graph_objs.treemap._marker.Marker.cauto": [],
+    "plotly.graph_objs.treemap._marker.Marker.cmax": [],
+    "plotly.graph_objs.treemap._marker.Marker.cmid": [],
+    "plotly.graph_objs.treemap._marker.Marker.cmin": [],
+    "plotly.graph_objs.treemap._marker.Marker.coloraxis": [],
+    "plotly.graph_objs.treemap._marker.Marker.colorbar": [],
+    "plotly.graph_objs.treemap._marker.Marker.colors": [],
+    "plotly.graph_objs.treemap._marker.Marker.colorscale": [],
+    "plotly.graph_objs.treemap._marker.Marker.colorssrc": [],
+    "plotly.graph_objs.treemap._marker.Marker.depthfade": [],
+    "plotly.graph_objs.treemap._marker.Marker.line": [],
+    "plotly.graph_objs.treemap._marker.Marker.pad": [],
+    "plotly.graph_objs.treemap._marker.Marker.reversescale": [],
+    "plotly.graph_objs.treemap._marker.Marker.showscale": [],
+    "plotly.graph_objs.treemap._marker.Marker._prop_descriptions": [],
+    "plotly.graph_objs.treemap._marker.Marker.__init__": [],
+    "plotly.graph_objs.treemap._marker.Marker": []
+}

@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.keras.engine.input_spec.to_tensor_shape": [],
+    "tensorflow.python.keras.engine.input_spec.assert_input_compatibility": [],
+    "tensorflow.python.keras.engine.input_spec.display_shape": [],
+    "tensorflow.python.keras.engine.input_spec.to_tensor_spec": [],
+    "tensorflow.python.keras.engine.input_spec.InputSpec.__init__": [],
+    "tensorflow.python.keras.engine.input_spec.InputSpec.__repr__": [],
+    "tensorflow.python.keras.engine.input_spec.InputSpec.get_config": [],
+    "tensorflow.python.keras.engine.input_spec.InputSpec.from_config": [],
+    "tensorflow.python.keras.engine.input_spec.InputSpec": []
+}

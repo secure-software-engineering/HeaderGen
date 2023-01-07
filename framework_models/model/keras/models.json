@@ -1,0 +1,15 @@
+{
+    "keras.models.share_weights": [],
+    "keras.models._clone_layer": [],
+    "keras.models._insert_ancillary_layers": [],
+    "keras.models._make_new_nodes": [],
+    "keras.models._clone_functional_model": [],
+    "keras.models._clone_layers_and_model_config": [],
+    "keras.models._remove_ancillary_layers": [],
+    "keras.models._clone_sequential_model": [],
+    "keras.models.clone_model": [],
+    "keras.models._in_place_subclassed_model_reset": [],
+    "keras.models._reset_build_compile_trackers": [],
+    "keras.models.in_place_subclassed_model_state_restoration": [],
+    "keras.models.clone_and_build_model": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.tests.strings.test_api.test_api": [],
+    "pandas.tests.strings.test_api.test_api_mi_raises": [],
+    "pandas.tests.strings.test_api.test_api_per_dtype": [],
+    "pandas.tests.strings.test_api.test_api_per_method": [],
+    "pandas.tests.strings.test_api.test_api_for_categorical": []
+}

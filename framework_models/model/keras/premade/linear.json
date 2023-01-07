@@ -1,0 +1,8 @@
+{
+    "keras.premade.linear.LinearModel.__init__": [],
+    "keras.premade.linear.LinearModel.build": [],
+    "keras.premade.linear.LinearModel.call": [],
+    "keras.premade.linear.LinearModel.get_config": [],
+    "keras.premade.linear.LinearModel.from_config": [],
+    "keras.premade.linear.LinearModel": []
+}

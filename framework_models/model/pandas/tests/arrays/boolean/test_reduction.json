@@ -1,0 +1,5 @@
+{
+    "pandas.tests.arrays.boolean.test_reduction.data": [],
+    "pandas.tests.arrays.boolean.test_reduction.test_any_all": [],
+    "pandas.tests.arrays.boolean.test_reduction.test_reductions_return_types": []
+}

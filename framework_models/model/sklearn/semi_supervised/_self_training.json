@@ -1,0 +1,11 @@
+{
+    "sklearn.semi_supervised._self_training._validate_estimator": [],
+    "sklearn.semi_supervised._self_training.SelfTrainingClassifier.__init__": [],
+    "sklearn.semi_supervised._self_training.SelfTrainingClassifier.fit": [],
+    "sklearn.semi_supervised._self_training.SelfTrainingClassifier.predict": [],
+    "sklearn.semi_supervised._self_training.SelfTrainingClassifier.predict_proba": [],
+    "sklearn.semi_supervised._self_training.SelfTrainingClassifier.decision_function": [],
+    "sklearn.semi_supervised._self_training.SelfTrainingClassifier.predict_log_proba": [],
+    "sklearn.semi_supervised._self_training.SelfTrainingClassifier.score": [],
+    "sklearn.semi_supervised._self_training.SelfTrainingClassifier": []
+}

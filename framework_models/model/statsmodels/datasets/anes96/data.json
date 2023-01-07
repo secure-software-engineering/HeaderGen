@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.anes96.data.load_pandas": [],
+    "statsmodels.datasets.anes96.data.load": [],
+    "statsmodels.datasets.anes96.data._get_data": []
+}

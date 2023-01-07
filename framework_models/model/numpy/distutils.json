@@ -1,0 +1,4 @@
+{
+    "numpy.distutils.customized_fcompiler": [],
+    "numpy.distutils.customized_ccompiler": []
+}

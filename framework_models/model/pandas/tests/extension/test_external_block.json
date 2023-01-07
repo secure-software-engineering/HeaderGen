@@ -1,0 +1,6 @@
+{
+    "pandas.tests.extension.test_external_block.df": [],
+    "pandas.tests.extension.test_external_block.test_concat_axis1": [],
+    "pandas.tests.extension.test_external_block.CustomBlock._can_hold_na": [],
+    "pandas.tests.extension.test_external_block.CustomBlock": []
+}

@@ -1,0 +1,17 @@
+{
+    "statsmodels.stats.tests.test_robust_compare.Test_Trim.t_est_trim1": [],
+    "statsmodels.stats.tests.test_robust_compare.Test_Trim.test_trimboth": [],
+    "statsmodels.stats.tests.test_robust_compare.Test_Trim.test_trim_mean": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedR1.setup_class": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedR1.get_results": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedR1.test_basic": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedR1.test_inference": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedR1.test_other": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedR1.test_vectorized": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedRAnova.setup_class": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedRAnova.get_results": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedRAnova.test_oneway": [],
+    "statsmodels.stats.tests.test_robust_compare.Test_Trim": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedR1": [],
+    "statsmodels.stats.tests.test_robust_compare.TestTrimmedRAnova": []
+}

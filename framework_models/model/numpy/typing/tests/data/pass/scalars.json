@@ -1,0 +1,10 @@
+{
+    "numpy.typing.tests.data.pass.scalars.D.__index__": [],
+    "numpy.typing.tests.data.pass.scalars.C.__complex__": [],
+    "numpy.typing.tests.data.pass.scalars.B.__int__": [],
+    "numpy.typing.tests.data.pass.scalars.A.__float__": [],
+    "numpy.typing.tests.data.pass.scalars.D": [],
+    "numpy.typing.tests.data.pass.scalars.C": [],
+    "numpy.typing.tests.data.pass.scalars.B": [],
+    "numpy.typing.tests.data.pass.scalars.A": []
+}

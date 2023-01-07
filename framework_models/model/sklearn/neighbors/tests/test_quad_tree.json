@@ -1,0 +1,7 @@
+{
+    "sklearn.neighbors.tests.test_quad_tree.test_quadtree_boundary_computation": [],
+    "sklearn.neighbors.tests.test_quad_tree.test_quadtree_similar_point": [],
+    "sklearn.neighbors.tests.test_quad_tree.test_quad_tree_pickle": [],
+    "sklearn.neighbors.tests.test_quad_tree.test_qt_insert_duplicate": [],
+    "sklearn.neighbors.tests.test_quad_tree.test_summarize": []
+}

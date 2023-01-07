@@ -1,0 +1,10 @@
+{
+    "pandas.tests.series.test_subclass.TestSeriesSubclassing.test_indexing_sliced": [],
+    "pandas.tests.series.test_subclass.TestSeriesSubclassing.test_to_frame": [],
+    "pandas.tests.series.test_subclass.TestSeriesSubclassing.test_subclass_unstack": [],
+    "pandas.tests.series.test_subclass.TestSeriesSubclassing.test_subclass_empty_repr": [],
+    "pandas.tests.series.test_subclass.TestSeriesSubclassing.test_asof": [],
+    "pandas.tests.series.test_subclass.TestSeriesSubclassing.test_explode": [],
+    "pandas.tests.series.test_subclass.TestSeriesSubclassing.test_equals": [],
+    "pandas.tests.series.test_subclass.TestSeriesSubclassing": []
+}

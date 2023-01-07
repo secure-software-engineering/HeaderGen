@@ -1,0 +1,12 @@
+{
+    "sklearn.decomposition._factor_analysis._ortho_rotation": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis.__init__": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis.fit": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis.transform": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis.get_covariance": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis.get_precision": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis.score_samples": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis.score": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis._rotate": [],
+    "sklearn.decomposition._factor_analysis.FactorAnalysis": []
+}

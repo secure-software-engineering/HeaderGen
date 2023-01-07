@@ -1,0 +1,13 @@
+{
+    "pandas.tests.io.parser.common.test_index.test_pass_names_with_index": [],
+    "pandas.tests.io.parser.common.test_index.test_multi_index_no_level_names": [],
+    "pandas.tests.io.parser.common.test_index.test_multi_index_no_level_names_implicit": [],
+    "pandas.tests.io.parser.common.test_index.test_multi_index_blank_df": [],
+    "pandas.tests.io.parser.common.test_index.test_no_unnamed_index": [],
+    "pandas.tests.io.parser.common.test_index.test_read_duplicate_index_explicit": [],
+    "pandas.tests.io.parser.common.test_index.test_read_duplicate_index_implicit": [],
+    "pandas.tests.io.parser.common.test_index.test_read_csv_no_index_name": [],
+    "pandas.tests.io.parser.common.test_index.test_empty_with_index": [],
+    "pandas.tests.io.parser.common.test_index.test_empty_with_multi_index": [],
+    "pandas.tests.io.parser.common.test_index.test_empty_with_reversed_multi_index": []
+}

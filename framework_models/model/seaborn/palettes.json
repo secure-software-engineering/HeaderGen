@@ -1,0 +1,21 @@
+{
+    "seaborn.palettes.color_palette": [],
+    "seaborn.palettes.hls_palette": [],
+    "seaborn.palettes.husl_palette": [],
+    "seaborn.palettes.mpl_palette": [],
+    "seaborn.palettes._color_to_rgb": [],
+    "seaborn.palettes.dark_palette": [],
+    "seaborn.palettes.light_palette": [],
+    "seaborn.palettes.diverging_palette": [],
+    "seaborn.palettes.blend_palette": [],
+    "seaborn.palettes.xkcd_palette": [],
+    "seaborn.palettes.crayon_palette": [],
+    "seaborn.palettes.cubehelix_palette": [],
+    "seaborn.palettes._parse_cubehelix_args": [],
+    "seaborn.palettes.set_color_codes": [],
+    "seaborn.palettes._ColorPalette.__enter__": [],
+    "seaborn.palettes._ColorPalette.__exit__": [],
+    "seaborn.palettes._ColorPalette.as_hex": [],
+    "seaborn.palettes._ColorPalette._repr_html_": [],
+    "seaborn.palettes._ColorPalette": []
+}

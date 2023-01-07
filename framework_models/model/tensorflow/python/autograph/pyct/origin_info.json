@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.autograph.pyct.origin_info.create_source_map": [],
+    "tensorflow.python.autograph.pyct.origin_info.resolve": [],
+    "tensorflow.python.autograph.pyct.origin_info.resolve_entity": [],
+    "tensorflow.python.autograph.pyct.origin_info.copy_origin": [],
+    "tensorflow.python.autograph.pyct.origin_info.Location.line_loc": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginInfo.as_frame": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginInfo.__repr__": [],
+    "tensorflow.python.autograph.pyct.origin_info._Function.__init__": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginResolver.__init__": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginResolver._absolute_lineno": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginResolver._absolute_col_offset": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginResolver._attach_origin_info": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginResolver.visit": [],
+    "tensorflow.python.autograph.pyct.origin_info.LineLocation": [],
+    "tensorflow.python.autograph.pyct.origin_info.Location": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginInfo": [],
+    "tensorflow.python.autograph.pyct.origin_info._Function": [],
+    "tensorflow.python.autograph.pyct.origin_info.OriginResolver": []
+}

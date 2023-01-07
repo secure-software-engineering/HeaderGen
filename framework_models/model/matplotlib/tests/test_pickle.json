@@ -1,0 +1,17 @@
+{
+    "matplotlib.tests.test_pickle.test_simple": [],
+    "matplotlib.tests.test_pickle.test_complete": [],
+    "matplotlib.tests.test_pickle.test_no_pyplot": [],
+    "matplotlib.tests.test_pickle.test_renderer": [],
+    "matplotlib.tests.test_pickle.test_image": [],
+    "matplotlib.tests.test_pickle.test_polar": [],
+    "matplotlib.tests.test_pickle.test_transform": [],
+    "matplotlib.tests.test_pickle.test_rrulewrapper": [],
+    "matplotlib.tests.test_pickle.test_shared": [],
+    "matplotlib.tests.test_pickle.test_inset_and_secondary": [],
+    "matplotlib.tests.test_pickle.test_cmap": [],
+    "matplotlib.tests.test_pickle.test_unpickle_canvas": [],
+    "matplotlib.tests.test_pickle.test_mpl_toolkits": [],
+    "matplotlib.tests.test_pickle.TransformBlob.__init__": [],
+    "matplotlib.tests.test_pickle.TransformBlob": []
+}

@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.ops.ragged.ragged_gather_ops.gather": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._gather": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._batch_gather": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._axis_gather": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._flatten_dims_0_and_1": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._row_starts": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._increase_rank_to": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._ragged_gather_v1": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops.gather_nd": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._ragged_gather_nd_v1": [],
+    "tensorflow.python.ops.ragged.ragged_gather_ops._ragged_gather_grad": []
+}

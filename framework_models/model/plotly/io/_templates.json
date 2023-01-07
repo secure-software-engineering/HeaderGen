@@ -1,0 +1,21 @@
+{
+    "plotly.io._templates.walk_push_to_template": [],
+    "plotly.io._templates.to_templated": [],
+    "plotly.io._templates.TemplatesConfig.__init__": [],
+    "plotly.io._templates.TemplatesConfig.__len__": [],
+    "plotly.io._templates.TemplatesConfig.__contains__": [],
+    "plotly.io._templates.TemplatesConfig.__iter__": [],
+    "plotly.io._templates.TemplatesConfig.__getitem__": [],
+    "plotly.io._templates.TemplatesConfig.__setitem__": [],
+    "plotly.io._templates.TemplatesConfig.__delitem__": [],
+    "plotly.io._templates.TemplatesConfig._validate": [],
+    "plotly.io._templates.TemplatesConfig.keys": [],
+    "plotly.io._templates.TemplatesConfig.items": [],
+    "plotly.io._templates.TemplatesConfig.update": [],
+    "plotly.io._templates.TemplatesConfig.default": [],
+    "plotly.io._templates.TemplatesConfig.__repr__": [],
+    "plotly.io._templates.TemplatesConfig._available_templates_str": [],
+    "plotly.io._templates.TemplatesConfig.merge_templates": [],
+    "plotly.io._templates.TemplatesConfig._merge_2_templates": [],
+    "plotly.io._templates.TemplatesConfig": []
+}

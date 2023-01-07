@@ -1,0 +1,22 @@
+{
+    "statsmodels.graphics.regressionplots._high_leverage": [],
+    "statsmodels.graphics.regressionplots.add_lowess": [],
+    "statsmodels.graphics.regressionplots.plot_fit": [],
+    "statsmodels.graphics.regressionplots.plot_regress_exog": [],
+    "statsmodels.graphics.regressionplots._partial_regression": [],
+    "statsmodels.graphics.regressionplots.plot_partregress": [],
+    "statsmodels.graphics.regressionplots.plot_partregress_grid": [],
+    "statsmodels.graphics.regressionplots.plot_ccpr": [],
+    "statsmodels.graphics.regressionplots.plot_ccpr_grid": [],
+    "statsmodels.graphics.regressionplots.abline_plot": [],
+    "statsmodels.graphics.regressionplots._influence_plot": [],
+    "statsmodels.graphics.regressionplots.influence_plot": [],
+    "statsmodels.graphics.regressionplots._plot_leverage_resid2": [],
+    "statsmodels.graphics.regressionplots.plot_leverage_resid2": [],
+    "statsmodels.graphics.regressionplots.plot_added_variable": [],
+    "statsmodels.graphics.regressionplots.plot_partial_residuals": [],
+    "statsmodels.graphics.regressionplots.plot_ceres_residuals": [],
+    "statsmodels.graphics.regressionplots.ceres_resids": [],
+    "statsmodels.graphics.regressionplots.partial_resids": [],
+    "statsmodels.graphics.regressionplots.added_variable_resids": []
+}

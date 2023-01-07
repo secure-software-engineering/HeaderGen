@@ -1,0 +1,8 @@
+{
+    "pandas.tests.arrays.boolean.test_function.test_ufuncs_binary": [],
+    "pandas.tests.arrays.boolean.test_function.test_ufuncs_unary": [],
+    "pandas.tests.arrays.boolean.test_function.test_ufunc_reduce_raises": [],
+    "pandas.tests.arrays.boolean.test_function.test_value_counts_na": [],
+    "pandas.tests.arrays.boolean.test_function.test_value_counts_with_normalize": [],
+    "pandas.tests.arrays.boolean.test_function.test_diff": []
+}

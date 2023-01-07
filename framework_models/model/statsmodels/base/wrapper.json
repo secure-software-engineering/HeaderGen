@@ -1,0 +1,13 @@
+{
+    "statsmodels.base.wrapper.union_dicts": [],
+    "statsmodels.base.wrapper.make_wrapper": [],
+    "statsmodels.base.wrapper.populate_wrapper": [],
+    "statsmodels.base.wrapper.ResultsWrapper.__init__": [],
+    "statsmodels.base.wrapper.ResultsWrapper.__dir__": [],
+    "statsmodels.base.wrapper.ResultsWrapper.__getattribute__": [],
+    "statsmodels.base.wrapper.ResultsWrapper.__getstate__": [],
+    "statsmodels.base.wrapper.ResultsWrapper.__setstate__": [],
+    "statsmodels.base.wrapper.ResultsWrapper.save": [],
+    "statsmodels.base.wrapper.ResultsWrapper.load": [],
+    "statsmodels.base.wrapper.ResultsWrapper": []
+}

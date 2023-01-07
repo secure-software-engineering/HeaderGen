@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_kronecker._prefer_static_shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker._prefer_static_concat_shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker.operators": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._solve_matmul_internal": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._solve": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._log_abs_determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._trace": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._diag_part": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._to_dense": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._eigvals": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._assert_non_singular": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._assert_self_adjoint": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_kronecker.LinearOperatorKronecker": []
+}

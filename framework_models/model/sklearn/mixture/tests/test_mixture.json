@@ -1,0 +1,4 @@
+{
+    "sklearn.mixture.tests.test_mixture.test_gaussian_mixture_n_iter": [],
+    "sklearn.mixture.tests.test_mixture.test_mixture_n_components_greater_than_n_samples_error": []
+}

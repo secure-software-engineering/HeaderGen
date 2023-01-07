@@ -1,0 +1,17 @@
+{
+    "statsmodels.stats.tests.test_meta.TestEffectsizeBinom.setup_class": [],
+    "statsmodels.stats.tests.test_meta.TestEffectsizeBinom.test_effectsize": [],
+    "statsmodels.stats.tests.test_meta.TestEffSmdMeta.setup_class": [],
+    "statsmodels.stats.tests.test_meta.TestEffSmdMeta.test_smd": [],
+    "statsmodels.stats.tests.test_meta.TestMetaK1.setup_class": [],
+    "statsmodels.stats.tests.test_meta.TestMetaK1.test_tau_kacker": [],
+    "statsmodels.stats.tests.test_meta.TestMetaK1.test_pm": [],
+    "statsmodels.stats.tests.test_meta.TestMetaK1.test_dl": [],
+    "statsmodels.stats.tests.test_meta.TestMetaBinOR.setup_class": [],
+    "statsmodels.stats.tests.test_meta.TestMetaBinOR.test_basic": [],
+    "statsmodels.stats.tests.test_meta.TestMetaBinOR.test_plot": [],
+    "statsmodels.stats.tests.test_meta.TestEffectsizeBinom": [],
+    "statsmodels.stats.tests.test_meta.TestEffSmdMeta": [],
+    "statsmodels.stats.tests.test_meta.TestMetaK1": [],
+    "statsmodels.stats.tests.test_meta.TestMetaBinOR": []
+}

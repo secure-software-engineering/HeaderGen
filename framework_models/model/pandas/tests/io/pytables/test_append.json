@@ -1,0 +1,19 @@
+{
+    "pandas.tests.io.pytables.test_append.test_append": [],
+    "pandas.tests.io.pytables.test_append.test_append_series": [],
+    "pandas.tests.io.pytables.test_append.test_append_some_nans": [],
+    "pandas.tests.io.pytables.test_append.test_append_all_nans": [],
+    "pandas.tests.io.pytables.test_append.test_append_frame_column_oriented": [],
+    "pandas.tests.io.pytables.test_append.test_append_with_different_block_ordering": [],
+    "pandas.tests.io.pytables.test_append.test_append_with_strings": [],
+    "pandas.tests.io.pytables.test_append.test_append_with_empty_string": [],
+    "pandas.tests.io.pytables.test_append.test_append_with_data_columns": [],
+    "pandas.tests.io.pytables.test_append.test_append_hierarchical": [],
+    "pandas.tests.io.pytables.test_append.test_append_misc": [],
+    "pandas.tests.io.pytables.test_append.test_append_raise": [],
+    "pandas.tests.io.pytables.test_append.test_append_with_timedelta": [],
+    "pandas.tests.io.pytables.test_append.test_append_to_multiple": [],
+    "pandas.tests.io.pytables.test_append.test_append_to_multiple_dropna": [],
+    "pandas.tests.io.pytables.test_append.test_append_to_multiple_dropna_false": [],
+    "pandas.tests.io.pytables.test_append.test_append_to_multiple_min_itemsize": []
+}

@@ -1,0 +1,9 @@
+{
+    "matplotlib.backends.backend_gtk3agg.FigureCanvasGTK3Agg.__init__": [],
+    "matplotlib.backends.backend_gtk3agg.FigureCanvasGTK3Agg.on_draw_event": [],
+    "matplotlib.backends.backend_gtk3agg.FigureCanvasGTK3Agg.blit": [],
+    "matplotlib.backends.backend_gtk3agg.FigureCanvasGTK3Agg.draw": [],
+    "matplotlib.backends.backend_gtk3agg.FigureCanvasGTK3Agg": [],
+    "matplotlib.backends.backend_gtk3agg.FigureManagerGTK3Agg": [],
+    "matplotlib.backends.backend_gtk3agg._BackendGTK3Cairo": []
+}

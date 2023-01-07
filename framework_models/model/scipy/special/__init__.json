@@ -1,0 +1,4 @@
+{
+    "scipy.special.erfinv": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "scipy.special.erfinv.mean": ["MODEL_VALIDATION_AND_ASSEMBLING"]
+}

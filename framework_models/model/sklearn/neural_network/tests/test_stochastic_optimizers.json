@@ -1,0 +1,8 @@
+{
+    "sklearn.neural_network.tests.test_stochastic_optimizers.test_base_optimizer": [],
+    "sklearn.neural_network.tests.test_stochastic_optimizers.test_sgd_optimizer_no_momentum": [],
+    "sklearn.neural_network.tests.test_stochastic_optimizers.test_sgd_optimizer_momentum": [],
+    "sklearn.neural_network.tests.test_stochastic_optimizers.test_sgd_optimizer_trigger_stopping": [],
+    "sklearn.neural_network.tests.test_stochastic_optimizers.test_sgd_optimizer_nesterovs_momentum": [],
+    "sklearn.neural_network.tests.test_stochastic_optimizers.test_adam_optimizer": []
+}

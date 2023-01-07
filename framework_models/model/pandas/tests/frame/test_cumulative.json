@@ -1,0 +1,9 @@
+{
+    "pandas.tests.frame.test_cumulative.TestDataFrameCumulativeOps.test_cumsum_corner": [],
+    "pandas.tests.frame.test_cumulative.TestDataFrameCumulativeOps.test_cumsum": [],
+    "pandas.tests.frame.test_cumulative.TestDataFrameCumulativeOps.test_cumprod": [],
+    "pandas.tests.frame.test_cumulative.TestDataFrameCumulativeOps.test_cummin": [],
+    "pandas.tests.frame.test_cumulative.TestDataFrameCumulativeOps.test_cummax": [],
+    "pandas.tests.frame.test_cumulative.TestDataFrameCumulativeOps.test_cumulative_ops_preserve_dtypes": [],
+    "pandas.tests.frame.test_cumulative.TestDataFrameCumulativeOps": []
+}

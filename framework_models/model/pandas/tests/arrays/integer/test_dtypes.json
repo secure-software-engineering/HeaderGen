@@ -1,0 +1,19 @@
+{
+    "pandas.tests.arrays.integer.test_dtypes.test_dtypes": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_preserve_dtypes": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_nansafe": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_construct_index": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_index": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_copy": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_to_larger_numpy": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_specific_casting": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_floating": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_dt64": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_construct_cast_invalid": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_to_numpy_na_nan": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_to_numpy_dtype": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_to_numpy_na_raises": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_str": [],
+    "pandas.tests.arrays.integer.test_dtypes.test_astype_boolean": []
+}

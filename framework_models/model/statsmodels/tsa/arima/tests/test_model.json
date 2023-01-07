@@ -1,0 +1,23 @@
+{
+    "statsmodels.tsa.arima.tests.test_model.test_default_trend": [],
+    "statsmodels.tsa.arima.tests.test_model.test_invalid": [],
+    "statsmodels.tsa.arima.tests.test_model.test_yule_walker": [],
+    "statsmodels.tsa.arima.tests.test_model.test_burg": [],
+    "statsmodels.tsa.arima.tests.test_model.test_hannan_rissanen": [],
+    "statsmodels.tsa.arima.tests.test_model.test_innovations": [],
+    "statsmodels.tsa.arima.tests.test_model.test_innovations_mle": [],
+    "statsmodels.tsa.arima.tests.test_model.test_statespace": [],
+    "statsmodels.tsa.arima.tests.test_model.test_low_memory": [],
+    "statsmodels.tsa.arima.tests.test_model.check_cloned": [],
+    "statsmodels.tsa.arima.tests.test_model.test_clone": [],
+    "statsmodels.tsa.arima.tests.test_model.test_constant_integrated_model_error": [],
+    "statsmodels.tsa.arima.tests.test_model.test_forecast": [],
+    "statsmodels.tsa.arima.tests.test_model.test_forecast_with_exog": [],
+    "statsmodels.tsa.arima.tests.test_model.test_append": [],
+    "statsmodels.tsa.arima.tests.test_model.test_append_with_exog": [],
+    "statsmodels.tsa.arima.tests.test_model.test_append_with_exog_and_trend": [],
+    "statsmodels.tsa.arima.tests.test_model.test_append_with_exog_pandas": [],
+    "statsmodels.tsa.arima.tests.test_model.test_cov_type_none": [],
+    "statsmodels.tsa.arima.tests.test_model.test_nonstationary_gls_error": [],
+    "statsmodels.tsa.arima.tests.test_model.test_hannan_rissanen_with_fixed_params": []
+}

@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.keras.feature_column.base_feature_layer._sanitize_column_name_for_variable_scope": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._verify_static_batch_size_equality": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._normalize_feature_columns": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer.__init__": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer.build": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer._output_shape": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer.compute_output_shape": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer._process_dense_tensor": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer._verify_and_concat_tensors": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer.get_config": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer.from_config": [],
+    "tensorflow.python.keras.feature_column.base_feature_layer._BaseFeaturesLayer": []
+}

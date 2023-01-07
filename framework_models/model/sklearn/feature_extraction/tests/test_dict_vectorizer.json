@@ -1,0 +1,15 @@
+{
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_dictvectorizer": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_feature_selection": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_one_of_k": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_iterable_value": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_iterable_not_string_error": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_mapping_error": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_unseen_or_no_features": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_deterministic_vocabulary": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_n_features_in": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_feature_union_get_feature_names_deprecated": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_dictvectorizer_dense_sparse_equivalence": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_dict_vectorizer_unsupported_value_type": [],
+    "sklearn.feature_extraction.tests.test_dict_vectorizer.test_dict_vectorizer_get_feature_names_out": []
+}

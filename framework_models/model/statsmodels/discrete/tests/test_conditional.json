@@ -1,0 +1,13 @@
+{
+    "statsmodels.discrete.tests.test_conditional.test_logit_1d": [],
+    "statsmodels.discrete.tests.test_conditional.test_logit_2d": [],
+    "statsmodels.discrete.tests.test_conditional.test_formula": [],
+    "statsmodels.discrete.tests.test_conditional.test_poisson_1d": [],
+    "statsmodels.discrete.tests.test_conditional.test_poisson_2d": [],
+    "statsmodels.discrete.tests.test_conditional.test_lasso_logistic": [],
+    "statsmodels.discrete.tests.test_conditional.test_lasso_poisson": [],
+    "statsmodels.discrete.tests.test_conditional.gen_mnlogit": [],
+    "statsmodels.discrete.tests.test_conditional.test_conditional_mnlogit_grad": [],
+    "statsmodels.discrete.tests.test_conditional.test_conditional_mnlogit_2d": [],
+    "statsmodels.discrete.tests.test_conditional.test_conditional_mnlogit_3d": []
+}

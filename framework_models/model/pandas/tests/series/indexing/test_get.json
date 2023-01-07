@@ -1,0 +1,9 @@
+{
+    "pandas.tests.series.indexing.test_get.test_get": [],
+    "pandas.tests.series.indexing.test_get.test_get_nan": [],
+    "pandas.tests.series.indexing.test_get.test_get_nan_multiple": [],
+    "pandas.tests.series.indexing.test_get.test_get_with_default": [],
+    "pandas.tests.series.indexing.test_get.test_get2": [],
+    "pandas.tests.series.indexing.test_get.test_getitem_get": [],
+    "pandas.tests.series.indexing.test_get.test_get_none": []
+}

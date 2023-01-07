@@ -1,0 +1,7 @@
+{
+    "plotly.matplotlylib.mplexporter.renderers.vincent_renderer.fig_to_vincent": [],
+    "plotly.matplotlylib.mplexporter.renderers.vincent_renderer.VincentRenderer.open_figure": [],
+    "plotly.matplotlylib.mplexporter.renderers.vincent_renderer.VincentRenderer.draw_line": [],
+    "plotly.matplotlylib.mplexporter.renderers.vincent_renderer.VincentRenderer.draw_markers": [],
+    "plotly.matplotlylib.mplexporter.renderers.vincent_renderer.VincentRenderer": []
+}

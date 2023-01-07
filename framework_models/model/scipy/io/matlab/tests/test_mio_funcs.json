@@ -1,0 +1,5 @@
+{
+    "scipy.io.matlab.tests.test_mio_funcs.read_minimat_vars": [],
+    "scipy.io.matlab.tests.test_mio_funcs.read_workspace_vars": [],
+    "scipy.io.matlab.tests.test_mio_funcs.test_jottings": []
+}

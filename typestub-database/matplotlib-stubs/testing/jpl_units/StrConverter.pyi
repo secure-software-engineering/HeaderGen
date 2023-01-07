@@ -1,0 +1,9 @@
+import matplotlib.units as units
+
+class StrConverter(units.ConversionInterface):
+    @staticmethod
+    def axisinfo(unit, axis) -> None: ...
+    @staticmethod
+    def convert(value, unit, axis): ...
+    @staticmethod
+    def default_units(value, axis): ...

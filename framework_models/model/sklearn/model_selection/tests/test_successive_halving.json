@@ -1,0 +1,21 @@
+{
+    "sklearn.model_selection.tests.test_successive_halving.test_aggressive_elimination": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_min_max_resources": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_n_iterations": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_resource_parameter": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_random_search": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_random_search_discrete_distributions": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_input_errors": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_input_errors_randomized": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_subsample_splitter_shapes": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_subsample_splitter_determinism": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_top_k": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_cv_results": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_base_estimator_inputs": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_groups_support": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_min_resources_null": [],
+    "sklearn.model_selection.tests.test_successive_halving.test_select_best_index": [],
+    "sklearn.model_selection.tests.test_successive_halving.FastClassifier.__init__": [],
+    "sklearn.model_selection.tests.test_successive_halving.FastClassifier.get_params": [],
+    "sklearn.model_selection.tests.test_successive_halving.FastClassifier": []
+}

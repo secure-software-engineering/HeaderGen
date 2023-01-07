@@ -1,0 +1,10 @@
+{
+    "sklearn.covariance.tests.test_graphical_lasso.test_graphical_lasso": [],
+    "sklearn.covariance.tests.test_graphical_lasso.test_graphical_lasso_iris": [],
+    "sklearn.covariance.tests.test_graphical_lasso.test_graph_lasso_2D": [],
+    "sklearn.covariance.tests.test_graphical_lasso.test_graphical_lasso_iris_singular": [],
+    "sklearn.covariance.tests.test_graphical_lasso.test_graphical_lasso_cv": [],
+    "sklearn.covariance.tests.test_graphical_lasso.test_graphical_lasso_cv_grid_scores_and_cv_alphas_deprecated": [],
+    "sklearn.covariance.tests.test_graphical_lasso.test_graphical_lasso_cv_scores": [],
+    "sklearn.covariance.tests.test_graphical_lasso.test_graphical_lasso_cv_scores_deprecated": []
+}

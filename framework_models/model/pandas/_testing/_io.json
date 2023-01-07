@@ -1,0 +1,11 @@
+{
+    "pandas._testing._io._get_default_network_errors": [],
+    "pandas._testing._io.optional_args": [],
+    "pandas._testing._io.network": [],
+    "pandas._testing._io.can_connect": [],
+    "pandas._testing._io.round_trip_pickle": [],
+    "pandas._testing._io.round_trip_pathlib": [],
+    "pandas._testing._io.round_trip_localpath": [],
+    "pandas._testing._io.write_to_compressed": [],
+    "pandas._testing._io.close": []
+}

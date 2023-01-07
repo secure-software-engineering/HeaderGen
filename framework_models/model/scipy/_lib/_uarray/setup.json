@@ -1,0 +1,4 @@
+{
+    "scipy._lib._uarray.setup.pre_build_hook": [],
+    "scipy._lib._uarray.setup.configuration": []
+}

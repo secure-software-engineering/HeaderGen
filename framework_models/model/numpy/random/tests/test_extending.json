@@ -1,0 +1,5 @@
+{
+    "numpy.random.tests.test_extending.test_cython": [],
+    "numpy.random.tests.test_extending.test_numba": [],
+    "numpy.random.tests.test_extending.test_cffi": []
+}

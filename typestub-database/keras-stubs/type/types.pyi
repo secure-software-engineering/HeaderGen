@@ -1,0 +1,3 @@
+import abc
+
+class Layer(metaclass=abc.ABCMeta): ...

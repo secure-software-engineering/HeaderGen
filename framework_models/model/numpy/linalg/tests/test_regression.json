@@ -1,0 +1,12 @@
+{
+    "numpy.linalg.tests.test_regression.TestRegression.test_eig_build": [],
+    "numpy.linalg.tests.test_regression.TestRegression.test_eigh_build": [],
+    "numpy.linalg.tests.test_regression.TestRegression.test_svd_build": [],
+    "numpy.linalg.tests.test_regression.TestRegression.test_norm_vector_badarg": [],
+    "numpy.linalg.tests.test_regression.TestRegression.test_lapack_endian": [],
+    "numpy.linalg.tests.test_regression.TestRegression.test_large_svd_32bit": [],
+    "numpy.linalg.tests.test_regression.TestRegression.test_svd_no_uv": [],
+    "numpy.linalg.tests.test_regression.TestRegression.test_norm_object_array": [],
+    "numpy.linalg.tests.test_regression.TestRegression.test_lstsq_complex_larger_rhs": [],
+    "numpy.linalg.tests.test_regression.TestRegression": []
+}

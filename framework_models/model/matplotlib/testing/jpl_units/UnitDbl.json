@@ -1,0 +1,16 @@
+{
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.__init__": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.convert": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.__abs__": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.__neg__": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.__bool__": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl._cmp": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl._binop_unit_unit": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl._binop_unit_scalar": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.__str__": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.__repr__": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.type": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.range": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl.checkSameUnits": [],
+    "matplotlib.testing.jpl_units.UnitDbl.UnitDbl": []
+}

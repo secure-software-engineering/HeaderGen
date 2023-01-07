@@ -1,0 +1,6 @@
+{
+    "scipy.linalg._decomp_ldl.ldl": [],
+    "scipy.linalg._decomp_ldl._ldl_sanitize_ipiv": [],
+    "scipy.linalg._decomp_ldl._ldl_get_d_and_l": [],
+    "scipy.linalg._decomp_ldl._ldl_construct_tri_factor": []
+}

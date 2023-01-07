@@ -1,0 +1,18 @@
+{
+    "statsmodels.graphics.tests.test_mosaicplot.test_data_conversion": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_mosaic_simple": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_mosaic": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_mosaic_very_complex": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_axes_labeling": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_mosaic_empty_cells": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_recursive_split": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test__reduce_dict": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test__key_splitting": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_proportion_normalization": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_false_split": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_rect_pure_split": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_rect_deformed_split": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_gap_split": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_default_arg_index": [],
+    "statsmodels.graphics.tests.test_mosaicplot.test_missing_category": []
+}

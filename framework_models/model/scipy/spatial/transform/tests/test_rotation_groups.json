@@ -1,0 +1,22 @@
+{
+    "scipy.spatial.transform.tests.test_rotation_groups._calculate_rmsd": [],
+    "scipy.spatial.transform.tests.test_rotation_groups._generate_pyramid": [],
+    "scipy.spatial.transform.tests.test_rotation_groups._generate_prism": [],
+    "scipy.spatial.transform.tests.test_rotation_groups._generate_icosahedron": [],
+    "scipy.spatial.transform.tests.test_rotation_groups._generate_octahedron": [],
+    "scipy.spatial.transform.tests.test_rotation_groups._generate_tetrahedron": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_group_type": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_group_name": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_group_order_positive": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_axis_valid": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_icosahedral": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_octahedral": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_tetrahedral": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_dicyclic": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_cyclic": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_group_sizes": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_group_no_duplicates": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_group_symmetry": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_reduction": [],
+    "scipy.spatial.transform.tests.test_rotation_groups.test_single_reduction": []
+}

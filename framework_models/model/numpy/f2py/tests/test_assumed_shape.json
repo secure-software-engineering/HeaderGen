@@ -1,0 +1,8 @@
+{
+    "numpy.f2py.tests.test_assumed_shape._path": [],
+    "numpy.f2py.tests.test_assumed_shape.TestAssumedShapeSumExample.test_all": [],
+    "numpy.f2py.tests.test_assumed_shape.TestF2cmapOption.setup": [],
+    "numpy.f2py.tests.test_assumed_shape.TestF2cmapOption.teardown": [],
+    "numpy.f2py.tests.test_assumed_shape.TestAssumedShapeSumExample": [],
+    "numpy.f2py.tests.test_assumed_shape.TestF2cmapOption": []
+}

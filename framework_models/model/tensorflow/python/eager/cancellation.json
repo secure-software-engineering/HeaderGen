@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.eager.cancellation.CancellationManager.__init__": [],
+    "tensorflow.python.eager.cancellation.CancellationManager.is_cancelled": [],
+    "tensorflow.python.eager.cancellation.CancellationManager.start_cancel": [],
+    "tensorflow.python.eager.cancellation.CancellationManager.get_cancelable_function": [],
+    "tensorflow.python.eager.cancellation.CancellationManager": []
+}

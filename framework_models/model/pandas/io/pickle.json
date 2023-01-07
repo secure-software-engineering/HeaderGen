@@ -1,0 +1,4 @@
+{
+    "pandas.io.pickle.to_pickle": ["DATA_LOADING"],
+    "pandas.io.pickle.read_pickle": ["DATA_LOADING"]
+}

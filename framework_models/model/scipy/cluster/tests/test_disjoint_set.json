@@ -1,0 +1,14 @@
+{
+    "scipy.cluster.tests.test_disjoint_set.generate_random_token": [],
+    "scipy.cluster.tests.test_disjoint_set.get_elements": [],
+    "scipy.cluster.tests.test_disjoint_set.test_init": [],
+    "scipy.cluster.tests.test_disjoint_set.test_len": [],
+    "scipy.cluster.tests.test_disjoint_set.test_contains": [],
+    "scipy.cluster.tests.test_disjoint_set.test_add": [],
+    "scipy.cluster.tests.test_disjoint_set.test_element_not_present": [],
+    "scipy.cluster.tests.test_disjoint_set.test_linear_union_sequence": [],
+    "scipy.cluster.tests.test_disjoint_set.test_self_unions": [],
+    "scipy.cluster.tests.test_disjoint_set.test_equal_size_ordering": [],
+    "scipy.cluster.tests.test_disjoint_set.test_binary_tree": [],
+    "scipy.cluster.tests.test_disjoint_set.test_subsets": []
+}

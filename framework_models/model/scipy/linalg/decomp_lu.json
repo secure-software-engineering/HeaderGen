@@ -1,0 +1,5 @@
+{
+    "scipy.linalg.decomp_lu.lu_factor": [],
+    "scipy.linalg.decomp_lu.lu_solve": [],
+    "scipy.linalg.decomp_lu.lu": []
+}

@@ -1,0 +1,19 @@
+{
+    "sklearn.cluster._agglomerative._fix_connectivity": [],
+    "sklearn.cluster._agglomerative._single_linkage_tree": [],
+    "sklearn.cluster._agglomerative.ward_tree": [],
+    "sklearn.cluster._agglomerative.linkage_tree": [],
+    "sklearn.cluster._agglomerative._complete_linkage": [],
+    "sklearn.cluster._agglomerative._average_linkage": [],
+    "sklearn.cluster._agglomerative._single_linkage": [],
+    "sklearn.cluster._agglomerative._hc_cut": [],
+    "sklearn.cluster._agglomerative.AgglomerativeClustering.__init__": [],
+    "sklearn.cluster._agglomerative.AgglomerativeClustering.fit": [],
+    "sklearn.cluster._agglomerative.AgglomerativeClustering._fit": [],
+    "sklearn.cluster._agglomerative.AgglomerativeClustering.fit_predict": [],
+    "sklearn.cluster._agglomerative.FeatureAgglomeration.__init__": [],
+    "sklearn.cluster._agglomerative.FeatureAgglomeration.fit": [],
+    "sklearn.cluster._agglomerative.FeatureAgglomeration.fit_predict": [],
+    "sklearn.cluster._agglomerative.AgglomerativeClustering": [],
+    "sklearn.cluster._agglomerative.FeatureAgglomeration": []
+}

@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.autograph.converters.call_trees.transform": [],
+    "tensorflow.python.autograph.converters.call_trees._Function.__init__": [],
+    "tensorflow.python.autograph.converters.call_trees._ArgTemplateBuilder.__init__": [],
+    "tensorflow.python.autograph.converters.call_trees._ArgTemplateBuilder._consume_args": [],
+    "tensorflow.python.autograph.converters.call_trees._ArgTemplateBuilder.add_arg": [],
+    "tensorflow.python.autograph.converters.call_trees._ArgTemplateBuilder.add_stararg": [],
+    "tensorflow.python.autograph.converters.call_trees._ArgTemplateBuilder.finalize": [],
+    "tensorflow.python.autograph.converters.call_trees._ArgTemplateBuilder.to_ast": [],
+    "tensorflow.python.autograph.converters.call_trees.CallTreeTransformer.visit_Lambda": [],
+    "tensorflow.python.autograph.converters.call_trees.CallTreeTransformer.visit_FunctionDef": [],
+    "tensorflow.python.autograph.converters.call_trees.CallTreeTransformer.visit_With": [],
+    "tensorflow.python.autograph.converters.call_trees.CallTreeTransformer._args_to_tuple": [],
+    "tensorflow.python.autograph.converters.call_trees.CallTreeTransformer._kwargs_to_dict": [],
+    "tensorflow.python.autograph.converters.call_trees.CallTreeTransformer.visit_Call": [],
+    "tensorflow.python.autograph.converters.call_trees._Function": [],
+    "tensorflow.python.autograph.converters.call_trees._ArgTemplateBuilder": [],
+    "tensorflow.python.autograph.converters.call_trees.CallTreeTransformer": []
+}

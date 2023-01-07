@@ -1,0 +1,8 @@
+{
+    "statsmodels.stats.tests.test_mediation.test_framing_example": [],
+    "statsmodels.stats.tests.test_mediation.test_framing_example_moderator": [],
+    "statsmodels.stats.tests.test_mediation.test_framing_example_formula": [],
+    "statsmodels.stats.tests.test_mediation.test_framing_example_moderator_formula": [],
+    "statsmodels.stats.tests.test_mediation.test_mixedlm": [],
+    "statsmodels.stats.tests.test_mediation.test_surv": []
+}

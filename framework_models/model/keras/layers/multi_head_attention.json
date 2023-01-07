@@ -1,0 +1,15 @@
+{
+    "keras.layers.multi_head_attention._build_attention_equation": [],
+    "keras.layers.multi_head_attention._build_proj_equation": [],
+    "keras.layers.multi_head_attention._get_output_shape": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention.__init__": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention.get_config": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention.from_config": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention._build_from_signature": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention._make_output_dense": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention._build_attention": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention._masked_softmax": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention._compute_attention": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention.call": [],
+    "keras.layers.multi_head_attention.MultiHeadAttention": []
+}

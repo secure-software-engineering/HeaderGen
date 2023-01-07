@@ -1,0 +1,19 @@
+{
+    "pandas.tests.io.pytables.test_read.test_read_missing_key_close_store": [],
+    "pandas.tests.io.pytables.test_read.test_read_missing_key_opened_store": [],
+    "pandas.tests.io.pytables.test_read.test_read_column": [],
+    "pandas.tests.io.pytables.test_read.test_pytables_native_read": [],
+    "pandas.tests.io.pytables.test_read.test_pytables_native2_read": [],
+    "pandas.tests.io.pytables.test_read.test_legacy_table_fixed_format_read_py2": [],
+    "pandas.tests.io.pytables.test_read.test_legacy_table_fixed_format_read_datetime_py2": [],
+    "pandas.tests.io.pytables.test_read.test_legacy_table_read_py2": [],
+    "pandas.tests.io.pytables.test_read.test_read_hdf_open_store": [],
+    "pandas.tests.io.pytables.test_read.test_read_hdf_iterator": [],
+    "pandas.tests.io.pytables.test_read.test_read_nokey": [],
+    "pandas.tests.io.pytables.test_read.test_read_nokey_table": [],
+    "pandas.tests.io.pytables.test_read.test_read_nokey_empty": [],
+    "pandas.tests.io.pytables.test_read.test_read_from_pathlib_path": [],
+    "pandas.tests.io.pytables.test_read.test_read_from_py_localpath": [],
+    "pandas.tests.io.pytables.test_read.test_read_hdf_series_mode_r": [],
+    "pandas.tests.io.pytables.test_read.test_read_py2_hdf_file_in_py3": []
+}

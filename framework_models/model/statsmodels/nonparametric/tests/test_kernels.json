@@ -1,0 +1,13 @@
+{
+    "statsmodels.nonparametric.tests.test_kernels.test_tricube": [],
+    "statsmodels.nonparametric.tests.test_kernels.CheckKernelMixin.test_smoothconf": [],
+    "statsmodels.nonparametric.tests.test_kernels.CheckKernelMixin.test_smoothconf_data": [],
+    "statsmodels.nonparametric.tests.test_kernels.TestCosine.test_smoothconf": [],
+    "statsmodels.nonparametric.tests.test_kernels.CheckKernelMixin": [],
+    "statsmodels.nonparametric.tests.test_kernels.TestEpan": [],
+    "statsmodels.nonparametric.tests.test_kernels.TestGau": [],
+    "statsmodels.nonparametric.tests.test_kernels.TestUniform": [],
+    "statsmodels.nonparametric.tests.test_kernels.TestTriangular": [],
+    "statsmodels.nonparametric.tests.test_kernels.TestCosine": [],
+    "statsmodels.nonparametric.tests.test_kernels.TestBiweight": []
+}

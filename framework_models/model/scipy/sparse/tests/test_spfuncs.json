@@ -1,0 +1,6 @@
+{
+    "scipy.sparse.tests.test_spfuncs.TestSparseFunctions.test_scale_rows_and_cols": [],
+    "scipy.sparse.tests.test_spfuncs.TestSparseFunctions.test_estimate_blocksize": [],
+    "scipy.sparse.tests.test_spfuncs.TestSparseFunctions.test_count_blocks": [],
+    "scipy.sparse.tests.test_spfuncs.TestSparseFunctions": []
+}

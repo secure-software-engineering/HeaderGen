@@ -1,0 +1,9 @@
+{
+    "scipy.stats._binned_statistic.binned_statistic": [],
+    "scipy.stats._binned_statistic.binned_statistic_2d": [],
+    "scipy.stats._binned_statistic.binned_statistic_dd": [],
+    "scipy.stats._binned_statistic._calc_binned_statistic": [],
+    "scipy.stats._binned_statistic._create_binned_data": [],
+    "scipy.stats._binned_statistic._bin_edges": [],
+    "scipy.stats._binned_statistic._bin_numbers": []
+}

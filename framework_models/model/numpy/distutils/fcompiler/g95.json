@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.fcompiler.g95.G95FCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.g95.G95FCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.g95.G95FCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.g95.G95FCompiler": []
+}

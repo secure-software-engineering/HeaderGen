@@ -1,0 +1,20 @@
+{
+    "matplotlib.category.StrCategoryConverter.convert": [],
+    "matplotlib.category.StrCategoryConverter.axisinfo": [],
+    "matplotlib.category.StrCategoryConverter.default_units": [],
+    "matplotlib.category.StrCategoryConverter._validate_unit": [],
+    "matplotlib.category.StrCategoryLocator.__init__": [],
+    "matplotlib.category.StrCategoryLocator.__call__": [],
+    "matplotlib.category.StrCategoryLocator.tick_values": [],
+    "matplotlib.category.StrCategoryFormatter.__init__": [],
+    "matplotlib.category.StrCategoryFormatter.__call__": [],
+    "matplotlib.category.StrCategoryFormatter.format_ticks": [],
+    "matplotlib.category.StrCategoryFormatter._text": [],
+    "matplotlib.category.UnitData.__init__": [],
+    "matplotlib.category.UnitData._str_is_convertible": [],
+    "matplotlib.category.UnitData.update": [],
+    "matplotlib.category.StrCategoryConverter": [],
+    "matplotlib.category.StrCategoryLocator": [],
+    "matplotlib.category.StrCategoryFormatter": [],
+    "matplotlib.category.UnitData": []
+}

@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.ops.distributions.bernoulli._kl_bernoulli_bernoulli": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli.__init__": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._param_shapes": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli.logits": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli.probs": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._batch_shape_tensor": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._batch_shape": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._event_shape_tensor": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._event_shape": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._sample_n": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._log_prob": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._entropy": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._mean": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._variance": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli._mode": [],
+    "tensorflow.python.ops.distributions.bernoulli.Bernoulli": []
+}

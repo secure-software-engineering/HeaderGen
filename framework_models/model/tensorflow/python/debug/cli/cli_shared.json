@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.debug.cli.cli_shared.bytes_to_readable_str": [],
+    "tensorflow.python.debug.cli.cli_shared.time_to_readable_str": [],
+    "tensorflow.python.debug.cli.cli_shared.parse_ranges_highlight": [],
+    "tensorflow.python.debug.cli.cli_shared.numpy_printoptions_from_screen_info": [],
+    "tensorflow.python.debug.cli.cli_shared.format_tensor": [],
+    "tensorflow.python.debug.cli.cli_shared.error": [],
+    "tensorflow.python.debug.cli.cli_shared._recommend_command": [],
+    "tensorflow.python.debug.cli.cli_shared.get_tfdbg_logo": [],
+    "tensorflow.python.debug.cli.cli_shared.get_run_start_intro": [],
+    "tensorflow.python.debug.cli.cli_shared.get_run_short_description": [],
+    "tensorflow.python.debug.cli.cli_shared.get_error_intro": []
+}

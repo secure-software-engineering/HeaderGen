@@ -1,0 +1,13 @@
+{
+    "numpy.distutils.command.build_ext.build_ext.initialize_options": [],
+    "numpy.distutils.command.build_ext.build_ext.finalize_options": [],
+    "numpy.distutils.command.build_ext.build_ext.run": [],
+    "numpy.distutils.command.build_ext.build_ext.swig_sources": [],
+    "numpy.distutils.command.build_ext.build_ext.build_extension": [],
+    "numpy.distutils.command.build_ext.build_ext._add_dummy_mingwex_sym": [],
+    "numpy.distutils.command.build_ext.build_ext._process_unlinkable_fobjects": [],
+    "numpy.distutils.command.build_ext.build_ext._libs_with_msvc_and_fortran": [],
+    "numpy.distutils.command.build_ext.build_ext.get_source_files": [],
+    "numpy.distutils.command.build_ext.build_ext.get_outputs": [],
+    "numpy.distutils.command.build_ext.build_ext": []
+}

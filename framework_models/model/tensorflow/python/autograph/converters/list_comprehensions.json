@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.autograph.converters.list_comprehensions.transform": [],
+    "tensorflow.python.autograph.converters.list_comprehensions.ListCompTransformer.visit_Assign": [],
+    "tensorflow.python.autograph.converters.list_comprehensions.ListCompTransformer": []
+}

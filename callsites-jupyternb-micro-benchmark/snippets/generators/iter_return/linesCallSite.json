@@ -1,0 +1,10 @@
+{
+  "22": [
+    "main.Cls:5.__init__:6",
+    "main.Cls:5.__iter__:9",
+    "main.Cls:5.__next__:13"
+  ],
+  "23": [
+    "main.func:1"
+  ]
+}

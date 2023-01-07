@@ -1,0 +1,6 @@
+{
+    "sklearn.model_selection.tests.common.OneTimeSplitter.__init__": [],
+    "sklearn.model_selection.tests.common.OneTimeSplitter.split": [],
+    "sklearn.model_selection.tests.common.OneTimeSplitter.get_n_splits": [],
+    "sklearn.model_selection.tests.common.OneTimeSplitter": []
+}

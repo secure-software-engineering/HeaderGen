@@ -1,0 +1,11 @@
+{
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators.test_logical_operators_nans": [],
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators.test_logical_ops_empty_frame": [],
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators.test_logical_ops_bool_frame": [],
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators.test_logical_ops_int_frame": [],
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators.test_logical_ops_invalid": [],
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators.test_logical_operators": [],
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators.test_logical_with_nas": [],
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators.test_logical_ops_categorical_columns": [],
+    "pandas.tests.frame.test_logical_ops.TestDataFrameLogicalOperators": []
+}

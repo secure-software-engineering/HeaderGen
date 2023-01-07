@@ -1,0 +1,5 @@
+{
+    "pandas.tests.series.methods.test_isna.TestIsna.test_isna_period_dtype": [],
+    "pandas.tests.series.methods.test_isna.TestIsna.test_isna": [],
+    "pandas.tests.series.methods.test_isna.TestIsna": []
+}

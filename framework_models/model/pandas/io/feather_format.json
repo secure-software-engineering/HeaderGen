@@ -1,0 +1,4 @@
+{
+    "pandas.io.feather_format.to_feather": [],
+    "pandas.io.feather_format.read_feather": []
+}

@@ -1,0 +1,14 @@
+{
+    "sklearn.covariance._shrunk_covariance.shrunk_covariance": [],
+    "sklearn.covariance._shrunk_covariance.ledoit_wolf_shrinkage": [],
+    "sklearn.covariance._shrunk_covariance.ledoit_wolf": [],
+    "sklearn.covariance._shrunk_covariance.oas": [],
+    "sklearn.covariance._shrunk_covariance.ShrunkCovariance.__init__": [],
+    "sklearn.covariance._shrunk_covariance.ShrunkCovariance.fit": [],
+    "sklearn.covariance._shrunk_covariance.LedoitWolf.__init__": [],
+    "sklearn.covariance._shrunk_covariance.LedoitWolf.fit": [],
+    "sklearn.covariance._shrunk_covariance.OAS.fit": [],
+    "sklearn.covariance._shrunk_covariance.ShrunkCovariance": [],
+    "sklearn.covariance._shrunk_covariance.LedoitWolf": [],
+    "sklearn.covariance._shrunk_covariance.OAS": []
+}

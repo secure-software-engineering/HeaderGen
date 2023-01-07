@@ -1,0 +1,14 @@
+{
+    "pandas.io.formats.css._side_expander": [],
+    "pandas.io.formats.css.CSSResolver.__call__": [],
+    "pandas.io.formats.css.CSSResolver._update_initial": [],
+    "pandas.io.formats.css.CSSResolver._update_font_size": [],
+    "pandas.io.formats.css.CSSResolver._get_font_size": [],
+    "pandas.io.formats.css.CSSResolver._get_float_font_size_from_pt": [],
+    "pandas.io.formats.css.CSSResolver._update_other_units": [],
+    "pandas.io.formats.css.CSSResolver.size_to_pt": [],
+    "pandas.io.formats.css.CSSResolver.atomize": [],
+    "pandas.io.formats.css.CSSResolver.parse": [],
+    "pandas.io.formats.css.CSSWarning": [],
+    "pandas.io.formats.css.CSSResolver": []
+}

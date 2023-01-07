@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexes.period.test_partial_slicing.TestPeriodIndex.test_pindex_slice_index": [],
+    "pandas.tests.indexes.period.test_partial_slicing.TestPeriodIndex.test_range_slice_day": [],
+    "pandas.tests.indexes.period.test_partial_slicing.TestPeriodIndex.test_range_slice_seconds": [],
+    "pandas.tests.indexes.period.test_partial_slicing.TestPeriodIndex.test_range_slice_outofbounds": [],
+    "pandas.tests.indexes.period.test_partial_slicing.TestPeriodIndex.test_maybe_cast_slice_bound": [],
+    "pandas.tests.indexes.period.test_partial_slicing.TestPeriodIndex.test_partial_slice_doesnt_require_monotonicity": [],
+    "pandas.tests.indexes.period.test_partial_slicing.TestPeriodIndex": []
+}

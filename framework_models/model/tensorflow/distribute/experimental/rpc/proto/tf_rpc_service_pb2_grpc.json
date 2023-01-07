@@ -1,0 +1,8 @@
+{
+    "tensorflow.distribute.experimental.rpc.proto.tf_rpc_service_pb2_grpc.add_RpcServiceServicer_to_server": [],
+    "tensorflow.distribute.experimental.rpc.proto.tf_rpc_service_pb2_grpc.RpcServiceStub.__init__": [],
+    "tensorflow.distribute.experimental.rpc.proto.tf_rpc_service_pb2_grpc.RpcServiceServicer.Call": [],
+    "tensorflow.distribute.experimental.rpc.proto.tf_rpc_service_pb2_grpc.RpcServiceServicer.List": [],
+    "tensorflow.distribute.experimental.rpc.proto.tf_rpc_service_pb2_grpc.RpcServiceStub": [],
+    "tensorflow.distribute.experimental.rpc.proto.tf_rpc_service_pb2_grpc.RpcServiceServicer": []
+}

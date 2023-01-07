@@ -1,0 +1,29 @@
+import numpy as np
+from tensorflow.python.types import doc_typealias as doc_typealias
+from tensorflow.python.util.tf_export import tf_export as tf_export
+from typing import Any, Union
+from typing_extensions import Protocol as Protocol
+
+class Tensor:
+    @property
+    def dtype(self) -> None: ...
+    @property
+    def shape(self) -> None: ...
+
+class Symbol(Tensor): ...
+
+class Value(Tensor):
+    def numpy(self) -> None: ...
+
+class Callable:
+    def __call__(self, *args, **kwargs) -> None: ...
+
+class ConcreteFunction(Callable): ...
+
+class GenericFunction(Callable):
+    def get_concrete_function(self, *args, **kwargs) -> ConcreteFunction: ...
+    def experimental_get_compiler_ir(self, *args, **kwargs) -> None: ...
+
+class TensorProtocol:
+    def __tf_tensor__(self, dtype: Any | None = ..., name: Any | None = ...) -> None: ...
+TensorLike = Union[Tensor, TensorProtocol, int, float, bool, str, bytes, complex, tuple, list, np.ndarray, np.generic]

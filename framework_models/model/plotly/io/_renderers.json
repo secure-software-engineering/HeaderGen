@@ -1,0 +1,22 @@
+{
+    "plotly.io._renderers.show": [],
+    "plotly.io._renderers.RenderersConfig.__init__": [],
+    "plotly.io._renderers.RenderersConfig.__len__": [],
+    "plotly.io._renderers.RenderersConfig.__contains__": [],
+    "plotly.io._renderers.RenderersConfig.__iter__": [],
+    "plotly.io._renderers.RenderersConfig.__getitem__": [],
+    "plotly.io._renderers.RenderersConfig.__setitem__": [],
+    "plotly.io._renderers.RenderersConfig.__delitem__": [],
+    "plotly.io._renderers.RenderersConfig.keys": [],
+    "plotly.io._renderers.RenderersConfig.items": [],
+    "plotly.io._renderers.RenderersConfig.update": [],
+    "plotly.io._renderers.RenderersConfig.default": [],
+    "plotly.io._renderers.RenderersConfig.render_on_display": [],
+    "plotly.io._renderers.RenderersConfig._activate_pending_renderers": [],
+    "plotly.io._renderers.RenderersConfig._validate_coerce_renderers": [],
+    "plotly.io._renderers.RenderersConfig.__repr__": [],
+    "plotly.io._renderers.RenderersConfig._available_renderers_str": [],
+    "plotly.io._renderers.RenderersConfig._build_mime_bundle": [],
+    "plotly.io._renderers.RenderersConfig._perform_external_rendering": [],
+    "plotly.io._renderers.RenderersConfig": []
+}

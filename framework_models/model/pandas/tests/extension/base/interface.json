@@ -1,0 +1,16 @@
+{
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_len": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_size": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_ndim": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_can_hold_na_valid": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_contains": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_memory_usage": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_array_interface": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_is_extension_array_dtype": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_no_values_attribute": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_is_numeric_honored": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_isna_extension_array": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_copy": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests.test_view": [],
+    "pandas.tests.extension.base.interface.BaseInterfaceTests": []
+}

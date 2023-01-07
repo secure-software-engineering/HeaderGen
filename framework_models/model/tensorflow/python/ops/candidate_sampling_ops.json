@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.candidate_sampling_ops.uniform_candidate_sampler": [],
+    "tensorflow.python.ops.candidate_sampling_ops.log_uniform_candidate_sampler": [],
+    "tensorflow.python.ops.candidate_sampling_ops.learned_unigram_candidate_sampler": [],
+    "tensorflow.python.ops.candidate_sampling_ops.fixed_unigram_candidate_sampler": [],
+    "tensorflow.python.ops.candidate_sampling_ops.all_candidate_sampler": [],
+    "tensorflow.python.ops.candidate_sampling_ops.compute_accidental_hits": []
+}

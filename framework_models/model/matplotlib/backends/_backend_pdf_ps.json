@@ -1,0 +1,17 @@
+{
+    "matplotlib.backends._backend_pdf_ps._cached_get_afm_from_fname": [],
+    "matplotlib.backends._backend_pdf_ps.get_glyphs_subset": [],
+    "matplotlib.backends._backend_pdf_ps.CharacterTracker.__init__": [],
+    "matplotlib.backends._backend_pdf_ps.CharacterTracker.track": [],
+    "matplotlib.backends._backend_pdf_ps.CharacterTracker.track_glyph": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase.__init__": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase.flipy": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase.option_scale_image": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase.option_image_nocomposite": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase.get_canvas_width_height": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase.get_text_width_height_descent": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase._get_font_afm": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase._get_font_ttf": [],
+    "matplotlib.backends._backend_pdf_ps.CharacterTracker": [],
+    "matplotlib.backends._backend_pdf_ps.RendererPDFPSBase": []
+}

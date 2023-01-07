@@ -1,0 +1,17 @@
+{
+    "numpy.matrixlib.tests.test_matrix_linalg.MatrixTestCase": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestSolveMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestInvMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestEigvalsMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestEigMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestSVDMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestCondMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestPinvMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestDetMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestLstsqMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg._TestNorm2DMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestNormDoubleMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestNormSingleMatrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestNormInt64Matrix": [],
+    "numpy.matrixlib.tests.test_matrix_linalg.TestQRMatrix": []
+}

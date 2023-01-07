@@ -1,0 +1,12 @@
+{
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_series_groupby_plotting_nominally_works": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_plotting_with_float_index_works": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_hist_single_row": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_plot_submethod_works": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_plot_kwargs": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_groupby_hist_frame_with_legend": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_groupby_hist_frame_with_legend_raises": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_groupby_hist_series_with_legend": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots.test_groupby_hist_series_with_legend_raises": [],
+    "pandas.tests.plotting.test_groupby.TestDataFrameGroupByPlots": []
+}

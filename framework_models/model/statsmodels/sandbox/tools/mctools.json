@@ -1,0 +1,12 @@
+{
+    "statsmodels.sandbox.tools.mctools.StatTestMC.__init__": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC.run": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC.histogram": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC.get_mc_sorted": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC.quantiles": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC.cdf": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC.plot_hist": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC.summary_quantiles": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC.summary_cdf": [],
+    "statsmodels.sandbox.tools.mctools.StatTestMC": []
+}

@@ -1,0 +1,10 @@
+{
+    "sklearn.metrics._plot.tests.test_precision_recall_display.test_precision_recall_display_validation": [],
+    "sklearn.metrics._plot.tests.test_precision_recall_display.test_plot_precision_recall_curve_deprecation": [],
+    "sklearn.metrics._plot.tests.test_precision_recall_display.test_precision_recall_display_plotting": [],
+    "sklearn.metrics._plot.tests.test_precision_recall_display.test_precision_recall_display_name": [],
+    "sklearn.metrics._plot.tests.test_precision_recall_display.test_precision_recall_display_pipeline": [],
+    "sklearn.metrics._plot.tests.test_precision_recall_display.test_precision_recall_display_string_labels": [],
+    "sklearn.metrics._plot.tests.test_precision_recall_display.test_default_labels": [],
+    "sklearn.metrics._plot.tests.test_precision_recall_display.test_plot_precision_recall_pos_label": []
+}

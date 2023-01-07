@@ -1,0 +1,21 @@
+{
+    "numpy.typing._generic_alias._to_str": [],
+    "numpy.typing._generic_alias._parse_parameters": [],
+    "numpy.typing._generic_alias._reconstruct_alias": [],
+    "numpy.typing._generic_alias._GenericAlias.__origin__": [],
+    "numpy.typing._generic_alias._GenericAlias.__args__": [],
+    "numpy.typing._generic_alias._GenericAlias.__parameters__": [],
+    "numpy.typing._generic_alias._GenericAlias.__init__": [],
+    "numpy.typing._generic_alias._GenericAlias.__call__": [],
+    "numpy.typing._generic_alias._GenericAlias.__reduce__": [],
+    "numpy.typing._generic_alias._GenericAlias.__mro_entries__": [],
+    "numpy.typing._generic_alias._GenericAlias.__dir__": [],
+    "numpy.typing._generic_alias._GenericAlias.__hash__": [],
+    "numpy.typing._generic_alias._GenericAlias.__instancecheck__": [],
+    "numpy.typing._generic_alias._GenericAlias.__subclasscheck__": [],
+    "numpy.typing._generic_alias._GenericAlias.__repr__": [],
+    "numpy.typing._generic_alias._GenericAlias.__getitem__": [],
+    "numpy.typing._generic_alias._GenericAlias.__eq__": [],
+    "numpy.typing._generic_alias._GenericAlias.__getattribute__": [],
+    "numpy.typing._generic_alias._GenericAlias": []
+}

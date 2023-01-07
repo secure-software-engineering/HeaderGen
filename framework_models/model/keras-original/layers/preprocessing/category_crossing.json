@@ -1,0 +1,10 @@
+{
+    "keras.layers.preprocessing.category_crossing.CategoryCrossing.__init__": [],
+    "keras.layers.preprocessing.category_crossing.CategoryCrossing.partial_crossing": [],
+    "keras.layers.preprocessing.category_crossing.CategoryCrossing._preprocess_input": [],
+    "keras.layers.preprocessing.category_crossing.CategoryCrossing.call": [],
+    "keras.layers.preprocessing.category_crossing.CategoryCrossing.compute_output_shape": [],
+    "keras.layers.preprocessing.category_crossing.CategoryCrossing.compute_output_signature": [],
+    "keras.layers.preprocessing.category_crossing.CategoryCrossing.get_config": [],
+    "keras.layers.preprocessing.category_crossing.CategoryCrossing": []
+}

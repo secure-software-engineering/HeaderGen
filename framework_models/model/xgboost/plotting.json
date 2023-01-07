@@ -1,0 +1,5 @@
+{
+    "xgboost.plotting.plot_importance": [],
+    "xgboost.plotting.to_graphviz": [],
+    "xgboost.plotting.plot_tree": []
+}

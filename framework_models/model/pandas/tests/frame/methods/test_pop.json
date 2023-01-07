@@ -1,0 +1,6 @@
+{
+    "pandas.tests.frame.methods.test_pop.TestDataFramePop.test_pop": [],
+    "pandas.tests.frame.methods.test_pop.TestDataFramePop.test_pop_non_unique_cols": [],
+    "pandas.tests.frame.methods.test_pop.TestDataFramePop.test_mixed_depth_pop": [],
+    "pandas.tests.frame.methods.test_pop.TestDataFramePop": []
+}

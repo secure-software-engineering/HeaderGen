@@ -1,0 +1,14 @@
+{
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1.__init__": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1.param_names": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1.start_params": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1.fit": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1.fit_em": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1._em_iteration": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1._em_expectation_step": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1._em_maximization_step": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1.transform_params": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1.untransform_params": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1.update": [],
+    "statsmodels.tsa.statespace._quarterly_ar1.QuarterlyAR1": []
+}

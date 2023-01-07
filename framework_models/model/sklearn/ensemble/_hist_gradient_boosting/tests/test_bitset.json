@@ -1,0 +1,4 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_bitset.test_set_get_bitset": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_bitset.test_raw_bitset_from_binned_bitset": []
+}

@@ -1,0 +1,6 @@
+{
+    "main": [
+        "pycg_external_module.ext.function"
+    ],
+    "pycg_external_module.ext.function": []
+}

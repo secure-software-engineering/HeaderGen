@@ -1,0 +1,16 @@
+{
+    "keras.saving.saved_model.utils.use_wrapped_call": [],
+    "keras.saving.saved_model.utils.layer_uses_training_bool": [],
+    "keras.saving.saved_model.utils.list_all_layers": [],
+    "keras.saving.saved_model.utils.list_all_layers_and_sublayers": [],
+    "keras.saving.saved_model.utils.maybe_add_training_arg": [],
+    "keras.saving.saved_model.utils.get_training_arg_index": [],
+    "keras.saving.saved_model.utils.set_training_arg": [],
+    "keras.saving.saved_model.utils.get_training_arg": [],
+    "keras.saving.saved_model.utils.remove_training_arg": [],
+    "keras.saving.saved_model.utils.keras_option_scope": [],
+    "keras.saving.saved_model.utils.should_save_traces": [],
+    "keras.saving.saved_model.utils.no_automatic_dependency_tracking_scope": [],
+    "keras.saving.saved_model.utils.SaveOptionsContext.__init__": [],
+    "keras.saving.saved_model.utils.SaveOptionsContext": []
+}

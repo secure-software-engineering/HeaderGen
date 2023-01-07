@@ -1,0 +1,20 @@
+{
+    "scipy.optimize._trustregion_constr.tr_interior_point.tr_interior_point": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.__init__": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.update": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.get_slack": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.get_variables": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.function_and_constraints": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem._compute_function": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem._compute_constr": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.scaling": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.gradient_and_jacobian": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem._compute_gradient": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem._compute_jacobian": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem._assemble_sparse_jacobian": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.lagrangian_hessian_x": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.lagrangian_hessian_s": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.lagrangian_hessian": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem.stop_criteria": [],
+    "scipy.optimize._trustregion_constr.tr_interior_point.BarrierSubproblem": []
+}

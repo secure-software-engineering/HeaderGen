@@ -1,0 +1,4 @@
+{
+    "pandas.tests.arithmetic.test_array_ops.test_na_logical_op_2d": [],
+    "pandas.tests.arithmetic.test_array_ops.test_object_comparison_2d": []
+}

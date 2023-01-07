@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.distribute.distributed_training_utils.global_batch_size_supported": [],
+    "tensorflow.python.keras.distribute.distributed_training_utils.call_replica_local_fn": [],
+    "tensorflow.python.keras.distribute.distributed_training_utils.is_distributed_variable": []
+}

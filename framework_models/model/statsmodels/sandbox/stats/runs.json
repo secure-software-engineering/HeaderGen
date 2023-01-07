@@ -1,0 +1,20 @@
+{
+    "statsmodels.sandbox.stats.runs.runstest_1samp": [],
+    "statsmodels.sandbox.stats.runs.runstest_2samp": [],
+    "statsmodels.sandbox.stats.runs.median_test_ksample": [],
+    "statsmodels.sandbox.stats.runs.cochrans_q": [],
+    "statsmodels.sandbox.stats.runs.mcnemar": [],
+    "statsmodels.sandbox.stats.runs.symmetry_bowker": [],
+    "statsmodels.sandbox.stats.runs.Runs.__init__": [],
+    "statsmodels.sandbox.stats.runs.Runs.runs_test": [],
+    "statsmodels.sandbox.stats.runs.TotalRunsProb.__init__": [],
+    "statsmodels.sandbox.stats.runs.TotalRunsProb.runs_prob_even": [],
+    "statsmodels.sandbox.stats.runs.TotalRunsProb.runs_prob_odd": [],
+    "statsmodels.sandbox.stats.runs.TotalRunsProb.pdf": [],
+    "statsmodels.sandbox.stats.runs.TotalRunsProb.cdf": [],
+    "statsmodels.sandbox.stats.runs.RunsProb.pdf": [],
+    "statsmodels.sandbox.stats.runs.RunsProb.pdf_nb": [],
+    "statsmodels.sandbox.stats.runs.Runs": [],
+    "statsmodels.sandbox.stats.runs.TotalRunsProb": [],
+    "statsmodels.sandbox.stats.runs.RunsProb": []
+}

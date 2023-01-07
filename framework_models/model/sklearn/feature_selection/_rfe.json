@@ -1,0 +1,20 @@
+{
+    "sklearn.feature_selection._rfe._rfe_single_fit": [],
+    "sklearn.feature_selection._rfe.RFE.__init__": [],
+    "sklearn.feature_selection._rfe.RFE._estimator_type": [],
+    "sklearn.feature_selection._rfe.RFE.classes_": [],
+    "sklearn.feature_selection._rfe.RFE.fit": [],
+    "sklearn.feature_selection._rfe.RFE._fit": [],
+    "sklearn.feature_selection._rfe.RFE.predict": [],
+    "sklearn.feature_selection._rfe.RFE.score": [],
+    "sklearn.feature_selection._rfe.RFE._get_support_mask": [],
+    "sklearn.feature_selection._rfe.RFE.decision_function": [],
+    "sklearn.feature_selection._rfe.RFE.predict_proba": [],
+    "sklearn.feature_selection._rfe.RFE.predict_log_proba": [],
+    "sklearn.feature_selection._rfe.RFE._more_tags": [],
+    "sklearn.feature_selection._rfe.RFECV.__init__": [],
+    "sklearn.feature_selection._rfe.RFECV.fit": [],
+    "sklearn.feature_selection._rfe.RFECV.grid_scores_": [],
+    "sklearn.feature_selection._rfe.RFE": [],
+    "sklearn.feature_selection._rfe.RFECV": []
+}

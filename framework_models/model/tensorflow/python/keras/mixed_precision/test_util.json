@@ -1,0 +1,22 @@
+{
+    "tensorflow.python.keras.mixed_precision.test_util.create_identity_with_grad_check_fn": [],
+    "tensorflow.python.keras.mixed_precision.test_util.create_identity_with_nan_gradients_fn": [],
+    "tensorflow.python.keras.mixed_precision.test_util.AssertTypeLayer.__init__": [],
+    "tensorflow.python.keras.mixed_precision.test_util.AssertTypeLayer.assert_input_types": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayer.__init__": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayer.build": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayer.call": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayer._multiply": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayer.get_config": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayerWithoutAutoCast.build": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayerWithoutAutoCast.call": [],
+    "tensorflow.python.keras.mixed_precision.test_util.IdentityRegularizer.__call__": [],
+    "tensorflow.python.keras.mixed_precision.test_util.IdentityRegularizer.get_config": [],
+    "tensorflow.python.keras.mixed_precision.test_util.ReduceSumRegularizer.__call__": [],
+    "tensorflow.python.keras.mixed_precision.test_util.ReduceSumRegularizer.get_config": [],
+    "tensorflow.python.keras.mixed_precision.test_util.AssertTypeLayer": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayer": [],
+    "tensorflow.python.keras.mixed_precision.test_util.MultiplyLayerWithoutAutoCast": [],
+    "tensorflow.python.keras.mixed_precision.test_util.IdentityRegularizer": [],
+    "tensorflow.python.keras.mixed_precision.test_util.ReduceSumRegularizer": []
+}

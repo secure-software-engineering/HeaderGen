@@ -1,0 +1,9 @@
+{
+    "pandas.tests.io.test_orc.dirpath": [],
+    "pandas.tests.io.test_orc.test_orc_reader_empty": [],
+    "pandas.tests.io.test_orc.test_orc_reader_basic": [],
+    "pandas.tests.io.test_orc.test_orc_reader_decimal": [],
+    "pandas.tests.io.test_orc.test_orc_reader_date_low": [],
+    "pandas.tests.io.test_orc.test_orc_reader_date_high": [],
+    "pandas.tests.io.test_orc.test_orc_reader_snappy_compressed": []
+}

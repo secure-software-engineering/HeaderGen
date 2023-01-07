@@ -1,0 +1,8 @@
+{
+    "sklearn.decomposition._base._BasePCA.get_covariance": [],
+    "sklearn.decomposition._base._BasePCA.get_precision": [],
+    "sklearn.decomposition._base._BasePCA.fit": [],
+    "sklearn.decomposition._base._BasePCA.transform": [],
+    "sklearn.decomposition._base._BasePCA.inverse_transform": [],
+    "sklearn.decomposition._base._BasePCA": []
+}

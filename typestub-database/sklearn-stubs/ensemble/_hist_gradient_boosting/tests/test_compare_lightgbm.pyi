@@ -1,0 +1,9 @@
+from sklearn.datasets import make_classification as make_classification, make_regression as make_regression
+from sklearn.ensemble import HistGradientBoostingClassifier as HistGradientBoostingClassifier, HistGradientBoostingRegressor as HistGradientBoostingRegressor
+from sklearn.ensemble._hist_gradient_boosting.utils import get_equivalent_estimator as get_equivalent_estimator
+from sklearn.metrics import accuracy_score as accuracy_score
+from sklearn.model_selection import train_test_split as train_test_split
+
+def test_same_predictions_regression(seed, min_samples_leaf, n_samples, max_leaf_nodes) -> None: ...
+def test_same_predictions_classification(seed, min_samples_leaf, n_samples, max_leaf_nodes) -> None: ...
+def test_same_predictions_multiclass_classification(seed, min_samples_leaf, n_samples, max_leaf_nodes) -> None: ...

@@ -1,0 +1,22 @@
+{
+    "matplotlib.tests.test_backend_pdf.test_use14corefonts": [],
+    "matplotlib.tests.test_backend_pdf.test_type42": [],
+    "matplotlib.tests.test_backend_pdf.test_multipage_pagecount": [],
+    "matplotlib.tests.test_backend_pdf.test_multipage_properfinalize": [],
+    "matplotlib.tests.test_backend_pdf.test_multipage_keep_empty": [],
+    "matplotlib.tests.test_backend_pdf.test_composite_image": [],
+    "matplotlib.tests.test_backend_pdf.test_savefig_metadata": [],
+    "matplotlib.tests.test_backend_pdf.test_invalid_metadata": [],
+    "matplotlib.tests.test_backend_pdf.test_multipage_metadata": [],
+    "matplotlib.tests.test_backend_pdf.test_text_urls": [],
+    "matplotlib.tests.test_backend_pdf.test_text_urls_tex": [],
+    "matplotlib.tests.test_backend_pdf.test_pdfpages_fspath": [],
+    "matplotlib.tests.test_backend_pdf.test_hatching_legend": [],
+    "matplotlib.tests.test_backend_pdf.test_grayscale_alpha": [],
+    "matplotlib.tests.test_backend_pdf.test_missing_psfont": [],
+    "matplotlib.tests.test_backend_pdf.test_pdf_eps_savefig_when_color_is_none": [],
+    "matplotlib.tests.test_backend_pdf.test_failing_latex": [],
+    "matplotlib.tests.test_backend_pdf.test_empty_rasterized": [],
+    "matplotlib.tests.test_backend_pdf.test_kerning": [],
+    "matplotlib.tests.test_backend_pdf.test_glyphs_subset": []
+}

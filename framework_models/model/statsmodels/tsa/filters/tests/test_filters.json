@@ -1,0 +1,22 @@
+{
+    "statsmodels.tsa.filters.tests.test_filters.test_bking1d": [],
+    "statsmodels.tsa.filters.tests.test_filters.test_bking2d": [],
+    "statsmodels.tsa.filters.tests.test_filters.test_hpfilter": [],
+    "statsmodels.tsa.filters.tests.test_filters.test_cfitz_filter": [],
+    "statsmodels.tsa.filters.tests.test_filters.test_bking_pandas": [],
+    "statsmodels.tsa.filters.tests.test_filters.test_cfitz_pandas": [],
+    "statsmodels.tsa.filters.tests.test_filters.test_hpfilter_pandas": [],
+    "statsmodels.tsa.filters.tests.test_filters.dummy_func": [],
+    "statsmodels.tsa.filters.tests.test_filters.dummy_func_array": [],
+    "statsmodels.tsa.filters.tests.test_filters.dummy_func_pandas_columns": [],
+    "statsmodels.tsa.filters.tests.test_filters.dummy_func_pandas_series": [],
+    "statsmodels.tsa.filters.tests.test_filters.test_pandas_freq_decorator": [],
+    "statsmodels.tsa.filters.tests.test_filters.TestFilters.setup_class": [],
+    "statsmodels.tsa.filters.tests.test_filters.TestFilters.test_convolution": [],
+    "statsmodels.tsa.filters.tests.test_filters.TestFilters.test_convolution2d": [],
+    "statsmodels.tsa.filters.tests.test_filters.TestFilters.test_recursive": [],
+    "statsmodels.tsa.filters.tests.test_filters.TestFilters.test_pandas": [],
+    "statsmodels.tsa.filters.tests.test_filters.TestFilters.test_pandas2d": [],
+    "statsmodels.tsa.filters.tests.test_filters.TestFilters.test_odd_length_filter": [],
+    "statsmodels.tsa.filters.tests.test_filters.TestFilters": []
+}

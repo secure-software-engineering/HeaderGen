@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.autograph.utils.tensor_list.dynamic_list_append": [],
+    "tensorflow.python.autograph.utils.tensor_list.TensorList.__init__": [],
+    "tensorflow.python.autograph.utils.tensor_list.TensorList.append": [],
+    "tensorflow.python.autograph.utils.tensor_list.TensorList.pop": [],
+    "tensorflow.python.autograph.utils.tensor_list.TensorList.clear": [],
+    "tensorflow.python.autograph.utils.tensor_list.TensorList.count": [],
+    "tensorflow.python.autograph.utils.tensor_list.TensorList.__getitem__": [],
+    "tensorflow.python.autograph.utils.tensor_list.TensorList.__setitem__": [],
+    "tensorflow.python.autograph.utils.tensor_list.TensorList": []
+}

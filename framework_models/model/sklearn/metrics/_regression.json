@@ -1,0 +1,16 @@
+{
+    "sklearn.metrics._regression._check_reg_targets": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.mean_absolute_error": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.mean_pinball_loss": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.mean_absolute_percentage_error": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.mean_squared_error": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.mean_squared_log_error": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.median_absolute_error": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.explained_variance_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.r2_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.max_error": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.mean_tweedie_deviance": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.mean_poisson_deviance": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.mean_gamma_deviance": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._regression.d2_tweedie_score": ["MODEL_VALIDATION_AND_ASSEMBLING"]
+}

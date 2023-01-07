@@ -1,0 +1,8 @@
+{
+    "pandas.tests.arrays.string_.test_string_arrow.test_eq_all_na": [],
+    "pandas.tests.arrays.string_.test_string_arrow.test_config": [],
+    "pandas.tests.arrays.string_.test_string_arrow.test_config_bad_storage_raises": [],
+    "pandas.tests.arrays.string_.test_string_arrow.test_constructor_not_string_type_raises": [],
+    "pandas.tests.arrays.string_.test_string_arrow.test_from_sequence_wrong_dtype_raises": [],
+    "pandas.tests.arrays.string_.test_string_arrow.test_pyarrow_not_installed_raises": []
+}

@@ -1,0 +1,22 @@
+{
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.resolve": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.Definition.__init__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs._NodeState.__init__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs._NodeState.__eq__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs._NodeState.__ne__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs._NodeState.__or__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs._NodeState.__add__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs._NodeState.__repr__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.Analyzer.__init__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.Analyzer.init_state": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.Analyzer.visit_node": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.TreeAnnotator.__init__": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.TreeAnnotator._proces_function": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.TreeAnnotator.visit_FunctionDef": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.TreeAnnotator.visit_Lambda": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.TreeAnnotator.visit": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.Definition": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs._NodeState": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.Analyzer": [],
+    "tensorflow.python.autograph.pyct.static_analysis.reaching_fndefs.TreeAnnotator": []
+}

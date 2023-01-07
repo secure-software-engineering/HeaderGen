@@ -1,0 +1,6 @@
+{
+    "scipy.special.tests.test_trig.test_integer_real_part": [],
+    "scipy.special.tests.test_trig.test_half_integer_real_part": [],
+    "scipy.special.tests.test_trig.test_intermediate_overlow": [],
+    "scipy.special.tests.test_trig.test_zero_sign": []
+}

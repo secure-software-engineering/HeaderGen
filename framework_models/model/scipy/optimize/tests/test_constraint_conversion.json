@@ -1,0 +1,15 @@
+{
+    "scipy.optimize.tests.test_constraint_conversion.TestOldToNew.test_constraint_dictionary_1": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestOldToNew.test_constraint_dictionary_2": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestOldToNew.test_constraint_dictionary_3": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOld.test_multiple_constraint_objects": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOld.test_individual_constraint_objects": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOldSLSQP.test_list_of_problems": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOldSLSQP.test_warn_mixed_constraints": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOldSLSQP.test_warn_ignored_options": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOldCobyla.test_list_of_problems": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestOldToNew": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOld": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOldSLSQP": [],
+    "scipy.optimize.tests.test_constraint_conversion.TestNewToOldCobyla": []
+}

@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.platform.benchmark._rename_function": [],
+    "tensorflow.python.platform.benchmark._global_report_benchmark": [],
+    "tensorflow.python.platform.benchmark.benchmark_config": [],
+    "tensorflow.python.platform.benchmark._run_benchmarks": [],
+    "tensorflow.python.platform.benchmark.benchmarks_main": [],
+    "tensorflow.python.platform.benchmark._BenchmarkRegistrar.__new__": [],
+    "tensorflow.python.platform.benchmark.ParameterizedBenchmark.__new__": [],
+    "tensorflow.python.platform.benchmark.Benchmark.is_abstract": [],
+    "tensorflow.python.platform.benchmark.Benchmark._get_name": [],
+    "tensorflow.python.platform.benchmark.Benchmark.report_benchmark": [],
+    "tensorflow.python.platform.benchmark.TensorFlowBenchmark.__init__": [],
+    "tensorflow.python.platform.benchmark.TensorFlowBenchmark.is_abstract": [],
+    "tensorflow.python.platform.benchmark.TensorFlowBenchmark.run_op_benchmark": [],
+    "tensorflow.python.platform.benchmark.TensorFlowBenchmark.evaluate": [],
+    "tensorflow.python.platform.benchmark._BenchmarkRegistrar": [],
+    "tensorflow.python.platform.benchmark.ParameterizedBenchmark": [],
+    "tensorflow.python.platform.benchmark.Benchmark": [],
+    "tensorflow.python.platform.benchmark.TensorFlowBenchmark": []
+}

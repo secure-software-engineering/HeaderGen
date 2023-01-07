@@ -1,0 +1,9 @@
+{
+    "scipy.fftpack.tests.test_helper.TestFFTShift.test_definition": [],
+    "scipy.fftpack.tests.test_helper.TestFFTShift.test_inverse": [],
+    "scipy.fftpack.tests.test_helper.TestFFTFreq.test_definition": [],
+    "scipy.fftpack.tests.test_helper.TestRFFTFreq.test_definition": [],
+    "scipy.fftpack.tests.test_helper.TestFFTShift": [],
+    "scipy.fftpack.tests.test_helper.TestFFTFreq": [],
+    "scipy.fftpack.tests.test_helper.TestRFFTFreq": []
+}

@@ -1,0 +1,8 @@
+{
+    "pandas.tests.series.methods.test_equals.test_equals": [],
+    "pandas.tests.series.methods.test_equals.test_equals_list_array": [],
+    "pandas.tests.series.methods.test_equals.test_equals_false_negative": [],
+    "pandas.tests.series.methods.test_equals.test_equals_matching_nas": [],
+    "pandas.tests.series.methods.test_equals.test_equals_mismatched_nas": [],
+    "pandas.tests.series.methods.test_equals.test_equals_none_vs_nan": []
+}

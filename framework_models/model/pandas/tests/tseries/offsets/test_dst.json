@@ -1,0 +1,10 @@
+{
+    "pandas.tests.tseries.offsets.test_dst.TestDST._test_all_offsets": [],
+    "pandas.tests.tseries.offsets.test_dst.TestDST._test_offset": [],
+    "pandas.tests.tseries.offsets.test_dst.TestDST._make_timestamp": [],
+    "pandas.tests.tseries.offsets.test_dst.TestDST.test_springforward_plural": [],
+    "pandas.tests.tseries.offsets.test_dst.TestDST.test_fallback_singular": [],
+    "pandas.tests.tseries.offsets.test_dst.TestDST.test_springforward_singular": [],
+    "pandas.tests.tseries.offsets.test_dst.TestDST.test_all_offset_classes": [],
+    "pandas.tests.tseries.offsets.test_dst.TestDST": []
+}

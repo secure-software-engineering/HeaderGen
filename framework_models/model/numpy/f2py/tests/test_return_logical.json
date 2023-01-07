@@ -1,0 +1,8 @@
+{
+    "numpy.f2py.tests.test_return_logical.TestReturnLogical.check_function": [],
+    "numpy.f2py.tests.test_return_logical.TestF77ReturnLogical.test_all": [],
+    "numpy.f2py.tests.test_return_logical.TestF90ReturnLogical.test_all": [],
+    "numpy.f2py.tests.test_return_logical.TestReturnLogical": [],
+    "numpy.f2py.tests.test_return_logical.TestF77ReturnLogical": [],
+    "numpy.f2py.tests.test_return_logical.TestF90ReturnLogical": []
+}

@@ -1,0 +1,12 @@
+{
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_clip": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_clip_types_and_nulls": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_series_clipping_with_na_values": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_clip_with_na_args": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_clip_against_series": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_clip_against_list_like": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_clip_with_datetimes": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_clip_with_timestamps_and_oob_datetimes": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip.test_clip_pos_args_deprecation": [],
+    "pandas.tests.series.methods.test_clip.TestSeriesClip": []
+}

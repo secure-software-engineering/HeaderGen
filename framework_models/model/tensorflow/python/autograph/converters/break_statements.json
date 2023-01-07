@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.autograph.converters.break_statements.transform": [],
+    "tensorflow.python.autograph.converters.break_statements._Break.__init__": [],
+    "tensorflow.python.autograph.converters.break_statements._Break.__repr__": [],
+    "tensorflow.python.autograph.converters.break_statements.BreakTransformer.visit_Break": [],
+    "tensorflow.python.autograph.converters.break_statements.BreakTransformer._guard_if_present": [],
+    "tensorflow.python.autograph.converters.break_statements.BreakTransformer._process_body": [],
+    "tensorflow.python.autograph.converters.break_statements.BreakTransformer.visit_While": [],
+    "tensorflow.python.autograph.converters.break_statements.BreakTransformer.visit_For": [],
+    "tensorflow.python.autograph.converters.break_statements._Break": [],
+    "tensorflow.python.autograph.converters.break_statements.BreakTransformer": []
+}

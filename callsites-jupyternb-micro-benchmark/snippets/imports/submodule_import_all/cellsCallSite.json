@@ -1,0 +1,6 @@
+{
+    "2": [
+        "from_all.nested_module.func1",
+        "from_all.nested_module.func2"
+    ]
+}

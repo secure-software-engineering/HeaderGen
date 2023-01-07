@@ -1,0 +1,9 @@
+from distutils.command.build_py import build_py as old_build_py
+from numpy.distutils.misc_util import is_string as is_string
+from typing import Any
+
+class build_py(old_build_py):
+    packages: Any
+    def run(self) -> None: ...
+    def find_package_modules(self, package, package_dir): ...
+    def find_modules(self): ...

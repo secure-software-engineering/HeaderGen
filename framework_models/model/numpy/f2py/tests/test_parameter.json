@@ -1,0 +1,13 @@
+{
+    "numpy.f2py.tests.test_parameter._path": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_real_single": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_real_double": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_compound_int": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_non_compound_int": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_integer_int": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_integer_long": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_both": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_no": [],
+    "numpy.f2py.tests.test_parameter.TestParameters.test_constant_sum": [],
+    "numpy.f2py.tests.test_parameter.TestParameters": []
+}

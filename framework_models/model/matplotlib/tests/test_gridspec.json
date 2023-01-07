@@ -1,0 +1,6 @@
+{
+    "matplotlib.tests.test_gridspec.test_equal": [],
+    "matplotlib.tests.test_gridspec.test_width_ratios": [],
+    "matplotlib.tests.test_gridspec.test_height_ratios": [],
+    "matplotlib.tests.test_gridspec.test_repr": []
+}

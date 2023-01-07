@@ -1,0 +1,19 @@
+{
+    "statsmodels.graphics.gofplots.qqplot": [],
+    "statsmodels.graphics.gofplots.qqplot_2samples": [],
+    "statsmodels.graphics.gofplots.qqline": [],
+    "statsmodels.graphics.gofplots.plotting_pos": [],
+    "statsmodels.graphics.gofplots._fmt_probplot_axis": [],
+    "statsmodels.graphics.gofplots._do_plot": [],
+    "statsmodels.graphics.gofplots._check_for": [],
+    "statsmodels.graphics.gofplots.ProbPlot.__init__": [],
+    "statsmodels.graphics.gofplots.ProbPlot.theoretical_percentiles": [],
+    "statsmodels.graphics.gofplots.ProbPlot.theoretical_quantiles": [],
+    "statsmodels.graphics.gofplots.ProbPlot.sorted_data": [],
+    "statsmodels.graphics.gofplots.ProbPlot.sample_quantiles": [],
+    "statsmodels.graphics.gofplots.ProbPlot.sample_percentiles": [],
+    "statsmodels.graphics.gofplots.ProbPlot.ppplot": [],
+    "statsmodels.graphics.gofplots.ProbPlot.qqplot": [],
+    "statsmodels.graphics.gofplots.ProbPlot.probplot": [],
+    "statsmodels.graphics.gofplots.ProbPlot": []
+}

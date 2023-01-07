@@ -1,0 +1,23 @@
+{
+    "pandas.plotting._core.hist_series": ["VISUALIZATION"],
+    "pandas.plotting._core.hist_frame": ["VISUALIZATION"],
+    "pandas.plotting._core.boxplot": ["VISUALIZATION"],
+    "pandas.plotting._core.boxplot_frame": ["VISUALIZATION"],
+    "pandas.plotting._core.boxplot_frame_groupby": ["VISUALIZATION"],
+    "pandas.plotting._core._load_backend": ["VISUALIZATION"],
+    "pandas.plotting._core._get_plot_backend": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.__init__": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor._get_call_args": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.__call__": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.line": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.bar": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.barh": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.box": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.hist": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.kde": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.area": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.pie": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.scatter": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor.hexbin": ["VISUALIZATION"],
+    "pandas.plotting._core.PlotAccessor": ["VISUALIZATION"]
+}

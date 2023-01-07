@@ -1,0 +1,16 @@
+{
+    "statsmodels.tsa.statespace.news.NewsResults.__init__": [],
+    "statsmodels.tsa.statespace.news.NewsResults.impacted_variable": [],
+    "statsmodels.tsa.statespace.news.NewsResults.tolerance": [],
+    "statsmodels.tsa.statespace.news.NewsResults.data_revisions": [],
+    "statsmodels.tsa.statespace.news.NewsResults.data_updates": [],
+    "statsmodels.tsa.statespace.news.NewsResults.details_by_impact": [],
+    "statsmodels.tsa.statespace.news.NewsResults.details_by_update": [],
+    "statsmodels.tsa.statespace.news.NewsResults.impacts": [],
+    "statsmodels.tsa.statespace.news.NewsResults.summary_impacts": [],
+    "statsmodels.tsa.statespace.news.NewsResults.summary_details": [],
+    "statsmodels.tsa.statespace.news.NewsResults.summary_revisions": [],
+    "statsmodels.tsa.statespace.news.NewsResults.summary_news": [],
+    "statsmodels.tsa.statespace.news.NewsResults.summary": [],
+    "statsmodels.tsa.statespace.news.NewsResults": []
+}

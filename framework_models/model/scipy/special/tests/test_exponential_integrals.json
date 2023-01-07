@@ -1,0 +1,11 @@
+{
+    "scipy.special.tests.test_exponential_integrals.TestExp1.test_branch_cut": [],
+    "scipy.special.tests.test_exponential_integrals.TestExp1.test_834": [],
+    "scipy.special.tests.test_exponential_integrals.TestExpi.test_branch_cut": [],
+    "scipy.special.tests.test_exponential_integrals.TestExpi.test_near_branch_cut": [],
+    "scipy.special.tests.test_exponential_integrals.TestExpi.test_continuity_on_positive_real_axis": [],
+    "scipy.special.tests.test_exponential_integrals.TestExpn.test_out_of_domain": [],
+    "scipy.special.tests.test_exponential_integrals.TestExp1": [],
+    "scipy.special.tests.test_exponential_integrals.TestExpi": [],
+    "scipy.special.tests.test_exponential_integrals.TestExpn": []
+}

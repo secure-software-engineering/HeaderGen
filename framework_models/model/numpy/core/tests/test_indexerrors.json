@@ -1,0 +1,11 @@
+{
+    "numpy.core.tests.test_indexerrors.TestIndexErrors.test_arraytypes_fasttake": [],
+    "numpy.core.tests.test_indexerrors.TestIndexErrors.test_take_from_object": [],
+    "numpy.core.tests.test_indexerrors.TestIndexErrors.test_multiindex_exceptions": [],
+    "numpy.core.tests.test_indexerrors.TestIndexErrors.test_put_exceptions": [],
+    "numpy.core.tests.test_indexerrors.TestIndexErrors.test_iterators_exceptions": [],
+    "numpy.core.tests.test_indexerrors.TestIndexErrors.test_mapping": [],
+    "numpy.core.tests.test_indexerrors.TestIndexErrors.test_mapping_error_message": [],
+    "numpy.core.tests.test_indexerrors.TestIndexErrors.test_methods": [],
+    "numpy.core.tests.test_indexerrors.TestIndexErrors": []
+}

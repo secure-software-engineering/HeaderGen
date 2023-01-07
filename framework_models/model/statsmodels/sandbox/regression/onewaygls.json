@@ -1,0 +1,10 @@
+{
+    "statsmodels.sandbox.regression.onewaygls.OneWayLS.__init__": [],
+    "statsmodels.sandbox.regression.onewaygls.OneWayLS.fitbygroups": [],
+    "statsmodels.sandbox.regression.onewaygls.OneWayLS.fitjoint": [],
+    "statsmodels.sandbox.regression.onewaygls.OneWayLS.fitpooled": [],
+    "statsmodels.sandbox.regression.onewaygls.OneWayLS.ftest_summary": [],
+    "statsmodels.sandbox.regression.onewaygls.OneWayLS.print_summary": [],
+    "statsmodels.sandbox.regression.onewaygls.OneWayLS.lr_test": [],
+    "statsmodels.sandbox.regression.onewaygls.OneWayLS": []
+}

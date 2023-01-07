@@ -1,0 +1,12 @@
+{
+    "pandas.core.arrays.numeric.NumericDtype.__from_arrow__": [],
+    "pandas.core.arrays.numeric.NumericArray._maybe_mask_result": [],
+    "pandas.core.arrays.numeric.NumericArray._arith_method": [],
+    "pandas.core.arrays.numeric.NumericArray.__array_ufunc__": [],
+    "pandas.core.arrays.numeric.NumericArray.__neg__": [],
+    "pandas.core.arrays.numeric.NumericArray.__pos__": [],
+    "pandas.core.arrays.numeric.NumericArray.__abs__": [],
+    "pandas.core.arrays.numeric.NumericArray.round": [],
+    "pandas.core.arrays.numeric.NumericDtype": [],
+    "pandas.core.arrays.numeric.NumericArray": []
+}

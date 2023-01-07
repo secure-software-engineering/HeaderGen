@@ -1,0 +1,66 @@
+{
+    "1": [
+        "Library Loading"
+    ],
+    "2": [
+        "Visualization",
+        "Model Validation and Assembling"
+    ],
+    "3": [
+        "Data Loading"
+    ],
+    "4": [
+        "Data Loading",
+        "Feature Transformation"
+    ],
+    "5": [
+        "Feature Transformation"
+    ],
+    "6": [
+        "Feature Transformation"
+    ],
+    "7": [
+        "Feature Transformation"
+    ],
+    "8": [
+        "Feature Transformation"
+    ],
+    "9": [
+        "Feature Transformation"
+    ],
+    "10": [
+        "Feature Transformation"
+    ],
+    "11": [
+        "Feature Transformation"
+    ],
+    "12": [
+        "Feature Transformation"
+    ],
+    "13": [
+        "Feature Transformation"
+    ],
+    "14": [
+        "Model Building and Training"
+    ],
+    "15": [
+        "*Others"
+    ],
+    "16": [
+        "Model Parameter Tuning"
+    ],
+    "17": [
+        "Data Sub-sampling and Train-test Splitting",
+        "Model Building and Training"
+    ],
+    "18": [
+        "Model Validation and Assembling"
+    ],
+    "19": [
+        "Model Validation and Assembling"
+    ],
+    "20": [
+        "Data Loading"
+    ],
+    "21": []
+}

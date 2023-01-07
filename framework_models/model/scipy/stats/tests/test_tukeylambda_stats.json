@@ -1,0 +1,5 @@
+{
+    "scipy.stats.tests.test_tukeylambda_stats.test_tukeylambda_stats_known_exact": [],
+    "scipy.stats.tests.test_tukeylambda_stats.test_tukeylambda_stats_mpmath": [],
+    "scipy.stats.tests.test_tukeylambda_stats.test_tukeylambda_stats_invalid": []
+}

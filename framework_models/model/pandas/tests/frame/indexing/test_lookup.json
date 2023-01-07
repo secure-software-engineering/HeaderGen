@@ -1,0 +1,9 @@
+{
+    "pandas.tests.frame.indexing.test_lookup.test_lookup_deprecated": [],
+    "pandas.tests.frame.indexing.test_lookup.TestLookup.test_lookup_float": [],
+    "pandas.tests.frame.indexing.test_lookup.TestLookup.test_lookup_mixed": [],
+    "pandas.tests.frame.indexing.test_lookup.TestLookup.test_lookup_bool": [],
+    "pandas.tests.frame.indexing.test_lookup.TestLookup.test_lookup_raises": [],
+    "pandas.tests.frame.indexing.test_lookup.TestLookup.test_lookup_requires_unique_axes": [],
+    "pandas.tests.frame.indexing.test_lookup.TestLookup": []
+}

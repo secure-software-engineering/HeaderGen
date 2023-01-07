@@ -1,0 +1,5 @@
+{
+    "scipy.special._precompute.loggamma.stirling_series": [],
+    "scipy.special._precompute.loggamma.taylor_series_at_1": [],
+    "scipy.special._precompute.loggamma.main": []
+}

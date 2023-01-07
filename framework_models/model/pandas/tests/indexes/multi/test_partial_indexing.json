@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.multi.test_partial_indexing.df": [],
+    "pandas.tests.indexes.multi.test_partial_indexing.test_partial_string_matching_single_index": [],
+    "pandas.tests.indexes.multi.test_partial_indexing.test_partial_string_timestamp_multiindex": [],
+    "pandas.tests.indexes.multi.test_partial_indexing.test_partial_string_timestamp_multiindex_str_key_raises": [],
+    "pandas.tests.indexes.multi.test_partial_indexing.test_partial_string_timestamp_multiindex_daily_resolution": []
+}

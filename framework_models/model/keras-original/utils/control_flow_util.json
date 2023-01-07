@@ -1,0 +1,9 @@
+{
+    "keras.utils.control_flow_util.InXlaContext": [],
+    "keras.utils.control_flow_util.GraphOrParentsInXlaContext": [],
+    "keras.utils.control_flow_util.IsInWhileLoop": [],
+    "keras.utils.control_flow_util.GetContainingWhileContext": [],
+    "keras.utils.control_flow_util.GetContainingXLAContext": [],
+    "keras.utils.control_flow_util.smart_cond": [],
+    "keras.utils.control_flow_util.constant_value": []
+}

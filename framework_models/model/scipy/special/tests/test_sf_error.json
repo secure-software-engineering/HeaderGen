@@ -1,0 +1,10 @@
+{
+    "scipy.special.tests.test_sf_error._check_action": [],
+    "scipy.special.tests.test_sf_error.test_geterr": [],
+    "scipy.special.tests.test_sf_error.test_seterr": [],
+    "scipy.special.tests.test_sf_error.test_errstate_pyx_basic": [],
+    "scipy.special.tests.test_sf_error.test_errstate_c_basic": [],
+    "scipy.special.tests.test_sf_error.test_errstate_cpp_basic": [],
+    "scipy.special.tests.test_sf_error.test_errstate": [],
+    "scipy.special.tests.test_sf_error.test_errstate_all_but_one": []
+}

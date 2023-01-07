@@ -1,0 +1,6 @@
+{
+    "sklearn.utils.tests.test_graph.test_fix_connected_components": [],
+    "sklearn.utils.tests.test_graph.test_fix_connected_components_wrong_mode": [],
+    "sklearn.utils.tests.test_graph.test_fix_connected_components_connectivity_mode": [],
+    "sklearn.utils.tests.test_graph.test_fix_connected_components_distance_mode": []
+}

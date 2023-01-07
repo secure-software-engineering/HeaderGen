@@ -1,0 +1,18 @@
+{
+    "sklearn.mixture.tests.test_bayesian_mixture.test_log_dirichlet_norm": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_log_wishart_norm": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_covariance_type": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_weight_concentration_prior_type": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_weights_prior_initialisation": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_mean_prior_initialisation": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_precisions_prior_initialisation": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_check_is_fitted": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_weights": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_monotonic_likelihood": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_compare_covar_type": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_check_covariance_precision": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_invariant_translation": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_fit_predict": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_fit_predict_n_init": [],
+    "sklearn.mixture.tests.test_bayesian_mixture.test_bayesian_mixture_predict_predict_proba": []
+}

@@ -1,0 +1,10 @@
+{
+    "scipy.optimize._trustregion_constr.qp_subproblem.eqp_kktfact": [],
+    "scipy.optimize._trustregion_constr.qp_subproblem.sphere_intersections": [],
+    "scipy.optimize._trustregion_constr.qp_subproblem.box_intersections": [],
+    "scipy.optimize._trustregion_constr.qp_subproblem.box_sphere_intersections": [],
+    "scipy.optimize._trustregion_constr.qp_subproblem.inside_box_boundaries": [],
+    "scipy.optimize._trustregion_constr.qp_subproblem.reinforce_box_boundaries": [],
+    "scipy.optimize._trustregion_constr.qp_subproblem.modified_dogleg": [],
+    "scipy.optimize._trustregion_constr.qp_subproblem.projected_cg": []
+}

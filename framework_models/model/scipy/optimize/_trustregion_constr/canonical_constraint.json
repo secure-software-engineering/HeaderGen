@@ -1,0 +1,12 @@
+{
+    "scipy.optimize._trustregion_constr.canonical_constraint.initial_constraints_as_canonical": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint.__init__": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint.from_PreparedConstraint": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint.empty": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint.concatenate": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint._equal_to_canonical": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint._less_to_canonical": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint._greater_to_canonical": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint._interval_to_canonical": [],
+    "scipy.optimize._trustregion_constr.canonical_constraint.CanonicalConstraint": []
+}

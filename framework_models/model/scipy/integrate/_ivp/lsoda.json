@@ -1,0 +1,9 @@
+{
+    "scipy.integrate._ivp.lsoda.LSODA.__init__": [],
+    "scipy.integrate._ivp.lsoda.LSODA._step_impl": [],
+    "scipy.integrate._ivp.lsoda.LSODA._dense_output_impl": [],
+    "scipy.integrate._ivp.lsoda.LsodaDenseOutput.__init__": [],
+    "scipy.integrate._ivp.lsoda.LsodaDenseOutput._call_impl": [],
+    "scipy.integrate._ivp.lsoda.LSODA": [],
+    "scipy.integrate._ivp.lsoda.LsodaDenseOutput": []
+}

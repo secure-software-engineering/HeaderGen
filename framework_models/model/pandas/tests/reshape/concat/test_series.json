@@ -1,0 +1,12 @@
+{
+    "pandas.tests.reshape.concat.test_series.sort": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat.test_concat_series": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat.test_concat_empty_and_non_empty_series_regression": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat.test_concat_series_axis1": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat.test_concat_series_axis1_names_applied": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat.test_concat_series_axis1_same_names_ignore_index": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat.test_concat_series_name_npscalar_tuple": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat.test_concat_series_partial_columns_names": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat.test_concat_series_length_one_reversed": [],
+    "pandas.tests.reshape.concat.test_series.TestSeriesConcat": []
+}

@@ -1,0 +1,21 @@
+{
+    "pandas.tests.io.json.test_readlines.lines_json_df": [],
+    "pandas.tests.io.json.test_readlines.test_read_jsonl": [],
+    "pandas.tests.io.json.test_readlines.test_read_jsonl_unicode_chars": [],
+    "pandas.tests.io.json.test_readlines.test_to_jsonl": [],
+    "pandas.tests.io.json.test_readlines.test_to_jsonl_count_new_lines": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_chunks": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_chunksize_requires_lines": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_chunks_series": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_each_chunk": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_chunks_from_file": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_chunks_closes": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_invalid_chunksize": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_chunks_multiple_empty_lines": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_unicode": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_nrows": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_nrows_chunks": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_nrows_requires_lines": [],
+    "pandas.tests.io.json.test_readlines.test_readjson_lines_chunks_fileurl": [],
+    "pandas.tests.io.json.test_readlines.test_chunksize_is_incremental": []
+}

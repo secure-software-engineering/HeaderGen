@@ -1,0 +1,21 @@
+{
+    "scipy.stats.tests.common_tests.check_named_results": [],
+    "scipy.stats.tests.common_tests.check_normalization": [],
+    "scipy.stats.tests.common_tests.check_moment": [],
+    "scipy.stats.tests.common_tests.check_mean_expect": [],
+    "scipy.stats.tests.common_tests.check_var_expect": [],
+    "scipy.stats.tests.common_tests.check_skew_expect": [],
+    "scipy.stats.tests.common_tests.check_kurt_expect": [],
+    "scipy.stats.tests.common_tests.check_entropy": [],
+    "scipy.stats.tests.common_tests.check_private_entropy": [],
+    "scipy.stats.tests.common_tests.check_entropy_vect_scale": [],
+    "scipy.stats.tests.common_tests.check_edge_support": [],
+    "scipy.stats.tests.common_tests.check_named_args": [],
+    "scipy.stats.tests.common_tests.check_random_state_property": [],
+    "scipy.stats.tests.common_tests.check_meth_dtype": [],
+    "scipy.stats.tests.common_tests.check_ppf_dtype": [],
+    "scipy.stats.tests.common_tests.check_cmplx_deriv": [],
+    "scipy.stats.tests.common_tests.check_pickling": [],
+    "scipy.stats.tests.common_tests.check_freezing": [],
+    "scipy.stats.tests.common_tests.check_rvs_broadcast": []
+}

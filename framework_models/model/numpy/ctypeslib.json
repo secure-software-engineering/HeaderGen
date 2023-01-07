@@ -1,0 +1,10 @@
+{
+    "numpy.ctypeslib._num_fromflags": [],
+    "numpy.ctypeslib._flags_fromnum": [],
+    "numpy.ctypeslib.ndpointer": [],
+    "numpy.ctypeslib._ndptr.from_param": [],
+    "numpy.ctypeslib._concrete_ndptr._check_retval_": [],
+    "numpy.ctypeslib._concrete_ndptr.contents": [],
+    "numpy.ctypeslib._ndptr": [],
+    "numpy.ctypeslib._concrete_ndptr": []
+}

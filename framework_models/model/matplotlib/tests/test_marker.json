@@ -1,0 +1,11 @@
+{
+    "matplotlib.tests.test_marker.test_marker_fillstyle": [],
+    "matplotlib.tests.test_marker.test_markers_valid": [],
+    "matplotlib.tests.test_marker.test_markers_invalid": [],
+    "matplotlib.tests.test_marker.test_poly_marker": [],
+    "matplotlib.tests.test_marker.test_star_marker": [],
+    "matplotlib.tests.test_marker.test_asterisk_marker": [],
+    "matplotlib.tests.test_marker.test_marker_clipping": [],
+    "matplotlib.tests.test_marker.UnsnappedMarkerStyle._recache": [],
+    "matplotlib.tests.test_marker.UnsnappedMarkerStyle": []
+}

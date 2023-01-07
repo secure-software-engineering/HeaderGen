@@ -1,0 +1,12 @@
+{
+    "pandas.tests.window.test_apply.test_rolling_apply_invalid_raw": [],
+    "pandas.tests.window.test_apply.test_rolling_apply_out_of_bounds": [],
+    "pandas.tests.window.test_apply.test_rolling_apply_with_pandas_objects": [],
+    "pandas.tests.window.test_apply.test_rolling_apply": [],
+    "pandas.tests.window.test_apply.test_all_apply": [],
+    "pandas.tests.window.test_apply.test_ragged_apply": [],
+    "pandas.tests.window.test_apply.test_invalid_engine": [],
+    "pandas.tests.window.test_apply.test_invalid_engine_kwargs_cython": [],
+    "pandas.tests.window.test_apply.test_invalid_raw_numba": [],
+    "pandas.tests.window.test_apply.test_rolling_apply_args_kwargs": []
+}

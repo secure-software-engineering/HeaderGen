@@ -1,0 +1,13 @@
+{
+    "pandas.tests.indexes.period.test_setops._permute": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_union": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_union_misc": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_union_dataframe_index": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_intersection": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_intersection_cases": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_difference": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_difference_freq": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_intersection_equal_duplicates": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex.test_union_duplicates": [],
+    "pandas.tests.indexes.period.test_setops.TestPeriodIndex": []
+}

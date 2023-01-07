@@ -1,0 +1,10 @@
+{
+    "scipy.stats._bootstrap._vectorize_statistic": [],
+    "scipy.stats._bootstrap._jackknife_resample": [],
+    "scipy.stats._bootstrap._bootstrap_resample": [],
+    "scipy.stats._bootstrap._percentile_of_score": [],
+    "scipy.stats._bootstrap._percentile_along_axis": [],
+    "scipy.stats._bootstrap._bca_interval": [],
+    "scipy.stats._bootstrap._bootstrap_iv": [],
+    "scipy.stats._bootstrap.bootstrap": []
+}

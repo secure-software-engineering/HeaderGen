@@ -1,0 +1,13 @@
+{
+    "pandas.core.reshape.concat.concat": ["DATA_CLEANING_PREPARATION", "FEATURE_ENGINEERING"],
+    "pandas.core.reshape.concat._concat_indexes": [],
+    "pandas.core.reshape.concat._make_concat_multiindex": [],
+    "pandas.core.reshape.concat._Concatenator.__init__": [],
+    "pandas.core.reshape.concat._Concatenator.get_result": [],
+    "pandas.core.reshape.concat._Concatenator._get_result_dim": [],
+    "pandas.core.reshape.concat._Concatenator._get_new_axes": [],
+    "pandas.core.reshape.concat._Concatenator._get_comb_axis": [],
+    "pandas.core.reshape.concat._Concatenator._get_concat_axis": [],
+    "pandas.core.reshape.concat._Concatenator._maybe_check_integrity": [],
+    "pandas.core.reshape.concat._Concatenator": []
+}

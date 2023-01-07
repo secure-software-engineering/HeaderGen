@@ -1,0 +1,20 @@
+{
+    "pandas.core.indexes.accessors.Properties.__init__": [],
+    "pandas.core.indexes.accessors.Properties._get_values": [],
+    "pandas.core.indexes.accessors.Properties._delegate_property_get": [],
+    "pandas.core.indexes.accessors.Properties._delegate_property_set": [],
+    "pandas.core.indexes.accessors.Properties._delegate_method": [],
+    "pandas.core.indexes.accessors.DatetimeProperties.to_pydatetime": [],
+    "pandas.core.indexes.accessors.DatetimeProperties.freq": [],
+    "pandas.core.indexes.accessors.DatetimeProperties.isocalendar": [],
+    "pandas.core.indexes.accessors.DatetimeProperties.weekofyear": [],
+    "pandas.core.indexes.accessors.TimedeltaProperties.to_pytimedelta": [],
+    "pandas.core.indexes.accessors.TimedeltaProperties.components": [],
+    "pandas.core.indexes.accessors.TimedeltaProperties.freq": [],
+    "pandas.core.indexes.accessors.CombinedDatetimelikeProperties.__new__": [],
+    "pandas.core.indexes.accessors.Properties": [],
+    "pandas.core.indexes.accessors.DatetimeProperties": [],
+    "pandas.core.indexes.accessors.TimedeltaProperties": [],
+    "pandas.core.indexes.accessors.PeriodProperties": [],
+    "pandas.core.indexes.accessors.CombinedDatetimelikeProperties": []
+}

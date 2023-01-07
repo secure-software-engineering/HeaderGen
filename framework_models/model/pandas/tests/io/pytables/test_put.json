@@ -1,0 +1,13 @@
+{
+    "pandas.tests.io.pytables.test_put.test_format_type": [],
+    "pandas.tests.io.pytables.test_put.test_format_kwarg_in_constructor": [],
+    "pandas.tests.io.pytables.test_put.test_api_default_format": [],
+    "pandas.tests.io.pytables.test_put.test_put": [],
+    "pandas.tests.io.pytables.test_put.test_put_string_index": [],
+    "pandas.tests.io.pytables.test_put.test_put_compression": [],
+    "pandas.tests.io.pytables.test_put.test_put_compression_blosc": [],
+    "pandas.tests.io.pytables.test_put.test_put_mixed_type": [],
+    "pandas.tests.io.pytables.test_put.test_store_index_types": [],
+    "pandas.tests.io.pytables.test_put.test_column_multiindex": [],
+    "pandas.tests.io.pytables.test_put.test_store_multiindex": []
+}

@@ -1,0 +1,18 @@
+{
+    "sklearn.neighbors._graph._check_params": [],
+    "sklearn.neighbors._graph._query_include_self": [],
+    "sklearn.neighbors._graph.kneighbors_graph": [],
+    "sklearn.neighbors._graph.radius_neighbors_graph": [],
+    "sklearn.neighbors._graph.KNeighborsTransformer.__init__": [],
+    "sklearn.neighbors._graph.KNeighborsTransformer.fit": [],
+    "sklearn.neighbors._graph.KNeighborsTransformer.transform": [],
+    "sklearn.neighbors._graph.KNeighborsTransformer.fit_transform": [],
+    "sklearn.neighbors._graph.KNeighborsTransformer._more_tags": [],
+    "sklearn.neighbors._graph.RadiusNeighborsTransformer.__init__": [],
+    "sklearn.neighbors._graph.RadiusNeighborsTransformer.fit": [],
+    "sklearn.neighbors._graph.RadiusNeighborsTransformer.transform": [],
+    "sklearn.neighbors._graph.RadiusNeighborsTransformer.fit_transform": [],
+    "sklearn.neighbors._graph.RadiusNeighborsTransformer._more_tags": [],
+    "sklearn.neighbors._graph.KNeighborsTransformer": [],
+    "sklearn.neighbors._graph.RadiusNeighborsTransformer": []
+}

@@ -1,0 +1,15 @@
+{
+    "numpy.f2py.capi_maps.load_f2cmap_file": [],
+    "numpy.f2py.capi_maps.getctype": [],
+    "numpy.f2py.capi_maps.getstrlength": [],
+    "numpy.f2py.capi_maps.getarrdims": [],
+    "numpy.f2py.capi_maps.getpydocsign": [],
+    "numpy.f2py.capi_maps.getarrdocsign": [],
+    "numpy.f2py.capi_maps.getinit": [],
+    "numpy.f2py.capi_maps.sign2map": [],
+    "numpy.f2py.capi_maps.routsign2map": [],
+    "numpy.f2py.capi_maps.modsign2map": [],
+    "numpy.f2py.capi_maps.cb_sign2map": [],
+    "numpy.f2py.capi_maps.cb_routsign2map": [],
+    "numpy.f2py.capi_maps.common_sign2map": []
+}

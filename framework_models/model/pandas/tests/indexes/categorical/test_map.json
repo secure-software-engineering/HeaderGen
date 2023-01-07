@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.categorical.test_map.TestMap.test_map_str": [],
+    "pandas.tests.indexes.categorical.test_map.TestMap.test_map": [],
+    "pandas.tests.indexes.categorical.test_map.TestMap.test_map_with_categorical_series": [],
+    "pandas.tests.indexes.categorical.test_map.TestMap.test_map_with_nan": [],
+    "pandas.tests.indexes.categorical.test_map.TestMap.test_map_with_dict_or_series": [],
+    "pandas.tests.indexes.categorical.test_map.TestMap": []
+}

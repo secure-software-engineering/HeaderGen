@@ -1,0 +1,11 @@
+{
+    "pandas.tests.extension.base.casting.BaseCastingTests.test_astype_object_series": [],
+    "pandas.tests.extension.base.casting.BaseCastingTests.test_astype_object_frame": [],
+    "pandas.tests.extension.base.casting.BaseCastingTests.test_tolist": [],
+    "pandas.tests.extension.base.casting.BaseCastingTests.test_astype_str": [],
+    "pandas.tests.extension.base.casting.BaseCastingTests.test_astype_string": [],
+    "pandas.tests.extension.base.casting.BaseCastingTests.test_to_numpy": [],
+    "pandas.tests.extension.base.casting.BaseCastingTests.test_astype_empty_dataframe": [],
+    "pandas.tests.extension.base.casting.BaseCastingTests.test_astype_own_type": [],
+    "pandas.tests.extension.base.casting.BaseCastingTests": []
+}

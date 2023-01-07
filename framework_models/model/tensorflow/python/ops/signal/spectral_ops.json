@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.signal.spectral_ops.stft": [],
+    "tensorflow.python.ops.signal.spectral_ops.inverse_stft_window_fn": [],
+    "tensorflow.python.ops.signal.spectral_ops.inverse_stft": [],
+    "tensorflow.python.ops.signal.spectral_ops._enclosing_power_of_two": [],
+    "tensorflow.python.ops.signal.spectral_ops.mdct": [],
+    "tensorflow.python.ops.signal.spectral_ops.inverse_mdct": []
+}

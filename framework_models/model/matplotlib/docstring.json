@@ -1,0 +1,13 @@
+{
+    "matplotlib.docstring._recursive_subclasses": [],
+    "matplotlib.docstring.copy": [],
+    "matplotlib.docstring.Substitution.__init__": [],
+    "matplotlib.docstring.Substitution.__call__": [],
+    "matplotlib.docstring.Substitution.update": [],
+    "matplotlib.docstring._ArtistKwdocLoader.__missing__": [],
+    "matplotlib.docstring._ArtistPropertiesSubstitution.__init__": [],
+    "matplotlib.docstring._ArtistPropertiesSubstitution.__call__": [],
+    "matplotlib.docstring.Substitution": [],
+    "matplotlib.docstring._ArtistKwdocLoader": [],
+    "matplotlib.docstring._ArtistPropertiesSubstitution": []
+}

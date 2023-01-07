@@ -1,0 +1,8 @@
+{
+    "pandas.io.excel._xlsxwriter._XlsxStyler.convert": [],
+    "pandas.io.excel._xlsxwriter.XlsxWriter.__init__": [],
+    "pandas.io.excel._xlsxwriter.XlsxWriter.save": [],
+    "pandas.io.excel._xlsxwriter.XlsxWriter.write_cells": [],
+    "pandas.io.excel._xlsxwriter._XlsxStyler": [],
+    "pandas.io.excel._xlsxwriter.XlsxWriter": []
+}

@@ -1,0 +1,10 @@
+{
+  "2": [
+    "pycg_external_module.ext.ParentInit.parent_fun"
+  ],
+  "3": [
+    "main_nb.A:2.fn:2",
+    "pycg_external_module.ext.ParentInit.__init__",
+    "pycg_external_module.ext.ParentInit.parent_fun"
+  ]
+}

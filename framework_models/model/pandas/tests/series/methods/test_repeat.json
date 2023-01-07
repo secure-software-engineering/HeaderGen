@@ -1,0 +1,6 @@
+{
+    "pandas.tests.series.methods.test_repeat.TestRepeat.test_repeat": [],
+    "pandas.tests.series.methods.test_repeat.TestRepeat.test_numpy_repeat": [],
+    "pandas.tests.series.methods.test_repeat.TestRepeat.test_repeat_with_multiindex": [],
+    "pandas.tests.series.methods.test_repeat.TestRepeat": []
+}

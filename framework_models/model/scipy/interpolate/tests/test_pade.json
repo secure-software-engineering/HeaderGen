@@ -1,0 +1,6 @@
+{
+    "scipy.interpolate.tests.test_pade.test_pade_trivial": [],
+    "scipy.interpolate.tests.test_pade.test_pade_4term_exp": [],
+    "scipy.interpolate.tests.test_pade.test_pade_ints": [],
+    "scipy.interpolate.tests.test_pade.test_pade_complex": []
+}

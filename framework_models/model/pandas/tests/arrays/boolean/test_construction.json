@@ -1,0 +1,18 @@
+{
+    "pandas.tests.arrays.boolean.test_construction.test_boolean_array_constructor": [],
+    "pandas.tests.arrays.boolean.test_construction.test_boolean_array_constructor_copy": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array_all_none": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array_missing_indicators": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array_error": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array_from_integer_array": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array_from_float_array": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array_integer_like": [],
+    "pandas.tests.arrays.boolean.test_construction.test_coerce_to_array": [],
+    "pandas.tests.arrays.boolean.test_construction.test_coerce_to_array_from_boolean_array": [],
+    "pandas.tests.arrays.boolean.test_construction.test_coerce_to_numpy_array": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array_from_strings": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_boolean_array_from_strings_invalid_string": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_numpy": [],
+    "pandas.tests.arrays.boolean.test_construction.test_to_numpy_copy": []
+}

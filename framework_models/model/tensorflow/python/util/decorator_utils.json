@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.util.decorator_utils.get_qualified_name": [],
+    "tensorflow.python.util.decorator_utils._normalize_docstring": [],
+    "tensorflow.python.util.decorator_utils.add_notice_to_docstring": [],
+    "tensorflow.python.util.decorator_utils.validate_callable": [],
+    "tensorflow.python.util.decorator_utils.cached_classproperty": [],
+    "tensorflow.python.util.decorator_utils.classproperty.__init__": [],
+    "tensorflow.python.util.decorator_utils.classproperty.__get__": [],
+    "tensorflow.python.util.decorator_utils._CachedClassProperty.__init__": [],
+    "tensorflow.python.util.decorator_utils._CachedClassProperty.__get__": [],
+    "tensorflow.python.util.decorator_utils._CachedClassProperty.__set__": [],
+    "tensorflow.python.util.decorator_utils._CachedClassProperty.__delete__": [],
+    "tensorflow.python.util.decorator_utils.classproperty": [],
+    "tensorflow.python.util.decorator_utils._CachedClassProperty": []
+}

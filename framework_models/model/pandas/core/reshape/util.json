@@ -1,0 +1,4 @@
+{
+    "pandas.core.reshape.util.cartesian_product": [],
+    "pandas.core.reshape.util.tile_compat": []
+}

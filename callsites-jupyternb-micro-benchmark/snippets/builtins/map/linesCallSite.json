@@ -1,0 +1,23 @@
+{
+  "5": [
+    "<builtin>.map",
+    "main.func:1"
+  ],
+  "10": [
+    "main.func:1"
+  ],
+  "13": [
+    "<builtin>.map",
+    "main.func2:9",
+    "main.func:1"
+  ],
+  "25": [
+    "<builtin>.map"
+  ],
+  "27": [
+    "main.func3:17"
+  ],
+  "28": [
+    "main.func3:17.func:19"
+  ]
+}

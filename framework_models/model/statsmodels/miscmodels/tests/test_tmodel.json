@@ -1,0 +1,13 @@
+{
+    "statsmodels.miscmodels.tests.test_tmodel.CheckTLinearModelMixin.test_basic": [],
+    "statsmodels.miscmodels.tests.test_tmodel.CheckTLinearModelMixin.test_bse": [],
+    "statsmodels.miscmodels.tests.test_tmodel.CheckTLinearModelMixin.test_fitted": [],
+    "statsmodels.miscmodels.tests.test_tmodel.CheckTLinearModelMixin.test_formula": [],
+    "statsmodels.miscmodels.tests.test_tmodel.CheckTLinearModelMixin.test_smoke": [],
+    "statsmodels.miscmodels.tests.test_tmodel.TestTModel.setup_class": [],
+    "statsmodels.miscmodels.tests.test_tmodel.TestTModelFixed.setup_class": [],
+    "statsmodels.miscmodels.tests.test_tmodel.TestTModelFixed.test_smoke": [],
+    "statsmodels.miscmodels.tests.test_tmodel.CheckTLinearModelMixin": [],
+    "statsmodels.miscmodels.tests.test_tmodel.TestTModel": [],
+    "statsmodels.miscmodels.tests.test_tmodel.TestTModelFixed": []
+}

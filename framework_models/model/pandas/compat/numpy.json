@@ -1,0 +1,5 @@
+{
+    "pandas.compat.numpy._tz_replacer": [],
+    "pandas.compat.numpy.np_datetime64_compat": [],
+    "pandas.compat.numpy.np_array_datetime64_compat": []
+}

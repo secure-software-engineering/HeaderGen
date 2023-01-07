@@ -1,0 +1,21 @@
+{
+    "numpy.polynomial.polyutils.trimseq": [],
+    "numpy.polynomial.polyutils.as_series": [],
+    "numpy.polynomial.polyutils.trimcoef": [],
+    "numpy.polynomial.polyutils.getdomain": [],
+    "numpy.polynomial.polyutils.mapparms": [],
+    "numpy.polynomial.polyutils.mapdomain": [],
+    "numpy.polynomial.polyutils._nth_slice": [],
+    "numpy.polynomial.polyutils._vander_nd": [],
+    "numpy.polynomial.polyutils._vander_nd_flat": [],
+    "numpy.polynomial.polyutils._fromroots": [],
+    "numpy.polynomial.polyutils._valnd": [],
+    "numpy.polynomial.polyutils._gridnd": [],
+    "numpy.polynomial.polyutils._div": [],
+    "numpy.polynomial.polyutils._add": [],
+    "numpy.polynomial.polyutils._sub": [],
+    "numpy.polynomial.polyutils._fit": [],
+    "numpy.polynomial.polyutils._pow": [],
+    "numpy.polynomial.polyutils._deprecate_as_int": [],
+    "numpy.polynomial.polyutils.RankWarning": []
+}

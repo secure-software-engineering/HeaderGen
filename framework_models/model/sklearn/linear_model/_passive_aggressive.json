@@ -1,0 +1,10 @@
+{
+    "sklearn.linear_model._passive_aggressive.PassiveAggressiveClassifier.__init__": [],
+    "sklearn.linear_model._passive_aggressive.PassiveAggressiveClassifier.partial_fit": [],
+    "sklearn.linear_model._passive_aggressive.PassiveAggressiveClassifier.fit": [],
+    "sklearn.linear_model._passive_aggressive.PassiveAggressiveRegressor.__init__": [],
+    "sklearn.linear_model._passive_aggressive.PassiveAggressiveRegressor.partial_fit": [],
+    "sklearn.linear_model._passive_aggressive.PassiveAggressiveRegressor.fit": [],
+    "sklearn.linear_model._passive_aggressive.PassiveAggressiveClassifier": [],
+    "sklearn.linear_model._passive_aggressive.PassiveAggressiveRegressor": []
+}

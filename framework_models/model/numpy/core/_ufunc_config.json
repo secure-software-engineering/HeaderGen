@@ -1,0 +1,14 @@
+{
+    "numpy.core._ufunc_config.seterr": [],
+    "numpy.core._ufunc_config.geterr": [],
+    "numpy.core._ufunc_config.setbufsize": [],
+    "numpy.core._ufunc_config.getbufsize": [],
+    "numpy.core._ufunc_config.seterrcall": [],
+    "numpy.core._ufunc_config.geterrcall": [],
+    "numpy.core._ufunc_config._setdef": [],
+    "numpy.core._ufunc_config.errstate.__init__": [],
+    "numpy.core._ufunc_config.errstate.__enter__": [],
+    "numpy.core._ufunc_config.errstate.__exit__": [],
+    "numpy.core._ufunc_config._unspecified": [],
+    "numpy.core._ufunc_config.errstate": []
+}

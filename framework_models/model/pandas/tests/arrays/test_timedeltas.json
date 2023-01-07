@@ -1,0 +1,11 @@
+{
+    "pandas.tests.arrays.test_timedeltas.TestTimedeltaArray.test_astype_int": [],
+    "pandas.tests.arrays.test_timedeltas.TestTimedeltaArray.test_setitem_clears_freq": [],
+    "pandas.tests.arrays.test_timedeltas.TestTimedeltaArray.test_setitem_objects": [],
+    "pandas.tests.arrays.test_timedeltas.TestTimedeltaArray.test_searchsorted_invalid_types": [],
+    "pandas.tests.arrays.test_timedeltas.TestUnaryOps.test_abs": [],
+    "pandas.tests.arrays.test_timedeltas.TestUnaryOps.test_neg": [],
+    "pandas.tests.arrays.test_timedeltas.TestUnaryOps.test_neg_freq": [],
+    "pandas.tests.arrays.test_timedeltas.TestTimedeltaArray": [],
+    "pandas.tests.arrays.test_timedeltas.TestUnaryOps": []
+}

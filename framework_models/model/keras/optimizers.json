@@ -1,0 +1,5 @@
+{
+    "keras.optimizers.serialize": [],
+    "keras.optimizers.deserialize": [],
+    "keras.optimizers.get": []
+}

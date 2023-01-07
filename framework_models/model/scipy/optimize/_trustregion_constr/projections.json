@@ -1,0 +1,8 @@
+{
+    "scipy.optimize._trustregion_constr.projections.orthogonality": [],
+    "scipy.optimize._trustregion_constr.projections.normal_equation_projections": [],
+    "scipy.optimize._trustregion_constr.projections.augmented_system_projections": [],
+    "scipy.optimize._trustregion_constr.projections.qr_factorization_projections": [],
+    "scipy.optimize._trustregion_constr.projections.svd_factorization_projections": [],
+    "scipy.optimize._trustregion_constr.projections.projections": []
+}

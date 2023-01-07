@@ -1,0 +1,14 @@
+{
+    "pandas.tests.frame.methods.test_nlargest.df_duplicates": [],
+    "pandas.tests.frame.methods.test_nlargest.df_strings": [],
+    "pandas.tests.frame.methods.test_nlargest.df_main_dtypes": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest.test_nlargest_n": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest.test_nlargest_error": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest.test_nlargest_all_dtypes": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest.test_nlargest_duplicates_on_starter_columns": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest.test_nlargest_n_identical_values": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest.test_nlargest_n_duplicate_index": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest.test_nlargest_duplicate_keep_all_ties": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest.test_nlargest_multiindex_column_lookup": [],
+    "pandas.tests.frame.methods.test_nlargest.TestNLargestNSmallest": []
+}

@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.ops.linalg_grad._MatrixInverseGrad": [],
+    "tensorflow.python.ops.linalg_grad._EinsumGrad": [],
+    "tensorflow.python.ops.linalg_grad._MatrixDeterminantGrad": [],
+    "tensorflow.python.ops.linalg_grad._MatrixSquareRootGrad": [],
+    "tensorflow.python.ops.linalg_grad._LogMatrixDeterminantGrad": [],
+    "tensorflow.python.ops.linalg_grad._CholeskyGrad": [],
+    "tensorflow.python.ops.linalg_grad._QrGrad": [],
+    "tensorflow.python.ops.linalg_grad._MatrixSolveGrad": [],
+    "tensorflow.python.ops.linalg_grad._MatrixSolveLsGrad": [],
+    "tensorflow.python.ops.linalg_grad._BandedTriangularSolveGrad": [],
+    "tensorflow.python.ops.linalg_grad._MatrixTriangularSolveGrad": [],
+    "tensorflow.python.ops.linalg_grad._SafeReciprocal": [],
+    "tensorflow.python.ops.linalg_grad._EigGrad": [],
+    "tensorflow.python.ops.linalg_grad._SelfAdjointEigV2Grad": [],
+    "tensorflow.python.ops.linalg_grad._SvdGrad": [],
+    "tensorflow.python.ops.linalg_grad._LeftShift": [],
+    "tensorflow.python.ops.linalg_grad._RightShift": [],
+    "tensorflow.python.ops.linalg_grad._TridiagonalMatMulGrad": [],
+    "tensorflow.python.ops.linalg_grad._TridiagonalSolveGrad": [],
+    "tensorflow.python.ops.linalg_grad._TransposeTridiagonalMatrix": [],
+    "tensorflow.python.ops.linalg_grad._MatmulExtractingThreeDiagonals": []
+}

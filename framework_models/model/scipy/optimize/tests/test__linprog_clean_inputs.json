@@ -1,0 +1,15 @@
+{
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_aliasing": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_aliasing2": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_missing_inputs": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_too_many_dimensions": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_too_few_dimensions": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_inconsistent_dimensions": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_type_errors": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_non_finite_errors": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test__clean_inputs1": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test__clean_inputs2": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test__clean_inputs3": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_bad_bounds": [],
+    "scipy.optimize.tests.test__linprog_clean_inputs.test_good_bounds": []
+}

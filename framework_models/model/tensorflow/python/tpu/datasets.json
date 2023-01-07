@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.tpu.datasets._TextLineDataset": [],
+    "tensorflow.python.tpu.datasets._TFRecordDataset": [],
+    "tensorflow.python.tpu.datasets.StreamingFilesDataset": []
+}

@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase._opFwdBwd": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase._npXent": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase._testXent2D": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase._testXentND": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase._testSingleClass": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testSingleClass": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testNpXent": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase._testLabelsBroadcast": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testLabelsBroadcast": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testShapeMismatch": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testHalf": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testFloat": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testDouble": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testGradient": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testGradientLabelWithV2": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testSecondGradient": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.test3D": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase.testZeroDimension": [],
+    "tensorflow.python.kernel_tests.xent_op_test_base.XentOpTestBase": []
+}

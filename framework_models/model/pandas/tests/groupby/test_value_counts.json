@@ -1,0 +1,8 @@
+{
+    "pandas.tests.groupby.test_value_counts.seed_df": [],
+    "pandas.tests.groupby.test_value_counts.test_series_groupby_value_counts": [],
+    "pandas.tests.groupby.test_value_counts.test_series_groupby_value_counts_with_grouper": [],
+    "pandas.tests.groupby.test_value_counts.test_series_groupby_value_counts_empty": [],
+    "pandas.tests.groupby.test_value_counts.test_series_groupby_value_counts_one_row": [],
+    "pandas.tests.groupby.test_value_counts.test_series_groupby_value_counts_on_categorical": []
+}

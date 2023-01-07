@@ -1,0 +1,22 @@
+{
+    "pandas.tests.util.test_assert_series_equal._assert_series_equal_both": [],
+    "pandas.tests.util.test_assert_series_equal._assert_not_series_equal": [],
+    "pandas.tests.util.test_assert_series_equal._assert_not_series_equal_both": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_not_equal_value_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_not_equal_metadata_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_less_precise": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal_index_dtype": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal_length_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal_numeric_values_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal_categorical_values_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal_datetime_values_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal_categorical_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_assert_series_equal_extension_dtype_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_assert_series_equal_interval_dtype_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal_series_type": [],
+    "pandas.tests.util.test_assert_series_equal.test_series_equal_exact_for_nonnumeric": [],
+    "pandas.tests.util.test_assert_series_equal.test_assert_series_equal_ignore_extension_dtype_mismatch": [],
+    "pandas.tests.util.test_assert_series_equal.test_allows_duplicate_labels": [],
+    "pandas.tests.util.test_assert_series_equal.test_assert_series_equal_identical_na": []
+}

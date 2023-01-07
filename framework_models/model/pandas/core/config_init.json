@@ -1,0 +1,10 @@
+{
+    "pandas.core.config_init.use_bottleneck_cb": [],
+    "pandas.core.config_init.use_numexpr_cb": [],
+    "pandas.core.config_init.use_numba_cb": [],
+    "pandas.core.config_init.table_schema_cb": [],
+    "pandas.core.config_init.is_terminal": [],
+    "pandas.core.config_init.use_inf_as_na_cb": [],
+    "pandas.core.config_init.register_plotting_backend_cb": [],
+    "pandas.core.config_init.register_converter_cb": []
+}

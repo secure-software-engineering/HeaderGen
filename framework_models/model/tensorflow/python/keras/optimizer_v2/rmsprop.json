@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop.__init__": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop._create_slots": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop._prepare_local": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop._resource_apply_dense": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop._resource_apply_sparse": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop.set_weights": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop.get_config": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop": ["MODEL_TRAINING"]
+}

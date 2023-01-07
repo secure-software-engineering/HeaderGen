@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.module.module._is_variable": [],
+    "tensorflow.python.module.module._is_trainable_variable": [],
+    "tensorflow.python.module.module._is_non_trainable_variable": [],
+    "tensorflow.python.module.module._is_module": [],
+    "tensorflow.python.module.module.valid_identifier": [],
+    "tensorflow.python.module.module.camel_to_snake": [],
+    "tensorflow.python.module.module._flatten_module": [],
+    "tensorflow.python.module.module.Module.__init__": [],
+    "tensorflow.python.module.module.Module.name": [],
+    "tensorflow.python.module.module.Module.name_scope": [],
+    "tensorflow.python.module.module.Module.variables": [],
+    "tensorflow.python.module.module.Module.trainable_variables": [],
+    "tensorflow.python.module.module.Module.non_trainable_variables": [],
+    "tensorflow.python.module.module.Module.submodules": [],
+    "tensorflow.python.module.module.Module._flatten": [],
+    "tensorflow.python.module.module.Module.with_name_scope": [],
+    "tensorflow.python.module.module.Module": []
+}

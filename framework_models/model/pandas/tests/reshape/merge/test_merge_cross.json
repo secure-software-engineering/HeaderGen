@@ -1,0 +1,8 @@
+{
+    "pandas.tests.reshape.merge.test_merge_cross.test_merge_cross": [],
+    "pandas.tests.reshape.merge.test_merge_cross.test_merge_cross_error_reporting": [],
+    "pandas.tests.reshape.merge.test_merge_cross.test_merge_cross_mixed_dtypes": [],
+    "pandas.tests.reshape.merge.test_merge_cross.test_merge_cross_more_than_one_column": [],
+    "pandas.tests.reshape.merge.test_merge_cross.test_merge_cross_null_values": [],
+    "pandas.tests.reshape.merge.test_merge_cross.test_join_cross_error_reporting": []
+}

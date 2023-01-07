@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.keras.initializers.populate_deserializable_objects": [],
+    "tensorflow.python.keras.initializers.serialize": [],
+    "tensorflow.python.keras.initializers.deserialize": [],
+    "tensorflow.python.keras.initializers.get": []
+}

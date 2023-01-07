@@ -1,0 +1,5 @@
+{
+    "numpy.distutils.command.install_data.install_data.run": [],
+    "numpy.distutils.command.install_data.install_data.finalize_options": [],
+    "numpy.distutils.command.install_data.install_data": []
+}

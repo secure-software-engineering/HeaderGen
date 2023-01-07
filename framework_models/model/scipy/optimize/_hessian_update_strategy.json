@@ -1,0 +1,23 @@
+{
+    "scipy.optimize._hessian_update_strategy.HessianUpdateStrategy.initialize": [],
+    "scipy.optimize._hessian_update_strategy.HessianUpdateStrategy.update": [],
+    "scipy.optimize._hessian_update_strategy.HessianUpdateStrategy.dot": [],
+    "scipy.optimize._hessian_update_strategy.HessianUpdateStrategy.get_matrix": [],
+    "scipy.optimize._hessian_update_strategy.FullHessianUpdateStrategy.__init__": [],
+    "scipy.optimize._hessian_update_strategy.FullHessianUpdateStrategy.initialize": [],
+    "scipy.optimize._hessian_update_strategy.FullHessianUpdateStrategy._auto_scale": [],
+    "scipy.optimize._hessian_update_strategy.FullHessianUpdateStrategy._update_implementation": [],
+    "scipy.optimize._hessian_update_strategy.FullHessianUpdateStrategy.update": [],
+    "scipy.optimize._hessian_update_strategy.FullHessianUpdateStrategy.dot": [],
+    "scipy.optimize._hessian_update_strategy.FullHessianUpdateStrategy.get_matrix": [],
+    "scipy.optimize._hessian_update_strategy.BFGS.__init__": [],
+    "scipy.optimize._hessian_update_strategy.BFGS._update_inverse_hessian": [],
+    "scipy.optimize._hessian_update_strategy.BFGS._update_hessian": [],
+    "scipy.optimize._hessian_update_strategy.BFGS._update_implementation": [],
+    "scipy.optimize._hessian_update_strategy.SR1.__init__": [],
+    "scipy.optimize._hessian_update_strategy.SR1._update_implementation": [],
+    "scipy.optimize._hessian_update_strategy.HessianUpdateStrategy": [],
+    "scipy.optimize._hessian_update_strategy.FullHessianUpdateStrategy": [],
+    "scipy.optimize._hessian_update_strategy.BFGS": [],
+    "scipy.optimize._hessian_update_strategy.SR1": []
+}

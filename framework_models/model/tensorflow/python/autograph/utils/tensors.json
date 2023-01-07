@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.autograph.utils.tensors.is_dense_tensor": [],
+    "tensorflow.python.autograph.utils.tensors.is_tensor_array": [],
+    "tensorflow.python.autograph.utils.tensors.is_tensor_list": [],
+    "tensorflow.python.autograph.utils.tensors.is_range_tensor": []
+}

@@ -1,0 +1,8 @@
+{
+    "scipy.signal._upfirdn._pad_h": [],
+    "scipy.signal._upfirdn._check_mode": [],
+    "scipy.signal._upfirdn.upfirdn": [],
+    "scipy.signal._upfirdn._UpFIRDn.__init__": [],
+    "scipy.signal._upfirdn._UpFIRDn.apply_filter": [],
+    "scipy.signal._upfirdn._UpFIRDn": []
+}

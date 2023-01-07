@@ -1,0 +1,11 @@
+{
+    "pandas.tests.indexes.categorical.test_append.TestAppend.ci": [],
+    "pandas.tests.indexes.categorical.test_append.TestAppend.test_append": [],
+    "pandas.tests.indexes.categorical.test_append.TestAppend.test_append_empty": [],
+    "pandas.tests.indexes.categorical.test_append.TestAppend.test_append_mismatched_categories": [],
+    "pandas.tests.indexes.categorical.test_append.TestAppend.test_append_category_objects": [],
+    "pandas.tests.indexes.categorical.test_append.TestAppend.test_append_non_categories": [],
+    "pandas.tests.indexes.categorical.test_append.TestAppend.test_append_object": [],
+    "pandas.tests.indexes.categorical.test_append.TestAppend.test_append_to_another": [],
+    "pandas.tests.indexes.categorical.test_append.TestAppend": []
+}

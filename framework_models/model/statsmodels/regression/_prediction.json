@@ -1,0 +1,9 @@
+{
+    "statsmodels.regression._prediction.get_prediction": [],
+    "statsmodels.regression._prediction.PredictionResults.__init__": [],
+    "statsmodels.regression._prediction.PredictionResults.se_obs": [],
+    "statsmodels.regression._prediction.PredictionResults.se_mean": [],
+    "statsmodels.regression._prediction.PredictionResults.conf_int": [],
+    "statsmodels.regression._prediction.PredictionResults.summary_frame": [],
+    "statsmodels.regression._prediction.PredictionResults": []
+}

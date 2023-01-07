@@ -1,0 +1,7 @@
+{
+    "pandas.tests.frame.methods.test_copy.TestCopy.test_copy_index_name_checking": [],
+    "pandas.tests.frame.methods.test_copy.TestCopy.test_copy_cache": [],
+    "pandas.tests.frame.methods.test_copy.TestCopy.test_copy": [],
+    "pandas.tests.frame.methods.test_copy.TestCopy.test_copy_consolidates": [],
+    "pandas.tests.frame.methods.test_copy.TestCopy": []
+}

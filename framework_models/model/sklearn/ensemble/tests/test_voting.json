@@ -1,0 +1,23 @@
+{
+    "sklearn.ensemble.tests.test_voting.test_voting_classifier_estimator_init": [],
+    "sklearn.ensemble.tests.test_voting.test_predictproba_hardvoting": [],
+    "sklearn.ensemble.tests.test_voting.test_notfitted": [],
+    "sklearn.ensemble.tests.test_voting.test_majority_label_iris": [],
+    "sklearn.ensemble.tests.test_voting.test_tie_situation": [],
+    "sklearn.ensemble.tests.test_voting.test_weights_iris": [],
+    "sklearn.ensemble.tests.test_voting.test_weights_regressor": [],
+    "sklearn.ensemble.tests.test_voting.test_predict_on_toy_problem": [],
+    "sklearn.ensemble.tests.test_voting.test_predict_proba_on_toy_problem": [],
+    "sklearn.ensemble.tests.test_voting.test_multilabel": [],
+    "sklearn.ensemble.tests.test_voting.test_gridsearch": [],
+    "sklearn.ensemble.tests.test_voting.test_parallel_fit": [],
+    "sklearn.ensemble.tests.test_voting.test_sample_weight": [],
+    "sklearn.ensemble.tests.test_voting.test_sample_weight_kwargs": [],
+    "sklearn.ensemble.tests.test_voting.test_voting_classifier_set_params": [],
+    "sklearn.ensemble.tests.test_voting.test_set_estimator_drop": [],
+    "sklearn.ensemble.tests.test_voting.test_estimator_weights_format": [],
+    "sklearn.ensemble.tests.test_voting.test_transform": [],
+    "sklearn.ensemble.tests.test_voting.test_none_estimator_with_weights": [],
+    "sklearn.ensemble.tests.test_voting.test_n_features_in": [],
+    "sklearn.ensemble.tests.test_voting.test_voting_verbose": []
+}

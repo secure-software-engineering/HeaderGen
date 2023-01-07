@@ -1,0 +1,6 @@
+{
+    "sklearn.inspection._permutation_importance._weights_scorer": [],
+    "sklearn.inspection._permutation_importance._calculate_permutation_scores": [],
+    "sklearn.inspection._permutation_importance._create_importances_bunch": [],
+    "sklearn.inspection._permutation_importance.permutation_importance": []
+}

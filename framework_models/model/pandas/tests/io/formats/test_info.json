@@ -1,0 +1,22 @@
+{
+    "pandas.tests.io.formats.test_info.duplicate_columns_frame": [],
+    "pandas.tests.io.formats.test_info.test_info_empty": [],
+    "pandas.tests.io.formats.test_info.test_info_categorical_column_smoke_test": [],
+    "pandas.tests.io.formats.test_info.test_info_smoke_test": [],
+    "pandas.tests.io.formats.test_info.test_info_default_verbose_selection": [],
+    "pandas.tests.io.formats.test_info.test_info_verbose_check_header_separator_body": [],
+    "pandas.tests.io.formats.test_info.test_info_verbose_with_counts_spacing": [],
+    "pandas.tests.io.formats.test_info.test_info_memory": [],
+    "pandas.tests.io.formats.test_info.test_info_wide": [],
+    "pandas.tests.io.formats.test_info.test_info_duplicate_columns_shows_correct_dtypes": [],
+    "pandas.tests.io.formats.test_info.test_info_shows_column_dtypes": [],
+    "pandas.tests.io.formats.test_info.test_info_max_cols": [],
+    "pandas.tests.io.formats.test_info.test_info_memory_usage": [],
+    "pandas.tests.io.formats.test_info.test_info_memory_usage_deep_not_pypy": [],
+    "pandas.tests.io.formats.test_info.test_info_memory_usage_deep_pypy": [],
+    "pandas.tests.io.formats.test_info.test_usage_via_getsizeof": [],
+    "pandas.tests.io.formats.test_info.test_info_memory_usage_qualified": [],
+    "pandas.tests.io.formats.test_info.test_info_memory_usage_bug_on_multiindex": [],
+    "pandas.tests.io.formats.test_info.test_info_categorical": [],
+    "pandas.tests.io.formats.test_info.test_info_int_columns": []
+}

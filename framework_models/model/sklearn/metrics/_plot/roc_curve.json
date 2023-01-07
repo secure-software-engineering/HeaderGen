@@ -1,0 +1,8 @@
+{
+    "sklearn.metrics._plot.roc_curve.plot_roc_curve": [],
+    "sklearn.metrics._plot.roc_curve.RocCurveDisplay.__init__": [],
+    "sklearn.metrics._plot.roc_curve.RocCurveDisplay.plot": [],
+    "sklearn.metrics._plot.roc_curve.RocCurveDisplay.from_estimator": [],
+    "sklearn.metrics._plot.roc_curve.RocCurveDisplay.from_predictions": [],
+    "sklearn.metrics._plot.roc_curve.RocCurveDisplay": []
+}

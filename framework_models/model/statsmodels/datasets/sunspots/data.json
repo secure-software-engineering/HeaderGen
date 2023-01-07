@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.sunspots.data.load_pandas": [],
+    "statsmodels.datasets.sunspots.data.load": [],
+    "statsmodels.datasets.sunspots.data._get_data": []
+}

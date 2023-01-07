@@ -1,0 +1,7 @@
+{
+    "pandas.tests.arrays.integer.test_repr.test_dtypes": [],
+    "pandas.tests.arrays.integer.test_repr.test_repr_dtype": [],
+    "pandas.tests.arrays.integer.test_repr.test_repr_array": [],
+    "pandas.tests.arrays.integer.test_repr.test_repr_array_long": [],
+    "pandas.tests.arrays.integer.test_repr.test_frame_repr": []
+}

@@ -1,0 +1,7 @@
+{
+    "matplotlib.testing.conftest.pytest_configure": [],
+    "matplotlib.testing.conftest.pytest_unconfigure": [],
+    "matplotlib.testing.conftest.mpl_test_settings": [],
+    "matplotlib.testing.conftest.mpl_image_comparison_parameters": [],
+    "matplotlib.testing.conftest.pd": []
+}

@@ -1,0 +1,14 @@
+{
+    "sklearn.ensemble._iforest._average_path_length": [],
+    "sklearn.ensemble._iforest.IsolationForest.__init__": [],
+    "sklearn.ensemble._iforest.IsolationForest._set_oob_score": [],
+    "sklearn.ensemble._iforest.IsolationForest._parallel_args": [],
+    "sklearn.ensemble._iforest.IsolationForest.fit": [],
+    "sklearn.ensemble._iforest.IsolationForest.predict": [],
+    "sklearn.ensemble._iforest.IsolationForest.decision_function": [],
+    "sklearn.ensemble._iforest.IsolationForest.score_samples": [],
+    "sklearn.ensemble._iforest.IsolationForest._compute_chunked_score_samples": [],
+    "sklearn.ensemble._iforest.IsolationForest._compute_score_samples": [],
+    "sklearn.ensemble._iforest.IsolationForest._more_tags": [],
+    "sklearn.ensemble._iforest.IsolationForest": []
+}

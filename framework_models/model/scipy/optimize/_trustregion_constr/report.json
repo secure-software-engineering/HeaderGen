@@ -1,0 +1,9 @@
+{
+    "scipy.optimize._trustregion_constr.report.ReportBase.print_header": [],
+    "scipy.optimize._trustregion_constr.report.ReportBase.print_iteration": [],
+    "scipy.optimize._trustregion_constr.report.ReportBase.print_footer": [],
+    "scipy.optimize._trustregion_constr.report.ReportBase": [],
+    "scipy.optimize._trustregion_constr.report.BasicReport": [],
+    "scipy.optimize._trustregion_constr.report.SQPReport": [],
+    "scipy.optimize._trustregion_constr.report.IPReport": []
+}

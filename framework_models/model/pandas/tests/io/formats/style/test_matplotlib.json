@@ -1,0 +1,18 @@
+{
+    "pandas.tests.io.formats.style.test_matplotlib.df": [],
+    "pandas.tests.io.formats.style.test_matplotlib.styler": [],
+    "pandas.tests.io.formats.style.test_matplotlib.df_blank": [],
+    "pandas.tests.io.formats.style.test_matplotlib.styler_blank": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_function_gradient": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_color": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_axis": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_text_color_threshold": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_vmin_vmax": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_int64": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_gmap_array": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_gmap_array_raises": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_gmap_dataframe_align": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_gmap_series_align": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_gmap_wrong_dataframe": [],
+    "pandas.tests.io.formats.style.test_matplotlib.test_background_gradient_gmap_wrong_series": []
+}

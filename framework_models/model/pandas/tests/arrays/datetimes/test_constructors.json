@@ -1,0 +1,18 @@
+{
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_from_sequence_invalid_type": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_only_1dim_accepted": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_freq_validation": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_mixing_naive_tzaware_raises": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_from_pandas_array": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_mismatched_timezone_raises": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_non_array_raises": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_bool_dtype_raises": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_incorrect_dtype_raises": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_freq_infer_raises": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor.test_copy": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestSequenceToDT64NS.test_tz_dtype_mismatch_raises": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestSequenceToDT64NS.test_tz_dtype_matches": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestSequenceToDT64NS.test_2d": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestDatetimeArrayConstructor": [],
+    "pandas.tests.arrays.datetimes.test_constructors.TestSequenceToDT64NS": []
+}

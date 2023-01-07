@@ -1,0 +1,19 @@
+{
+    "sklearn.preprocessing._polynomial.PolynomialFeatures.__init__": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures._combinations": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures._num_combinations": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures.powers_": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures.get_feature_names": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures.get_feature_names_out": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures.fit": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures.transform": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures.n_input_features_": [],
+    "sklearn.preprocessing._polynomial.SplineTransformer.__init__": [],
+    "sklearn.preprocessing._polynomial.SplineTransformer._get_base_knot_positions": [],
+    "sklearn.preprocessing._polynomial.SplineTransformer.get_feature_names": [],
+    "sklearn.preprocessing._polynomial.SplineTransformer.get_feature_names_out": [],
+    "sklearn.preprocessing._polynomial.SplineTransformer.fit": [],
+    "sklearn.preprocessing._polynomial.SplineTransformer.transform": [],
+    "sklearn.preprocessing._polynomial.PolynomialFeatures": [],
+    "sklearn.preprocessing._polynomial.SplineTransformer": []
+}

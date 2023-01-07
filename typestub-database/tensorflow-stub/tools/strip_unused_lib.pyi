@@ -1,0 +1,6 @@
+from tensorflow.core.framework import attr_value_pb2 as attr_value_pb2, graph_pb2 as graph_pb2, node_def_pb2 as node_def_pb2
+from tensorflow.python.framework import graph_util as graph_util
+from tensorflow.python.platform import gfile as gfile
+
+def strip_unused(input_graph_def, input_node_names, output_node_names, placeholder_type_enum): ...
+def strip_unused_from_files(input_graph, input_binary, output_graph, output_binary, input_node_names, output_node_names, placeholder_type_enum): ...

@@ -1,0 +1,23 @@
+{
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_requires_integer": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_timedelta64_with_nat": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_datetime_axis0_with_nat": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_datetime_with_nat_zero_periods": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_datetime_axis0": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_datetime_axis1": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_timedelta": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_mixed_dtype": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_neg_n": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_float_n": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_axis": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_period": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_axis1_mixed_dtypes": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_axis1_mixed_dtypes_large_periods": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_axis1_mixed_dtypes_negative_periods": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_sparse": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_integer_na": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_readonly": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff.test_diff_all_int_dtype": [],
+    "pandas.tests.frame.methods.test_diff.TestDataFrameDiff": []
+}

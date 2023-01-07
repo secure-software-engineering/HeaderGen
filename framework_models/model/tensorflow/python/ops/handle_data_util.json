@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.ops.handle_data_util.copy_handle_data": [],
+    "tensorflow.python.ops.handle_data_util.set_handle_data": []
+}

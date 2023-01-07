@@ -1,0 +1,17 @@
+{
+    "pandas.tests.window.test_expanding.test_doc_string": [],
+    "pandas.tests.window.test_expanding.test_constructor": [],
+    "pandas.tests.window.test_expanding.test_constructor_invalid": [],
+    "pandas.tests.window.test_expanding.test_numpy_compat": [],
+    "pandas.tests.window.test_expanding.test_empty_df_expanding": [],
+    "pandas.tests.window.test_expanding.test_missing_minp_zero": [],
+    "pandas.tests.window.test_expanding.test_expanding_axis": [],
+    "pandas.tests.window.test_expanding.test_expanding_count_with_min_periods": [],
+    "pandas.tests.window.test_expanding.test_expanding_count_default_min_periods_with_null_values": [],
+    "pandas.tests.window.test_expanding.test_expanding_count_with_min_periods_exceeding_series_length": [],
+    "pandas.tests.window.test_expanding.test_iter_expanding_dataframe": [],
+    "pandas.tests.window.test_expanding.test_iter_expanding_series": [],
+    "pandas.tests.window.test_expanding.test_center_deprecate_warning": [],
+    "pandas.tests.window.test_expanding.test_expanding_sem": [],
+    "pandas.tests.window.test_expanding.test_expanding_skew_kurt_numerical_stability": []
+}

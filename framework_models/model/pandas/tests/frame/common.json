@@ -1,0 +1,5 @@
+{
+    "pandas.tests.frame.common._check_mixed_float": [],
+    "pandas.tests.frame.common._check_mixed_int": [],
+    "pandas.tests.frame.common.zip_frames": []
+}

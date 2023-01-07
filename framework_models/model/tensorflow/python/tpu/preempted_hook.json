@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.tpu.preempted_hook.CloudTPUPreemptedHook.__init__": [],
+    "tensorflow.python.tpu.preempted_hook.CloudTPUPreemptedHook.after_create_session": [],
+    "tensorflow.python.tpu.preempted_hook.CloudTPUPreemptedHook.end": [],
+    "tensorflow.python.tpu.preempted_hook._TPUPollingThread.__init__": [],
+    "tensorflow.python.tpu.preempted_hook._TPUPollingThread.stop": [],
+    "tensorflow.python.tpu.preempted_hook._TPUPollingThread.run": [],
+    "tensorflow.python.tpu.preempted_hook.CloudTPUPreemptedHook": [],
+    "tensorflow.python.tpu.preempted_hook._TPUPollingThread": []
+}

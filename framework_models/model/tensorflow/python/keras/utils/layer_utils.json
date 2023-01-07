@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.keras.utils.layer_utils.get_source_inputs": [],
+    "tensorflow.python.keras.utils.layer_utils.validate_string_arg": [],
+    "tensorflow.python.keras.utils.layer_utils.count_params": [],
+    "tensorflow.python.keras.utils.layer_utils.print_summary": [],
+    "tensorflow.python.keras.utils.layer_utils.convert_dense_weights_data_format": [],
+    "tensorflow.python.keras.utils.layer_utils.is_builtin_layer": [],
+    "tensorflow.python.keras.utils.layer_utils.cached_per_instance": [],
+    "tensorflow.python.keras.utils.layer_utils.filter_empty_layer_containers": []
+}

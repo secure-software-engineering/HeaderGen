@@ -1,0 +1,9 @@
+{
+    "tensorflow.core.profiler.profiler_analysis_pb2_grpc.add_ProfileAnalysisServicer_to_server": [],
+    "tensorflow.core.profiler.profiler_analysis_pb2_grpc.ProfileAnalysisStub.__init__": [],
+    "tensorflow.core.profiler.profiler_analysis_pb2_grpc.ProfileAnalysisServicer.NewSession": [],
+    "tensorflow.core.profiler.profiler_analysis_pb2_grpc.ProfileAnalysisServicer.EnumSessions": [],
+    "tensorflow.core.profiler.profiler_analysis_pb2_grpc.ProfileAnalysisServicer.GetSessionToolData": [],
+    "tensorflow.core.profiler.profiler_analysis_pb2_grpc.ProfileAnalysisStub": [],
+    "tensorflow.core.profiler.profiler_analysis_pb2_grpc.ProfileAnalysisServicer": []
+}

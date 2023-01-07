@@ -1,0 +1,14 @@
+{
+    "pandas.tests.indexes.multi.test_analytics.test_shift": [],
+    "pandas.tests.indexes.multi.test_analytics.test_groupby": [],
+    "pandas.tests.indexes.multi.test_analytics.test_truncate_multiindex": [],
+    "pandas.tests.indexes.multi.test_analytics.test_reorder_levels": [],
+    "pandas.tests.indexes.multi.test_analytics.test_numpy_repeat": [],
+    "pandas.tests.indexes.multi.test_analytics.test_append_mixed_dtypes": [],
+    "pandas.tests.indexes.multi.test_analytics.test_iter": [],
+    "pandas.tests.indexes.multi.test_analytics.test_sub": [],
+    "pandas.tests.indexes.multi.test_analytics.test_map": [],
+    "pandas.tests.indexes.multi.test_analytics.test_map_dictlike": [],
+    "pandas.tests.indexes.multi.test_analytics.test_numpy_ufuncs": [],
+    "pandas.tests.indexes.multi.test_analytics.test_numpy_type_funcs": []
+}

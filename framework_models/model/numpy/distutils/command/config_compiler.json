@@ -1,0 +1,11 @@
+{
+    "numpy.distutils.command.config_compiler.show_fortran_compilers": [],
+    "numpy.distutils.command.config_compiler.config_fc.initialize_options": [],
+    "numpy.distutils.command.config_compiler.config_fc.finalize_options": [],
+    "numpy.distutils.command.config_compiler.config_fc.run": [],
+    "numpy.distutils.command.config_compiler.config_cc.initialize_options": [],
+    "numpy.distutils.command.config_compiler.config_cc.finalize_options": [],
+    "numpy.distutils.command.config_compiler.config_cc.run": [],
+    "numpy.distutils.command.config_compiler.config_fc": [],
+    "numpy.distutils.command.config_compiler.config_cc": []
+}

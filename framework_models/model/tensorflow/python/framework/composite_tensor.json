@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.framework.composite_tensor.replace_composites_with_components": [],
+    "tensorflow.python.framework.composite_tensor.CompositeTensor._type_spec": [],
+    "tensorflow.python.framework.composite_tensor.CompositeTensor._shape_invariant_to_type_spec": [],
+    "tensorflow.python.framework.composite_tensor.CompositeTensor._consumers": [],
+    "tensorflow.python.framework.composite_tensor.CompositeTensor": []
+}

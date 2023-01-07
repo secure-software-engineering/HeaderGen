@@ -1,0 +1,19 @@
+{
+    "statsmodels.distributions.copula.elliptical.EllipticalCopula._handle_args": [],
+    "statsmodels.distributions.copula.elliptical.EllipticalCopula.rvs": [],
+    "statsmodels.distributions.copula.elliptical.EllipticalCopula.pdf": [],
+    "statsmodels.distributions.copula.elliptical.EllipticalCopula.cdf": [],
+    "statsmodels.distributions.copula.elliptical.EllipticalCopula.tau": [],
+    "statsmodels.distributions.copula.elliptical.EllipticalCopula.corr_from_tau": [],
+    "statsmodels.distributions.copula.elliptical.GaussianCopula.__init__": [],
+    "statsmodels.distributions.copula.elliptical.GaussianCopula.dependence_tail": [],
+    "statsmodels.distributions.copula.elliptical.GaussianCopula._arg_from_tau": [],
+    "statsmodels.distributions.copula.elliptical.StudentTCopula.__init__": [],
+    "statsmodels.distributions.copula.elliptical.StudentTCopula.cdf": [],
+    "statsmodels.distributions.copula.elliptical.StudentTCopula.spearmans_rho": [],
+    "statsmodels.distributions.copula.elliptical.StudentTCopula.dependence_tail": [],
+    "statsmodels.distributions.copula.elliptical.StudentTCopula._arg_from_tau": [],
+    "statsmodels.distributions.copula.elliptical.EllipticalCopula": [],
+    "statsmodels.distributions.copula.elliptical.GaussianCopula": [],
+    "statsmodels.distributions.copula.elliptical.StudentTCopula": []
+}

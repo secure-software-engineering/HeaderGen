@@ -1,0 +1,5 @@
+{
+    "numpy.tests.test_reloading.test_numpy_reloading": [],
+    "numpy.tests.test_reloading.test_novalue": [],
+    "numpy.tests.test_reloading.test_full_reimport": []
+}

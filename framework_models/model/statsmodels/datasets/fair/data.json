@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.fair.data.load": [],
+    "statsmodels.datasets.fair.data.load_pandas": [],
+    "statsmodels.datasets.fair.data._get_data": []
+}

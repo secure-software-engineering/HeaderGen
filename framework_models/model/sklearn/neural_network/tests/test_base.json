@@ -1,0 +1,4 @@
+{
+    "sklearn.neural_network.tests.test_base.test_binary_log_loss_1_prob_finite": [],
+    "sklearn.neural_network.tests.test_base.test_log_loss_1_prob_finite": []
+}

@@ -1,0 +1,13 @@
+{
+    "scipy.optimize.tests.test_constraints.test_prepare_constraint_infeasible_x0": [],
+    "scipy.optimize.tests.test_constraints.test_violation": [],
+    "scipy.optimize.tests.test_constraints.test_new_bounds_to_old": [],
+    "scipy.optimize.tests.test_constraints.test_old_bounds_to_new": [],
+    "scipy.optimize.tests.test_constraints.test_bounds_repr": [],
+    "scipy.optimize.tests.test_constraints.test_Bounds_array": [],
+    "scipy.optimize.tests.test_constraints.TestStrictBounds.test_scalarvalue_unique_enforce_feasibility": [],
+    "scipy.optimize.tests.test_constraints.TestStrictBounds.test_vectorvalue_unique_enforce_feasibility": [],
+    "scipy.optimize.tests.test_constraints.TestStrictBounds.test_scalarvalue_vector_enforce_feasibility": [],
+    "scipy.optimize.tests.test_constraints.TestStrictBounds.test_vectorvalue_vector_enforce_feasibility": [],
+    "scipy.optimize.tests.test_constraints.TestStrictBounds": []
+}

@@ -1,0 +1,4 @@
+{
+    "scipy.ndimage.tests.test_datatypes.test_map_coordinates_dts": [],
+    "scipy.ndimage.tests.test_datatypes.test_uint64_max": []
+}

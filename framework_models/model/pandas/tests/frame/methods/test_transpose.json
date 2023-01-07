@@ -1,0 +1,12 @@
+{
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_tzaware_1col_single_tz": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_tzaware_2col_single_tz": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_tzaware_2col_mixed_tz": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_preserves_dtindex_equality_with_dst": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_object_to_tzaware_mixed_tz": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_uint64": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_float": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_get_view": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose.test_transpose_get_view_dt64tzget_view": [],
+    "pandas.tests.frame.methods.test_transpose.TestTranspose": []
+}

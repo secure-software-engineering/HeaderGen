@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.distribute.cluster_resolver.kubernetes_cluster_resolver.KubernetesClusterResolver.__init__": [],
+    "tensorflow.python.distribute.cluster_resolver.kubernetes_cluster_resolver.KubernetesClusterResolver.master": [],
+    "tensorflow.python.distribute.cluster_resolver.kubernetes_cluster_resolver.KubernetesClusterResolver.cluster_spec": [],
+    "tensorflow.python.distribute.cluster_resolver.kubernetes_cluster_resolver.KubernetesClusterResolver": []
+}

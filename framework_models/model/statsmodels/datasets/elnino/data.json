@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.elnino.data.load_pandas": [],
+    "statsmodels.datasets.elnino.data.load": [],
+    "statsmodels.datasets.elnino.data._get_data": []
+}

@@ -1,0 +1,15 @@
+{
+    "pandas.tests.arrays.test_period.test_registered": [],
+    "pandas.tests.arrays.test_period.test_asi8": [],
+    "pandas.tests.arrays.test_period.test_take_raises": [],
+    "pandas.tests.arrays.test_period.test_fillna_raises": [],
+    "pandas.tests.arrays.test_period.test_fillna_copies": [],
+    "pandas.tests.arrays.test_period.test_setitem": [],
+    "pandas.tests.arrays.test_period.test_setitem_raises_incompatible_freq": [],
+    "pandas.tests.arrays.test_period.test_setitem_raises_length": [],
+    "pandas.tests.arrays.test_period.test_setitem_raises_type": [],
+    "pandas.tests.arrays.test_period.test_sub_period": [],
+    "pandas.tests.arrays.test_period.test_where_different_freq_raises": [],
+    "pandas.tests.arrays.test_period.test_repr_small": [],
+    "pandas.tests.arrays.test_period.test_repr_large": []
+}

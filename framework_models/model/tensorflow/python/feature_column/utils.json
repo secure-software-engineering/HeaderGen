@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.feature_column.utils.sequence_length_from_sparse_tensor": [],
+    "tensorflow.python.feature_column.utils.assert_string_or_int": [],
+    "tensorflow.python.feature_column.utils.assert_key_is_string": [],
+    "tensorflow.python.feature_column.utils.check_default_value": [],
+    "tensorflow.python.feature_column.utils._create_tuple": [],
+    "tensorflow.python.feature_column.utils._as_tuple": [],
+    "tensorflow.python.feature_column.utils._is_shape_and_default_value_compatible": []
+}

@@ -1,0 +1,11 @@
+{
+  "12": [
+    "main.func:8",
+    "main.return_func:1"
+  ],
+  "13": [
+    "main.func:8",
+    "main.return_func:1",
+    "main.return_func:1.nested_return_func:2"
+  ]
+}

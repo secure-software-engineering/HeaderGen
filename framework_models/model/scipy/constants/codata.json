@@ -1,0 +1,10 @@
+{
+    "scipy.constants.codata.parse_constants_2002to2014": [],
+    "scipy.constants.codata.parse_constants_2018toXXXX": [],
+    "scipy.constants.codata._check_obsolete": [],
+    "scipy.constants.codata.value": [],
+    "scipy.constants.codata.unit": [],
+    "scipy.constants.codata.precision": [],
+    "scipy.constants.codata.find": [],
+    "scipy.constants.codata.ConstantWarning": []
+}

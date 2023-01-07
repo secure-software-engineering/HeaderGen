@@ -1,0 +1,5 @@
+{
+    "pandas.tests.arrays.period.test_reductions.TestReductions.test_min_max": [],
+    "pandas.tests.arrays.period.test_reductions.TestReductions.test_min_max_empty": [],
+    "pandas.tests.arrays.period.test_reductions.TestReductions": []
+}

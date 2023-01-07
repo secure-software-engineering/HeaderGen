@@ -1,0 +1,9 @@
+{
+    "sklearn.metrics._plot.tests.test_roc_curve_display.data": [],
+    "sklearn.metrics._plot.tests.test_roc_curve_display.data_binary": [],
+    "sklearn.metrics._plot.tests.test_roc_curve_display.test_roc_curve_display_plotting": [],
+    "sklearn.metrics._plot.tests.test_roc_curve_display.test_roc_curve_display_complex_pipeline": [],
+    "sklearn.metrics._plot.tests.test_roc_curve_display.test_roc_curve_display_default_labels": [],
+    "sklearn.metrics._plot.tests.test_roc_curve_display.test_plot_roc_curve_pos_label": [],
+    "sklearn.metrics._plot.tests.test_roc_curve_display.test_plot_precision_recall_curve_deprecation": []
+}

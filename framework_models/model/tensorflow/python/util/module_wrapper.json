@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.util.module_wrapper.get_rename_v2": [],
+    "tensorflow.python.util.module_wrapper._call_location": [],
+    "tensorflow.python.util.module_wrapper.contains_deprecation_decorator": [],
+    "tensorflow.python.util.module_wrapper.has_deprecation_decorator": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper.__init__": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper._tfmw_add_deprecation_warning": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper._tfmw_import_module": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper._getattribute": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper._getattr": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper.__setattr__": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper.__dir__": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper.__delattr__": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper.__repr__": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper.__reduce__": [],
+    "tensorflow.python.util.module_wrapper.TFModuleWrapper": []
+}

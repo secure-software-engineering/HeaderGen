@@ -1,0 +1,20 @@
+{
+    "pandas.core.sorting.get_indexer_indexer": [],
+    "pandas.core.sorting.get_group_index": [],
+    "pandas.core.sorting.get_compressed_ids": [],
+    "pandas.core.sorting.is_int64_overflow_possible": [],
+    "pandas.core.sorting.decons_group_index": [],
+    "pandas.core.sorting.decons_obs_group_ids": [],
+    "pandas.core.sorting.indexer_from_factorized": [],
+    "pandas.core.sorting.lexsort_indexer": [],
+    "pandas.core.sorting.nargsort": [],
+    "pandas.core.sorting.nargminmax": [],
+    "pandas.core.sorting._nanargminmax": [],
+    "pandas.core.sorting._ensure_key_mapped_multiindex": [],
+    "pandas.core.sorting.ensure_key_mapped": [],
+    "pandas.core.sorting.get_flattened_list": [],
+    "pandas.core.sorting.get_indexer_dict": [],
+    "pandas.core.sorting.get_group_index_sorter": [],
+    "pandas.core.sorting.compress_group_index": [],
+    "pandas.core.sorting._reorder_by_uniques": []
+}

@@ -1,0 +1,20 @@
+{
+    "pandas.tests.groupby.test_allowlist.df_allowlist_fixture": [],
+    "pandas.tests.groupby.test_allowlist.s_allowlist_fixture": [],
+    "pandas.tests.groupby.test_allowlist.mframe": [],
+    "pandas.tests.groupby.test_allowlist.df": [],
+    "pandas.tests.groupby.test_allowlist.df_letters": [],
+    "pandas.tests.groupby.test_allowlist.test_groupby_allowlist": [],
+    "pandas.tests.groupby.test_allowlist.check_allowlist": [],
+    "pandas.tests.groupby.test_allowlist.test_groupby_series_allowlist": [],
+    "pandas.tests.groupby.test_allowlist.test_groupby_frame_allowlist": [],
+    "pandas.tests.groupby.test_allowlist.raw_frame": [],
+    "pandas.tests.groupby.test_allowlist.test_regression_allowlist_methods": [],
+    "pandas.tests.groupby.test_allowlist.test_groupby_blocklist": [],
+    "pandas.tests.groupby.test_allowlist.test_tab_completion": [],
+    "pandas.tests.groupby.test_allowlist.test_groupby_function_rename": [],
+    "pandas.tests.groupby.test_allowlist.test_groupby_selection_with_methods": [],
+    "pandas.tests.groupby.test_allowlist.test_groupby_selection_tshift_raises": [],
+    "pandas.tests.groupby.test_allowlist.test_groupby_selection_other_methods": [],
+    "pandas.tests.groupby.test_allowlist.test_all_methods_categorized": []
+}

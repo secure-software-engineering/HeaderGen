@@ -1,0 +1,17 @@
+{
+    "statsmodels.tsa.forecasting.stl.STLForecast.__init__": [],
+    "statsmodels.tsa.forecasting.stl.STLForecast.fit": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.__init__": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.period": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.stl": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.result": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.model": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.model_result": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.summary": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults._get_seasonal_prediction": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults._seasonal_forecast": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.forecast": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults.get_prediction": [],
+    "statsmodels.tsa.forecasting.stl.STLForecast": [],
+    "statsmodels.tsa.forecasting.stl.STLForecastResults": []
+}

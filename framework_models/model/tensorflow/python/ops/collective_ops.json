@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.ops.collective_ops.all_reduce": [],
+    "tensorflow.python.ops.collective_ops.all_reduce_v2": [],
+    "tensorflow.python.ops.collective_ops.all_gather": [],
+    "tensorflow.python.ops.collective_ops.all_gather_v2": [],
+    "tensorflow.python.ops.collective_ops.broadcast_send": [],
+    "tensorflow.python.ops.collective_ops.broadcast_send_v2": [],
+    "tensorflow.python.ops.collective_ops.broadcast_recv": [],
+    "tensorflow.python.ops.collective_ops.broadcast_recv_v2": [],
+    "tensorflow.python.ops.collective_ops.initialize_communicator": [],
+    "tensorflow.python.ops.collective_ops.all_reduce_v3": [],
+    "tensorflow.python.ops.collective_ops.all_to_all_v3": []
+}

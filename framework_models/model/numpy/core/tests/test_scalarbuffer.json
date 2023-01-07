@@ -1,0 +1,12 @@
+{
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118.test_scalar_match_array": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118.test_scalar_dim": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118.test_scalar_code_and_properties": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118.test_scalar_buffers_readonly": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118.test_void_scalar_structured_data": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118._as_dict": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118.test_datetime_memoryview": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118.test_str_ucs4": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118.test_user_scalar_fails_buffer": [],
+    "numpy.core.tests.test_scalarbuffer.TestScalarPEP3118": []
+}

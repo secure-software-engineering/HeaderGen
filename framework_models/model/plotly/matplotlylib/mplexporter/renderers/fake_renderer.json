@@ -1,0 +1,17 @@
+{
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.__init__": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.open_figure": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.close_figure": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.open_axes": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.close_axes": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.open_legend": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.close_legend": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.draw_text": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.draw_path": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer.draw_image": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FullFakeRenderer.draw_line": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FullFakeRenderer.draw_markers": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FullFakeRenderer.draw_path_collection": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FakeRenderer": [],
+    "plotly.matplotlylib.mplexporter.renderers.fake_renderer.FullFakeRenderer": []
+}

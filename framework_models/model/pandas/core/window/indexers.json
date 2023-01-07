@@ -1,0 +1,21 @@
+{
+    "pandas.core.window.indexers.BaseIndexer.__init__": [],
+    "pandas.core.window.indexers.BaseIndexer.get_window_bounds": [],
+    "pandas.core.window.indexers.FixedWindowIndexer.get_window_bounds": [],
+    "pandas.core.window.indexers.VariableWindowIndexer.get_window_bounds": [],
+    "pandas.core.window.indexers.VariableOffsetWindowIndexer.__init__": [],
+    "pandas.core.window.indexers.VariableOffsetWindowIndexer.get_window_bounds": [],
+    "pandas.core.window.indexers.ExpandingIndexer.get_window_bounds": [],
+    "pandas.core.window.indexers.FixedForwardWindowIndexer.get_window_bounds": [],
+    "pandas.core.window.indexers.GroupbyIndexer.__init__": [],
+    "pandas.core.window.indexers.GroupbyIndexer.get_window_bounds": [],
+    "pandas.core.window.indexers.ExponentialMovingWindowIndexer.get_window_bounds": [],
+    "pandas.core.window.indexers.BaseIndexer": [],
+    "pandas.core.window.indexers.FixedWindowIndexer": [],
+    "pandas.core.window.indexers.VariableWindowIndexer": [],
+    "pandas.core.window.indexers.VariableOffsetWindowIndexer": [],
+    "pandas.core.window.indexers.ExpandingIndexer": [],
+    "pandas.core.window.indexers.FixedForwardWindowIndexer": [],
+    "pandas.core.window.indexers.GroupbyIndexer": [],
+    "pandas.core.window.indexers.ExponentialMovingWindowIndexer": []
+}

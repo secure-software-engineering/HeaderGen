@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.framework.auto_control_deps.op_is_stateful": [],
+    "tensorflow.python.framework.auto_control_deps.collective_manager_ids_from_op": [],
+    "tensorflow.python.framework.auto_control_deps.register_acd_resource_resolver": [],
+    "tensorflow.python.framework.auto_control_deps._get_resource_inputs": [],
+    "tensorflow.python.framework.auto_control_deps.automatic_control_dependencies": [],
+    "tensorflow.python.framework.auto_control_deps.AutomaticControlDependencies.__init__": [],
+    "tensorflow.python.framework.auto_control_deps.AutomaticControlDependencies.mark_as_return": [],
+    "tensorflow.python.framework.auto_control_deps.AutomaticControlDependencies.__enter__": [],
+    "tensorflow.python.framework.auto_control_deps.AutomaticControlDependencies._process_switch": [],
+    "tensorflow.python.framework.auto_control_deps.AutomaticControlDependencies.__exit__": [],
+    "tensorflow.python.framework.auto_control_deps.ResourceType": [],
+    "tensorflow.python.framework.auto_control_deps.AutomaticControlDependencies": []
+}

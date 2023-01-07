@@ -1,0 +1,5 @@
+{
+    "numpy.matrixlib.tests.test_numeric.test_diagonal": [],
+    "numpy.matrixlib.tests.test_numeric.TestDot.test_matscalar": [],
+    "numpy.matrixlib.tests.test_numeric.TestDot": []
+}

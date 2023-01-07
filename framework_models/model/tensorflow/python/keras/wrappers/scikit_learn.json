@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.keras.wrappers.scikit_learn.BaseWrapper.__init__": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.BaseWrapper.check_params": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.BaseWrapper.get_params": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.BaseWrapper.set_params": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.BaseWrapper.fit": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.BaseWrapper.filter_sk_params": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.KerasClassifier.fit": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.KerasClassifier.predict": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.KerasClassifier.predict_proba": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.KerasClassifier.score": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.KerasRegressor.predict": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.KerasRegressor.score": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.BaseWrapper": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.KerasClassifier": [],
+    "tensorflow.python.keras.wrappers.scikit_learn.KerasRegressor": []
+}

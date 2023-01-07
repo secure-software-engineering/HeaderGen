@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.util.deprecation._add_deprecated_function_notice_to_docstring": [],
+    "tensorflow.python.util.deprecation._add_deprecated_arg_notice_to_docstring": [],
+    "tensorflow.python.util.deprecation._add_deprecated_arg_value_notice_to_docstring": [],
+    "tensorflow.python.util.deprecation._validate_deprecation_args": [],
+    "tensorflow.python.util.deprecation._call_location": [],
+    "tensorflow.python.util.deprecation._safe_eq": [],
+    "tensorflow.python.util.deprecation._wrap_decorator": [],
+    "tensorflow.python.util.deprecation.deprecated_alias": [],
+    "tensorflow.python.util.deprecation.deprecated_endpoints": [],
+    "tensorflow.python.util.deprecation.deprecated": [],
+    "tensorflow.python.util.deprecation.deprecated_args": [],
+    "tensorflow.python.util.deprecation.deprecated_arg_values": [],
+    "tensorflow.python.util.deprecation.deprecated_argument_lookup": [],
+    "tensorflow.python.util.deprecation.rewrite_argument_docstring": [],
+    "tensorflow.python.util.deprecation.silence": [],
+    "tensorflow.python.util.deprecation.HiddenTfApiAttribute.__init__": [],
+    "tensorflow.python.util.deprecation.DeprecatedNamesAlreadySet": [],
+    "tensorflow.python.util.deprecation.HiddenTfApiAttribute": []
+}

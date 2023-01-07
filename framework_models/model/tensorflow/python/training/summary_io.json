@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.training.summary_io.SummaryWriter.__init__": [],
+    "tensorflow.python.training.summary_io.SummaryWriter": []
+}

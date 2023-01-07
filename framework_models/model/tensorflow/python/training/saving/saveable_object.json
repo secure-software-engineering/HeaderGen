@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.training.saving.saveable_object.SaveSpec.__init__": [],
+    "tensorflow.python.training.saving.saveable_object.SaveSpec.tensor": [],
+    "tensorflow.python.training.saving.saveable_object.SaveableObject.__init__": [],
+    "tensorflow.python.training.saving.saveable_object.SaveableObject.optional_restore": [],
+    "tensorflow.python.training.saving.saveable_object.SaveableObject.device": [],
+    "tensorflow.python.training.saving.saveable_object.SaveableObject.restore": [],
+    "tensorflow.python.training.saving.saveable_object.SaveSpec": [],
+    "tensorflow.python.training.saving.saveable_object.SaveableObject": []
+}

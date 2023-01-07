@@ -1,0 +1,8 @@
+{
+    "pandas.tests.frame.methods.test_first_and_last.TestFirst.test_first_subset": [],
+    "pandas.tests.frame.methods.test_first_and_last.TestFirst.test_first_last_raises": [],
+    "pandas.tests.frame.methods.test_first_and_last.TestFirst.test_last_subset": [],
+    "pandas.tests.frame.methods.test_first_and_last.TestFirst.test_first_with_first_day_last_of_month": [],
+    "pandas.tests.frame.methods.test_first_and_last.TestFirst.test_first_with_first_day_end_of_frq_n_greater_one": [],
+    "pandas.tests.frame.methods.test_first_and_last.TestFirst": []
+}

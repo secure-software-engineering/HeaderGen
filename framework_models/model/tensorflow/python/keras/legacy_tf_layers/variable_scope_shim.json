@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.as_shape": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._is_callable_object": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._has_kwargs": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.fn_args": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._is_bound_method": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.validate_synchronization_aggregation_trainable": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore.get_variable": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore._get_single_variable": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore.add_regularizer": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore._get_default_initializer": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableAndLossTracker.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableAndLossTracker._variable_creator": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableAndLossTracker.scope": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableAndLossTracker.get_regularization_losses": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableScopeWrapperLayer.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableScopeWrapperLayer.forward_pass": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableScopeWrapperLayer.call": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim._EagerVariableStore": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableAndLossTracker": [],
+    "tensorflow.python.keras.legacy_tf_layers.variable_scope_shim.VariableScopeWrapperLayer": []
+}

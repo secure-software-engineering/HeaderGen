@@ -1,0 +1,11 @@
+{
+    "pandas.tests.groupby.test_bin_groupby.test_series_grouper": [],
+    "pandas.tests.groupby.test_bin_groupby.test_series_grouper_result_length_difference": [],
+    "pandas.tests.groupby.test_bin_groupby.test_series_grouper_requires_nonempty_raises": [],
+    "pandas.tests.groupby.test_bin_groupby.test_series_bin_grouper": [],
+    "pandas.tests.groupby.test_bin_groupby.assert_block_lengths": [],
+    "pandas.tests.groupby.test_bin_groupby.cumsum_max": [],
+    "pandas.tests.groupby.test_bin_groupby.test_mgr_locs_updated": [],
+    "pandas.tests.groupby.test_bin_groupby.test_generate_bins": [],
+    "pandas.tests.groupby.test_bin_groupby.TestMoments": []
+}

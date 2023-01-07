@@ -1,0 +1,4 @@
+{
+    "matplotlib.tight_bbox.adjust_bbox": [],
+    "matplotlib.tight_bbox.process_figure_for_rasterizing": []
+}

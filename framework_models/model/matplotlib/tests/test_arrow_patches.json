@@ -1,0 +1,12 @@
+{
+    "matplotlib.tests.test_arrow_patches.draw_arrow": [],
+    "matplotlib.tests.test_arrow_patches.test_fancyarrow": [],
+    "matplotlib.tests.test_arrow_patches.test_boxarrow": [],
+    "matplotlib.tests.test_arrow_patches.__prepare_fancyarrow_dpi_cor_test": [],
+    "matplotlib.tests.test_arrow_patches.test_fancyarrow_dpi_cor_100dpi": [],
+    "matplotlib.tests.test_arrow_patches.test_fancyarrow_dpi_cor_200dpi": [],
+    "matplotlib.tests.test_arrow_patches.test_fancyarrow_dash": [],
+    "matplotlib.tests.test_arrow_patches.test_arrow_styles": [],
+    "matplotlib.tests.test_arrow_patches.test_connection_styles": [],
+    "matplotlib.tests.test_arrow_patches.test_invalid_intersection": []
+}

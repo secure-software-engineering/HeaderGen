@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.format_master_url": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver._load_tf_config": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver._get_value_in_tfconfig": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver.__init__": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver.task_type": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver.task_id": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver.environment": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver.rpc_layer": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver.num_accelerators": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver.cluster_spec": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver.master": [],
+    "tensorflow.python.distribute.cluster_resolver.tfconfig_cluster_resolver.TFConfigClusterResolver": []
+}

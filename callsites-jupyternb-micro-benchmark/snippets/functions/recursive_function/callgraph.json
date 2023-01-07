@@ -1,0 +1,8 @@
+{
+    "main": [
+        "main.recursive_func"
+    ],
+    "main.recursive_func": [
+        "main.recursive_func"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.training.moving_averages.assign_moving_average": [],
+    "tensorflow.python.training.moving_averages.weighted_moving_average": [],
+    "tensorflow.python.training.moving_averages._update": [],
+    "tensorflow.python.training.moving_averages._zero_debias": [],
+    "tensorflow.python.training.moving_averages.ExponentialMovingAverage.__init__": [],
+    "tensorflow.python.training.moving_averages.ExponentialMovingAverage.name": [],
+    "tensorflow.python.training.moving_averages.ExponentialMovingAverage.apply": [],
+    "tensorflow.python.training.moving_averages.ExponentialMovingAverage.average": [],
+    "tensorflow.python.training.moving_averages.ExponentialMovingAverage.average_name": [],
+    "tensorflow.python.training.moving_averages.ExponentialMovingAverage.variables_to_restore": [],
+    "tensorflow.python.training.moving_averages.ExponentialMovingAverage": []
+}

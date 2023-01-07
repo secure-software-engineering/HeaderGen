@@ -1,0 +1,6 @@
+{
+    "pandas.tests.tslibs.test_parse_iso8601.test_parsers_iso8601": [],
+    "pandas.tests.tslibs.test_parse_iso8601.test_parsers_iso8601_invalid": [],
+    "pandas.tests.tslibs.test_parse_iso8601.test_parsers_iso8601_invalid_offset_invalid": [],
+    "pandas.tests.tslibs.test_parse_iso8601.test_parsers_iso8601_leading_space": []
+}

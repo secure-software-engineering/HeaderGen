@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.autograph.core.converter.Feature.all": [],
+    "tensorflow.python.autograph.core.converter.Feature.all_but": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions.__init__": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions.as_tuple": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions.__hash__": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions.__eq__": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions.__str__": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions.uses": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions.call_options": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions.to_ast": [],
+    "tensorflow.python.autograph.core.converter.ProgramContext.__init__": [],
+    "tensorflow.python.autograph.core.converter.Base.__init__": [],
+    "tensorflow.python.autograph.core.converter.Base.get_definition_directive": [],
+    "tensorflow.python.autograph.core.converter.Base.visit": [],
+    "tensorflow.python.autograph.core.converter.Feature": [],
+    "tensorflow.python.autograph.core.converter.ConversionOptions": [],
+    "tensorflow.python.autograph.core.converter.ProgramContext": [],
+    "tensorflow.python.autograph.core.converter.Base": []
+}

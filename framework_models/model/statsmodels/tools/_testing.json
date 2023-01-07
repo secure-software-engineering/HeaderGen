@@ -1,0 +1,9 @@
+{
+    "statsmodels.tools._testing.check_ttest_tvalues": [],
+    "statsmodels.tools._testing.check_ftest_pvalues": [],
+    "statsmodels.tools._testing.check_fitted": [],
+    "statsmodels.tools._testing.check_predict_types": [],
+    "statsmodels.tools._testing.PytestTester.__init__": [],
+    "statsmodels.tools._testing.PytestTester.__call__": [],
+    "statsmodels.tools._testing.PytestTester": []
+}

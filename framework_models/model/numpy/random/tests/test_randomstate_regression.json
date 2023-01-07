@@ -1,0 +1,20 @@
+{
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_VonMises_range": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_hypergeometric_range": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_logseries_convergence": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_shuffle_mixed_dimension": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_call_within_randomstate": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_multivariate_normal_size_types": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_beta_small_parameters": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_choice_sum_of_probs_tolerance": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_shuffle_of_array_of_different_length_strings": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_shuffle_of_array_of_objects": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_permutation_subclass": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_warns_byteorder": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_named_argument_initialization": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_choice_retun_dtype": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_randint_117": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_p_zero_stream": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression.test_n_zero_stream": [],
+    "numpy.random.tests.test_randomstate_regression.TestRegression": []
+}

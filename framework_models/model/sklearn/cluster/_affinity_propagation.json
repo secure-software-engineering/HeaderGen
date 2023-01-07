@@ -1,0 +1,11 @@
+{
+    "sklearn.cluster._affinity_propagation._equal_similarities_and_preferences": [],
+    "sklearn.cluster._affinity_propagation.affinity_propagation": [],
+    "sklearn.cluster._affinity_propagation.AffinityPropagation.__init__": [],
+    "sklearn.cluster._affinity_propagation.AffinityPropagation._pairwise": [],
+    "sklearn.cluster._affinity_propagation.AffinityPropagation._more_tags": [],
+    "sklearn.cluster._affinity_propagation.AffinityPropagation.fit": [],
+    "sklearn.cluster._affinity_propagation.AffinityPropagation.predict": [],
+    "sklearn.cluster._affinity_propagation.AffinityPropagation.fit_predict": [],
+    "sklearn.cluster._affinity_propagation.AffinityPropagation": []
+}

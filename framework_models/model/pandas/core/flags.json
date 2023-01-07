@@ -1,0 +1,9 @@
+{
+    "pandas.core.flags.Flags.__init__": [],
+    "pandas.core.flags.Flags.allows_duplicate_labels": [],
+    "pandas.core.flags.Flags.__getitem__": [],
+    "pandas.core.flags.Flags.__setitem__": [],
+    "pandas.core.flags.Flags.__repr__": [],
+    "pandas.core.flags.Flags.__eq__": [],
+    "pandas.core.flags.Flags": []
+}

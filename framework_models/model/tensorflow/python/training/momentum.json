@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.training.momentum.MomentumOptimizer.__init__": [],
+    "tensorflow.python.training.momentum.MomentumOptimizer._create_slots": [],
+    "tensorflow.python.training.momentum.MomentumOptimizer._prepare": [],
+    "tensorflow.python.training.momentum.MomentumOptimizer._apply_dense": [],
+    "tensorflow.python.training.momentum.MomentumOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.momentum.MomentumOptimizer._apply_sparse": [],
+    "tensorflow.python.training.momentum.MomentumOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.momentum.MomentumOptimizer": []
+}

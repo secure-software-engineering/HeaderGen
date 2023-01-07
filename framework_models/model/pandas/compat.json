@@ -1,0 +1,10 @@
+{
+    "pandas.compat.set_function_name": [],
+    "pandas.compat.is_platform_little_endian": [],
+    "pandas.compat.is_platform_windows": [],
+    "pandas.compat.is_platform_linux": [],
+    "pandas.compat.is_platform_mac": [],
+    "pandas.compat.is_platform_arm": [],
+    "pandas.compat.import_lzma": [],
+    "pandas.compat.get_lzma_file": []
+}

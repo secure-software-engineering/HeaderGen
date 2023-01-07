@@ -1,0 +1,15 @@
+{
+    "pandas.tests.indexing.multiindex.test_partial.test_loc_getitem_partial_both_axis": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_getitem_partial_int": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_series_slice_partial": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_xs_partial": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_getitem_partial": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_fancy_slice_partial": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_getitem_partial_column_select": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_partial_set": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_getitem_intkey_leading_level": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_partial_loc_missing": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_setitem_multiple_partial": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial.test_partial_getitem_loc_datetime": [],
+    "pandas.tests.indexing.multiindex.test_partial.TestMultiIndexPartial": []
+}

@@ -1,0 +1,21 @@
+{
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_asfreq_near_zero": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_asfreq_near_zero_weekly": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_to_timestamp_out_of_bounds": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_asfreq_corner": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_annual": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_quarterly": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_monthly": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_weekly": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_weekly_legacy": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_business": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_daily": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_hourly": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_minutely": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_secondly": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_conv_microsecond": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_asfreq_mult": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_asfreq_combined": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion.test_asfreq_MS": [],
+    "pandas.tests.scalar.period.test_asfreq.TestFreqConversion": []
+}

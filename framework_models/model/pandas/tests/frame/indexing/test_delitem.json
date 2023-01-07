@@ -1,0 +1,7 @@
+{
+    "pandas.tests.frame.indexing.test_delitem.TestDataFrameDelItem.test_delitem": [],
+    "pandas.tests.frame.indexing.test_delitem.TestDataFrameDelItem.test_delitem_multiindex": [],
+    "pandas.tests.frame.indexing.test_delitem.TestDataFrameDelItem.test_delitem_corner": [],
+    "pandas.tests.frame.indexing.test_delitem.TestDataFrameDelItem.test_delitem_col_still_multiindex": [],
+    "pandas.tests.frame.indexing.test_delitem.TestDataFrameDelItem": []
+}

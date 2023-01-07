@@ -1,0 +1,11 @@
+{
+    "scipy.stats._binomtest._findp": [],
+    "scipy.stats._binomtest._binom_exact_conf_int": [],
+    "scipy.stats._binomtest._binom_wilson_conf_int": [],
+    "scipy.stats._binomtest.binomtest": [],
+    "scipy.stats._binomtest._binary_search_for_binom_tst": [],
+    "scipy.stats._binomtest.BinomTestResult.__init__": [],
+    "scipy.stats._binomtest.BinomTestResult.__repr__": [],
+    "scipy.stats._binomtest.BinomTestResult.proportion_ci": [],
+    "scipy.stats._binomtest.BinomTestResult": []
+}

@@ -1,0 +1,14 @@
+{
+    "sklearn.cluster.tests.test_birch.test_n_samples_leaves_roots": [],
+    "sklearn.cluster.tests.test_birch.test_partial_fit": [],
+    "sklearn.cluster.tests.test_birch.test_birch_predict": [],
+    "sklearn.cluster.tests.test_birch.test_n_clusters": [],
+    "sklearn.cluster.tests.test_birch.test_sparse_X": [],
+    "sklearn.cluster.tests.test_birch.test_partial_fit_second_call_error_checks": [],
+    "sklearn.cluster.tests.test_birch.check_branching_factor": [],
+    "sklearn.cluster.tests.test_birch.test_branching_factor": [],
+    "sklearn.cluster.tests.test_birch.check_threshold": [],
+    "sklearn.cluster.tests.test_birch.test_threshold": [],
+    "sklearn.cluster.tests.test_birch.test_birch_n_clusters_long_int": [],
+    "sklearn.cluster.tests.test_birch.test_birch_fit_attributes_deprecated": []
+}

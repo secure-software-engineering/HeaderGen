@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.data.experimental.ops.snapshot.legacy_snapshot": [],
+    "tensorflow.python.data.experimental.ops.snapshot.snapshot": [],
+    "tensorflow.python.data.experimental.ops.snapshot._LegacySnapshotDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.snapshot._LegacySnapshotDataset": []
+}

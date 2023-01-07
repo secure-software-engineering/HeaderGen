@@ -1,0 +1,9 @@
+{
+    "matplotlib.tests.test_backends_interactive._get_testable_interactive_backends": [],
+    "matplotlib.tests.test_backends_interactive._test_interactive_impl": [],
+    "matplotlib.tests.test_backends_interactive.test_interactive_backend": [],
+    "matplotlib.tests.test_backends_interactive._test_thread_impl": [],
+    "matplotlib.tests.test_backends_interactive.test_interactive_thread_safety": [],
+    "matplotlib.tests.test_backends_interactive.test_webagg": [],
+    "matplotlib.tests.test_backends_interactive.test_lazy_linux_headless": []
+}

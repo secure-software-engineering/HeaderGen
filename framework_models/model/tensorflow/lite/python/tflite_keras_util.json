@@ -1,0 +1,8 @@
+{
+    "tensorflow.lite.python.tflite_keras_util._enforce_names_consistency": [],
+    "tensorflow.lite.python.tflite_keras_util.model_input_signature": [],
+    "tensorflow.lite.python.tflite_keras_util.raise_model_input_error": [],
+    "tensorflow.lite.python.tflite_keras_util._create_pseudo_names": [],
+    "tensorflow.lite.python.tflite_keras_util.create_pseudo_output_names": [],
+    "tensorflow.lite.python.tflite_keras_util.trace_model_call": []
+}

@@ -1,0 +1,8 @@
+{
+    "statsmodels.tsa.filters.filtertools._pad_nans": [],
+    "statsmodels.tsa.filters.filtertools.fftconvolveinv": [],
+    "statsmodels.tsa.filters.filtertools.fftconvolve3": [],
+    "statsmodels.tsa.filters.filtertools.recursive_filter": [],
+    "statsmodels.tsa.filters.filtertools.convolution_filter": [],
+    "statsmodels.tsa.filters.filtertools.miso_lfilter": []
+}

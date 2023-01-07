@@ -1,0 +1,8 @@
+{
+    "sklearn.tests.test_metaestimators.test_metaestimator_delegation": [],
+    "sklearn.tests.test_metaestimators._generate_meta_estimator_instances_with_pipeline": [],
+    "sklearn.tests.test_metaestimators._get_meta_estimator_id": [],
+    "sklearn.tests.test_metaestimators.test_meta_estimators_delegate_data_validation": [],
+    "sklearn.tests.test_metaestimators.DelegatorData.__init__": [],
+    "sklearn.tests.test_metaestimators.DelegatorData": []
+}

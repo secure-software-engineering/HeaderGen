@@ -1,0 +1,7 @@
+{
+    "pandas._testing._warnings.assert_produces_warning": [],
+    "pandas._testing._warnings._assert_caught_expected_warning": [],
+    "pandas._testing._warnings._assert_caught_no_extra_warnings": [],
+    "pandas._testing._warnings._is_unexpected_warning": [],
+    "pandas._testing._warnings._assert_raised_with_correct_stacklevel": []
+}

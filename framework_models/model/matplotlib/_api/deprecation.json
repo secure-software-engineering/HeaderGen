@@ -1,0 +1,16 @@
+{
+    "matplotlib._api.deprecation._generate_deprecation_warning": [],
+    "matplotlib._api.deprecation.warn_deprecated": [],
+    "matplotlib._api.deprecation.deprecated": [],
+    "matplotlib._api.deprecation.rename_parameter": [],
+    "matplotlib._api.deprecation.delete_parameter": [],
+    "matplotlib._api.deprecation.make_keyword_only": [],
+    "matplotlib._api.deprecation.deprecate_method_override": [],
+    "matplotlib._api.deprecation.suppress_matplotlib_deprecation_warning": [],
+    "matplotlib._api.deprecation.deprecate_privatize_attribute.__init__": [],
+    "matplotlib._api.deprecation.deprecate_privatize_attribute.__set_name__": [],
+    "matplotlib._api.deprecation._deprecated_parameter_class.__repr__": [],
+    "matplotlib._api.deprecation.MatplotlibDeprecationWarning": [],
+    "matplotlib._api.deprecation.deprecate_privatize_attribute": [],
+    "matplotlib._api.deprecation._deprecated_parameter_class": []
+}

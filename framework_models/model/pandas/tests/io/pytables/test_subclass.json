@@ -1,0 +1,5 @@
+{
+    "pandas.tests.io.pytables.test_subclass.TestHDFStoreSubclass.test_supported_for_subclass_dataframe": [],
+    "pandas.tests.io.pytables.test_subclass.TestHDFStoreSubclass.test_supported_for_subclass_series": [],
+    "pandas.tests.io.pytables.test_subclass.TestHDFStoreSubclass": []
+}

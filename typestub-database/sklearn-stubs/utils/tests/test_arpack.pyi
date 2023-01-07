@@ -1,0 +1,3 @@
+from sklearn.utils import check_random_state as check_random_state
+
+def test_init_arpack_v0(seed) -> None: ...

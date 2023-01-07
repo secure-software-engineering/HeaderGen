@@ -1,0 +1,14 @@
+{
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.update_executables": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.get_flags_linker_so": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.library_dir_option": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.library_option": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.get_library_dirs": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.get_libraries": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.get_flags_f77": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.get_flags_f90": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.get_flags_fix": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.absoft.AbsoftFCompiler": []
+}

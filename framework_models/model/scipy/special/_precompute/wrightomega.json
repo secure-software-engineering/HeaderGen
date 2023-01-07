@@ -1,0 +1,6 @@
+{
+    "scipy.special._precompute.wrightomega.mpmath_wrightomega": [],
+    "scipy.special._precompute.wrightomega.wrightomega_series_error": [],
+    "scipy.special._precompute.wrightomega.wrightomega_exp_error": [],
+    "scipy.special._precompute.wrightomega.main": []
+}

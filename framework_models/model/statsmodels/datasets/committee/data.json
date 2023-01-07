@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.committee.data.load_pandas": [],
+    "statsmodels.datasets.committee.data.load": [],
+    "statsmodels.datasets.committee.data._get_data": []
+}

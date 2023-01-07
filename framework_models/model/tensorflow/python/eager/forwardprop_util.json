@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.eager.forwardprop_util.pack_tangents": [],
+    "tensorflow.python.eager.forwardprop_util.push_forwardprop_state": [],
+    "tensorflow.python.eager.forwardprop_util.TangentInfo.__new__": [],
+    "tensorflow.python.eager.forwardprop_util.TangentInfo": []
+}

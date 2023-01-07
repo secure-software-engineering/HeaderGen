@@ -1,0 +1,18 @@
+{
+    "scipy._lib._ccallback._import_cffi": [],
+    "scipy._lib._ccallback._get_ctypes_func": [],
+    "scipy._lib._ccallback._typename_from_ctypes": [],
+    "scipy._lib._ccallback._get_ctypes_data": [],
+    "scipy._lib._ccallback._get_cffi_func": [],
+    "scipy._lib._ccallback._get_cffi_data": [],
+    "scipy._lib._ccallback.LowLevelCallable.__new__": [],
+    "scipy._lib._ccallback.LowLevelCallable.__repr__": [],
+    "scipy._lib._ccallback.LowLevelCallable.function": [],
+    "scipy._lib._ccallback.LowLevelCallable.user_data": [],
+    "scipy._lib._ccallback.LowLevelCallable.signature": [],
+    "scipy._lib._ccallback.LowLevelCallable.__getitem__": [],
+    "scipy._lib._ccallback.LowLevelCallable.from_cython": [],
+    "scipy._lib._ccallback.LowLevelCallable._parse_callback": [],
+    "scipy._lib._ccallback.CData": [],
+    "scipy._lib._ccallback.LowLevelCallable": []
+}

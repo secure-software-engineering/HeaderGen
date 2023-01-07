@@ -1,0 +1,4 @@
+{
+    "statsmodels.tests.test_package.test_lazy_imports": [],
+    "statsmodels.tests.test_package.test_docstring_optimization_compat": []
+}

@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue.__init__": [],
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue.flat_values": [],
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue.nested_row_splits": [],
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue.ragged_rank": [],
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue.shape": [],
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue.__str__": [],
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue.__repr__": [],
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue.to_list": [],
+    "tensorflow.python.ops.ragged.ragged_tensor_value.RaggedTensorValue": []
+}

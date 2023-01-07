@@ -1,0 +1,9 @@
+{
+    "statsmodels.tsa.statespace.tests.test_concentrated.get_sarimax_models": [],
+    "statsmodels.tsa.statespace.tests.test_concentrated.test_concentrated_loglike_sarimax": [],
+    "statsmodels.tsa.statespace.tests.test_concentrated.test_concentrated_predict_sarimax": [],
+    "statsmodels.tsa.statespace.tests.test_concentrated.test_fixed_scale_sarimax": [],
+    "statsmodels.tsa.statespace.tests.test_concentrated.check_concentrated_scale": [],
+    "statsmodels.tsa.statespace.tests.test_concentrated.test_concentrated_scale_conventional": [],
+    "statsmodels.tsa.statespace.tests.test_concentrated.test_concentrated_scale_univariate": []
+}

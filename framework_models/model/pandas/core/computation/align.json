@@ -1,0 +1,9 @@
+{
+    "pandas.core.computation.align._align_core_single_unary_op": [],
+    "pandas.core.computation.align._zip_axes_from_type": [],
+    "pandas.core.computation.align._any_pandas_objects": [],
+    "pandas.core.computation.align._filter_special_cases": [],
+    "pandas.core.computation.align._align_core": [],
+    "pandas.core.computation.align.align_terms": [],
+    "pandas.core.computation.align.reconstruct_object": []
+}

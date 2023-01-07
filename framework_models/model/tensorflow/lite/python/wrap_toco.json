@@ -1,0 +1,8 @@
+{
+    "tensorflow.lite.python.wrap_toco.wrapped_toco_convert": [],
+    "tensorflow.lite.python.wrap_toco.wrapped_experimental_mlir_quantize": [],
+    "tensorflow.lite.python.wrap_toco.wrapped_experimental_mlir_sparsify": [],
+    "tensorflow.lite.python.wrap_toco.wrapped_register_custom_opdefs": [],
+    "tensorflow.lite.python.wrap_toco.wrapped_retrieve_collected_errors": [],
+    "tensorflow.lite.python.wrap_toco.wrapped_flat_buffer_file_to_mlir": []
+}

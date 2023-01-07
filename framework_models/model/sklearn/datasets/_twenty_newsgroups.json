@@ -1,0 +1,8 @@
+{
+    "sklearn.datasets._twenty_newsgroups._download_20newsgroups": [],
+    "sklearn.datasets._twenty_newsgroups.strip_newsgroup_header": [],
+    "sklearn.datasets._twenty_newsgroups.strip_newsgroup_quoting": [],
+    "sklearn.datasets._twenty_newsgroups.strip_newsgroup_footer": [],
+    "sklearn.datasets._twenty_newsgroups.fetch_20newsgroups": [],
+    "sklearn.datasets._twenty_newsgroups.fetch_20newsgroups_vectorized": []
+}

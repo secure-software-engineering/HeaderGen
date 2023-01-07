@@ -1,0 +1,23 @@
+{
+    "pandas.tests.extension.base.ops.BaseOpsUtil.get_op_from_name": [],
+    "pandas.tests.extension.base.ops.BaseOpsUtil.check_opname": [],
+    "pandas.tests.extension.base.ops.BaseOpsUtil._combine": [],
+    "pandas.tests.extension.base.ops.BaseOpsUtil._check_op": [],
+    "pandas.tests.extension.base.ops.BaseOpsUtil._check_divmod_op": [],
+    "pandas.tests.extension.base.ops.BaseArithmeticOpsTests.test_arith_series_with_scalar": [],
+    "pandas.tests.extension.base.ops.BaseArithmeticOpsTests.test_arith_frame_with_scalar": [],
+    "pandas.tests.extension.base.ops.BaseArithmeticOpsTests.test_arith_series_with_array": [],
+    "pandas.tests.extension.base.ops.BaseArithmeticOpsTests.test_divmod": [],
+    "pandas.tests.extension.base.ops.BaseArithmeticOpsTests.test_divmod_series_array": [],
+    "pandas.tests.extension.base.ops.BaseArithmeticOpsTests.test_add_series_with_extension_array": [],
+    "pandas.tests.extension.base.ops.BaseArithmeticOpsTests.test_direct_arith_with_ndframe_returns_not_implemented": [],
+    "pandas.tests.extension.base.ops.BaseComparisonOpsTests._compare_other": [],
+    "pandas.tests.extension.base.ops.BaseComparisonOpsTests.test_compare_scalar": [],
+    "pandas.tests.extension.base.ops.BaseComparisonOpsTests.test_compare_array": [],
+    "pandas.tests.extension.base.ops.BaseComparisonOpsTests.test_direct_arith_with_ndframe_returns_not_implemented": [],
+    "pandas.tests.extension.base.ops.BaseUnaryOpsTests.test_invert": [],
+    "pandas.tests.extension.base.ops.BaseOpsUtil": [],
+    "pandas.tests.extension.base.ops.BaseArithmeticOpsTests": [],
+    "pandas.tests.extension.base.ops.BaseComparisonOpsTests": [],
+    "pandas.tests.extension.base.ops.BaseUnaryOpsTests": []
+}

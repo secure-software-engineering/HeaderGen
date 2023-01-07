@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.eager.forwardprop._identity_jvp": [],
+    "tensorflow.python.eager.forwardprop._read_variable_jvp": [],
+    "tensorflow.python.eager.forwardprop._jvp_helper": [],
+    "tensorflow.python.eager.forwardprop._jvp_helper_wrapper": [],
+    "tensorflow.python.eager.forwardprop._jvp_dispatch": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator.__init__": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator.__enter__": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator.__exit__": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator._push_accumulator": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator._pop_accumulator": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator._watch": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator.jvp": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator._batch_accumulator": [],
+    "tensorflow.python.eager.forwardprop.ForwardAccumulator": []
+}

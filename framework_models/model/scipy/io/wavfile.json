@@ -1,0 +1,13 @@
+{
+    "scipy.io.wavfile._raise_bad_format": [],
+    "scipy.io.wavfile._read_fmt_chunk": [],
+    "scipy.io.wavfile._read_data_chunk": [],
+    "scipy.io.wavfile._skip_unknown_chunk": [],
+    "scipy.io.wavfile._read_riff_chunk": [],
+    "scipy.io.wavfile._handle_pad_byte": [],
+    "scipy.io.wavfile.read": [],
+    "scipy.io.wavfile.write": [],
+    "scipy.io.wavfile._array_tofile": [],
+    "scipy.io.wavfile.WavFileWarning": [],
+    "scipy.io.wavfile.WAVE_FORMAT": []
+}

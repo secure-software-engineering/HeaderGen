@@ -1,0 +1,22 @@
+{
+    "plotly.matplotlylib.renderer.warning_on_one_line": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.__init__": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.open_figure": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.close_figure": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.open_axes": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.close_axes": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_bars": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_bar": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_legend_shapes": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_marked_line": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_image": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_path_collection": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_path": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_text": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_title": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_xlabel": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.draw_ylabel": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.resize": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer.strip_style": [],
+    "plotly.matplotlylib.renderer.PlotlyRenderer": []
+}

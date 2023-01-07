@@ -1,0 +1,15 @@
+{
+    "keras.engine.base_preprocessing_layer._disallow_inside_tf_function": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer.__init__": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer.is_adapted": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer.update_state": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer.reset_state": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer.finalize_state": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer.make_adapt_function": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer.compile": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer.adapt": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer._reset_state_wrapper": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer._configure_steps_per_execution": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer._adapt_maybe_build": [],
+    "keras.engine.base_preprocessing_layer.PreprocessingLayer": []
+}

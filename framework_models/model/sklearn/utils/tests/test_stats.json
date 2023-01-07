@@ -1,0 +1,9 @@
+{
+    "sklearn.utils.tests.test_stats.test_weighted_percentile": [],
+    "sklearn.utils.tests.test_stats.test_weighted_percentile_equal": [],
+    "sklearn.utils.tests.test_stats.test_weighted_percentile_zero_weight": [],
+    "sklearn.utils.tests.test_stats.test_weighted_percentile_zero_weight_zero_percentile": [],
+    "sklearn.utils.tests.test_stats.test_weighted_median_equal_weights": [],
+    "sklearn.utils.tests.test_stats.test_weighted_median_integer_weights": [],
+    "sklearn.utils.tests.test_stats.test_weighted_percentile_2d": []
+}

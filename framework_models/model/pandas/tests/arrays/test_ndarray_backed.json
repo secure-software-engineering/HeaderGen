@@ -1,0 +1,8 @@
+{
+    "pandas.tests.arrays.test_ndarray_backed.TestEmpty.test_empty_categorical": [],
+    "pandas.tests.arrays.test_ndarray_backed.TestEmpty.test_empty_dt64tz": [],
+    "pandas.tests.arrays.test_ndarray_backed.TestEmpty.test_empty_dt64": [],
+    "pandas.tests.arrays.test_ndarray_backed.TestEmpty.test_empty_td64": [],
+    "pandas.tests.arrays.test_ndarray_backed.TestEmpty.test_empty_pandas_array": [],
+    "pandas.tests.arrays.test_ndarray_backed.TestEmpty": []
+}

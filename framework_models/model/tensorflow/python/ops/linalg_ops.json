@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.ops.linalg_ops._RegularizedGramianCholesky": [],
+    "tensorflow.python.ops.linalg_ops.matrix_triangular_solve": [],
+    "tensorflow.python.ops.linalg_ops.cholesky_solve": [],
+    "tensorflow.python.ops.linalg_ops.eye": [],
+    "tensorflow.python.ops.linalg_ops.matrix_solve_ls": [],
+    "tensorflow.python.ops.linalg_ops.eig": [],
+    "tensorflow.python.ops.linalg_ops.eigvals": [],
+    "tensorflow.python.ops.linalg_ops.self_adjoint_eig": [],
+    "tensorflow.python.ops.linalg_ops.self_adjoint_eigvals": [],
+    "tensorflow.python.ops.linalg_ops.svd": [],
+    "tensorflow.python.ops.linalg_ops.norm_v2": [],
+    "tensorflow.python.ops.linalg_ops.norm": []
+}

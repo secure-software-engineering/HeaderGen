@@ -1,0 +1,9 @@
+{
+    "statsmodels.iolib.openfile._open": [],
+    "statsmodels.iolib.openfile.get_file_obj": [],
+    "statsmodels.iolib.openfile.EmptyContextManager.__init__": [],
+    "statsmodels.iolib.openfile.EmptyContextManager.__enter__": [],
+    "statsmodels.iolib.openfile.EmptyContextManager.__exit__": [],
+    "statsmodels.iolib.openfile.EmptyContextManager.__getattr__": [],
+    "statsmodels.iolib.openfile.EmptyContextManager": []
+}

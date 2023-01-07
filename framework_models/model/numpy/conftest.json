@@ -1,0 +1,9 @@
+{
+    "numpy.conftest.pytest_configure": [],
+    "numpy.conftest.pytest_addoption": [],
+    "numpy.conftest.pytest_sessionstart": [],
+    "numpy.conftest.pytest_itemcollected": [],
+    "numpy.conftest.check_fpu_mode": [],
+    "numpy.conftest.add_np": [],
+    "numpy.conftest.env_setup": []
+}

@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.tools.saved_model_utils.read_saved_model": [],
+    "tensorflow.python.tools.saved_model_utils.get_saved_model_tag_sets": [],
+    "tensorflow.python.tools.saved_model_utils.get_meta_graph_def": []
+}

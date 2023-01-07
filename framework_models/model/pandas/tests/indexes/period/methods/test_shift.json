@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexes.period.methods.test_shift.TestPeriodIndexShift.test_pi_shift_ndarray": [],
+    "pandas.tests.indexes.period.methods.test_shift.TestPeriodIndexShift.test_shift": [],
+    "pandas.tests.indexes.period.methods.test_shift.TestPeriodIndexShift.test_shift_corner_cases": [],
+    "pandas.tests.indexes.period.methods.test_shift.TestPeriodIndexShift.test_shift_nat": [],
+    "pandas.tests.indexes.period.methods.test_shift.TestPeriodIndexShift.test_shift_gh8083": [],
+    "pandas.tests.indexes.period.methods.test_shift.TestPeriodIndexShift.test_shift_periods": [],
+    "pandas.tests.indexes.period.methods.test_shift.TestPeriodIndexShift": []
+}

@@ -1,0 +1,3 @@
+from typing import Any
+
+def fit_l1_slsqp(f, score, start_params, args, kwargs, disp: bool = ..., maxiter: int = ..., callback: Any | None = ..., retall: bool = ..., full_output: bool = ..., hess: Any | None = ...): ...

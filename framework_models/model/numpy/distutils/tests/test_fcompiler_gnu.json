@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.tests.test_fcompiler_gnu.TestG77Versions.test_g77_version": [],
+    "numpy.distutils.tests.test_fcompiler_gnu.TestG77Versions.test_not_g77": [],
+    "numpy.distutils.tests.test_fcompiler_gnu.TestGFortranVersions.test_gfortran_version": [],
+    "numpy.distutils.tests.test_fcompiler_gnu.TestGFortranVersions.test_not_gfortran": [],
+    "numpy.distutils.tests.test_fcompiler_gnu.TestG77Versions": [],
+    "numpy.distutils.tests.test_fcompiler_gnu.TestGFortranVersions": []
+}

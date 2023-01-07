@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.autograph.operators.slices.get_item": [],
+    "tensorflow.python.autograph.operators.slices._tf_tensorarray_get_item": [],
+    "tensorflow.python.autograph.operators.slices._tf_tensor_list_get_item": [],
+    "tensorflow.python.autograph.operators.slices._tf_tensor_get_item": [],
+    "tensorflow.python.autograph.operators.slices._tf_tensor_string_get_item": [],
+    "tensorflow.python.autograph.operators.slices._py_get_item": [],
+    "tensorflow.python.autograph.operators.slices.set_item": [],
+    "tensorflow.python.autograph.operators.slices._tf_tensorarray_set_item": [],
+    "tensorflow.python.autograph.operators.slices._tf_tensor_list_set_item": [],
+    "tensorflow.python.autograph.operators.slices._tf_tensor_set_item": [],
+    "tensorflow.python.autograph.operators.slices._py_set_item": [],
+    "tensorflow.python.autograph.operators.slices.GetItemOpts": []
+}

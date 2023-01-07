@@ -1,0 +1,10 @@
+{
+    "pandas.tests.reshape.test_util.TestCartesianProduct.test_simple": [],
+    "pandas.tests.reshape.test_util.TestCartesianProduct.test_datetimeindex": [],
+    "pandas.tests.reshape.test_util.TestCartesianProduct.test_tzaware_retained": [],
+    "pandas.tests.reshape.test_util.TestCartesianProduct.test_tzaware_retained_categorical": [],
+    "pandas.tests.reshape.test_util.TestCartesianProduct.test_empty": [],
+    "pandas.tests.reshape.test_util.TestCartesianProduct.test_invalid_input": [],
+    "pandas.tests.reshape.test_util.TestCartesianProduct.test_exceed_product_space": [],
+    "pandas.tests.reshape.test_util.TestCartesianProduct": []
+}

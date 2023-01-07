@@ -1,0 +1,4 @@
+{
+    "pandas.util._exceptions.rewrite_exception": [],
+    "pandas.util._exceptions.find_stack_level": []
+}

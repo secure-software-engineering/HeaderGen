@@ -1,0 +1,15 @@
+{
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.get_model": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.check_filter_output": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.check_smoother_output": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_basic": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_filter_output": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_smoother_output": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_invalid_options": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_sarimax": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_unobserved_components": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_varmax": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_dynamic_factor": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_simulation_smoothing": [],
+    "statsmodels.tsa.statespace.tests.test_multivariate_switch_univariate.test_time_varying_model": []
+}

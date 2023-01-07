@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.profiler.trace.trace_wrapper": [],
+    "tensorflow.python.profiler.trace.Trace.__init__": [],
+    "tensorflow.python.profiler.trace.Trace.__enter__": [],
+    "tensorflow.python.profiler.trace.Trace.set_metadata": [],
+    "tensorflow.python.profiler.trace.Trace.__exit__": [],
+    "tensorflow.python.profiler.trace.Trace": []
+}

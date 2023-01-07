@@ -1,0 +1,6 @@
+{
+    "pandas.tests.tslibs.test_ccalendar.test_get_day_of_year_numeric": [],
+    "pandas.tests.tslibs.test_ccalendar.test_get_day_of_year_dt": [],
+    "pandas.tests.tslibs.test_ccalendar.test_dt_correct_iso_8601_year_week_and_day": [],
+    "pandas.tests.tslibs.test_ccalendar.test_isocalendar": []
+}

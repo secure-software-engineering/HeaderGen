@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.platform.googletest.g_main": [],
+    "tensorflow.python.platform.googletest.main": [],
+    "tensorflow.python.platform.googletest.GetTempDir": [],
+    "tensorflow.python.platform.googletest.test_src_dir_path": [],
+    "tensorflow.python.platform.googletest.StatefulSessionAvailable": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.__init__": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.__del__": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.__enter__": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.__exit__": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.CleanUp": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.SmartSet": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.SmartUnsetAll": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.Set": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting.UnsetAll": [],
+    "tensorflow.python.platform.googletest.StubOutForTesting": []
+}

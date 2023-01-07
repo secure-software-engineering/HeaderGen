@@ -1,0 +1,14 @@
+{
+    "statsmodels.sandbox.distributions.estimators.gammamomentcond": [],
+    "statsmodels.sandbox.distributions.estimators.gammamomentcond2": [],
+    "statsmodels.sandbox.distributions.estimators.momentcondunbound": [],
+    "statsmodels.sandbox.distributions.estimators.momentcondunboundls": [],
+    "statsmodels.sandbox.distributions.estimators.momentcondquant": [],
+    "statsmodels.sandbox.distributions.estimators.fitquantilesgmm": [],
+    "statsmodels.sandbox.distributions.estimators.fitbinned": [],
+    "statsmodels.sandbox.distributions.estimators.fitbinnedgmm": [],
+    "statsmodels.sandbox.distributions.estimators.hess_ndt": [],
+    "statsmodels.sandbox.distributions.estimators.logmps": [],
+    "statsmodels.sandbox.distributions.estimators.getstartparams": [],
+    "statsmodels.sandbox.distributions.estimators.fit_mps": []
+}

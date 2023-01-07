@@ -1,0 +1,18 @@
+{
+    "pandas.tests.resample.conftest.downsample_method": [],
+    "pandas.tests.resample.conftest.resample_method": [],
+    "pandas.tests.resample.conftest.simple_date_range_series": [],
+    "pandas.tests.resample.conftest.simple_period_range_series": [],
+    "pandas.tests.resample.conftest._index_start": [],
+    "pandas.tests.resample.conftest._index_end": [],
+    "pandas.tests.resample.conftest._index_freq": [],
+    "pandas.tests.resample.conftest._index_name": [],
+    "pandas.tests.resample.conftest.index": [],
+    "pandas.tests.resample.conftest._static_values": [],
+    "pandas.tests.resample.conftest._series_name": [],
+    "pandas.tests.resample.conftest.series": [],
+    "pandas.tests.resample.conftest.empty_series_dti": [],
+    "pandas.tests.resample.conftest.frame": [],
+    "pandas.tests.resample.conftest.empty_frame_dti": [],
+    "pandas.tests.resample.conftest.series_and_frame": []
+}

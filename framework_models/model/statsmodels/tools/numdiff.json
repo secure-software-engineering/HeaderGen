@@ -1,0 +1,11 @@
+{
+    "statsmodels.tools.numdiff._get_epsilon": [],
+    "statsmodels.tools.numdiff.approx_fprime": [],
+    "statsmodels.tools.numdiff._approx_fprime_scalar": [],
+    "statsmodels.tools.numdiff.approx_fprime_cs": [],
+    "statsmodels.tools.numdiff._approx_fprime_cs_scalar": [],
+    "statsmodels.tools.numdiff.approx_hess_cs": [],
+    "statsmodels.tools.numdiff.approx_hess1": [],
+    "statsmodels.tools.numdiff.approx_hess2": [],
+    "statsmodels.tools.numdiff.approx_hess3": []
+}

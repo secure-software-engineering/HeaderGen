@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.keras.saving.hdf5_format.save_model_to_hdf5": [],
+    "tensorflow.python.keras.saving.hdf5_format.load_model_from_hdf5": [],
+    "tensorflow.python.keras.saving.hdf5_format.preprocess_weights_for_loading": [],
+    "tensorflow.python.keras.saving.hdf5_format._convert_rnn_weights": [],
+    "tensorflow.python.keras.saving.hdf5_format.save_optimizer_weights_to_hdf5_group": [],
+    "tensorflow.python.keras.saving.hdf5_format.load_optimizer_weights_from_hdf5_group": [],
+    "tensorflow.python.keras.saving.hdf5_format.save_weights_to_hdf5_group": [],
+    "tensorflow.python.keras.saving.hdf5_format.load_weights_from_hdf5_group": [],
+    "tensorflow.python.keras.saving.hdf5_format.load_weights_from_hdf5_group_by_name": [],
+    "tensorflow.python.keras.saving.hdf5_format.save_attributes_to_hdf5_group": [],
+    "tensorflow.python.keras.saving.hdf5_format.load_attributes_from_hdf5_group": [],
+    "tensorflow.python.keras.saving.hdf5_format._legacy_weights": []
+}

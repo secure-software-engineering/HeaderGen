@@ -1,0 +1,7 @@
+{
+    "sklearn.manifold.tests.test_mds.test_smacof": [],
+    "sklearn.manifold.tests.test_mds.test_smacof_error": [],
+    "sklearn.manifold.tests.test_mds.test_MDS": [],
+    "sklearn.manifold.tests.test_mds.test_MDS_pairwise_deprecated": [],
+    "sklearn.manifold.tests.test_mds.test_MDS_pairwise": []
+}

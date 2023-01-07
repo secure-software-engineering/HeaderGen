@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.keras.optimizer_v2.adam.Adam.__init__": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.Adam._create_slots": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.Adam._prepare_local": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.Adam.set_weights": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.Adam._resource_apply_dense": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.Adam._resource_apply_sparse": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.Adam.get_config": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.NonFusedAdam.__init__": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.NonFusedAdam._create_slots": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.NonFusedAdam._prepare_local": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.NonFusedAdam.set_weights": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.NonFusedAdam._resource_apply_dense": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.NonFusedAdam._resource_apply_sparse": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.NonFusedAdam.get_config": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.Adam": ["MODEL_TRAINING"],
+    "tensorflow.python.keras.optimizer_v2.adam.NonFusedAdam": ["MODEL_TRAINING"]
+}

@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.heart.data.load": [],
+    "statsmodels.datasets.heart.data.load_pandas": [],
+    "statsmodels.datasets.heart.data._get_data": []
+}

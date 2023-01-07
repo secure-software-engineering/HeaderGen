@@ -1,0 +1,54 @@
+{
+    "1": [
+        "Dropout",
+        "BatchNormalization",
+        "Dense"
+    ],
+    "10": [
+        "Using scikit-learn method - train_test_split()"
+    ],
+    "2": [
+        "Replace values with integers",
+        "Fill NaN values with median of series",
+        "Drop columns from the dataframe"
+    ],
+    "3": [
+        "Cell #12",
+        "Cell #10"
+    ],
+    "4": [
+        "Numpy",
+        "Seaborn",
+        "Matplotlib",
+        "Scipy",
+        "Sklearn",
+        "Pandas",
+        "Keras"
+    ],
+    "5": [
+        "Count plot",
+        "Heatmap",
+        "Confusion matrix",
+        "Line graph"
+    ],
+    "6": [
+        "Dense"
+    ],
+    "7": [
+        "Cell #39",
+        "Cell #38",
+        "Cell #40"
+    ],
+    "8": [
+        "Sklearn",
+        "Seaborn",
+        "Matplotlib",
+        "Pandas"
+    ],
+    "9": [
+        "Heatmap",
+        "Bar graph"
+    ],
+    "name": "arka",
+    "study_id": 2
+}

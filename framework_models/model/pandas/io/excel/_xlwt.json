@@ -1,0 +1,8 @@
+{
+    "pandas.io.excel._xlwt.XlwtWriter.__init__": [],
+    "pandas.io.excel._xlwt.XlwtWriter.save": [],
+    "pandas.io.excel._xlwt.XlwtWriter.write_cells": [],
+    "pandas.io.excel._xlwt.XlwtWriter._style_to_xlwt": [],
+    "pandas.io.excel._xlwt.XlwtWriter._convert_to_style": [],
+    "pandas.io.excel._xlwt.XlwtWriter": []
+}

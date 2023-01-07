@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.__init__": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.compute_gradients": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.apply_gradients": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.get_chief_queue_runner": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.get_slot": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.variables": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.get_slot_names": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.get_init_tokens_op": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer.make_session_run_hook": [],
+    "tensorflow.python.training.sync_replicas_optimizer._SyncReplicasOptimizerHook.__init__": [],
+    "tensorflow.python.training.sync_replicas_optimizer._SyncReplicasOptimizerHook.begin": [],
+    "tensorflow.python.training.sync_replicas_optimizer._SyncReplicasOptimizerHook.after_create_session": [],
+    "tensorflow.python.training.sync_replicas_optimizer.SyncReplicasOptimizer": [],
+    "tensorflow.python.training.sync_replicas_optimizer._SyncReplicasOptimizerHook": []
+}

@@ -1,0 +1,14 @@
+{
+    "scipy.special.tests.test_pdtr.TestPdtr.test": [],
+    "scipy.special.tests.test_pdtr.TestPdtr.test_m_zero": [],
+    "scipy.special.tests.test_pdtr.TestPdtr.test_rounding": [],
+    "scipy.special.tests.test_pdtr.TestPdtr.test_inf": [],
+    "scipy.special.tests.test_pdtr.TestPdtr.test_domain": [],
+    "scipy.special.tests.test_pdtr.TestPdtrc.test_value": [],
+    "scipy.special.tests.test_pdtr.TestPdtrc.test_m_zero": [],
+    "scipy.special.tests.test_pdtr.TestPdtrc.test_rounding": [],
+    "scipy.special.tests.test_pdtr.TestPdtrc.test_inf": [],
+    "scipy.special.tests.test_pdtr.TestPdtrc.test_domain": [],
+    "scipy.special.tests.test_pdtr.TestPdtr": [],
+    "scipy.special.tests.test_pdtr.TestPdtrc": []
+}

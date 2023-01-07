@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.ops.random_grad.add_leading_unit_dimensions": [],
+    "tensorflow.python.ops.random_grad._RandomGammaGrad": [],
+    "tensorflow.python.ops.random_grad._StatelessRandomGammaV2Grad": [],
+    "tensorflow.python.ops.random_grad._Ndtr": [],
+    "tensorflow.python.ops.random_grad._StatelessParameterizedTruncatedNormalGrad": []
+}

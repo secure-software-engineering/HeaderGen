@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.training.queue_runner_impl.add_queue_runner": [],
+    "tensorflow.python.training.queue_runner_impl.start_queue_runners": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.__init__": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner._init_from_args": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner._init_from_proto": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.queue": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.enqueue_ops": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.close_op": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.cancel_op": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.queue_closed_exception_types": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.exceptions_raised": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.name": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner._run": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner._close_on_stop": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.create_threads": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.to_proto": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner.from_proto": [],
+    "tensorflow.python.training.queue_runner_impl.QueueRunner": []
+}

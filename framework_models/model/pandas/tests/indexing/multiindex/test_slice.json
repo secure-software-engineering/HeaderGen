@@ -1,0 +1,17 @@
+{
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_per_axis_per_level_getitem": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_multiindex_slicers_non_unique": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_multiindex_slicers_datetimelike": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_multiindex_slicers_edges": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_per_axis_per_level_doc_examples": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_loc_axis_arguments": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_loc_axis_single_level_multi_col_indexing_multiindex_col_df": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_loc_axis_single_level_single_col_indexing_multiindex_col_df": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_loc_ax_single_level_indexer_simple_df": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_per_axis_per_level_setitem": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_multiindex_label_slicing_with_negative_step": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_multiindex_slice_first_level": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_int_series_slicing": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers.test_loc_slice_negative_stepsize": [],
+    "pandas.tests.indexing.multiindex.test_slice.TestMultiIndexSlicers": []
+}

@@ -1,0 +1,8 @@
+{
+    "statsmodels.sandbox.predict_functional._make_exog_from_formula": [],
+    "statsmodels.sandbox.predict_functional._make_exog_from_arrays": [],
+    "statsmodels.sandbox.predict_functional._make_exog": [],
+    "statsmodels.sandbox.predict_functional._check_args": [],
+    "statsmodels.sandbox.predict_functional.predict_functional": [],
+    "statsmodels.sandbox.predict_functional._glm_basic_scr": []
+}

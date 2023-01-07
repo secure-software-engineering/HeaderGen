@@ -1,0 +1,21 @@
+{
+    "sklearn.metrics._ranking.auc": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.average_precision_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.det_curve": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking._binary_roc_auc_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.roc_auc_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking._multiclass_roc_auc_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking._binary_clf_curve": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.precision_recall_curve": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.roc_curve": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.label_ranking_average_precision_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.coverage_error": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.label_ranking_loss": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking._dcg_sample_scores": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking._tie_averaged_dcg": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking._check_dcg_target_type": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.dcg_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking._ndcg_sample_scores": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.ndcg_score": ["MODEL_VALIDATION_AND_ASSEMBLING"],
+    "sklearn.metrics._ranking.top_k_accuracy_score": ["MODEL_VALIDATION_AND_ASSEMBLING"]
+}

@@ -1,0 +1,10 @@
+{
+    "scipy.spatial._spherical_voronoi.calculate_solid_angles": [],
+    "scipy.spatial._spherical_voronoi.SphericalVoronoi.__init__": [],
+    "scipy.spatial._spherical_voronoi.SphericalVoronoi._calc_vertices_regions": [],
+    "scipy.spatial._spherical_voronoi.SphericalVoronoi.sort_vertices_of_regions": [],
+    "scipy.spatial._spherical_voronoi.SphericalVoronoi._calculate_areas_3d": [],
+    "scipy.spatial._spherical_voronoi.SphericalVoronoi._calculate_areas_2d": [],
+    "scipy.spatial._spherical_voronoi.SphericalVoronoi.calculate_areas": [],
+    "scipy.spatial._spherical_voronoi.SphericalVoronoi": []
+}

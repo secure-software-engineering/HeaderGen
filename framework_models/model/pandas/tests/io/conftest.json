@@ -1,0 +1,9 @@
+{
+    "pandas.tests.io.conftest.tips_file": [],
+    "pandas.tests.io.conftest.jsonl_file": [],
+    "pandas.tests.io.conftest.salaries_table": [],
+    "pandas.tests.io.conftest.feather_file": [],
+    "pandas.tests.io.conftest.s3so": [],
+    "pandas.tests.io.conftest.s3_base": [],
+    "pandas.tests.io.conftest.s3_resource": []
+}

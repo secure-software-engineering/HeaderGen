@@ -1,0 +1,16 @@
+{
+    "statsmodels.sandbox.panel.panelmod.group": [],
+    "statsmodels.sandbox.panel.panelmod.repanel_cov": [],
+    "statsmodels.sandbox.panel.panelmod.PanelModel.__init__": [],
+    "statsmodels.sandbox.panel.panelmod.PanelModel.initialize": [],
+    "statsmodels.sandbox.panel.panelmod.PanelModel.initialize_pandas": [],
+    "statsmodels.sandbox.panel.panelmod.PanelModel._group_mean": [],
+    "statsmodels.sandbox.panel.panelmod.PanelModel.fit": [],
+    "statsmodels.sandbox.panel.panelmod.PanelModel._fit_btwn": [],
+    "statsmodels.sandbox.panel.panelmod.PanelModel._fit_fixed": [],
+    "statsmodels.sandbox.panel.panelmod.PanelData": [],
+    "statsmodels.sandbox.panel.panelmod.PanelModel": [],
+    "statsmodels.sandbox.panel.panelmod.SURPanel": [],
+    "statsmodels.sandbox.panel.panelmod.SEMPanel": [],
+    "statsmodels.sandbox.panel.panelmod.DynamicPanel": []
+}

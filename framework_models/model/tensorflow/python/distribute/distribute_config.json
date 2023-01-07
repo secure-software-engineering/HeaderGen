@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.distribute.distribute_config.DistributeConfig.__new__": [],
+    "tensorflow.python.distribute.distribute_config.DistributeConfig": []
+}

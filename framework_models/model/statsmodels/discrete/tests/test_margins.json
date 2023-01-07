@@ -1,0 +1,14 @@
+{
+    "statsmodels.discrete.tests.test_margins.CheckMarginMixin.test_margins_table": [],
+    "statsmodels.discrete.tests.test_margins.TestPoissonMargin.setup_class": [],
+    "statsmodels.discrete.tests.test_margins.TestPoissonMarginDummy.setup_class": [],
+    "statsmodels.discrete.tests.test_margins.TestNegBinMargin.setup_class": [],
+    "statsmodels.discrete.tests.test_margins.TestNegBinMarginDummy.setup_class": [],
+    "statsmodels.discrete.tests.test_margins.TestNegBinPMargin.setup_class": [],
+    "statsmodels.discrete.tests.test_margins.CheckMarginMixin": [],
+    "statsmodels.discrete.tests.test_margins.TestPoissonMargin": [],
+    "statsmodels.discrete.tests.test_margins.TestPoissonMarginDummy": [],
+    "statsmodels.discrete.tests.test_margins.TestNegBinMargin": [],
+    "statsmodels.discrete.tests.test_margins.TestNegBinMarginDummy": [],
+    "statsmodels.discrete.tests.test_margins.TestNegBinPMargin": []
+}

@@ -1,0 +1,8 @@
+{
+    "plotly.figure_factory._quiver.create_quiver": [],
+    "plotly.figure_factory._quiver._Quiver.__init__": [],
+    "plotly.figure_factory._quiver._Quiver.scale_uv": [],
+    "plotly.figure_factory._quiver._Quiver.get_barbs": [],
+    "plotly.figure_factory._quiver._Quiver.get_quiver_arrows": [],
+    "plotly.figure_factory._quiver._Quiver": []
+}

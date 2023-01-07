@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexing.multiindex.test_multiindex.TestMultiIndexBasic.test_multiindex_perf_warn": [],
+    "pandas.tests.indexing.multiindex.test_multiindex.TestMultiIndexBasic.test_indexing_over_hashtable_size_cutoff": [],
+    "pandas.tests.indexing.multiindex.test_multiindex.TestMultiIndexBasic.test_multi_nan_indexing": [],
+    "pandas.tests.indexing.multiindex.test_multiindex.TestMultiIndexBasic.test_nested_tuples_duplicates": [],
+    "pandas.tests.indexing.multiindex.test_multiindex.TestMultiIndexBasic.test_multiindex_with_datatime_level_preserves_freq": [],
+    "pandas.tests.indexing.multiindex.test_multiindex.TestMultiIndexBasic": []
+}

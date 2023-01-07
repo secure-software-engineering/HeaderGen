@@ -1,0 +1,5 @@
+{
+    "pandas.tests.groupby.test_groupby_subclass.test_groupby_preserves_subclass": [],
+    "pandas.tests.groupby.test_groupby_subclass.test_groupby_preserves_metadata": [],
+    "pandas.tests.groupby.test_groupby_subclass.test_groupby_resample_preserves_subclass": []
+}

@@ -1,0 +1,22 @@
+{
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.gen_simple_logit": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.gen_simple_poisson": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.gen_crossed_logit": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.gen_crossed_poisson": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.gen_crossed_logit_pandas": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_simple_logit_map": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_simple_poisson_map": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_crossed_logit_map": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_crossed_poisson_map": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_logit_map_crossed_formula": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_elbo_grad": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_simple_logit_vb": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_simple_poisson_vb": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_crossed_logit_vb": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_crossed_logit_vb_formula": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_crossed_poisson_vb": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_poisson_formula": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_scale_vb": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_scale_map": [],
+    "statsmodels.genmod.tests.test_bayes_mixed_glm.test_doc_examples": []
+}

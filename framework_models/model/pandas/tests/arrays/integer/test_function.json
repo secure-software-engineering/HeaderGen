@@ -1,0 +1,16 @@
+{
+    "pandas.tests.arrays.integer.test_function.test_ufuncs_single_int": [],
+    "pandas.tests.arrays.integer.test_function.test_ufuncs_single_float": [],
+    "pandas.tests.arrays.integer.test_function.test_ufuncs_binary_int": [],
+    "pandas.tests.arrays.integer.test_function.test_ufunc_binary_output": [],
+    "pandas.tests.arrays.integer.test_function.test_ufunc_reduce_raises": [],
+    "pandas.tests.arrays.integer.test_function.test_stat_method": [],
+    "pandas.tests.arrays.integer.test_function.test_value_counts_na": [],
+    "pandas.tests.arrays.integer.test_function.test_value_counts_empty": [],
+    "pandas.tests.arrays.integer.test_function.test_value_counts_with_normalize": [],
+    "pandas.tests.arrays.integer.test_function.test_integer_array_sum": [],
+    "pandas.tests.arrays.integer.test_function.test_integer_array_min_max": [],
+    "pandas.tests.arrays.integer.test_function.test_integer_array_prod": [],
+    "pandas.tests.arrays.integer.test_function.test_integer_array_numpy_sum": [],
+    "pandas.tests.arrays.integer.test_function.test_dataframe_reductions": []
+}

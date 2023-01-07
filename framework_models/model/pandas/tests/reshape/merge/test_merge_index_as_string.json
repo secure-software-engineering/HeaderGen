@@ -1,0 +1,10 @@
+{
+    "pandas.tests.reshape.merge.test_merge_index_as_string.df1": [],
+    "pandas.tests.reshape.merge.test_merge_index_as_string.df2": [],
+    "pandas.tests.reshape.merge.test_merge_index_as_string.left_df": [],
+    "pandas.tests.reshape.merge.test_merge_index_as_string.right_df": [],
+    "pandas.tests.reshape.merge.test_merge_index_as_string.compute_expected": [],
+    "pandas.tests.reshape.merge.test_merge_index_as_string.test_merge_indexes_and_columns_on": [],
+    "pandas.tests.reshape.merge.test_merge_index_as_string.test_merge_indexes_and_columns_lefton_righton": [],
+    "pandas.tests.reshape.merge.test_merge_index_as_string.test_join_indexes_and_columns_on": []
+}

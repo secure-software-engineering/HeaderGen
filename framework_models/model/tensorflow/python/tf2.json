@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.tf2.enable": [],
+    "tensorflow.python.tf2.disable": [],
+    "tensorflow.python.tf2.enabled": []
+}

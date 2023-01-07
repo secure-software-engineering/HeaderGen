@@ -1,0 +1,9 @@
+{
+    "matplotlib.projections.register_projection": [],
+    "matplotlib.projections.get_projection_class": [],
+    "matplotlib.projections.ProjectionRegistry.__init__": [],
+    "matplotlib.projections.ProjectionRegistry.register": [],
+    "matplotlib.projections.ProjectionRegistry.get_projection_class": [],
+    "matplotlib.projections.ProjectionRegistry.get_projection_names": [],
+    "matplotlib.projections.ProjectionRegistry": []
+}

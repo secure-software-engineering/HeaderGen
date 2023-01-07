@@ -1,0 +1,5 @@
+{
+    "pandas.tests.frame.methods.test_matmul.TestMatMul.test_matmul": [],
+    "pandas.tests.frame.methods.test_matmul.TestMatMul.test_matmul_message_shapes": [],
+    "pandas.tests.frame.methods.test_matmul.TestMatMul": []
+}

@@ -1,0 +1,3 @@
+from typing import Any
+
+def tsplot(data, time: Any | None = ..., unit: Any | None = ..., condition: Any | None = ..., value: Any | None = ..., err_style: str = ..., ci: int = ..., interpolate: bool = ..., color: Any | None = ..., estimator=..., n_boot: int = ..., err_palette: Any | None = ..., err_kws: Any | None = ..., legend: bool = ..., ax: Any | None = ..., **kwargs): ...

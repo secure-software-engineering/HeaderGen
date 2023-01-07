@@ -1,0 +1,6 @@
+{
+    "sklearn.neighbors._nearest_centroid.NearestCentroid.__init__": [],
+    "sklearn.neighbors._nearest_centroid.NearestCentroid.fit": [],
+    "sklearn.neighbors._nearest_centroid.NearestCentroid.predict": [],
+    "sklearn.neighbors._nearest_centroid.NearestCentroid": []
+}

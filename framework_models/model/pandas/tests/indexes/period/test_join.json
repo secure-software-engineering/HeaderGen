@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.period.test_join.TestJoin.test_join_outer_indexer": [],
+    "pandas.tests.indexes.period.test_join.TestJoin.test_joins": [],
+    "pandas.tests.indexes.period.test_join.TestJoin.test_join_self": [],
+    "pandas.tests.indexes.period.test_join.TestJoin.test_join_does_not_recur": [],
+    "pandas.tests.indexes.period.test_join.TestJoin.test_join_mismatched_freq_raises": [],
+    "pandas.tests.indexes.period.test_join.TestJoin": []
+}

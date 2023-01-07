@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexes.datetimes.test_datetimelike.TestDatetimeIndex.simple_index": [],
+    "pandas.tests.indexes.datetimes.test_datetimelike.TestDatetimeIndex.index": [],
+    "pandas.tests.indexes.datetimes.test_datetimelike.TestDatetimeIndex.test_format": [],
+    "pandas.tests.indexes.datetimes.test_datetimelike.TestDatetimeIndex.test_shift": [],
+    "pandas.tests.indexes.datetimes.test_datetimelike.TestDatetimeIndex.test_intersection": [],
+    "pandas.tests.indexes.datetimes.test_datetimelike.TestDatetimeIndex.test_union": [],
+    "pandas.tests.indexes.datetimes.test_datetimelike.TestDatetimeIndex": []
+}

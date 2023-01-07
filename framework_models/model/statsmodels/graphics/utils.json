@@ -1,0 +1,8 @@
+{
+    "statsmodels.graphics.utils._import_mpl": [],
+    "statsmodels.graphics.utils.create_mpl_ax": [],
+    "statsmodels.graphics.utils.create_mpl_fig": [],
+    "statsmodels.graphics.utils.maybe_name_or_idx": [],
+    "statsmodels.graphics.utils.get_data_names": [],
+    "statsmodels.graphics.utils.annotate_axes": []
+}

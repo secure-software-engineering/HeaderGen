@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter.__init__": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter._initialize": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter.get_logdir": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter.reopen": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter.add_event": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter._try_put": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter.flush": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter.close": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter._internal_close": [],
+    "tensorflow.python.summary.writer.event_file_writer._EventLoggerThread.__init__": [],
+    "tensorflow.python.summary.writer.event_file_writer._EventLoggerThread.run": [],
+    "tensorflow.python.summary.writer.event_file_writer.CloseableQueue.__init__": [],
+    "tensorflow.python.summary.writer.event_file_writer.CloseableQueue.get": [],
+    "tensorflow.python.summary.writer.event_file_writer.CloseableQueue.put": [],
+    "tensorflow.python.summary.writer.event_file_writer.CloseableQueue.close": [],
+    "tensorflow.python.summary.writer.event_file_writer.EventFileWriter": [],
+    "tensorflow.python.summary.writer.event_file_writer._EventLoggerThread": [],
+    "tensorflow.python.summary.writer.event_file_writer.CloseableQueue": [],
+    "tensorflow.python.summary.writer.event_file_writer.QueueClosedError": []
+}

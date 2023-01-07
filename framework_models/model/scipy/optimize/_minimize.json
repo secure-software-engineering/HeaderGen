@@ -1,0 +1,6 @@
+{
+    "scipy.optimize._minimize.minimize": [],
+    "scipy.optimize._minimize.minimize_scalar": [],
+    "scipy.optimize._minimize.standardize_bounds": [],
+    "scipy.optimize._minimize.standardize_constraints": []
+}

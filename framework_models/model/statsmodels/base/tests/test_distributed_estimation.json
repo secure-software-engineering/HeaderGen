@@ -1,0 +1,17 @@
+{
+    "statsmodels.base.tests.test_distributed_estimation._data_gen": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_calc_grad": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_calc_wdesign_mat": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_est_regularized_debiased": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_est_regularized_naive": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_est_unregularized_naive": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_join_debiased": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_join_naive": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_fit_sequential": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_fit_joblib": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_single_partition": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_larger_p": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_non_zero_params": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_repeat_partition": [],
+    "statsmodels.base.tests.test_distributed_estimation.test_debiased_v_average": []
+}

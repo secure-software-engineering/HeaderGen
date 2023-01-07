@@ -1,0 +1,5 @@
+{
+    "pandas.tests.frame.methods.test_combine.TestCombine.test_combine_datetlike_udf": [],
+    "pandas.tests.frame.methods.test_combine.TestCombine.test_combine_generic": [],
+    "pandas.tests.frame.methods.test_combine.TestCombine": []
+}

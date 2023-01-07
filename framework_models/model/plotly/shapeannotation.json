@@ -1,0 +1,12 @@
+{
+    "plotly.shapeannotation._mean": [],
+    "plotly.shapeannotation._argmin": [],
+    "plotly.shapeannotation._argmax": [],
+    "plotly.shapeannotation._df_anno": [],
+    "plotly.shapeannotation._add_inside_to_position": [],
+    "plotly.shapeannotation._prepare_position": [],
+    "plotly.shapeannotation.annotation_params_for_line": [],
+    "plotly.shapeannotation.annotation_params_for_rect": [],
+    "plotly.shapeannotation.axis_spanning_shape_annotation": [],
+    "plotly.shapeannotation.split_dict_by_key_prefix": []
+}

@@ -1,0 +1,5 @@
+{
+    "sklearn.datasets._rcv1.fetch_rcv1": [],
+    "sklearn.datasets._rcv1._inverse_permutation": [],
+    "sklearn.datasets._rcv1._find_permutation": []
+}

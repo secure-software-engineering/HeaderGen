@@ -1,0 +1,13 @@
+{
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.arr1d": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_min_max": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_min_max_empty": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_median_empty": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_median": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_median_axis": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_median_2d": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_mean": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_mean_2d": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions.test_mean_empty": [],
+    "pandas.tests.arrays.datetimes.test_reductions.TestReductions": []
+}

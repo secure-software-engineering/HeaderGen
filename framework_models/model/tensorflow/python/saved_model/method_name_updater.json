@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.saved_model.method_name_updater.MethodNameUpdater.__init__": [],
+    "tensorflow.python.saved_model.method_name_updater.MethodNameUpdater.replace_method_name": [],
+    "tensorflow.python.saved_model.method_name_updater.MethodNameUpdater.save": [],
+    "tensorflow.python.saved_model.method_name_updater.MethodNameUpdater": []
+}

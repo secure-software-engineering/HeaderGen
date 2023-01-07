@@ -1,0 +1,9 @@
+{
+    "numpy.distutils.command.autodist.check_inline": [],
+    "numpy.distutils.command.autodist.check_restrict": [],
+    "numpy.distutils.command.autodist.check_compiler_gcc": [],
+    "numpy.distutils.command.autodist.check_gcc_version_at_least": [],
+    "numpy.distutils.command.autodist.check_gcc_function_attribute": [],
+    "numpy.distutils.command.autodist.check_gcc_function_attribute_with_intrinsics": [],
+    "numpy.distutils.command.autodist.check_gcc_variable_attribute": []
+}

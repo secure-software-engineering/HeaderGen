@@ -1,0 +1,12 @@
+{
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.read_csv": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.test_from_csv": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.test_to_csv": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.test_to_csv_unicode_index": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.test_to_csv_float_format": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.test_to_csv_list_entries": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.test_to_csv_path_is_none": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.test_to_csv_compression": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV.test_to_csv_interval_index": [],
+    "pandas.tests.series.methods.test_to_csv.TestSeriesToCSV": []
+}

@@ -1,0 +1,13 @@
+{
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_does_not_convert_mixed_integer": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_join_self": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_join_with_period_index": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_join_object_index": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_join_utc_convert": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_datetimeindex_union_join_empty": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_join_nonunique": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_outer_join": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_naive_aware_conflicts": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin.test_join_preserves_freq": [],
+    "pandas.tests.indexes.datetimes.test_join.TestJoin": []
+}

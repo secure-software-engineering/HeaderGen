@@ -1,0 +1,3 @@
+from typing import Any
+
+def stackplot(axes, x, *args, labels=..., colors: Any | None = ..., baseline: str = ..., **kwargs): ...

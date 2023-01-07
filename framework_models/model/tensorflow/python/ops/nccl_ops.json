@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.ops.nccl_ops.all_sum": [],
+    "tensorflow.python.ops.nccl_ops._all_sum_grad": [],
+    "tensorflow.python.ops.nccl_ops.all_prod": [],
+    "tensorflow.python.ops.nccl_ops.all_min": [],
+    "tensorflow.python.ops.nccl_ops.all_max": [],
+    "tensorflow.python.ops.nccl_ops.reduce_sum": [],
+    "tensorflow.python.ops.nccl_ops._reduce_sum_grad": [],
+    "tensorflow.python.ops.nccl_ops.broadcast": [],
+    "tensorflow.python.ops.nccl_ops._broadcast_grad": [],
+    "tensorflow.python.ops.nccl_ops._apply_all_reduce": [],
+    "tensorflow.python.ops.nccl_ops._apply_reduce": [],
+    "tensorflow.python.ops.nccl_ops._get_shared_name": [],
+    "tensorflow.python.ops.nccl_ops._check_device": []
+}

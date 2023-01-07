@@ -1,0 +1,13 @@
+{
+    "scipy._lib._disjoint_set.DisjointSet.__init__": [],
+    "scipy._lib._disjoint_set.DisjointSet.__iter__": [],
+    "scipy._lib._disjoint_set.DisjointSet.__len__": [],
+    "scipy._lib._disjoint_set.DisjointSet.__contains__": [],
+    "scipy._lib._disjoint_set.DisjointSet.__getitem__": [],
+    "scipy._lib._disjoint_set.DisjointSet.add": [],
+    "scipy._lib._disjoint_set.DisjointSet.merge": [],
+    "scipy._lib._disjoint_set.DisjointSet.connected": [],
+    "scipy._lib._disjoint_set.DisjointSet.subset": [],
+    "scipy._lib._disjoint_set.DisjointSet.subsets": [],
+    "scipy._lib._disjoint_set.DisjointSet": []
+}

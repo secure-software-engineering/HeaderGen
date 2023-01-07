@@ -1,0 +1,13 @@
+{
+    "sklearn.linear_model.tests.test_huber.make_regression_with_outliers": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_equals_lr_for_high_epsilon": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_max_iter": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_gradient": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_sample_weights": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_sparse": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_scaling_invariant": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_and_sgd_same_results": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_warm_start": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_better_r2_score": [],
+    "sklearn.linear_model.tests.test_huber.test_huber_bool": []
+}

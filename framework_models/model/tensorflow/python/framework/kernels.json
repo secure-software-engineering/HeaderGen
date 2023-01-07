@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.framework.kernels.get_all_registered_kernels": [],
+    "tensorflow.python.framework.kernels.get_registered_kernels_for_op": []
+}

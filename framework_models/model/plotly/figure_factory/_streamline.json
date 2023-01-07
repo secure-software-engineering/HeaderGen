@@ -1,0 +1,13 @@
+{
+    "plotly.figure_factory._streamline.validate_streamline": [],
+    "plotly.figure_factory._streamline.create_streamline": [],
+    "plotly.figure_factory._streamline._Streamline.__init__": [],
+    "plotly.figure_factory._streamline._Streamline.blank_pos": [],
+    "plotly.figure_factory._streamline._Streamline.value_at": [],
+    "plotly.figure_factory._streamline._Streamline.rk4_integrate": [],
+    "plotly.figure_factory._streamline._Streamline.traj": [],
+    "plotly.figure_factory._streamline._Streamline.get_streamlines": [],
+    "plotly.figure_factory._streamline._Streamline.get_streamline_arrows": [],
+    "plotly.figure_factory._streamline._Streamline.sum_streamlines": [],
+    "plotly.figure_factory._streamline._Streamline": []
+}

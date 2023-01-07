@@ -1,0 +1,9 @@
+{
+    "scipy.constants.tests.test_codata.test_find": [],
+    "scipy.constants.tests.test_codata.test_basic_table_parse": [],
+    "scipy.constants.tests.test_codata.test_basic_lookup": [],
+    "scipy.constants.tests.test_codata.test_find_all": [],
+    "scipy.constants.tests.test_codata.test_find_single": [],
+    "scipy.constants.tests.test_codata.test_2002_vs_2006": [],
+    "scipy.constants.tests.test_codata.test_exact_values": []
+}

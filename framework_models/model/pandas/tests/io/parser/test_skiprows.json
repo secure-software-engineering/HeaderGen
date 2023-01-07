@@ -1,0 +1,13 @@
+{
+    "pandas.tests.io.parser.test_skiprows.test_skip_rows_bug": [],
+    "pandas.tests.io.parser.test_skiprows.test_deep_skip_rows": [],
+    "pandas.tests.io.parser.test_skiprows.test_skip_rows_blank": [],
+    "pandas.tests.io.parser.test_skiprows.test_skip_row_with_newline": [],
+    "pandas.tests.io.parser.test_skiprows.test_skip_row_with_quote": [],
+    "pandas.tests.io.parser.test_skiprows.test_skip_row_with_newline_and_quote": [],
+    "pandas.tests.io.parser.test_skiprows.test_skiprows_lineterminator": [],
+    "pandas.tests.io.parser.test_skiprows.test_skiprows_infield_quote": [],
+    "pandas.tests.io.parser.test_skiprows.test_skip_rows_callable": [],
+    "pandas.tests.io.parser.test_skiprows.test_skip_rows_skip_all": [],
+    "pandas.tests.io.parser.test_skiprows.test_skip_rows_bad_callable": []
+}

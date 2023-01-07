@@ -1,0 +1,14 @@
+{
+    "pandas.tests.io.test_compression.test_compression_size": [],
+    "pandas.tests.io.test_compression.test_compression_size_fh": [],
+    "pandas.tests.io.test_compression.test_dataframe_compression_defaults_to_infer": [],
+    "pandas.tests.io.test_compression.test_series_compression_defaults_to_infer": [],
+    "pandas.tests.io.test_compression.test_compression_warning": [],
+    "pandas.tests.io.test_compression.test_compression_binary": [],
+    "pandas.tests.io.test_compression.test_gzip_reproducibility_file_name": [],
+    "pandas.tests.io.test_compression.test_gzip_reproducibility_file_object": [],
+    "pandas.tests.io.test_compression.test_with_missing_lzma": [],
+    "pandas.tests.io.test_compression.test_with_missing_lzma_runtime": [],
+    "pandas.tests.io.test_compression.test_gzip_compression_level": [],
+    "pandas.tests.io.test_compression.test_bzip_compression_level": []
+}

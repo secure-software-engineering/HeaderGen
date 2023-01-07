@@ -1,0 +1,11 @@
+{
+    "scipy._lib.tests.test__pep440.test_main_versions": [],
+    "scipy._lib.tests.test__pep440.test_version_1_point_10": [],
+    "scipy._lib.tests.test__pep440.test_alpha_beta_rc": [],
+    "scipy._lib.tests.test__pep440.test_dev_version": [],
+    "scipy._lib.tests.test__pep440.test_dev_a_b_rc_mixed": [],
+    "scipy._lib.tests.test__pep440.test_dev0_version": [],
+    "scipy._lib.tests.test__pep440.test_dev0_a_b_rc_mixed": [],
+    "scipy._lib.tests.test__pep440.test_raises": [],
+    "scipy._lib.tests.test__pep440.test_legacy_version": []
+}

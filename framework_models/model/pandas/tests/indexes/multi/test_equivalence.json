@@ -1,0 +1,15 @@
+{
+    "pandas.tests.indexes.multi.test_equivalence.test_equals": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_equals_op": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_compare_tuple": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_compare_tuple_strs": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_equals_multi": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_identical": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_equals_operator": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_equals_missing_values": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_equals_missing_values_differently_sorted": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_is_": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_is_all_dates": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_is_numeric": [],
+    "pandas.tests.indexes.multi.test_equivalence.test_multiindex_compare": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.tests.arrays.categorical.test_sorting.TestCategoricalSort.test_argsort": [],
+    "pandas.tests.arrays.categorical.test_sorting.TestCategoricalSort.test_numpy_argsort": [],
+    "pandas.tests.arrays.categorical.test_sorting.TestCategoricalSort.test_sort_values": [],
+    "pandas.tests.arrays.categorical.test_sorting.TestCategoricalSort.test_sort_values_na_position": [],
+    "pandas.tests.arrays.categorical.test_sorting.TestCategoricalSort": []
+}

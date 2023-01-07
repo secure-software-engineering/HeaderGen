@@ -1,0 +1,10 @@
+{
+    "scipy.optimize._trustregion_exact._minimize_trustregion_exact": [],
+    "scipy.optimize._trustregion_exact.estimate_smallest_singular_value": [],
+    "scipy.optimize._trustregion_exact.gershgorin_bounds": [],
+    "scipy.optimize._trustregion_exact.singular_leading_submatrix": [],
+    "scipy.optimize._trustregion_exact.IterativeSubproblem.__init__": [],
+    "scipy.optimize._trustregion_exact.IterativeSubproblem._initial_values": [],
+    "scipy.optimize._trustregion_exact.IterativeSubproblem.solve": [],
+    "scipy.optimize._trustregion_exact.IterativeSubproblem": []
+}

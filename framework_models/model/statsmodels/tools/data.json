@@ -1,0 +1,14 @@
+{
+    "statsmodels.tools.data._check_period_index": [],
+    "statsmodels.tools.data.is_data_frame": [],
+    "statsmodels.tools.data.is_design_matrix": [],
+    "statsmodels.tools.data._is_structured_ndarray": [],
+    "statsmodels.tools.data.interpret_data": [],
+    "statsmodels.tools.data.struct_to_ndarray": [],
+    "statsmodels.tools.data._is_using_ndarray_type": [],
+    "statsmodels.tools.data._is_using_ndarray": [],
+    "statsmodels.tools.data._is_using_pandas": [],
+    "statsmodels.tools.data._is_array_like": [],
+    "statsmodels.tools.data._is_using_patsy": [],
+    "statsmodels.tools.data._is_recarray": []
+}

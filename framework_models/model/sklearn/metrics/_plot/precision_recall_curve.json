@@ -1,0 +1,8 @@
+{
+    "sklearn.metrics._plot.precision_recall_curve.plot_precision_recall_curve": [],
+    "sklearn.metrics._plot.precision_recall_curve.PrecisionRecallDisplay.__init__": [],
+    "sklearn.metrics._plot.precision_recall_curve.PrecisionRecallDisplay.plot": [],
+    "sklearn.metrics._plot.precision_recall_curve.PrecisionRecallDisplay.from_estimator": [],
+    "sklearn.metrics._plot.precision_recall_curve.PrecisionRecallDisplay.from_predictions": [],
+    "sklearn.metrics._plot.precision_recall_curve.PrecisionRecallDisplay": []
+}

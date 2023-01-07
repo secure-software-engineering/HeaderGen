@@ -1,0 +1,8 @@
+{
+    "numpy.testing._private.decorators.slow": [],
+    "numpy.testing._private.decorators.setastest": [],
+    "numpy.testing._private.decorators.skipif": [],
+    "numpy.testing._private.decorators.knownfailureif": [],
+    "numpy.testing._private.decorators.deprecated": [],
+    "numpy.testing._private.decorators.parametrize": []
+}

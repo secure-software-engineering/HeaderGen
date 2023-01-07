@@ -1,0 +1,12 @@
+{
+    "scipy.optimize._numdiff._adjust_scheme_to_bounds": [],
+    "scipy.optimize._numdiff._eps_for_method": [],
+    "scipy.optimize._numdiff._compute_absolute_step": [],
+    "scipy.optimize._numdiff._prepare_bounds": [],
+    "scipy.optimize._numdiff.group_columns": [],
+    "scipy.optimize._numdiff.approx_derivative": [],
+    "scipy.optimize._numdiff._linear_operator_difference": [],
+    "scipy.optimize._numdiff._dense_difference": [],
+    "scipy.optimize._numdiff._sparse_difference": [],
+    "scipy.optimize._numdiff.check_derivative": []
+}

@@ -1,0 +1,8 @@
+{
+    "keras.layers.core.dense.Dense.__init__": ["MODEL_TRAINING"],
+    "keras.layers.core.dense.Dense.build": ["MODEL_TRAINING"],
+    "keras.layers.core.dense.Dense.call": ["MODEL_TRAINING"],
+    "keras.layers.core.dense.Dense.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.layers.core.dense.Dense.get_config": ["MODEL_TRAINING"],
+    "keras.layers.core.dense.Dense": ["MODEL_TRAINING"]
+}

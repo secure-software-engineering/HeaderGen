@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.ops.gen_debug_ops.copy": [],
+    "tensorflow.python.ops.gen_debug_ops.copy_eager_fallback": [],
+    "tensorflow.python.ops.gen_debug_ops.copy_host": [],
+    "tensorflow.python.ops.gen_debug_ops.copy_host_eager_fallback": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_identity": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_identity_eager_fallback": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_identity_v2": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_identity_v2_eager_fallback": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_nan_count": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_nan_count_eager_fallback": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_numeric_summary": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_numeric_summary_eager_fallback": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_numeric_summary_v2": [],
+    "tensorflow.python.ops.gen_debug_ops.debug_numeric_summary_v2_eager_fallback": []
+}

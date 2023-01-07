@@ -1,0 +1,11 @@
+{
+    "scipy.io.matlab.tests.test_mio5_utils.test_byteswap": [],
+    "scipy.io.matlab.tests.test_mio5_utils._make_tag": [],
+    "scipy.io.matlab.tests.test_mio5_utils._write_stream": [],
+    "scipy.io.matlab.tests.test_mio5_utils._make_readerlike": [],
+    "scipy.io.matlab.tests.test_mio5_utils.test_read_tag": [],
+    "scipy.io.matlab.tests.test_mio5_utils.test_read_stream": [],
+    "scipy.io.matlab.tests.test_mio5_utils.test_read_numeric": [],
+    "scipy.io.matlab.tests.test_mio5_utils.test_read_numeric_writeable": [],
+    "scipy.io.matlab.tests.test_mio5_utils.test_zero_byte_string": []
+}

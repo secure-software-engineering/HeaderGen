@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial.__init__": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial.total_count": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial.concentration": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial.total_concentration": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._batch_shape_tensor": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._batch_shape": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._event_shape_tensor": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._event_shape": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._sample_n": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._log_prob": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._prob": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._mean": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._covariance": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._variance": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._variance_scale_term": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._maybe_assert_valid_concentration": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial._maybe_assert_valid_sample": [],
+    "tensorflow.python.ops.distributions.dirichlet_multinomial.DirichletMultinomial": []
+}

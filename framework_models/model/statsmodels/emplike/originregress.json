@@ -1,0 +1,10 @@
+{
+    "statsmodels.emplike.originregress.ELOriginRegress.__init__": [],
+    "statsmodels.emplike.originregress.ELOriginRegress.fit": [],
+    "statsmodels.emplike.originregress.ELOriginRegress.predict": [],
+    "statsmodels.emplike.originregress.OriginResults.__init__": [],
+    "statsmodels.emplike.originregress.OriginResults.el_test": [],
+    "statsmodels.emplike.originregress.OriginResults.conf_int_el": [],
+    "statsmodels.emplike.originregress.ELOriginRegress": [],
+    "statsmodels.emplike.originregress.OriginResults": []
+}

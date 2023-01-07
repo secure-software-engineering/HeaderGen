@@ -1,0 +1,5 @@
+{
+    "statsmodels.tsa.vector_ar.tests.JMulTi_results.parse_jmulti_var_output.print_debug_output": [],
+    "statsmodels.tsa.vector_ar.tests.JMulTi_results.parse_jmulti_var_output.dt_s_tup_to_string": [],
+    "statsmodels.tsa.vector_ar.tests.JMulTi_results.parse_jmulti_var_output.load_results_jmulti": []
+}

@@ -1,0 +1,19 @@
+{
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.n_classes": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.data": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.fitted_clf": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.y_pred": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_error_on_regressor": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_error_on_invalid_option": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_plot_confusion_matrix_custom_labels": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_plot_confusion_matrix": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_confusion_matrix_display": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_confusion_matrix_contrast": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_confusion_matrix_pipeline": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_plot_confusion_matrix_colorbar": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_confusion_matrix_text_format": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_confusion_matrix_standard_format": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_default_labels": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_error_on_a_dataset_with_unseen_labels": [],
+    "sklearn.metrics._plot.tests.test_plot_confusion_matrix.test_plot_confusion_matrix_deprecation_warning": []
+}

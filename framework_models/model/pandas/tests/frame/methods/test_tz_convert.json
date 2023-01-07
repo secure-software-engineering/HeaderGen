@@ -1,0 +1,8 @@
+{
+    "pandas.tests.frame.methods.test_tz_convert.TestTZConvert.test_tz_convert": [],
+    "pandas.tests.frame.methods.test_tz_convert.TestTZConvert.test_tz_convert_axis1": [],
+    "pandas.tests.frame.methods.test_tz_convert.TestTZConvert.test_tz_convert_naive": [],
+    "pandas.tests.frame.methods.test_tz_convert.TestTZConvert.test_tz_convert_and_localize": [],
+    "pandas.tests.frame.methods.test_tz_convert.TestTZConvert.test_tz_convert_copy_inplace_mutate": [],
+    "pandas.tests.frame.methods.test_tz_convert.TestTZConvert": []
+}

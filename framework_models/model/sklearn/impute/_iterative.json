@@ -1,0 +1,13 @@
+{
+    "sklearn.impute._iterative.IterativeImputer.__init__": [],
+    "sklearn.impute._iterative.IterativeImputer._impute_one_feature": [],
+    "sklearn.impute._iterative.IterativeImputer._get_neighbor_feat_idx": [],
+    "sklearn.impute._iterative.IterativeImputer._get_ordered_idx": [],
+    "sklearn.impute._iterative.IterativeImputer._get_abs_corr_mat": [],
+    "sklearn.impute._iterative.IterativeImputer._initial_imputation": [],
+    "sklearn.impute._iterative.IterativeImputer._validate_limit": [],
+    "sklearn.impute._iterative.IterativeImputer.fit_transform": [],
+    "sklearn.impute._iterative.IterativeImputer.transform": [],
+    "sklearn.impute._iterative.IterativeImputer.fit": [],
+    "sklearn.impute._iterative.IterativeImputer": []
+}

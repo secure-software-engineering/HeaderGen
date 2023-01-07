@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.ops.ragged.ragged_functional_ops.map_flat_values": [],
+    "tensorflow.python.ops.ragged.ragged_functional_ops._replace_ragged_with_flat_values": [],
+    "tensorflow.python.ops.ragged.ragged_functional_ops._merge_partition_lists": []
+}

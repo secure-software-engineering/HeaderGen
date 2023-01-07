@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.ops.numpy_ops.max": [],
+    "tensorflow.python.ops.numpy_ops.min": [],
+    "tensorflow.python.ops.numpy_ops.round": []
+}

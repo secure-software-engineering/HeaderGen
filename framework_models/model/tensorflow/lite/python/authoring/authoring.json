@@ -1,0 +1,17 @@
+{
+    "tensorflow.lite.python.authoring.authoring.compatible": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible.__init__": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible.__get__": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible._get_func": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible.__call__": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible.get_concrete_function": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible._get_location_string": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible._dump_error_details": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible._decode_error_legacy": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible._decode_converter_error": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible._decode_error": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible._log": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible.get_compatibility_log": [],
+    "tensorflow.lite.python.authoring.authoring.CompatibilityError": [],
+    "tensorflow.lite.python.authoring.authoring._Compatible": []
+}

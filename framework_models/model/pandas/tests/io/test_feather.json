@@ -1,0 +1,19 @@
+{
+    "pandas.tests.io.test_feather.TestFeather.check_error_on_write": [],
+    "pandas.tests.io.test_feather.TestFeather.check_external_error_on_write": [],
+    "pandas.tests.io.test_feather.TestFeather.check_round_trip": [],
+    "pandas.tests.io.test_feather.TestFeather.test_error": [],
+    "pandas.tests.io.test_feather.TestFeather.test_basic": [],
+    "pandas.tests.io.test_feather.TestFeather.test_duplicate_columns": [],
+    "pandas.tests.io.test_feather.TestFeather.test_stringify_columns": [],
+    "pandas.tests.io.test_feather.TestFeather.test_read_columns": [],
+    "pandas.tests.io.test_feather.TestFeather.read_columns_different_order": [],
+    "pandas.tests.io.test_feather.TestFeather.test_unsupported_other": [],
+    "pandas.tests.io.test_feather.TestFeather.test_rw_use_threads": [],
+    "pandas.tests.io.test_feather.TestFeather.test_write_with_index": [],
+    "pandas.tests.io.test_feather.TestFeather.test_path_pathlib": [],
+    "pandas.tests.io.test_feather.TestFeather.test_path_localpath": [],
+    "pandas.tests.io.test_feather.TestFeather.test_passthrough_keywords": [],
+    "pandas.tests.io.test_feather.TestFeather.test_http_path": [],
+    "pandas.tests.io.test_feather.TestFeather": []
+}

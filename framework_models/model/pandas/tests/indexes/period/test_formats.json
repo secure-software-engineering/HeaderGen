@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.period.test_formats.test_to_native_types": [],
+    "pandas.tests.indexes.period.test_formats.TestPeriodIndexRendering.test_frame_repr": [],
+    "pandas.tests.indexes.period.test_formats.TestPeriodIndexRendering.test_representation": [],
+    "pandas.tests.indexes.period.test_formats.TestPeriodIndexRendering.test_representation_to_series": [],
+    "pandas.tests.indexes.period.test_formats.TestPeriodIndexRendering.test_summary": [],
+    "pandas.tests.indexes.period.test_formats.TestPeriodIndexRendering": []
+}

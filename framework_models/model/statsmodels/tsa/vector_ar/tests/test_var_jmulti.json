@@ -1,0 +1,19 @@
+{
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.load_data": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.reorder_jmultis_det_terms": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.generate_exog_from_season": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.load_results_statsmodels": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.build_err_msg": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.setup": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_ols_coefs": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_ols_det_terms": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_ols_sigma": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_log_like": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_fc": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_causality": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_impulse_response": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_lag_order_selection": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_normality": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_whiteness": [],
+    "statsmodels.tsa.vector_ar.tests.test_var_jmulti.test_exceptions": []
+}

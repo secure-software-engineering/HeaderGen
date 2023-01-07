@@ -1,0 +1,16 @@
+{
+    "pandas.plotting._matplotlib.style.get_standard_colors": [],
+    "pandas.plotting._matplotlib.style._derive_colors": [],
+    "pandas.plotting._matplotlib.style._cycle_colors": [],
+    "pandas.plotting._matplotlib.style._get_colors_from_colormap": [],
+    "pandas.plotting._matplotlib.style._get_cmap_instance": [],
+    "pandas.plotting._matplotlib.style._get_colors_from_color": [],
+    "pandas.plotting._matplotlib.style._is_single_color": [],
+    "pandas.plotting._matplotlib.style._gen_list_of_colors_from_iterable": [],
+    "pandas.plotting._matplotlib.style._is_floats_color": [],
+    "pandas.plotting._matplotlib.style._get_colors_from_color_type": [],
+    "pandas.plotting._matplotlib.style._get_default_colors": [],
+    "pandas.plotting._matplotlib.style._get_random_colors": [],
+    "pandas.plotting._matplotlib.style._random_color": [],
+    "pandas.plotting._matplotlib.style._is_single_string_color": []
+}

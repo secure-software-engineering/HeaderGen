@@ -1,0 +1,6 @@
+{
+    "scipy.optimize.tests.test_regression.TestRegression.test_newton_x0_is_0": [],
+    "scipy.optimize.tests.test_regression.TestRegression.test_newton_integers": [],
+    "scipy.optimize.tests.test_regression.TestRegression.test_lmdif_errmsg": [],
+    "scipy.optimize.tests.test_regression.TestRegression": []
+}

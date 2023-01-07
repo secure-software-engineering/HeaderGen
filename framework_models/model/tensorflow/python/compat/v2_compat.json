@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.compat.v2_compat.enable_v2_behavior": [],
+    "tensorflow.python.compat.v2_compat.disable_v2_behavior": []
+}

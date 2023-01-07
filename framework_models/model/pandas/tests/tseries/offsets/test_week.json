@@ -1,0 +1,18 @@
+{
+    "pandas.tests.tseries.offsets.test_week.TestWeek.test_repr": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeek.test_corner": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeek.test_is_anchored": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeek.test_offset": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeek.test_is_on_offset": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeekOfMonth.test_constructor": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeekOfMonth.test_repr": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeekOfMonth.test_offset": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeekOfMonth.test_is_on_offset": [],
+    "pandas.tests.tseries.offsets.test_week.TestLastWeekOfMonth.test_constructor": [],
+    "pandas.tests.tseries.offsets.test_week.TestLastWeekOfMonth.test_offset": [],
+    "pandas.tests.tseries.offsets.test_week.TestLastWeekOfMonth.test_is_on_offset": [],
+    "pandas.tests.tseries.offsets.test_week.TestLastWeekOfMonth.test_repr": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeek": [],
+    "pandas.tests.tseries.offsets.test_week.TestWeekOfMonth": [],
+    "pandas.tests.tseries.offsets.test_week.TestLastWeekOfMonth": []
+}

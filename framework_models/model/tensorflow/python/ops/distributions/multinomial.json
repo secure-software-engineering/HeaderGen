@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.ops.distributions.multinomial.Multinomial.__init__": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial.total_count": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial.logits": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial.probs": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._batch_shape_tensor": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._batch_shape": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._event_shape_tensor": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._event_shape": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._sample_n": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._log_prob": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._log_unnormalized_prob": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._log_normalization": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._mean": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._covariance": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._variance": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial._maybe_assert_valid_sample": [],
+    "tensorflow.python.ops.distributions.multinomial.Multinomial": []
+}

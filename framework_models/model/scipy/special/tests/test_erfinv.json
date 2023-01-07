@@ -1,0 +1,7 @@
+{
+    "scipy.special.tests.test_erfinv.TestInverseErrorFunction.test_compliment": [],
+    "scipy.special.tests.test_erfinv.TestInverseErrorFunction.test_literal_values": [],
+    "scipy.special.tests.test_erfinv.TestInverseErrorFunction.test_domain_bounds": [],
+    "scipy.special.tests.test_erfinv.TestInverseErrorFunction.test_erfinv_asympt": [],
+    "scipy.special.tests.test_erfinv.TestInverseErrorFunction": []
+}

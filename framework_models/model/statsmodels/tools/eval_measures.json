@@ -1,0 +1,21 @@
+{
+    "statsmodels.tools.eval_measures.mse": [],
+    "statsmodels.tools.eval_measures.rmse": [],
+    "statsmodels.tools.eval_measures.rmspe": [],
+    "statsmodels.tools.eval_measures.maxabs": [],
+    "statsmodels.tools.eval_measures.meanabs": [],
+    "statsmodels.tools.eval_measures.medianabs": [],
+    "statsmodels.tools.eval_measures.bias": [],
+    "statsmodels.tools.eval_measures.medianbias": [],
+    "statsmodels.tools.eval_measures.vare": [],
+    "statsmodels.tools.eval_measures.stde": [],
+    "statsmodels.tools.eval_measures.iqr": [],
+    "statsmodels.tools.eval_measures.aic": [],
+    "statsmodels.tools.eval_measures.aicc": [],
+    "statsmodels.tools.eval_measures.bic": [],
+    "statsmodels.tools.eval_measures.hqic": [],
+    "statsmodels.tools.eval_measures.aic_sigma": [],
+    "statsmodels.tools.eval_measures.aicc_sigma": [],
+    "statsmodels.tools.eval_measures.bic_sigma": [],
+    "statsmodels.tools.eval_measures.hqic_sigma": []
+}

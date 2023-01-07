@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.tools.freeze_graph._has_no_variables": [],
+    "tensorflow.python.tools.freeze_graph.freeze_graph_with_def_protos": [],
+    "tensorflow.python.tools.freeze_graph._parse_input_graph_proto": [],
+    "tensorflow.python.tools.freeze_graph._parse_input_meta_graph_proto": [],
+    "tensorflow.python.tools.freeze_graph._parse_input_saver_proto": [],
+    "tensorflow.python.tools.freeze_graph.freeze_graph": [],
+    "tensorflow.python.tools.freeze_graph.main": [],
+    "tensorflow.python.tools.freeze_graph.run_main": []
+}

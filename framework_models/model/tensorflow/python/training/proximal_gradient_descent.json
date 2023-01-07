@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.training.proximal_gradient_descent.ProximalGradientDescentOptimizer.__init__": [],
+    "tensorflow.python.training.proximal_gradient_descent.ProximalGradientDescentOptimizer._apply_dense": [],
+    "tensorflow.python.training.proximal_gradient_descent.ProximalGradientDescentOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.proximal_gradient_descent.ProximalGradientDescentOptimizer._apply_sparse": [],
+    "tensorflow.python.training.proximal_gradient_descent.ProximalGradientDescentOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.proximal_gradient_descent.ProximalGradientDescentOptimizer._prepare": [],
+    "tensorflow.python.training.proximal_gradient_descent.ProximalGradientDescentOptimizer": []
+}

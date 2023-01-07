@@ -1,0 +1,23 @@
+{
+    "statsmodels.sandbox.tsa.fftarma.spdar1": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.__init__": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.padarr": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.pad": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.fftar": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.fftma": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.fftarma": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.spd": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.spdshift": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.spddirect": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft._spddirect2": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.spdroots": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft._spdroots": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.spdpoly": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.filter": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.filter2": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.acf2spdfreq": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.invpowerspd": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.spdmapoly": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft.plot4": [],
+    "statsmodels.sandbox.tsa.fftarma.ArmaFft": []
+}

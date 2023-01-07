@@ -1,0 +1,18 @@
+{
+    "matplotlib.tests.test_font_manager.test_font_priority": [],
+    "matplotlib.tests.test_font_manager.test_score_weight": [],
+    "matplotlib.tests.test_font_manager.test_json_serialization": [],
+    "matplotlib.tests.test_font_manager.test_otf": [],
+    "matplotlib.tests.test_font_manager.test_get_fontconfig_fonts": [],
+    "matplotlib.tests.test_font_manager.test_hinting_factor": [],
+    "matplotlib.tests.test_font_manager.test_utf16m_sfnt": [],
+    "matplotlib.tests.test_font_manager.test_find_ttc": [],
+    "matplotlib.tests.test_font_manager.test_find_invalid": [],
+    "matplotlib.tests.test_font_manager.test_user_fonts_linux": [],
+    "matplotlib.tests.test_font_manager.test_user_fonts_win32": [],
+    "matplotlib.tests.test_font_manager._model_handler": [],
+    "matplotlib.tests.test_font_manager.test_fork": [],
+    "matplotlib.tests.test_font_manager.test_missing_family": [],
+    "matplotlib.tests.test_font_manager._test_threading": [],
+    "matplotlib.tests.test_font_manager.test_fontcache_thread_safe": []
+}

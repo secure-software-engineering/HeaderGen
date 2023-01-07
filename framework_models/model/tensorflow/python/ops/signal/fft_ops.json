@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.ops.signal.fft_ops._infer_fft_length_for_rfft": [],
+    "tensorflow.python.ops.signal.fft_ops._infer_fft_length_for_irfft": [],
+    "tensorflow.python.ops.signal.fft_ops._maybe_pad_for_rfft": [],
+    "tensorflow.python.ops.signal.fft_ops._rfft_wrapper": [],
+    "tensorflow.python.ops.signal.fft_ops._irfft_wrapper": [],
+    "tensorflow.python.ops.signal.fft_ops._fft_size_for_grad": [],
+    "tensorflow.python.ops.signal.fft_ops._fft_grad": [],
+    "tensorflow.python.ops.signal.fft_ops._ifft_grad": [],
+    "tensorflow.python.ops.signal.fft_ops._fft2d_grad": [],
+    "tensorflow.python.ops.signal.fft_ops._ifft2d_grad": [],
+    "tensorflow.python.ops.signal.fft_ops._fft3d_grad": [],
+    "tensorflow.python.ops.signal.fft_ops._ifft3d_grad": [],
+    "tensorflow.python.ops.signal.fft_ops._rfft_grad_helper": [],
+    "tensorflow.python.ops.signal.fft_ops._irfft_grad_helper": [],
+    "tensorflow.python.ops.signal.fft_ops.fftshift": [],
+    "tensorflow.python.ops.signal.fft_ops.ifftshift": []
+}

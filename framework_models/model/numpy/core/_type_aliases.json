@@ -1,0 +1,10 @@
+{
+    "numpy.core._type_aliases._bits_of": [],
+    "numpy.core._type_aliases.bitname": [],
+    "numpy.core._type_aliases._add_types": [],
+    "numpy.core._type_aliases._add_aliases": [],
+    "numpy.core._type_aliases._add_integer_aliases": [],
+    "numpy.core._type_aliases._set_up_aliases": [],
+    "numpy.core._type_aliases._add_array_type": [],
+    "numpy.core._type_aliases._set_array_types": []
+}

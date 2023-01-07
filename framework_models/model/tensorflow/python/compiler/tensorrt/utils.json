@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.compiler.tensorrt.utils.disable_non_trt_optimizers_in_rewriter_config": [],
+    "tensorflow.python.compiler.tensorrt.utils._version_tuple_to_string": [],
+    "tensorflow.python.compiler.tensorrt.utils._is_tensorrt_version_greater_equal": [],
+    "tensorflow.python.compiler.tensorrt.utils.is_linked_tensorrt_version_greater_equal": [],
+    "tensorflow.python.compiler.tensorrt.utils.is_loaded_tensorrt_version_greater_equal": []
+}

@@ -1,0 +1,7 @@
+{
+    "statsmodels.distributions.tests.test_tools.test_grid": [],
+    "statsmodels.distributions.tests.test_tools.test_average_grid": [],
+    "statsmodels.distributions.tests.test_tools.test_grid_class": [],
+    "statsmodels.distributions.tests.test_tools.test_bernstein_1d": [],
+    "statsmodels.distributions.tests.test_tools.test_bernstein_2d": []
+}

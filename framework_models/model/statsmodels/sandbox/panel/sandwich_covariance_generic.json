@@ -1,0 +1,9 @@
+{
+    "statsmodels.sandbox.panel.sandwich_covariance_generic.kernel": [],
+    "statsmodels.sandbox.panel.sandwich_covariance_generic.aggregate_cov": [],
+    "statsmodels.sandbox.panel.sandwich_covariance_generic.weights_bartlett": [],
+    "statsmodels.sandbox.panel.sandwich_covariance_generic.S_all_hac": [],
+    "statsmodels.sandbox.panel.sandwich_covariance_generic.S_within_hac": [],
+    "statsmodels.sandbox.panel.sandwich_covariance_generic.S_cluster": [],
+    "statsmodels.sandbox.panel.sandwich_covariance_generic.S_white": []
+}

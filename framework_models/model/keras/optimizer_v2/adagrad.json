@@ -1,0 +1,11 @@
+{
+    "keras.optimizer_v2.adagrad.Adagrad.__init__": [],
+    "keras.optimizer_v2.adagrad.Adagrad._create_slots": [],
+    "keras.optimizer_v2.adagrad.Adagrad._prepare_local": [],
+    "keras.optimizer_v2.adagrad.Adagrad.set_weights": [],
+    "keras.optimizer_v2.adagrad.Adagrad.from_config": [],
+    "keras.optimizer_v2.adagrad.Adagrad._resource_apply_dense": [],
+    "keras.optimizer_v2.adagrad.Adagrad._resource_apply_sparse": [],
+    "keras.optimizer_v2.adagrad.Adagrad.get_config": [],
+    "keras.optimizer_v2.adagrad.Adagrad": []
+}

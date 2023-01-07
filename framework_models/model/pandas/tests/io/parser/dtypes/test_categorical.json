@@ -1,0 +1,19 @@
+{
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_single": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_unsorted": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_missing": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_high_cardinality_numeric": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_utf16": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_chunksize_infer_categories": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_chunksize_explicit_categories": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_latin1": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_category_dtype": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_category_dtype_unsorted": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_coerces_numeric": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_coerces_datetime": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_coerces_timestamp": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_coerces_timedelta": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_dtype_coerces_boolean": [],
+    "pandas.tests.io.parser.dtypes.test_categorical.test_categorical_unexpected_categories": []
+}

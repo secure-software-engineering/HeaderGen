@@ -1,0 +1,7 @@
+{
+    "pandas.tests.frame.methods.test_get_numeric_data.TestGetNumericData.test_get_numeric_data_preserve_dtype": [],
+    "pandas.tests.frame.methods.test_get_numeric_data.TestGetNumericData.test_get_numeric_data": [],
+    "pandas.tests.frame.methods.test_get_numeric_data.TestGetNumericData.test_get_numeric_data_mixed_dtype": [],
+    "pandas.tests.frame.methods.test_get_numeric_data.TestGetNumericData.test_get_numeric_data_extension_dtype": [],
+    "pandas.tests.frame.methods.test_get_numeric_data.TestGetNumericData": []
+}

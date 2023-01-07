@@ -1,0 +1,15 @@
+{
+    "pandas.tests.window.test_win_type.test_constructor": [],
+    "pandas.tests.window.test_win_type.test_invalid_constructor": [],
+    "pandas.tests.window.test_win_type.test_invalid_constructor_wintype": [],
+    "pandas.tests.window.test_win_type.test_constructor_with_win_type": [],
+    "pandas.tests.window.test_win_type.test_numpy_compat": [],
+    "pandas.tests.window.test_win_type.test_agg_function_support": [],
+    "pandas.tests.window.test_win_type.test_invalid_scipy_arg": [],
+    "pandas.tests.window.test_win_type.test_constructor_with_win_type_invalid": [],
+    "pandas.tests.window.test_win_type.test_window_with_args": [],
+    "pandas.tests.window.test_win_type.test_win_type_with_method_invalid": [],
+    "pandas.tests.window.test_win_type.test_consistent_win_type_freq": [],
+    "pandas.tests.window.test_win_type.test_win_type_freq_return_deprecation": [],
+    "pandas.tests.window.test_win_type.test_win_type_not_implemented": []
+}

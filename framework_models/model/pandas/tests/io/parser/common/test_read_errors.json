@@ -1,0 +1,18 @@
+{
+    "pandas.tests.io.parser.common.test_read_errors.test_empty_decimal_marker": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_bad_stream_exception": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_malformed": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_malformed_chunks": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_catch_too_many_names": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_raise_on_no_columns": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_read_csv_raises_on_header_prefix": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_unexpected_keyword_parameter_exception": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_suppress_error_output": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_error_bad_lines": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_warn_bad_lines": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_read_csv_wrong_num_columns": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_null_byte_char": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_open_file": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_invalid_on_bad_line": [],
+    "pandas.tests.io.parser.common.test_read_errors.test_conflict_on_bad_line": []
+}

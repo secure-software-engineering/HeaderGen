@@ -1,0 +1,4 @@
+{
+    "pandas.tests.io.parser.common.test_decimal.test_1000_sep_with_decimal": [],
+    "pandas.tests.io.parser.common.test_decimal.test_euro_decimal_format": []
+}

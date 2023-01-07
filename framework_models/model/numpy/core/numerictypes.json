@@ -1,0 +1,17 @@
+{
+    "numpy.core.numerictypes.maximum_sctype": [],
+    "numpy.core.numerictypes.issctype": [],
+    "numpy.core.numerictypes.obj2sctype": [],
+    "numpy.core.numerictypes.issubclass_": [],
+    "numpy.core.numerictypes.issubsctype": [],
+    "numpy.core.numerictypes.issubdtype": [],
+    "numpy.core.numerictypes._construct_lookups": [],
+    "numpy.core.numerictypes.sctype2char": [],
+    "numpy.core.numerictypes._scalar_type_key": [],
+    "numpy.core.numerictypes._find_common_coerce": [],
+    "numpy.core.numerictypes._can_coerce_all": [],
+    "numpy.core.numerictypes._register_types": [],
+    "numpy.core.numerictypes.find_common_type": [],
+    "numpy.core.numerictypes._typedict.__getitem__": [],
+    "numpy.core.numerictypes._typedict": []
+}

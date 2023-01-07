@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.distribute.test_util.gather": [],
+    "tensorflow.python.distribute.test_util._gather": [],
+    "tensorflow.python.distribute.test_util.set_logical_devices_to_at_least": [],
+    "tensorflow.python.distribute.test_util._set_logical_devices": [],
+    "tensorflow.python.distribute.test_util.main": [],
+    "tensorflow.python.distribute.test_util._op_dependencies": [],
+    "tensorflow.python.distribute.test_util.topological_sort_operations": [],
+    "tensorflow.python.distribute.test_util._exists_dependency": [],
+    "tensorflow.python.distribute.test_util.assert_sequential_execution": [],
+    "tensorflow.python.distribute.test_util.get_running_threads": [],
+    "tensorflow.python.distribute.test_util.has_thread": [],
+    "tensorflow.python.distribute.test_util.show_backref": [],
+    "tensorflow.python.distribute.test_util.create_per_replica": [],
+    "tensorflow.python.distribute.test_util.is_tpu_strategy": []
+}

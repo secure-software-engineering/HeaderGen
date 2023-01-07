@@ -1,0 +1,14 @@
+{
+    "matplotlib.fontconfig_pattern._escape_val": [],
+    "matplotlib.fontconfig_pattern.generate_fontconfig_pattern": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser.__init__": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser.parse": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser._family": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser._size": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser._name": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser._value": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser._families": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser._point_sizes": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser._property": [],
+    "matplotlib.fontconfig_pattern.FontconfigPatternParser": []
+}

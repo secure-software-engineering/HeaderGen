@@ -1,0 +1,6 @@
+{
+    "numpy._pytesttester._show_numpy_info": [],
+    "numpy._pytesttester.PytestTester.__init__": [],
+    "numpy._pytesttester.PytestTester.__call__": [],
+    "numpy._pytesttester.PytestTester": []
+}

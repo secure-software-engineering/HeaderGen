@@ -1,0 +1,12 @@
+{
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_describe_ints": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_describe_bools": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_describe_strs": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_describe_timedelta64": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_describe_period": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_describe_empty_object": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_describe_with_tz": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_describe_with_tz_warns": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe.test_datetime_is_numeric_includes_datetime": [],
+    "pandas.tests.series.methods.test_describe.TestSeriesDescribe": []
+}

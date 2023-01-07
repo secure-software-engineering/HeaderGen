@@ -1,0 +1,10 @@
+{
+    "statsmodels.distributions.tests.test_bernstein.test_bernstein_distribution_1d": [],
+    "statsmodels.distributions.tests.test_bernstein.test_bernstein_distribution_2d": [],
+    "statsmodels.distributions.tests.test_bernstein.TestBernsteinBeta2d.setup_class": [],
+    "statsmodels.distributions.tests.test_bernstein.TestBernsteinBeta2d.test_basic": [],
+    "statsmodels.distributions.tests.test_bernstein.TestBernsteinBeta2d.test_rvs": [],
+    "statsmodels.distributions.tests.test_bernstein.TestBernsteinBeta2dd.setup_class": [],
+    "statsmodels.distributions.tests.test_bernstein.TestBernsteinBeta2d": [],
+    "statsmodels.distributions.tests.test_bernstein.TestBernsteinBeta2dd": []
+}

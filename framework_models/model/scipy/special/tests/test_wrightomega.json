@@ -1,0 +1,11 @@
+{
+    "scipy.special.tests.test_wrightomega.test_wrightomega_nan": [],
+    "scipy.special.tests.test_wrightomega.test_wrightomega_inf_branch": [],
+    "scipy.special.tests.test_wrightomega.test_wrightomega_inf": [],
+    "scipy.special.tests.test_wrightomega.test_wrightomega_singular": [],
+    "scipy.special.tests.test_wrightomega.test_wrightomega_real_infinities": [],
+    "scipy.special.tests.test_wrightomega.test_wrightomega_real_nan": [],
+    "scipy.special.tests.test_wrightomega.test_wrightomega_real_series_crossover": [],
+    "scipy.special.tests.test_wrightomega.test_wrightomega_exp_approximation_crossover": [],
+    "scipy.special.tests.test_wrightomega.test_wrightomega_real_versus_complex": []
+}

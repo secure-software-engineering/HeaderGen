@@ -1,0 +1,19 @@
+{
+    "matplotlib.testing.decorators._cleanup_cm": [],
+    "matplotlib.testing.decorators.cleanup": [],
+    "matplotlib.testing.decorators.check_freetype_version": [],
+    "matplotlib.testing.decorators._checked_on_freetype_version": [],
+    "matplotlib.testing.decorators.remove_ticks_and_titles": [],
+    "matplotlib.testing.decorators._raise_on_image_difference": [],
+    "matplotlib.testing.decorators._pytest_image_comparison": [],
+    "matplotlib.testing.decorators.image_comparison": [],
+    "matplotlib.testing.decorators.check_figures_equal": [],
+    "matplotlib.testing.decorators._image_directories": [],
+    "matplotlib.testing.decorators.CleanupTestCase.setUpClass": [],
+    "matplotlib.testing.decorators.CleanupTestCase.tearDownClass": [],
+    "matplotlib.testing.decorators._ImageComparisonBase.__init__": [],
+    "matplotlib.testing.decorators._ImageComparisonBase.copy_baseline": [],
+    "matplotlib.testing.decorators._ImageComparisonBase.compare": [],
+    "matplotlib.testing.decorators.CleanupTestCase": [],
+    "matplotlib.testing.decorators._ImageComparisonBase": []
+}

@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.data.experimental.ops.distribute._AutoShardDatasetV1": [],
+    "tensorflow.python.data.experimental.ops.distribute.replicate": [],
+    "tensorflow.python.data.experimental.ops.distribute.batch_sizes_for_worker": [],
+    "tensorflow.python.data.experimental.ops.distribute.compute_batch_size": [],
+    "tensorflow.python.data.experimental.ops.distribute._AutoShardDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.distribute._AutoShardDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.distribute._RebatchDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.distribute._RebatchDataset._compute_static_batch_dim": [],
+    "tensorflow.python.data.experimental.ops.distribute._RebatchDataset._may_form_partial_batches": [],
+    "tensorflow.python.data.experimental.ops.distribute._RebatchDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.distribute._LegacyRebatchDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.distribute._LegacyRebatchDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.distribute._RemoteDataset.__init__": [],
+    "tensorflow.python.data.experimental.ops.distribute._RemoteDataset.element_spec": [],
+    "tensorflow.python.data.experimental.ops.distribute._AutoShardDataset": [],
+    "tensorflow.python.data.experimental.ops.distribute._RebatchDataset": [],
+    "tensorflow.python.data.experimental.ops.distribute._LegacyRebatchDataset": [],
+    "tensorflow.python.data.experimental.ops.distribute._RemoteDataset": []
+}

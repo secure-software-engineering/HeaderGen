@@ -1,0 +1,5 @@
+{
+    "matplotlib.tests.test_basic.test_simple": [],
+    "matplotlib.tests.test_basic.test_override_builtins": [],
+    "matplotlib.tests.test_basic.test_lazy_imports": []
+}

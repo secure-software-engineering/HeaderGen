@@ -1,0 +1,16 @@
+{
+    "sklearn.utils._pprint._changed_params": [],
+    "sklearn.utils._pprint._safe_repr": [],
+    "sklearn.utils._pprint.KeyValTuple.__repr__": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter.__init__": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter.format": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter._pprint_estimator": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter._format_dict_items": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter._format_params": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter._format_params_or_dict_items": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter._format_items": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter._pprint_key_val_tuple": [],
+    "sklearn.utils._pprint.KeyValTuple": [],
+    "sklearn.utils._pprint.KeyValTupleParam": [],
+    "sklearn.utils._pprint._EstimatorPrettyPrinter": []
+}

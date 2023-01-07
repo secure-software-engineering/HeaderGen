@@ -1,0 +1,4 @@
+{
+    "scipy.spatial.setup.pre_build_hook": [],
+    "scipy.spatial.setup.configuration": []
+}

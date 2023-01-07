@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.gen_count_ops.dense_count_sparse_output": [],
+    "tensorflow.python.ops.gen_count_ops.dense_count_sparse_output_eager_fallback": [],
+    "tensorflow.python.ops.gen_count_ops.ragged_count_sparse_output": [],
+    "tensorflow.python.ops.gen_count_ops.ragged_count_sparse_output_eager_fallback": [],
+    "tensorflow.python.ops.gen_count_ops.sparse_count_sparse_output": [],
+    "tensorflow.python.ops.gen_count_ops.sparse_count_sparse_output_eager_fallback": []
+}

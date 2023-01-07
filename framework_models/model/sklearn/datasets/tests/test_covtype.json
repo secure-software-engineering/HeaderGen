@@ -1,0 +1,5 @@
+{
+    "sklearn.datasets.tests.test_covtype.test_fetch": [],
+    "sklearn.datasets.tests.test_covtype.test_fetch_asframe": [],
+    "sklearn.datasets.tests.test_covtype.test_pandas_dependency_message": []
+}

@@ -1,0 +1,14 @@
+{
+    "seaborn.relational.lineplot": [],
+    "seaborn.relational.scatterplot": [],
+    "seaborn.relational.relplot": [],
+    "seaborn.relational._RelationalPlotter.add_legend_data": [],
+    "seaborn.relational._LinePlotter.__init__": [],
+    "seaborn.relational._LinePlotter.aggregate": [],
+    "seaborn.relational._LinePlotter.plot": [],
+    "seaborn.relational._ScatterPlotter.__init__": [],
+    "seaborn.relational._ScatterPlotter.plot": [],
+    "seaborn.relational._RelationalPlotter": [],
+    "seaborn.relational._LinePlotter": [],
+    "seaborn.relational._ScatterPlotter": []
+}

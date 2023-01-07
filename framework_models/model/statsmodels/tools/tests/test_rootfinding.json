@@ -1,0 +1,6 @@
+{
+    "statsmodels.tools.tests.test_rootfinding.func": [],
+    "statsmodels.tools.tests.test_rootfinding.func_nan": [],
+    "statsmodels.tools.tests.test_rootfinding.funcn": [],
+    "statsmodels.tools.tests.test_rootfinding.test_brentq_expanding": []
+}

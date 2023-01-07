@@ -1,0 +1,16 @@
+{
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_instantiation_valid": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_prediction_increment_unsupported": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_prediction_increment_nonpandas": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_prediction_increment_pandas_noindex": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_prediction_increment_pandas_dates_daily": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_prediction_increment_pandas_dates_monthly": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_prediction_increment_pandas_dates_nanosecond": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_range_index": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_prediction_rangeindex": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_prediction_rangeindex_withstep": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_custom_index": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_nonmonotonic_periodindex": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_nonfull_periodindex": [],
+    "statsmodels.tsa.base.tests.test_tsa_indexes.test_get_index_loc_quarterly": []
+}

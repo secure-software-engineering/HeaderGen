@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.ops.sparse_grad._SparseReorderGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseAddGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseTensorDenseAddGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseReduceSumGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseSliceGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseTensorDenseMatMulGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseDenseCwiseAddGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseDenseCwiseMulOrDivGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseDenseCwiseMulGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseDenseCwiseDivGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseSoftmaxGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseSparseMaximumGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseSparseMinimumGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseFillEmptyRowsGrad": [],
+    "tensorflow.python.ops.sparse_grad._SparseToDenseGrad": []
+}

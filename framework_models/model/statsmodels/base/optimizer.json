@@ -1,0 +1,17 @@
+{
+    "statsmodels.base.optimizer.check_kwargs": [],
+    "statsmodels.base.optimizer._check_method": [],
+    "statsmodels.base.optimizer._fit_minimize": [],
+    "statsmodels.base.optimizer._fit_newton": [],
+    "statsmodels.base.optimizer._fit_bfgs": [],
+    "statsmodels.base.optimizer._fit_lbfgs": [],
+    "statsmodels.base.optimizer._fit_nm": [],
+    "statsmodels.base.optimizer._fit_cg": [],
+    "statsmodels.base.optimizer._fit_ncg": [],
+    "statsmodels.base.optimizer._fit_powell": [],
+    "statsmodels.base.optimizer._fit_basinhopping": [],
+    "statsmodels.base.optimizer.Optimizer._fit": [],
+    "statsmodels.base.optimizer.Optimizer._fit_constrained": [],
+    "statsmodels.base.optimizer.Optimizer._fit_regularized": [],
+    "statsmodels.base.optimizer.Optimizer": []
+}

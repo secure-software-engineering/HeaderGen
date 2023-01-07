@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.autograph.converters.asserts.transform": [],
+    "tensorflow.python.autograph.converters.asserts.AssertTransformer.visit_Assert": [],
+    "tensorflow.python.autograph.converters.asserts.AssertTransformer": []
+}

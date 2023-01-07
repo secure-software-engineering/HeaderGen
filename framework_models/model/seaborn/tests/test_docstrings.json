@@ -1,0 +1,10 @@
+{
+    "seaborn.tests.test_docstrings.example_func": [],
+    "seaborn.tests.test_docstrings.ExampleClass.example_method": [],
+    "seaborn.tests.test_docstrings.TestDocstringComponents.test_from_dict": [],
+    "seaborn.tests.test_docstrings.TestDocstringComponents.test_from_nested_components": [],
+    "seaborn.tests.test_docstrings.TestDocstringComponents.test_from_function": [],
+    "seaborn.tests.test_docstrings.TestDocstringComponents.test_from_method": [],
+    "seaborn.tests.test_docstrings.ExampleClass": [],
+    "seaborn.tests.test_docstrings.TestDocstringComponents": []
+}

@@ -1,0 +1,5 @@
+{
+    "numpy.dual.register_func": [],
+    "numpy.dual.restore_func": [],
+    "numpy.dual.restore_all": []
+}

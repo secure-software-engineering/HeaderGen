@@ -1,0 +1,7 @@
+{
+    "plotly.figure_factory._county_choropleth._create_us_counties_df": [],
+    "plotly.figure_factory._county_choropleth._human_format": [],
+    "plotly.figure_factory._county_choropleth._intervals_as_labels": [],
+    "plotly.figure_factory._county_choropleth._calculations": [],
+    "plotly.figure_factory._county_choropleth.create_choropleth": []
+}

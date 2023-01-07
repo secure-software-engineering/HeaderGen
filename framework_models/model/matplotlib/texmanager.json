@@ -1,0 +1,17 @@
+{
+    "matplotlib.texmanager._usepackage_if_not_loaded": [],
+    "matplotlib.texmanager.TexManager.__new__": [],
+    "matplotlib.texmanager.TexManager.get_font_config": [],
+    "matplotlib.texmanager.TexManager.get_basefile": [],
+    "matplotlib.texmanager.TexManager.get_font_preamble": [],
+    "matplotlib.texmanager.TexManager.get_custom_preamble": [],
+    "matplotlib.texmanager.TexManager._get_preamble": [],
+    "matplotlib.texmanager.TexManager.make_tex": [],
+    "matplotlib.texmanager.TexManager._run_checked_subprocess": [],
+    "matplotlib.texmanager.TexManager.make_dvi": [],
+    "matplotlib.texmanager.TexManager.make_png": [],
+    "matplotlib.texmanager.TexManager.get_grey": [],
+    "matplotlib.texmanager.TexManager.get_rgba": [],
+    "matplotlib.texmanager.TexManager.get_text_width_height_descent": [],
+    "matplotlib.texmanager.TexManager": []
+}

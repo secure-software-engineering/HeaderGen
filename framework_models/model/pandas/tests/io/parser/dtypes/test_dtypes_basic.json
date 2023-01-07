@@ -1,0 +1,16 @@
+{
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_dtype_all_columns": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_dtype_per_column": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_invalid_dtype_per_column": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_raise_on_passed_int_dtype_with_nas": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_dtype_with_converters": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_numeric_dtype": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_boolean_dtype": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_delimiter_with_usecols_and_parse_dates": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_decimal_and_exponential": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_1000_sep_decimal_float_precision": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.decimal_number_check": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_true_values_cast_to_bool": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_dtype_mangle_dup_cols": [],
+    "pandas.tests.io.parser.dtypes.test_dtypes_basic.test_dtype_mangle_dup_cols_single_dtype": []
+}

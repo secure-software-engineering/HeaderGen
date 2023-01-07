@@ -1,0 +1,10 @@
+{
+    "keras.optimizer_v2.gradient_descent.SGD.__init__": ["MODEL_TRAINING"],
+    "keras.optimizer_v2.gradient_descent.SGD._create_slots": ["MODEL_TRAINING"],
+    "keras.optimizer_v2.gradient_descent.SGD._prepare_local": ["MODEL_TRAINING"],
+    "keras.optimizer_v2.gradient_descent.SGD._resource_apply_dense": ["MODEL_TRAINING"],
+    "keras.optimizer_v2.gradient_descent.SGD._resource_apply_sparse_duplicate_indices": ["MODEL_TRAINING"],
+    "keras.optimizer_v2.gradient_descent.SGD._resource_apply_sparse": ["MODEL_TRAINING"],
+    "keras.optimizer_v2.gradient_descent.SGD.get_config": ["MODEL_TRAINING"],
+    "keras.optimizer_v2.gradient_descent.SGD": ["MODEL_TRAINING"]
+}

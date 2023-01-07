@@ -1,0 +1,19 @@
+{
+    "pandas.tests.groupby.test_libgroupby.test_group_ohlc": [],
+    "pandas.tests.groupby.test_libgroupby._check_cython_group_transform_cumulative": [],
+    "pandas.tests.groupby.test_libgroupby.test_cython_group_transform_cumsum": [],
+    "pandas.tests.groupby.test_libgroupby.test_cython_group_transform_cumprod": [],
+    "pandas.tests.groupby.test_libgroupby.test_cython_group_transform_algos": [],
+    "pandas.tests.groupby.test_libgroupby.test_cython_group_mean_datetimelike": [],
+    "pandas.tests.groupby.test_libgroupby.test_cython_group_mean_wrong_min_count": [],
+    "pandas.tests.groupby.test_libgroupby.test_cython_group_mean_not_datetimelike_but_has_NaT_values": [],
+    "pandas.tests.groupby.test_libgroupby.GroupVarTestMixin.test_group_var_generic_1d": [],
+    "pandas.tests.groupby.test_libgroupby.GroupVarTestMixin.test_group_var_generic_1d_flat_labels": [],
+    "pandas.tests.groupby.test_libgroupby.GroupVarTestMixin.test_group_var_generic_2d_all_finite": [],
+    "pandas.tests.groupby.test_libgroupby.GroupVarTestMixin.test_group_var_generic_2d_some_nan": [],
+    "pandas.tests.groupby.test_libgroupby.GroupVarTestMixin.test_group_var_constant": [],
+    "pandas.tests.groupby.test_libgroupby.TestGroupVarFloat64.test_group_var_large_inputs": [],
+    "pandas.tests.groupby.test_libgroupby.GroupVarTestMixin": [],
+    "pandas.tests.groupby.test_libgroupby.TestGroupVarFloat64": [],
+    "pandas.tests.groupby.test_libgroupby.TestGroupVarFloat32": []
+}

@@ -1,0 +1,4 @@
+{
+    "pandas.tests.tseries.offsets.conftest.offset_types": [],
+    "pandas.tests.tseries.offsets.conftest.month_classes": []
+}

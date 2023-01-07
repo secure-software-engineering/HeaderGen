@@ -1,0 +1,11 @@
+{
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_unsorted": [],
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_ascending": [],
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_default": [],
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_normalize": [],
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_single_col_default": [],
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_empty": [],
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_empty_normalize": [],
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_dropna_true": [],
+    "pandas.tests.frame.methods.test_value_counts.test_data_frame_value_counts_dropna_false": []
+}

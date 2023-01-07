@@ -1,0 +1,23 @@
+{
+    "statsmodels.nonparametric.tests.test_kernel_regression.test_invalid_bw": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.test_invalid_kernel": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.KernelRegressionTestBase.setup_class": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.KernelRegressionTestBase.write2file": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_ordered_lc_cvls": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_continuousdata_lc_cvls": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_continuousdata_ll_cvls": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_continuous_mfx_ll_cvls": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_mixed_mfx_ll_cvls": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_mfx_nonlinear_ll_cvls": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_continuous_cvls_efficient": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_censored_ll_cvls": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_continuous_lc_aic": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_significance_continuous": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_significance_discrete": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_user_specified_kernel": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_censored_user_specified_kernel": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_efficient_user_specificed_bw": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg.test_censored_efficient_user_specificed_bw": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.KernelRegressionTestBase": [],
+    "statsmodels.nonparametric.tests.test_kernel_regression.TestKernelReg": []
+}

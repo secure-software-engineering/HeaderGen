@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.ops.gen_bitwise_ops.bitwise_and": [],
+    "tensorflow.python.ops.gen_bitwise_ops.bitwise_and_eager_fallback": [],
+    "tensorflow.python.ops.gen_bitwise_ops.bitwise_or": [],
+    "tensorflow.python.ops.gen_bitwise_ops.bitwise_or_eager_fallback": [],
+    "tensorflow.python.ops.gen_bitwise_ops.bitwise_xor": [],
+    "tensorflow.python.ops.gen_bitwise_ops.bitwise_xor_eager_fallback": [],
+    "tensorflow.python.ops.gen_bitwise_ops.invert": [],
+    "tensorflow.python.ops.gen_bitwise_ops.invert_eager_fallback": [],
+    "tensorflow.python.ops.gen_bitwise_ops.left_shift": [],
+    "tensorflow.python.ops.gen_bitwise_ops.left_shift_eager_fallback": [],
+    "tensorflow.python.ops.gen_bitwise_ops.population_count": [],
+    "tensorflow.python.ops.gen_bitwise_ops.population_count_eager_fallback": [],
+    "tensorflow.python.ops.gen_bitwise_ops.right_shift": [],
+    "tensorflow.python.ops.gen_bitwise_ops.right_shift_eager_fallback": []
+}

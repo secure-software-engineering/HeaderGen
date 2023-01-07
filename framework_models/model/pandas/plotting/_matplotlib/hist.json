@@ -1,0 +1,21 @@
+{
+    "pandas.plotting._matplotlib.hist._grouped_plot": [],
+    "pandas.plotting._matplotlib.hist._grouped_hist": [],
+    "pandas.plotting._matplotlib.hist.hist_series": [],
+    "pandas.plotting._matplotlib.hist.hist_frame": [],
+    "pandas.plotting._matplotlib.hist.HistPlot.__init__": [],
+    "pandas.plotting._matplotlib.hist.HistPlot._args_adjust": [],
+    "pandas.plotting._matplotlib.hist.HistPlot._plot": [],
+    "pandas.plotting._matplotlib.hist.HistPlot._make_plot": [],
+    "pandas.plotting._matplotlib.hist.HistPlot._make_plot_keywords": [],
+    "pandas.plotting._matplotlib.hist.HistPlot._post_plot_logic": [],
+    "pandas.plotting._matplotlib.hist.HistPlot.orientation": [],
+    "pandas.plotting._matplotlib.hist.KdePlot.__init__": [],
+    "pandas.plotting._matplotlib.hist.KdePlot._args_adjust": [],
+    "pandas.plotting._matplotlib.hist.KdePlot._get_ind": [],
+    "pandas.plotting._matplotlib.hist.KdePlot._plot": [],
+    "pandas.plotting._matplotlib.hist.KdePlot._make_plot_keywords": [],
+    "pandas.plotting._matplotlib.hist.KdePlot._post_plot_logic": [],
+    "pandas.plotting._matplotlib.hist.HistPlot": [],
+    "pandas.plotting._matplotlib.hist.KdePlot": []
+}

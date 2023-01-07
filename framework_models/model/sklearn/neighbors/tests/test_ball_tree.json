@@ -1,0 +1,6 @@
+{
+    "sklearn.neighbors.tests.test_ball_tree.brute_force_neighbors": [],
+    "sklearn.neighbors.tests.test_ball_tree.test_ball_tree_query_metrics": [],
+    "sklearn.neighbors.tests.test_ball_tree.test_query_haversine": [],
+    "sklearn.neighbors.tests.test_ball_tree.test_array_object_type": []
+}

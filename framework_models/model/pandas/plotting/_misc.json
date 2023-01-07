@@ -1,0 +1,21 @@
+{
+    "pandas.plotting._misc.table": [],
+    "pandas.plotting._misc.register": [],
+    "pandas.plotting._misc.deregister": [],
+    "pandas.plotting._misc.scatter_matrix": [],
+    "pandas.plotting._misc.radviz": [],
+    "pandas.plotting._misc.andrews_curves": [],
+    "pandas.plotting._misc.bootstrap_plot": [],
+    "pandas.plotting._misc.parallel_coordinates": [],
+    "pandas.plotting._misc.lag_plot": [],
+    "pandas.plotting._misc.autocorrelation_plot": [],
+    "pandas.plotting._misc._Options.__init__": [],
+    "pandas.plotting._misc._Options.__getitem__": [],
+    "pandas.plotting._misc._Options.__setitem__": [],
+    "pandas.plotting._misc._Options.__delitem__": [],
+    "pandas.plotting._misc._Options.__contains__": [],
+    "pandas.plotting._misc._Options.reset": [],
+    "pandas.plotting._misc._Options._get_canonical_key": [],
+    "pandas.plotting._misc._Options.use": [],
+    "pandas.plotting._misc._Options": []
+}

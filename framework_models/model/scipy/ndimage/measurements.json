@@ -1,0 +1,22 @@
+{
+    "scipy.ndimage.measurements.label": [],
+    "scipy.ndimage.measurements.find_objects": [],
+    "scipy.ndimage.measurements.labeled_comprehension": [],
+    "scipy.ndimage.measurements._safely_castable_to_int": [],
+    "scipy.ndimage.measurements._stats": [],
+    "scipy.ndimage.measurements.sum": [],
+    "scipy.ndimage.measurements.sum_labels": [],
+    "scipy.ndimage.measurements.mean": [],
+    "scipy.ndimage.measurements.variance": [],
+    "scipy.ndimage.measurements.standard_deviation": [],
+    "scipy.ndimage.measurements._select": [],
+    "scipy.ndimage.measurements.minimum": [],
+    "scipy.ndimage.measurements.maximum": [],
+    "scipy.ndimage.measurements.median": [],
+    "scipy.ndimage.measurements.minimum_position": [],
+    "scipy.ndimage.measurements.maximum_position": [],
+    "scipy.ndimage.measurements.extrema": [],
+    "scipy.ndimage.measurements.center_of_mass": [],
+    "scipy.ndimage.measurements.histogram": [],
+    "scipy.ndimage.measurements.watershed_ift": []
+}

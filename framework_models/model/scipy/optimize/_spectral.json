@@ -1,0 +1,8 @@
+{
+    "scipy.optimize._spectral._root_df_sane": [],
+    "scipy.optimize._spectral._wrap_func": [],
+    "scipy.optimize._spectral._wrap_result": [],
+    "scipy.optimize._spectral._real2complex": [],
+    "scipy.optimize._spectral._complex2real": [],
+    "scipy.optimize._spectral._NoConvergence": []
+}

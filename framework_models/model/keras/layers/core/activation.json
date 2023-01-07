@@ -1,0 +1,7 @@
+{
+    "keras.layers.core.activation.Activation.__init__": ["MODEL_TRAINING"],
+    "keras.layers.core.activation.Activation.call": ["MODEL_TRAINING"],
+    "keras.layers.core.activation.Activation.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.layers.core.activation.Activation.get_config": ["MODEL_TRAINING"],
+    "keras.layers.core.activation.Activation": ["MODEL_TRAINING"]
+}

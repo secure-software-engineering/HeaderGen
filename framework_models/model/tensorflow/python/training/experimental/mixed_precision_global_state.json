@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.training.experimental.mixed_precision_global_state.is_mixed_precision_graph_rewrite_enabled": [],
+    "tensorflow.python.training.experimental.mixed_precision_global_state.set_mixed_precision_graph_rewrite_enabled": [],
+    "tensorflow.python.training.experimental.mixed_precision_global_state.non_mixed_precision_session_created": [],
+    "tensorflow.python.training.experimental.mixed_precision_global_state.set_non_mixed_precision_session_created": [],
+    "tensorflow.python.training.experimental.mixed_precision_global_state.is_using_mixed_precision_policy": [],
+    "tensorflow.python.training.experimental.mixed_precision_global_state.set_using_mixed_precision_policy": []
+}

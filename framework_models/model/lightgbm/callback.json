@@ -1,0 +1,10 @@
+{
+    "lightgbm.callback._format_eval_result": [],
+    "lightgbm.callback.print_evaluation": [],
+    "lightgbm.callback.log_evaluation": [],
+    "lightgbm.callback.record_evaluation": [],
+    "lightgbm.callback.reset_parameter": [],
+    "lightgbm.callback.early_stopping": [],
+    "lightgbm.callback.EarlyStopException.__init__": [],
+    "lightgbm.callback.EarlyStopException": []
+}

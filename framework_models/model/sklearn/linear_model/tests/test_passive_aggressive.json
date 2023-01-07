@@ -1,0 +1,21 @@
+{
+    "sklearn.linear_model.tests.test_passive_aggressive.test_classifier_accuracy": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_classifier_partial_fit": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_classifier_refit": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_classifier_correctness": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_classifier_undefined_methods": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_class_weights": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_partial_fit_weight_class_balanced": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_equal_class_weight": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_wrong_class_weight_label": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_wrong_class_weight_format": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_regressor_mse": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_regressor_partial_fit": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_regressor_correctness": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_regressor_undefined_methods": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.test_passive_aggressive_estimator_params_validation": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.MyPassiveAggressive.__init__": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.MyPassiveAggressive.fit": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.MyPassiveAggressive.project": [],
+    "sklearn.linear_model.tests.test_passive_aggressive.MyPassiveAggressive": []
+}

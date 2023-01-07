@@ -1,0 +1,23 @@
+{
+    "pandas.core.reshape.reshape._unstack_multiple": [],
+    "pandas.core.reshape.reshape.unstack": [],
+    "pandas.core.reshape.reshape._unstack_frame": [],
+    "pandas.core.reshape.reshape._unstack_extension_series": [],
+    "pandas.core.reshape.reshape.stack": [],
+    "pandas.core.reshape.reshape.stack_multiple": [],
+    "pandas.core.reshape.reshape._stack_multi_column_index": [],
+    "pandas.core.reshape.reshape._stack_multi_columns": [],
+    "pandas.core.reshape.reshape.get_dummies": ["DATA_CLEANING_PREPARATION"],
+    "pandas.core.reshape.reshape._get_dummies_1d": [],
+    "pandas.core.reshape.reshape._reorder_for_extension_array_stack": [],
+    "pandas.core.reshape.reshape._Unstacker.__init__": [],
+    "pandas.core.reshape.reshape._Unstacker._indexer_and_to_sort": [],
+    "pandas.core.reshape.reshape._Unstacker.sorted_labels": [],
+    "pandas.core.reshape.reshape._Unstacker._make_sorted_values": [],
+    "pandas.core.reshape.reshape._Unstacker._make_selectors": [],
+    "pandas.core.reshape.reshape._Unstacker.get_result": [],
+    "pandas.core.reshape.reshape._Unstacker.get_new_values": [],
+    "pandas.core.reshape.reshape._Unstacker.get_new_columns": [],
+    "pandas.core.reshape.reshape._Unstacker.new_index": [],
+    "pandas.core.reshape.reshape._Unstacker": []
+}

@@ -1,0 +1,17 @@
+{
+    "matplotlib.tests.test_preprocess_data.plot_func": [],
+    "matplotlib.tests.test_preprocess_data.test_compiletime_checks": [],
+    "matplotlib.tests.test_preprocess_data.test_function_call_without_data": [],
+    "matplotlib.tests.test_preprocess_data.test_function_call_with_dict_input": [],
+    "matplotlib.tests.test_preprocess_data.test_function_call_with_dict_data": [],
+    "matplotlib.tests.test_preprocess_data.test_function_call_with_dict_data_not_in_data": [],
+    "matplotlib.tests.test_preprocess_data.test_function_call_with_pandas_data": [],
+    "matplotlib.tests.test_preprocess_data.test_function_call_replace_all": [],
+    "matplotlib.tests.test_preprocess_data.test_no_label_replacements": [],
+    "matplotlib.tests.test_preprocess_data.test_more_args_than_pos_parameter": [],
+    "matplotlib.tests.test_preprocess_data.test_docstring_addition": [],
+    "matplotlib.tests.test_preprocess_data.test_data_parameter_replacement": [],
+    "matplotlib.tests.test_preprocess_data.TestPlotTypes.test_dict_unpack": [],
+    "matplotlib.tests.test_preprocess_data.TestPlotTypes.test_data_kwarg": [],
+    "matplotlib.tests.test_preprocess_data.TestPlotTypes": []
+}

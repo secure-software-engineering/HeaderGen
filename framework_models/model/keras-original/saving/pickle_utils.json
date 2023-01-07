@@ -1,0 +1,4 @@
+{
+    "keras.saving.pickle_utils.deserialize_model_from_bytecode": [],
+    "keras.saving.pickle_utils.serialize_model_as_bytecode": []
+}

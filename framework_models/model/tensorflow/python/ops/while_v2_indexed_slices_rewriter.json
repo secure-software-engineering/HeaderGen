@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.while_v2_indexed_slices_rewriter.rewrite_grad_indexed_slices": [],
+    "tensorflow.python.ops.while_v2_indexed_slices_rewriter._get_tensor_index_in_iterable": [],
+    "tensorflow.python.ops.while_v2_indexed_slices_rewriter._rewrite_output_as_tensor": [],
+    "tensorflow.python.ops.while_v2_indexed_slices_rewriter._rewrite_input_as_indexed_slices": [],
+    "tensorflow.python.ops.while_v2_indexed_slices_rewriter._create_grad_indexed_slices_init": [],
+    "tensorflow.python.ops.while_v2_indexed_slices_rewriter._rewrite_grad_indexed_slices_output": [],
+    "tensorflow.python.ops.while_v2_indexed_slices_rewriter._update_indexed_slices_param": [],
+    "tensorflow.python.ops.while_v2_indexed_slices_rewriter._flatten": []
+}

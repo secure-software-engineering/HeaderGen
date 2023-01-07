@@ -1,0 +1,9 @@
+{
+    "plotly.figure_factory._dendrogram.create_dendrogram": [],
+    "plotly.figure_factory._dendrogram._Dendrogram.__init__": [],
+    "plotly.figure_factory._dendrogram._Dendrogram.get_color_dict": [],
+    "plotly.figure_factory._dendrogram._Dendrogram.set_axis_layout": [],
+    "plotly.figure_factory._dendrogram._Dendrogram.set_figure_layout": [],
+    "plotly.figure_factory._dendrogram._Dendrogram.get_dendrogram_traces": [],
+    "plotly.figure_factory._dendrogram._Dendrogram": []
+}

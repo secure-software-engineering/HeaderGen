@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.distribute.device_util.canonicalize": [],
+    "tensorflow.python.distribute.device_util.canonicalize_without_job_and_task": [],
+    "tensorflow.python.distribute.device_util.resolve": [],
+    "tensorflow.python.distribute.device_util.current": [],
+    "tensorflow.python.distribute.device_util.get_host_for_device": [],
+    "tensorflow.python.distribute.device_util.local_devices_from_num_gpus": [],
+    "tensorflow.python.distribute.device_util._FakeNodeDef.__init__": [],
+    "tensorflow.python.distribute.device_util._FakeOperation.__init__": [],
+    "tensorflow.python.distribute.device_util._FakeOperation._set_device": [],
+    "tensorflow.python.distribute.device_util._FakeOperation._set_device_from_string": [],
+    "tensorflow.python.distribute.device_util._FakeNodeDef": [],
+    "tensorflow.python.distribute.device_util._FakeOperation": []
+}

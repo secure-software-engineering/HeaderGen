@@ -1,0 +1,10 @@
+{
+    "statsmodels.iolib.tests.test_table_econpy.custom_labeller": [],
+    "statsmodels.iolib.tests.test_table_econpy.TestCell.test_celldata": [],
+    "statsmodels.iolib.tests.test_table_econpy.TestSimpleTable.test_txt_fmt1": [],
+    "statsmodels.iolib.tests.test_table_econpy.TestSimpleTable.test_ltx_fmt1": [],
+    "statsmodels.iolib.tests.test_table_econpy.TestSimpleTable.test_html_fmt1": [],
+    "statsmodels.iolib.tests.test_table_econpy.TestSimpleTable.test_customlabel": [],
+    "statsmodels.iolib.tests.test_table_econpy.TestCell": [],
+    "statsmodels.iolib.tests.test_table_econpy.TestSimpleTable": []
+}

@@ -1,0 +1,7 @@
+{
+    "statsmodels.tsa.statespace.tests.test_pickle.data": [],
+    "statsmodels.tsa.statespace.tests.test_pickle.test_pickle_fit_sarimax": [],
+    "statsmodels.tsa.statespace.tests.test_pickle.test_unobserved_components_pickle": [],
+    "statsmodels.tsa.statespace.tests.test_pickle.test_kalman_filter_pickle": [],
+    "statsmodels.tsa.statespace.tests.test_pickle.test_representation_pickle": []
+}

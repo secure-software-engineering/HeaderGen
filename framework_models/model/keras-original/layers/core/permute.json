@@ -1,0 +1,7 @@
+{
+    "keras.layers.core.permute.Permute.__init__": [],
+    "keras.layers.core.permute.Permute.compute_output_shape": [],
+    "keras.layers.core.permute.Permute.call": [],
+    "keras.layers.core.permute.Permute.get_config": [],
+    "keras.layers.core.permute.Permute": []
+}

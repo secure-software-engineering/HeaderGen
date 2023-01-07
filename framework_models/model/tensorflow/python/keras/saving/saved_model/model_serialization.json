@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.keras.saving.saved_model.model_serialization.ModelSavedModelSaver.object_identifier": [],
+    "tensorflow.python.keras.saving.saved_model.model_serialization.ModelSavedModelSaver._python_properties_internal": [],
+    "tensorflow.python.keras.saving.saved_model.model_serialization.ModelSavedModelSaver._get_serialized_attributes_internal": [],
+    "tensorflow.python.keras.saving.saved_model.model_serialization.SequentialSavedModelSaver.object_identifier": [],
+    "tensorflow.python.keras.saving.saved_model.model_serialization.ModelSavedModelSaver": [],
+    "tensorflow.python.keras.saving.saved_model.model_serialization.SequentialSavedModelSaver": []
+}

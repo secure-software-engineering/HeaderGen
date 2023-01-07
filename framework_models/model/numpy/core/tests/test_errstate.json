@@ -1,0 +1,7 @@
+{
+    "numpy.core.tests.test_errstate.TestErrstate.test_invalid": [],
+    "numpy.core.tests.test_errstate.TestErrstate.test_divide": [],
+    "numpy.core.tests.test_errstate.TestErrstate.test_errcall": [],
+    "numpy.core.tests.test_errstate.TestErrstate.test_errstate_decorator": [],
+    "numpy.core.tests.test_errstate.TestErrstate": []
+}

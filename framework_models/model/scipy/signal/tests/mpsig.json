@@ -1,0 +1,9 @@
+{
+    "scipy.signal.tests.mpsig._prod": [],
+    "scipy.signal.tests.mpsig._relative_degree": [],
+    "scipy.signal.tests.mpsig._zpkbilinear": [],
+    "scipy.signal.tests.mpsig._zpklp2lp": [],
+    "scipy.signal.tests.mpsig._butter_analog_poles": [],
+    "scipy.signal.tests.mpsig.butter_lp": [],
+    "scipy.signal.tests.mpsig.zpkfreqz": []
+}

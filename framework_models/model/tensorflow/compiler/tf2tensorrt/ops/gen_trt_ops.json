@@ -1,0 +1,12 @@
+{
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.create_trt_resource_handle": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.create_trt_resource_handle_eager_fallback": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.get_calibration_data_op": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.get_calibration_data_op_eager_fallback": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.initialize_trt_resource": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.initialize_trt_resource_eager_fallback": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.serialize_trt_resource": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.serialize_trt_resource_eager_fallback": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.trt_engine_op": [],
+    "tensorflow.compiler.tf2tensorrt.ops.gen_trt_ops.trt_engine_op_eager_fallback": []
+}

@@ -1,0 +1,8 @@
+{
+    "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.mean": "pandas.core.generic.NDFrame._add_numeric_operations",
+    "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.median": "pandas.core.generic.NDFrame._add_numeric_operations",
+    "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.min": "pandas.core.generic.NDFrame._add_numeric_operations",
+    "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.std": "pandas.core.generic.NDFrame._add_numeric_operations",
+    "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum": "pandas.core.generic.NDFrame._add_numeric_operations",
+    "pandas.core.generic.NDFrame.as_matrix": "pandas.core.frame.DataFrame.to_numpy"
+}

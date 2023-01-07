@@ -1,0 +1,7 @@
+{
+    "pandas.tests.test_optional_dependency.test_import_optional": [],
+    "pandas.tests.test_optional_dependency.test_xlrd_version_fallback": [],
+    "pandas.tests.test_optional_dependency.test_bad_version": [],
+    "pandas.tests.test_optional_dependency.test_submodule": [],
+    "pandas.tests.test_optional_dependency.test_no_version_raises": []
+}

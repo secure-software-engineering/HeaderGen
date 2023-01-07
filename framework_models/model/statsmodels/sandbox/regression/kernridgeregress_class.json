@@ -1,0 +1,11 @@
+{
+    "statsmodels.sandbox.regression.kernridgeregress_class.kernel_rbf": [],
+    "statsmodels.sandbox.regression.kernridgeregress_class.kernel_euclid": [],
+    "statsmodels.sandbox.regression.kernridgeregress_class.example1": [],
+    "statsmodels.sandbox.regression.kernridgeregress_class.example2": [],
+    "statsmodels.sandbox.regression.kernridgeregress_class.GaussProcess.__init__": [],
+    "statsmodels.sandbox.regression.kernridgeregress_class.GaussProcess.fit": [],
+    "statsmodels.sandbox.regression.kernridgeregress_class.GaussProcess.predict": [],
+    "statsmodels.sandbox.regression.kernridgeregress_class.GaussProcess.plot": [],
+    "statsmodels.sandbox.regression.kernridgeregress_class.GaussProcess": []
+}

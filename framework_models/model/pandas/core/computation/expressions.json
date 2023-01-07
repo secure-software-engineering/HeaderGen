@@ -1,0 +1,16 @@
+{
+    "pandas.core.computation.expressions.set_use_numexpr": [],
+    "pandas.core.computation.expressions.set_numexpr_threads": [],
+    "pandas.core.computation.expressions._evaluate_standard": [],
+    "pandas.core.computation.expressions._can_use_numexpr": [],
+    "pandas.core.computation.expressions._evaluate_numexpr": [],
+    "pandas.core.computation.expressions._where_standard": [],
+    "pandas.core.computation.expressions._where_numexpr": [],
+    "pandas.core.computation.expressions._has_bool_dtype": [],
+    "pandas.core.computation.expressions._bool_arith_fallback": [],
+    "pandas.core.computation.expressions.evaluate": [],
+    "pandas.core.computation.expressions.where": [],
+    "pandas.core.computation.expressions.set_test_mode": [],
+    "pandas.core.computation.expressions._store_test_result": [],
+    "pandas.core.computation.expressions.get_test_result": []
+}

@@ -1,0 +1,16 @@
+{
+  "12": [
+    "main.MyClass:1.__init__:2",
+    "main.MyClass:1.func1:5"
+  ],
+  "3": [
+    "main.MyClass:1.func1:5"
+  ],
+  "14": [
+    "main.MyClass:1.func2:8",
+    "main.MyClass:1.func1:5"
+  ],
+  "9": [
+    "main.MyClass:1.func1:5"
+  ]
+}

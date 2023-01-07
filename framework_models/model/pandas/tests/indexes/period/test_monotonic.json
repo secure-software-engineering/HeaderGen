@@ -1,0 +1,4 @@
+{
+    "pandas.tests.indexes.period.test_monotonic.test_is_monotonic_increasing": [],
+    "pandas.tests.indexes.period.test_monotonic.test_is_monotonic_decreasing": []
+}

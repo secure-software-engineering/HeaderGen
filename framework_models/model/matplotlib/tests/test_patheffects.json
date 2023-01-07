@@ -1,0 +1,10 @@
+{
+    "matplotlib.tests.test_patheffects.test_patheffect1": [],
+    "matplotlib.tests.test_patheffects.test_patheffect2": [],
+    "matplotlib.tests.test_patheffects.test_patheffect3": [],
+    "matplotlib.tests.test_patheffects.test_patheffects_stroked_text": [],
+    "matplotlib.tests.test_patheffects.test_PathEffect_points_to_pixels": [],
+    "matplotlib.tests.test_patheffects.test_SimplePatchShadow_offset": [],
+    "matplotlib.tests.test_patheffects.test_collection": [],
+    "matplotlib.tests.test_patheffects.test_tickedstroke": []
+}

@@ -1,0 +1,21 @@
+{
+  "23": [
+    "main.A:14.__init__:15"
+  ],
+  "24": [
+    "main.A:14.func:18",
+    "main.B:6.__init__:7",
+    "main.B:6.func:10",
+    "main.C:1.func:2"
+  ],
+  "19": [
+    "main.B:6.__init__:7"
+  ],
+  "20": [
+    "main.B:6.func:10",
+    "main.C:1.func:2"
+  ],
+  "11": [
+    "main.C:1.func:2"
+  ]
+}

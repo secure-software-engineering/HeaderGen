@@ -1,0 +1,6 @@
+{
+    "pandas.tests.window.moments.conftest.series": [],
+    "pandas.tests.window.moments.conftest.frame": [],
+    "pandas.tests.window.moments.conftest._create_consistency_data": [],
+    "pandas.tests.window.moments.conftest.consistency_data": []
+}

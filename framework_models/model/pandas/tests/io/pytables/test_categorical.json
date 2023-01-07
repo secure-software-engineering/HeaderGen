@@ -1,0 +1,6 @@
+{
+    "pandas.tests.io.pytables.test_categorical.test_categorical": [],
+    "pandas.tests.io.pytables.test_categorical.test_categorical_conversion": [],
+    "pandas.tests.io.pytables.test_categorical.test_categorical_nan_only_columns": [],
+    "pandas.tests.io.pytables.test_categorical.test_convert_value": []
+}

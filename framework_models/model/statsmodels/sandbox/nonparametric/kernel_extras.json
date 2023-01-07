@@ -1,0 +1,18 @@
+{
+    "statsmodels.sandbox.nonparametric.kernel_extras.TestFForm.__init__": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.TestFForm._compute_sig": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.TestFForm._compute_test_stat": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SingleIndexModel.__init__": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SingleIndexModel._est_b_bw": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SingleIndexModel.cv_loo": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SingleIndexModel.fit": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SingleIndexModel.__repr__": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SemiLinear.__init__": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SemiLinear._est_b_bw": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SemiLinear.cv_loo": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SemiLinear.fit": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SemiLinear.__repr__": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.TestFForm": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SingleIndexModel": [],
+    "statsmodels.sandbox.nonparametric.kernel_extras.SemiLinear": []
+}

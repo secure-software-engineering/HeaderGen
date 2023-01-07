@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.saved_model.function_serialization._serialize_function_spec": [],
+    "tensorflow.python.saved_model.function_serialization.serialize_concrete_function": [],
+    "tensorflow.python.saved_model.function_serialization.serialize_bare_concrete_function": [],
+    "tensorflow.python.saved_model.function_serialization.serialize_function": [],
+    "tensorflow.python.saved_model.function_serialization.wrap_cached_variables": []
+}

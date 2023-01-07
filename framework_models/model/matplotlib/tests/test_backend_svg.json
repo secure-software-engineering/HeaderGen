@@ -1,0 +1,22 @@
+{
+    "matplotlib.tests.test_backend_svg.test_visibility": [],
+    "matplotlib.tests.test_backend_svg.test_fill_black_with_alpha": [],
+    "matplotlib.tests.test_backend_svg.test_noscale": [],
+    "matplotlib.tests.test_backend_svg.test_text_urls": [],
+    "matplotlib.tests.test_backend_svg.test_bold_font_output": [],
+    "matplotlib.tests.test_backend_svg.test_bold_font_output_with_none_fonttype": [],
+    "matplotlib.tests.test_backend_svg.test_rasterized": [],
+    "matplotlib.tests.test_backend_svg.test_rasterized_ordering": [],
+    "matplotlib.tests.test_backend_svg.test_count_bitmaps": [],
+    "matplotlib.tests.test_backend_svg.test_missing_psfont": [],
+    "matplotlib.tests.test_backend_svg.test_unicode_won": [],
+    "matplotlib.tests.test_backend_svg.test_svgnone_with_data_coordinates": [],
+    "matplotlib.tests.test_backend_svg.test_gid": [],
+    "matplotlib.tests.test_backend_svg.test_savefig_tight": [],
+    "matplotlib.tests.test_backend_svg.test_url": [],
+    "matplotlib.tests.test_backend_svg.test_url_tick": [],
+    "matplotlib.tests.test_backend_svg.test_svg_default_metadata": [],
+    "matplotlib.tests.test_backend_svg.test_svg_clear_default_metadata": [],
+    "matplotlib.tests.test_backend_svg.test_svg_clear_all_metadata": [],
+    "matplotlib.tests.test_backend_svg.test_svg_metadata": []
+}

@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.distribute.mirrored_run._is_gpu_device": [],
+    "tensorflow.python.distribute.mirrored_run.call_for_each_replica": [],
+    "tensorflow.python.distribute.mirrored_run._enter_graph": [],
+    "tensorflow.python.distribute.mirrored_run._cpu_device": [],
+    "tensorflow.python.distribute.mirrored_run._call_for_each_replica": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaThread.__init__": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaThread.run": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaThread.record_thread_local_summary_state": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaThread.restore_thread_local_summary_state": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaThread.record_thread_local_eager_context_state": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaThread.restore_thread_local_eager_context_state": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaContext._merge_call": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaContext.devices": [],
+    "tensorflow.python.distribute.mirrored_run._RequestedStop": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaThread": [],
+    "tensorflow.python.distribute.mirrored_run._MirroredReplicaContext": []
+}

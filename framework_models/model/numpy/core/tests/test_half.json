@@ -1,0 +1,21 @@
+{
+    "numpy.core.tests.test_half.assert_raises_fpe": [],
+    "numpy.core.tests.test_half.TestHalf.setup": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_conversions": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_conversion_to_string": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_conversion_from_string": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_conversion_rounding": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_conversion_denormal_round_even": [],
+    "numpy.core.tests.test_half.TestHalf.test_nans_infs": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_values": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_rounding": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_correctness": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_ordering": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_funcs": [],
+    "numpy.core.tests.test_half.TestHalf.test_spacing_nextafter": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_ufuncs": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_coercion": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_fpe": [],
+    "numpy.core.tests.test_half.TestHalf.test_half_array_interface": [],
+    "numpy.core.tests.test_half.TestHalf": []
+}

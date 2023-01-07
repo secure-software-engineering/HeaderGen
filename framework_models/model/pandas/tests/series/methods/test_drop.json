@@ -1,0 +1,8 @@
+{
+    "pandas.tests.series.methods.test_drop.test_drop_unique_and_non_unique_index": [],
+    "pandas.tests.series.methods.test_drop.test_drop_exception_raised": [],
+    "pandas.tests.series.methods.test_drop.test_drop_with_ignore_errors": [],
+    "pandas.tests.series.methods.test_drop.test_drop_empty_list": [],
+    "pandas.tests.series.methods.test_drop.test_drop_non_empty_list": [],
+    "pandas.tests.series.methods.test_drop.test_drop_pos_args_deprecation": []
+}

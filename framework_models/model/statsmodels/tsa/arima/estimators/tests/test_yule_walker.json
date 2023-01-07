@@ -1,0 +1,8 @@
+{
+    "statsmodels.tsa.arima.estimators.tests.test_yule_walker.test_brockwell_davis_example_511": [],
+    "statsmodels.tsa.arima.estimators.tests.test_yule_walker.test_brockwell_davis_example_514": [],
+    "statsmodels.tsa.arima.estimators.tests.test_yule_walker.check_itsmr": [],
+    "statsmodels.tsa.arima.estimators.tests.test_yule_walker.test_itsmr": [],
+    "statsmodels.tsa.arima.estimators.tests.test_yule_walker.test_invalid": [],
+    "statsmodels.tsa.arima.estimators.tests.test_yule_walker.test_invalid_xfail": []
+}

@@ -1,0 +1,10 @@
+{
+    "scipy.sparse.csgraph.tests.test_graph_laplacian._explicit_laplacian": [],
+    "scipy.sparse.csgraph.tests.test_graph_laplacian._check_symmetric_graph_laplacian": [],
+    "scipy.sparse.csgraph.tests.test_graph_laplacian.test_laplacian_value_error": [],
+    "scipy.sparse.csgraph.tests.test_graph_laplacian.test_symmetric_graph_laplacian": [],
+    "scipy.sparse.csgraph.tests.test_graph_laplacian._assert_allclose_sparse": [],
+    "scipy.sparse.csgraph.tests.test_graph_laplacian._check_laplacian": [],
+    "scipy.sparse.csgraph.tests.test_graph_laplacian.test_asymmetric_laplacian": [],
+    "scipy.sparse.csgraph.tests.test_graph_laplacian.test_sparse_formats": []
+}

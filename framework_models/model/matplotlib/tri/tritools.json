@@ -1,0 +1,9 @@
+{
+    "matplotlib.tri.tritools.TriAnalyzer.__init__": [],
+    "matplotlib.tri.tritools.TriAnalyzer.scale_factors": [],
+    "matplotlib.tri.tritools.TriAnalyzer.circle_ratios": [],
+    "matplotlib.tri.tritools.TriAnalyzer.get_flat_tri_mask": [],
+    "matplotlib.tri.tritools.TriAnalyzer._get_compressed_triangulation": [],
+    "matplotlib.tri.tritools.TriAnalyzer._total_to_compress_renum": [],
+    "matplotlib.tri.tritools.TriAnalyzer": []
+}

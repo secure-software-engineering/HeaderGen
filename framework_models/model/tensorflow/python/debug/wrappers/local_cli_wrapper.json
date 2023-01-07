@@ -1,0 +1,22 @@
+{
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession.__init__": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._is_disk_usage_reset_each_run": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._initialize_argparsers": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession.add_tensor_filter": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession.on_session_init": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession.on_run_start": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._exit_if_requested_by_user": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._prep_cli_for_run_start": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession.on_run_end": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._remove_dump_root": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._prep_debug_cli_for_run_end": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._prep_profile_cli_for_run_end": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._launch_cli": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._run_info_handler": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._print_feed_handler": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._run_handler": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._register_this_run_info": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._get_run_debug_urls": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession._update_run_calls_state": [],
+    "tensorflow.python.debug.wrappers.local_cli_wrapper.LocalCLIDebugWrapperSession": []
+}

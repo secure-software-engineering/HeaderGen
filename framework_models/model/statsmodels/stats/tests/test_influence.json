@@ -1,0 +1,22 @@
+{
+    "statsmodels.stats.tests.test_influence.test_influence_glm_bernoulli": [],
+    "statsmodels.stats.tests.test_influence._check_looo": [],
+    "statsmodels.stats.tests.test_influence.InfluenceCompareExact.test_basics": [],
+    "statsmodels.stats.tests.test_influence.InfluenceCompareExact.test_plots": [],
+    "statsmodels.stats.tests.test_influence.InfluenceCompareExact.test_summary": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceLogitGLMMLE.setup_class": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceLogitGLMMLE.test_looo": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceBinomialGLMMLE.setup_class": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceBinomialGLMMLE.test_looo": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceBinomialGLMMLE.test_r": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceGaussianGLMMLE.setup_class": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceGaussianGLMMLE.test_looo": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceGaussianGLMOLS.setup_class": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceGaussianGLMOLS.test_basics": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceGaussianGLMOLS.test_summary": [],
+    "statsmodels.stats.tests.test_influence.InfluenceCompareExact": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceLogitGLMMLE": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceBinomialGLMMLE": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceGaussianGLMMLE": [],
+    "statsmodels.stats.tests.test_influence.TestInfluenceGaussianGLMOLS": []
+}

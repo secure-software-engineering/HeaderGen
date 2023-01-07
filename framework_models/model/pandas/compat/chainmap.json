@@ -1,0 +1,5 @@
+{
+    "pandas.compat.chainmap.DeepChainMap.__setitem__": [],
+    "pandas.compat.chainmap.DeepChainMap.__delitem__": [],
+    "pandas.compat.chainmap.DeepChainMap": []
+}

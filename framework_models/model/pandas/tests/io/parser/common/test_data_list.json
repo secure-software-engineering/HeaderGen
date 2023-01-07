@@ -1,0 +1,6 @@
+{
+    "pandas.tests.io.parser.common.test_data_list.test_read_data_list": [],
+    "pandas.tests.io.parser.common.test_data_list.test_reader_list": [],
+    "pandas.tests.io.parser.common.test_data_list.test_reader_list_skiprows": [],
+    "pandas.tests.io.parser.common.test_data_list.test_read_csv_parse_simple_list": []
+}

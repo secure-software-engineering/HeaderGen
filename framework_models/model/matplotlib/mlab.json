@@ -1,0 +1,20 @@
+{
+    "matplotlib.mlab.window_hanning": [],
+    "matplotlib.mlab.window_none": [],
+    "matplotlib.mlab.detrend": [],
+    "matplotlib.mlab.detrend_mean": [],
+    "matplotlib.mlab.detrend_none": [],
+    "matplotlib.mlab.detrend_linear": [],
+    "matplotlib.mlab.stride_windows": [],
+    "matplotlib.mlab._spectral_helper": [],
+    "matplotlib.mlab._single_spectrum_helper": [],
+    "matplotlib.mlab.psd": [],
+    "matplotlib.mlab.csd": [],
+    "matplotlib.mlab.specgram": [],
+    "matplotlib.mlab.cohere": [],
+    "matplotlib.mlab.GaussianKDE.__init__": [],
+    "matplotlib.mlab.GaussianKDE.scotts_factor": [],
+    "matplotlib.mlab.GaussianKDE.silverman_factor": [],
+    "matplotlib.mlab.GaussianKDE.evaluate": [],
+    "matplotlib.mlab.GaussianKDE": []
+}

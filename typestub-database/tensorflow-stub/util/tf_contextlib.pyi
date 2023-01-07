@@ -1,0 +1,3 @@
+from tensorflow.python.util import tf_decorator as tf_decorator
+
+def contextmanager(target): ...

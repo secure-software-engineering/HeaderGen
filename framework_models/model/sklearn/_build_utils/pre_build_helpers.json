@@ -1,0 +1,5 @@
+{
+    "sklearn._build_utils.pre_build_helpers._get_compiler": [],
+    "sklearn._build_utils.pre_build_helpers.compile_test_program": [],
+    "sklearn._build_utils.pre_build_helpers.basic_check_build": []
+}

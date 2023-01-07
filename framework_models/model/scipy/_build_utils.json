@@ -1,0 +1,4 @@
+{
+    "scipy._build_utils.uses_blas64": [],
+    "scipy._build_utils.import_file": []
+}

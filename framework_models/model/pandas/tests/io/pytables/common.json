@@ -1,0 +1,8 @@
+{
+    "pandas.tests.io.pytables.common.safe_remove": [],
+    "pandas.tests.io.pytables.common.safe_close": [],
+    "pandas.tests.io.pytables.common.create_tempfile": [],
+    "pandas.tests.io.pytables.common.ensure_clean_store": [],
+    "pandas.tests.io.pytables.common.ensure_clean_path": [],
+    "pandas.tests.io.pytables.common._maybe_remove": []
+}

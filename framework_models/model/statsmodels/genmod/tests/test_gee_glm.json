@@ -1,0 +1,13 @@
+{
+    "statsmodels.genmod.tests.test_gee_glm.CheckGEEGLM.test_basic": [],
+    "statsmodels.genmod.tests.test_gee_glm.CheckGEEGLM.test_resid": [],
+    "statsmodels.genmod.tests.test_gee_glm.TestCompareLogit.setup_class": [],
+    "statsmodels.genmod.tests.test_gee_glm.TestComparePoisson.setup_class": [],
+    "statsmodels.genmod.tests.test_gee_glm.TestCompareGaussian.setup_class": [],
+    "statsmodels.genmod.tests.test_gee_glm.TestCompareGamma.setup_class": [],
+    "statsmodels.genmod.tests.test_gee_glm.CheckGEEGLM": [],
+    "statsmodels.genmod.tests.test_gee_glm.TestCompareLogit": [],
+    "statsmodels.genmod.tests.test_gee_glm.TestComparePoisson": [],
+    "statsmodels.genmod.tests.test_gee_glm.TestCompareGaussian": [],
+    "statsmodels.genmod.tests.test_gee_glm.TestCompareGamma": []
+}

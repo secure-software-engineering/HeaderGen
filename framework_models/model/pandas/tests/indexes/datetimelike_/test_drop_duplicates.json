@@ -1,0 +1,12 @@
+{
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.DropDuplicates.test_drop_duplicates_metadata": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.DropDuplicates.test_drop_duplicates": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.TestDropDuplicatesPeriodIndex.freq": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.TestDropDuplicatesPeriodIndex.idx": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.TestDropDuplicatesDatetimeIndex.idx": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.TestDropDuplicatesTimedeltaIndex.idx": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.DropDuplicates": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.TestDropDuplicatesPeriodIndex": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.TestDropDuplicatesDatetimeIndex": [],
+    "pandas.tests.indexes.datetimelike_.test_drop_duplicates.TestDropDuplicatesTimedeltaIndex": []
+}

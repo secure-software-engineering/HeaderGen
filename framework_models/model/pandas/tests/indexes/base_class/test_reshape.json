@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.base_class.test_reshape.TestReshape.test_repeat": [],
+    "pandas.tests.indexes.base_class.test_reshape.TestReshape.test_insert": [],
+    "pandas.tests.indexes.base_class.test_reshape.TestReshape.test_delete": [],
+    "pandas.tests.indexes.base_class.test_reshape.TestReshape.test_append_multiple": [],
+    "pandas.tests.indexes.base_class.test_reshape.TestReshape": []
+}

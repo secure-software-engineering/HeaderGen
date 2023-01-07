@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.ops.numpy_ops.np_random.seed": [],
+    "tensorflow.python.ops.numpy_ops.np_random.randn": [],
+    "tensorflow.python.ops.numpy_ops.np_random.standard_normal": [],
+    "tensorflow.python.ops.numpy_ops.np_random.uniform": [],
+    "tensorflow.python.ops.numpy_ops.np_random.poisson": [],
+    "tensorflow.python.ops.numpy_ops.np_random.random": [],
+    "tensorflow.python.ops.numpy_ops.np_random.rand": [],
+    "tensorflow.python.ops.numpy_ops.np_random.randint": []
+}

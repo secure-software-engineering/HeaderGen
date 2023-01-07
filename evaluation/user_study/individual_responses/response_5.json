@@ -1,0 +1,56 @@
+{
+    "1": [
+        "Dropout",
+        "BatchNormalization",
+        "Dense"
+    ],
+    "10": [
+        "Using scikit-learn method - train_test_split()"
+    ],
+    "2": [
+        "Replace values with integers",
+        "Fill NaN values with median of series",
+        "Drop columns from the dataframe"
+    ],
+    "3": [
+        "Cell #12",
+        "Cell #10",
+        "Cell #16"
+    ],
+    "4": [
+        "Keras",
+        "Matplotlib",
+        "Pandas",
+        "Sklearn",
+        "Seaborn",
+        "Numpy",
+        "Scipy"
+    ],
+    "5": [
+        "Count plot",
+        "Heatmap",
+        "Confusion matrix"
+    ],
+    "6": [
+        "Dense",
+        "Dropout"
+    ],
+    "7": [
+        "Cell #39",
+        "Cell #38",
+        "Cell #40"
+    ],
+    "8": [
+        "Sklearn",
+        "Keras",
+        "Seaborn",
+        "Numpy",
+        "Pandas"
+    ],
+    "9": [
+        "Heatmap",
+        "Bar graph"
+    ],
+    "name": "lukas",
+    "study_id": 2
+}

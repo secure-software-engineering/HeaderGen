@@ -1,0 +1,8 @@
+{
+    "statsmodels.tsa.base.tests.test_base.test_pandas_nodates_index": [],
+    "statsmodels.tsa.base.tests.test_base.test_predict_freq": [],
+    "statsmodels.tsa.base.tests.test_base.test_keyerror_start_date": [],
+    "statsmodels.tsa.base.tests.test_base.test_period_index": [],
+    "statsmodels.tsa.base.tests.test_base.test_pandas_dates": [],
+    "statsmodels.tsa.base.tests.test_base.test_get_predict_start_end": []
+}

@@ -1,0 +1,19 @@
+{
+    "sklearn.ensemble.tests.test_iforest.test_iforest": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_sparse": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_error": [],
+    "sklearn.ensemble.tests.test_iforest.test_recalculate_max_depth": [],
+    "sklearn.ensemble.tests.test_iforest.test_max_samples_attribute": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_parallel_regression": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_performance": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_works": [],
+    "sklearn.ensemble.tests.test_iforest.test_max_samples_consistency": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_subsampled_features": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_average_path_length": [],
+    "sklearn.ensemble.tests.test_iforest.test_score_samples": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_warm_start": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_chunks_works1": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_chunks_works2": [],
+    "sklearn.ensemble.tests.test_iforest.test_iforest_with_uniform_data": [],
+    "sklearn.ensemble.tests.test_iforest.test_n_features_deprecation": []
+}

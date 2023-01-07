@@ -1,0 +1,14 @@
+{
+    "sklearn.linear_model._bayes.BayesianRidge.__init__": [],
+    "sklearn.linear_model._bayes.BayesianRidge.fit": [],
+    "sklearn.linear_model._bayes.BayesianRidge.predict": [],
+    "sklearn.linear_model._bayes.BayesianRidge._update_coef_": [],
+    "sklearn.linear_model._bayes.BayesianRidge._log_marginal_likelihood": [],
+    "sklearn.linear_model._bayes.ARDRegression.__init__": [],
+    "sklearn.linear_model._bayes.ARDRegression.fit": [],
+    "sklearn.linear_model._bayes.ARDRegression._update_sigma_woodbury": [],
+    "sklearn.linear_model._bayes.ARDRegression._update_sigma": [],
+    "sklearn.linear_model._bayes.ARDRegression.predict": [],
+    "sklearn.linear_model._bayes.BayesianRidge": [],
+    "sklearn.linear_model._bayes.ARDRegression": []
+}

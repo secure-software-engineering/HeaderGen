@@ -1,0 +1,15 @@
+{
+    "scipy.interpolate.rbf.Rbf._h_multiquadric": [],
+    "scipy.interpolate.rbf.Rbf._h_inverse_multiquadric": [],
+    "scipy.interpolate.rbf.Rbf._h_gaussian": [],
+    "scipy.interpolate.rbf.Rbf._h_linear": [],
+    "scipy.interpolate.rbf.Rbf._h_cubic": [],
+    "scipy.interpolate.rbf.Rbf._h_quintic": [],
+    "scipy.interpolate.rbf.Rbf._h_thin_plate": [],
+    "scipy.interpolate.rbf.Rbf._init_function": [],
+    "scipy.interpolate.rbf.Rbf.__init__": [],
+    "scipy.interpolate.rbf.Rbf.A": [],
+    "scipy.interpolate.rbf.Rbf._call_norm": [],
+    "scipy.interpolate.rbf.Rbf.__call__": [],
+    "scipy.interpolate.rbf.Rbf": []
+}

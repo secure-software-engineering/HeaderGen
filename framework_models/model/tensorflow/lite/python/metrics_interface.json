@@ -1,0 +1,10 @@
+{
+    "tensorflow.lite.python.metrics_interface.TFLiteMetricsInterface.increase_counter_debugger_creation": [],
+    "tensorflow.lite.python.metrics_interface.TFLiteMetricsInterface.increase_counter_interpreter_creation": [],
+    "tensorflow.lite.python.metrics_interface.TFLiteMetricsInterface.increase_counter_converter_attempt": [],
+    "tensorflow.lite.python.metrics_interface.TFLiteMetricsInterface.increase_counter_converter_success": [],
+    "tensorflow.lite.python.metrics_interface.TFLiteMetricsInterface.set_converter_param": [],
+    "tensorflow.lite.python.metrics_interface.TFLiteMetricsInterface.set_converter_error": [],
+    "tensorflow.lite.python.metrics_interface.TFLiteMetricsInterface.set_converter_latency": [],
+    "tensorflow.lite.python.metrics_interface.TFLiteMetricsInterface": []
+}

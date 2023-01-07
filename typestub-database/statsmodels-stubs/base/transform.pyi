@@ -1,0 +1,6 @@
+from statsmodels.robust import mad as mad
+from typing import Any
+
+class BoxCox:
+    def transform_boxcox(self, x, lmbda: Any | None = ..., method: str = ..., **kwargs): ...
+    def untransform_boxcox(self, x, lmbda, method: str = ...): ...

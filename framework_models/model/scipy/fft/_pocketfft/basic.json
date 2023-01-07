@@ -1,0 +1,15 @@
+{
+    "scipy.fft._pocketfft.basic.c2c": [],
+    "scipy.fft._pocketfft.basic.r2c": [],
+    "scipy.fft._pocketfft.basic.c2r": [],
+    "scipy.fft._pocketfft.basic.fft2": [],
+    "scipy.fft._pocketfft.basic.ifft2": [],
+    "scipy.fft._pocketfft.basic.rfft2": [],
+    "scipy.fft._pocketfft.basic.irfft2": [],
+    "scipy.fft._pocketfft.basic.hfft2": [],
+    "scipy.fft._pocketfft.basic.ihfft2": [],
+    "scipy.fft._pocketfft.basic.c2cn": [],
+    "scipy.fft._pocketfft.basic.r2cn": [],
+    "scipy.fft._pocketfft.basic.c2rn": [],
+    "scipy.fft._pocketfft.basic.r2r_fftpack": []
+}

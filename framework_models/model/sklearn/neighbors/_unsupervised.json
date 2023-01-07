@@ -1,0 +1,5 @@
+{
+    "sklearn.neighbors._unsupervised.NearestNeighbors.__init__": [],
+    "sklearn.neighbors._unsupervised.NearestNeighbors.fit": [],
+    "sklearn.neighbors._unsupervised.NearestNeighbors": []
+}

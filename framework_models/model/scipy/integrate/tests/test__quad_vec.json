@@ -1,0 +1,10 @@
+{
+    "scipy.integrate.tests.test__quad_vec.test_quad_vec_simple": [],
+    "scipy.integrate.tests.test__quad_vec.test_quad_vec_simple_inf": [],
+    "scipy.integrate.tests.test__quad_vec._lorenzian": [],
+    "scipy.integrate.tests.test__quad_vec.test_quad_vec_pool": [],
+    "scipy.integrate.tests.test__quad_vec.test_num_eval": [],
+    "scipy.integrate.tests.test__quad_vec.test_info": [],
+    "scipy.integrate.tests.test__quad_vec.test_nan_inf": [],
+    "scipy.integrate.tests.test__quad_vec.test_points": []
+}

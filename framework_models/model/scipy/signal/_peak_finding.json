@@ -1,0 +1,18 @@
+{
+    "scipy.signal._peak_finding._boolrelextrema": [],
+    "scipy.signal._peak_finding.argrelmin": [],
+    "scipy.signal._peak_finding.argrelmax": [],
+    "scipy.signal._peak_finding.argrelextrema": [],
+    "scipy.signal._peak_finding._arg_x_as_expected": [],
+    "scipy.signal._peak_finding._arg_peaks_as_expected": [],
+    "scipy.signal._peak_finding._arg_wlen_as_expected": [],
+    "scipy.signal._peak_finding.peak_prominences": [],
+    "scipy.signal._peak_finding.peak_widths": [],
+    "scipy.signal._peak_finding._unpack_condition_args": [],
+    "scipy.signal._peak_finding._select_by_property": [],
+    "scipy.signal._peak_finding._select_by_peak_threshold": [],
+    "scipy.signal._peak_finding.find_peaks": [],
+    "scipy.signal._peak_finding._identify_ridge_lines": [],
+    "scipy.signal._peak_finding._filter_ridge_lines": [],
+    "scipy.signal._peak_finding.find_peaks_cwt": []
+}

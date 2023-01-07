@@ -1,0 +1,11 @@
+{
+    "scipy.stats.tests.test_relative_risk.test_relative_risk": [],
+    "scipy.stats.tests.test_relative_risk.test_relative_risk_confidence_interval": [],
+    "scipy.stats.tests.test_relative_risk.test_relative_risk_ci_conflevel0": [],
+    "scipy.stats.tests.test_relative_risk.test_relative_risk_ci_conflevel1": [],
+    "scipy.stats.tests.test_relative_risk.test_relative_risk_ci_edge_cases_00": [],
+    "scipy.stats.tests.test_relative_risk.test_relative_risk_ci_edge_cases_01": [],
+    "scipy.stats.tests.test_relative_risk.test_relative_risk_ci_edge_cases_10": [],
+    "scipy.stats.tests.test_relative_risk.test_relative_risk_bad_value": [],
+    "scipy.stats.tests.test_relative_risk.test_relative_risk_bad_type": []
+}

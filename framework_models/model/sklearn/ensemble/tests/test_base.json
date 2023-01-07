@@ -1,0 +1,6 @@
+{
+    "sklearn.ensemble.tests.test_base.test_base": [],
+    "sklearn.ensemble.tests.test_base.test_base_zero_n_estimators": [],
+    "sklearn.ensemble.tests.test_base.test_base_not_int_n_estimators": [],
+    "sklearn.ensemble.tests.test_base.test_set_random_states": []
+}

@@ -1,0 +1,10 @@
+{
+    "scipy.optimize._remove_redundancy._row_count": [],
+    "scipy.optimize._remove_redundancy._get_densest": [],
+    "scipy.optimize._remove_redundancy._remove_zero_rows": [],
+    "scipy.optimize._remove_redundancy.bg_update_dense": [],
+    "scipy.optimize._remove_redundancy._remove_redundancy_pivot_dense": [],
+    "scipy.optimize._remove_redundancy._remove_redundancy_pivot_sparse": [],
+    "scipy.optimize._remove_redundancy._remove_redundancy_svd": [],
+    "scipy.optimize._remove_redundancy._remove_redundancy_id": []
+}

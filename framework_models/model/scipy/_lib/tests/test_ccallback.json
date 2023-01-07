@@ -1,0 +1,10 @@
+{
+    "scipy._lib.tests.test_ccallback.callback_python": [],
+    "scipy._lib.tests.test_ccallback._get_cffi_func": [],
+    "scipy._lib.tests.test_ccallback._get_ctypes_data": [],
+    "scipy._lib.tests.test_ccallback._get_cffi_data": [],
+    "scipy._lib.tests.test_ccallback.test_callbacks": [],
+    "scipy._lib.tests.test_ccallback.test_bad_callbacks": [],
+    "scipy._lib.tests.test_ccallback.test_signature_override": [],
+    "scipy._lib.tests.test_ccallback.test_threadsafety": []
+}

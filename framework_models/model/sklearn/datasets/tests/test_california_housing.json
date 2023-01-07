@@ -1,0 +1,5 @@
+{
+    "sklearn.datasets.tests.test_california_housing.test_fetch": [],
+    "sklearn.datasets.tests.test_california_housing.test_fetch_asframe": [],
+    "sklearn.datasets.tests.test_california_housing.test_pandas_dependency_message": []
+}

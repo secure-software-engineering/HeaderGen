@@ -1,0 +1,9 @@
+{
+  "1": [
+    "main_nb.MyClass:1.func:1.nested:1"
+  ],
+  "3": [
+    "main_nb.MyClass:1.func:1",
+    "main_nb.MyClass:1.func:1.nested:1"
+  ]
+}

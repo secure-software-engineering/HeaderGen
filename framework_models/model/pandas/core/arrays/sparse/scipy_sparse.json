@@ -1,0 +1,6 @@
+{
+    "pandas.core.arrays.sparse.scipy_sparse._check_is_partition": [],
+    "pandas.core.arrays.sparse.scipy_sparse._to_ijv": [],
+    "pandas.core.arrays.sparse.scipy_sparse.sparse_series_to_coo": [],
+    "pandas.core.arrays.sparse.scipy_sparse.coo_to_sparse_series": []
+}

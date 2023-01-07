@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.distribute.step_fn.Step.__init__": [],
+    "tensorflow.python.distribute.step_fn.Step.distribution": [],
+    "tensorflow.python.distribute.step_fn.Step.initialize": [],
+    "tensorflow.python.distribute.step_fn.Step.__call__": [],
+    "tensorflow.python.distribute.step_fn.StandardInputStep.__init__": [],
+    "tensorflow.python.distribute.step_fn.StandardInputStep.initialize": [],
+    "tensorflow.python.distribute.step_fn.StandardSingleLossStep.__init__": [],
+    "tensorflow.python.distribute.step_fn.StandardSingleLossStep.__call__": [],
+    "tensorflow.python.distribute.step_fn.Step": [],
+    "tensorflow.python.distribute.step_fn.StandardInputStep": [],
+    "tensorflow.python.distribute.step_fn.StandardSingleLossStep": []
+}

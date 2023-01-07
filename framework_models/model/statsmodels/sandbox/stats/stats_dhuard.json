@@ -1,0 +1,11 @@
+{
+    "statsmodels.sandbox.stats.stats_dhuard.scoreatpercentile": [],
+    "statsmodels.sandbox.stats.stats_dhuard.percentileofscore": [],
+    "statsmodels.sandbox.stats.stats_dhuard.empiricalcdf": [],
+    "statsmodels.sandbox.stats.stats_dhuard.HistDist.__init__": [],
+    "statsmodels.sandbox.stats.stats_dhuard.HistDist.empiricalcdf": [],
+    "statsmodels.sandbox.stats.stats_dhuard.HistDist.cdf_emp": [],
+    "statsmodels.sandbox.stats.stats_dhuard.HistDist.ppf_emp": [],
+    "statsmodels.sandbox.stats.stats_dhuard.HistDist.optimize_binning": [],
+    "statsmodels.sandbox.stats.stats_dhuard.HistDist": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.indexes.multi.test_drop.test_drop": [],
+    "pandas.tests.indexes.multi.test_drop.test_droplevel_with_names": [],
+    "pandas.tests.indexes.multi.test_drop.test_droplevel_list": [],
+    "pandas.tests.indexes.multi.test_drop.test_drop_not_lexsorted": [],
+    "pandas.tests.indexes.multi.test_drop.test_drop_with_nan_in_index": [],
+    "pandas.tests.indexes.multi.test_drop.test_drop_with_non_monotonic_duplicates": [],
+    "pandas.tests.indexes.multi.test_drop.test_single_level_drop_partially_missing_elements": [],
+    "pandas.tests.indexes.multi.test_drop.test_droplevel_multiindex_one_level": []
+}

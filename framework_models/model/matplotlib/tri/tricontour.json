@@ -1,0 +1,8 @@
+{
+    "matplotlib.tri.tricontour.tricontour": [],
+    "matplotlib.tri.tricontour.tricontourf": [],
+    "matplotlib.tri.tricontour.TriContourSet.__init__": [],
+    "matplotlib.tri.tricontour.TriContourSet._process_args": [],
+    "matplotlib.tri.tricontour.TriContourSet._contour_args": [],
+    "matplotlib.tri.tricontour.TriContourSet": []
+}

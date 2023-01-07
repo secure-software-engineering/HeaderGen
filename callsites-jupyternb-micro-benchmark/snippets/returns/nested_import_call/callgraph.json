@@ -1,0 +1,10 @@
+{
+    "main": [
+        "to_import_nested.func",
+        "to_import2.return_func"
+    ],
+    "to_import_nested.func": [],
+    "to_import2.return_func": [],
+    "to_import_nested": [],
+    "to_import2": []
+}

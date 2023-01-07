@@ -1,0 +1,16 @@
+import pyarrow
+from pandas._libs import Timedelta as Timedelta
+from pandas.core.arrays.masked import BaseMaskedArray as BaseMaskedArray, BaseMaskedDtype as BaseMaskedDtype
+from pandas.core.dtypes.common import is_float as is_float, is_float_dtype as is_float_dtype, is_integer as is_integer, is_integer_dtype as is_integer_dtype, is_list_like as is_list_like, pandas_dtype as pandas_dtype
+from typing import Union, TypeVar
+
+T = TypeVar('T', bound='NumericArray')
+
+class NumericDtype(BaseMaskedDtype):
+    def __from_arrow__(self, array: Union[pyarrow.Array, pyarrow.ChunkedArray]) -> BaseMaskedArray: ...
+
+class NumericArray(BaseMaskedArray):
+    def __neg__(self): ...
+    def __pos__(self): ...
+    def __abs__(self): ...
+    def round(self, decimals: int = ..., *args, **kwargs) -> T: ...

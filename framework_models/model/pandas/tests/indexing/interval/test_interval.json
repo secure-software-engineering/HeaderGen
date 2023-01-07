@@ -1,0 +1,12 @@
+{
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndex.series_with_interval_index": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndex.test_getitem_with_scalar": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndex.test_getitem_nonoverlapping_monotonic": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndex.test_getitem_non_matching": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndex.test_loc_getitem_large_series": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndex.test_loc_getitem_frame": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndex.test_getitem_interval_with_nans": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndexInsideMultiIndex.test_mi_intervalindex_slicing_with_scalar": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndex": [],
+    "pandas.tests.indexing.interval.test_interval.TestIntervalIndexInsideMultiIndex": []
+}

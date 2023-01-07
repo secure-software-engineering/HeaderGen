@@ -1,0 +1,8 @@
+{
+    "keras.layers.core.dropout.Dropout.__init__": ["MODEL_TRAINING"],
+    "keras.layers.core.dropout.Dropout._get_noise_shape": ["MODEL_TRAINING"],
+    "keras.layers.core.dropout.Dropout.call": ["MODEL_TRAINING"],
+    "keras.layers.core.dropout.Dropout.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.layers.core.dropout.Dropout.get_config": ["MODEL_TRAINING"],
+    "keras.layers.core.dropout.Dropout": ["MODEL_TRAINING"]
+}

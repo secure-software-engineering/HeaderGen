@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexes.period.test_tools.TestPeriodRepresentation._check_freq": [],
+    "pandas.tests.indexes.period.test_tools.TestPeriodRepresentation.test_annual": [],
+    "pandas.tests.indexes.period.test_tools.TestPeriodRepresentation.test_monthly": [],
+    "pandas.tests.indexes.period.test_tools.TestPeriodRepresentation.test_freq": [],
+    "pandas.tests.indexes.period.test_tools.TestPeriodIndexConversion.test_tolist": [],
+    "pandas.tests.indexes.period.test_tools.TestPeriodRepresentation": [],
+    "pandas.tests.indexes.period.test_tools.TestPeriodIndexConversion": []
+}

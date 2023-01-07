@@ -1,0 +1,13 @@
+{
+    "numpy.distutils.fcompiler.nag.BaseNAGFCompiler.version_match": [],
+    "numpy.distutils.fcompiler.nag.BaseNAGFCompiler.get_flags_linker_so": [],
+    "numpy.distutils.fcompiler.nag.BaseNAGFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.nag.BaseNAGFCompiler.get_flags_arch": [],
+    "numpy.distutils.fcompiler.nag.NAGFCompiler.get_flags_linker_so": [],
+    "numpy.distutils.fcompiler.nag.NAGFCompiler.get_flags_arch": [],
+    "numpy.distutils.fcompiler.nag.NAGFCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.nag.NAGFORCompiler.get_flags_debug": [],
+    "numpy.distutils.fcompiler.nag.BaseNAGFCompiler": [],
+    "numpy.distutils.fcompiler.nag.NAGFCompiler": [],
+    "numpy.distutils.fcompiler.nag.NAGFORCompiler": []
+}

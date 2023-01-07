@@ -1,0 +1,17 @@
+{
+    "plotly.subplots._get_initial_max_subplot_ids": [],
+    "plotly.subplots.make_subplots": [],
+    "plotly.subplots._configure_shared_axes": [],
+    "plotly.subplots._init_subplot_xy": [],
+    "plotly.subplots._init_subplot_single": [],
+    "plotly.subplots._init_subplot_domain": [],
+    "plotly.subplots._subplot_type_for_trace_type": [],
+    "plotly.subplots._validate_coerce_subplot_type": [],
+    "plotly.subplots._init_subplot": [],
+    "plotly.subplots._get_cartesian_label": [],
+    "plotly.subplots._build_subplot_title_annotations": [],
+    "plotly.subplots._build_grid_str": [],
+    "plotly.subplots._set_trace_grid_reference": [],
+    "plotly.subplots._get_grid_subplot": [],
+    "plotly.subplots._get_subplot_ref_for_trace": []
+}

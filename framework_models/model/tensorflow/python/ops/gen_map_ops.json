@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.ops.gen_map_ops.empty_tensor_map": [],
+    "tensorflow.python.ops.gen_map_ops.empty_tensor_map_eager_fallback": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_erase": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_erase_eager_fallback": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_has_key": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_has_key_eager_fallback": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_insert": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_insert_eager_fallback": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_lookup": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_lookup_eager_fallback": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_size": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_size_eager_fallback": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_stack_keys": [],
+    "tensorflow.python.ops.gen_map_ops.tensor_map_stack_keys_eager_fallback": []
+}

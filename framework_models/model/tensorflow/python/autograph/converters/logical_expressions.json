@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.autograph.converters.logical_expressions.transform": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer._overload_of": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer._as_lambda": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer._as_binary_function": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer._as_binary_operation": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer._as_unary_function": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer.visit_Compare": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer.visit_UnaryOp": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer.visit_BoolOp": [],
+    "tensorflow.python.autograph.converters.logical_expressions.LogicalExpressionTransformer": []
+}

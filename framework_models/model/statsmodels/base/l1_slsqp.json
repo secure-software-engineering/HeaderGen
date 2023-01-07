@@ -1,0 +1,8 @@
+{
+    "statsmodels.base.l1_slsqp.fit_l1_slsqp": [],
+    "statsmodels.base.l1_slsqp._get_disp_slsqp": [],
+    "statsmodels.base.l1_slsqp._objective_func": [],
+    "statsmodels.base.l1_slsqp._fprime": [],
+    "statsmodels.base.l1_slsqp._f_ieqcons": [],
+    "statsmodels.base.l1_slsqp._fprime_ieqcons": []
+}

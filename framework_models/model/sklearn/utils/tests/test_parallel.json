@@ -1,0 +1,4 @@
+{
+    "sklearn.utils.tests.test_parallel.get_working_memory": [],
+    "sklearn.utils.tests.test_parallel.test_configuration_passes_through_to_joblib": []
+}

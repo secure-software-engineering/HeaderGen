@@ -1,0 +1,4 @@
+{
+    "scipy.fft._helper.next_fast_len": [],
+    "scipy.fft._helper._init_nd_shape_and_axes": []
+}

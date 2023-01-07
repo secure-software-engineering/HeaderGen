@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexes.categorical.test_formats.TestCategoricalIndexRepr.test_format_different_scalar_lengths": [],
+    "pandas.tests.indexes.categorical.test_formats.TestCategoricalIndexRepr.test_string_categorical_index_repr": [],
+    "pandas.tests.indexes.categorical.test_formats.TestCategoricalIndexRepr": []
+}

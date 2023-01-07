@@ -1,0 +1,14 @@
+{
+    "sklearn.utils.tests.test_deprecation.mock_function": [],
+    "sklearn.utils.tests.test_deprecation.test_deprecated": [],
+    "sklearn.utils.tests.test_deprecation.test_is_deprecated": [],
+    "sklearn.utils.tests.test_deprecation.test_pickle": [],
+    "sklearn.utils.tests.test_deprecation.test_deprecated_property_docstring_exists": [],
+    "sklearn.utils.tests.test_deprecation.MockClass2.method": [],
+    "sklearn.utils.tests.test_deprecation.MockClass2.n_features_": [],
+    "sklearn.utils.tests.test_deprecation.MockClass3.__init__": [],
+    "sklearn.utils.tests.test_deprecation.MockClass1": [],
+    "sklearn.utils.tests.test_deprecation.MockClass2": [],
+    "sklearn.utils.tests.test_deprecation.MockClass3": [],
+    "sklearn.utils.tests.test_deprecation.MockClass4": []
+}

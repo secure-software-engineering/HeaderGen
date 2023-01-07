@@ -1,0 +1,9 @@
+{
+    "sklearn.covariance._elliptic_envelope.EllipticEnvelope.__init__": [],
+    "sklearn.covariance._elliptic_envelope.EllipticEnvelope.fit": [],
+    "sklearn.covariance._elliptic_envelope.EllipticEnvelope.decision_function": [],
+    "sklearn.covariance._elliptic_envelope.EllipticEnvelope.score_samples": [],
+    "sklearn.covariance._elliptic_envelope.EllipticEnvelope.predict": [],
+    "sklearn.covariance._elliptic_envelope.EllipticEnvelope.score": [],
+    "sklearn.covariance._elliptic_envelope.EllipticEnvelope": []
+}

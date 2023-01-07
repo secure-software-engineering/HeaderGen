@@ -1,0 +1,11 @@
+{
+    "statsmodels.genmod.tests.test_score_test.TestScoreTest.setup_class": [],
+    "statsmodels.genmod.tests.test_score_test.TestScoreTest.test_wald_score": [],
+    "statsmodels.genmod.tests.test_score_test.TestScoreTest.test_dispersion": [],
+    "statsmodels.genmod.tests.test_score_test.TestScoreTestPoisson.setup_class": [],
+    "statsmodels.genmod.tests.test_score_test.TestScoreTestPoisson.test_wald_score": [],
+    "statsmodels.genmod.tests.test_score_test.TestScoreTest": [],
+    "statsmodels.genmod.tests.test_score_test.TestScoreTestDispersed": [],
+    "statsmodels.genmod.tests.test_score_test.TestScoreTestPoisson": [],
+    "statsmodels.genmod.tests.test_score_test.TestScoreTestPoissonDispersed": []
+}

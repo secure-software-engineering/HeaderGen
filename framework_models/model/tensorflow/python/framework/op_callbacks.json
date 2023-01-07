@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.framework.op_callbacks.add_op_callback": [],
+    "tensorflow.python.framework.op_callbacks.should_invoke_op_callbacks": [],
+    "tensorflow.python.framework.op_callbacks.remove_op_callback": [],
+    "tensorflow.python.framework.op_callbacks.clear_op_callbacks": [],
+    "tensorflow.python.framework.op_callbacks.invoke_op_callbacks": []
+}

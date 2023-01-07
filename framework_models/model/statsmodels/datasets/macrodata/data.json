@@ -1,0 +1,6 @@
+{
+    "statsmodels.datasets.macrodata.data.load_pandas": [],
+    "statsmodels.datasets.macrodata.data.load": [],
+    "statsmodels.datasets.macrodata.data._get_data": [],
+    "statsmodels.datasets.macrodata.data.__str__": []
+}

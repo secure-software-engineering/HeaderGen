@@ -1,0 +1,21 @@
+{
+    "pandas.tests.arrays.test_array.test_array": [],
+    "pandas.tests.arrays.test_array.test_array_copy": [],
+    "pandas.tests.arrays.test_array.test_array_inference": [],
+    "pandas.tests.arrays.test_array.test_array_inference_fails": [],
+    "pandas.tests.arrays.test_array.test_nd_raises": [],
+    "pandas.tests.arrays.test_array.test_scalar_raises": [],
+    "pandas.tests.arrays.test_array.test_array_unboxes": [],
+    "pandas.tests.arrays.test_array.registry_without_decimal": [],
+    "pandas.tests.arrays.test_array.test_array_not_registered": [],
+    "pandas.tests.arrays.test_array.DecimalDtype2.construct_array_type": [],
+    "pandas.tests.arrays.test_array.DecimalArray2._from_sequence": [],
+    "pandas.tests.arrays.test_array.TestArrayAnalytics.test_searchsorted": [],
+    "pandas.tests.arrays.test_array.TestArrayAnalytics.test_searchsorted_numeric_dtypes_scalar": [],
+    "pandas.tests.arrays.test_array.TestArrayAnalytics.test_searchsorted_numeric_dtypes_vector": [],
+    "pandas.tests.arrays.test_array.TestArrayAnalytics.test_search_sorted_datetime64_scalar": [],
+    "pandas.tests.arrays.test_array.TestArrayAnalytics.test_searchsorted_sorter": [],
+    "pandas.tests.arrays.test_array.DecimalDtype2": [],
+    "pandas.tests.arrays.test_array.DecimalArray2": [],
+    "pandas.tests.arrays.test_array.TestArrayAnalytics": []
+}

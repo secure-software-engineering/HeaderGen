@@ -1,0 +1,16 @@
+{
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.setup_class": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_input_validation_nobs": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_input_validation_unknown_method": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_statistic_value_asym_method": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_statistic_value_emp_method": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_fallback_to_asym_method": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_statistics_for_2d_input": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_statistics_for_1d_input": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_results_on_the_iris_dataset": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_results_on_the_quakes_dataset": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_dcor": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_dcov": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures.test_dvar": [],
+    "statsmodels.stats.tests.test_dist_dependant_measures.TestDistDependenceMeasures": []
+}

@@ -1,0 +1,13 @@
+{
+    "matplotlib.tests.test_cycles.test_colorcycle_basic": [],
+    "matplotlib.tests.test_cycles.test_marker_cycle": [],
+    "matplotlib.tests.test_cycles.test_marker_cycle_kwargs_arrays_iterators": [],
+    "matplotlib.tests.test_cycles.test_linestylecycle_basic": [],
+    "matplotlib.tests.test_cycles.test_fillcycle_basic": [],
+    "matplotlib.tests.test_cycles.test_fillcycle_ignore": [],
+    "matplotlib.tests.test_cycles.test_property_collision_plot": [],
+    "matplotlib.tests.test_cycles.test_property_collision_fill": [],
+    "matplotlib.tests.test_cycles.test_valid_input_forms": [],
+    "matplotlib.tests.test_cycles.test_cycle_reset": [],
+    "matplotlib.tests.test_cycles.test_invalid_input_forms": []
+}

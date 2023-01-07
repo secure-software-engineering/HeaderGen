@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.tpu.tpu_optimizer.CrossShardOptimizer.__init__": [],
+    "tensorflow.python.tpu.tpu_optimizer.CrossShardOptimizer._verify_and_get_subgroup_size": [],
+    "tensorflow.python.tpu.tpu_optimizer.CrossShardOptimizer.compute_gradients": [],
+    "tensorflow.python.tpu.tpu_optimizer.CrossShardOptimizer.apply_gradients": [],
+    "tensorflow.python.tpu.tpu_optimizer.CrossShardOptimizer.get_slot": [],
+    "tensorflow.python.tpu.tpu_optimizer.CrossShardOptimizer.get_slot_names": [],
+    "tensorflow.python.tpu.tpu_optimizer.CrossShardOptimizer.variables": [],
+    "tensorflow.python.tpu.tpu_optimizer.CrossShardOptimizer": []
+}

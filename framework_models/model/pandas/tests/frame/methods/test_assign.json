@@ -1,0 +1,8 @@
+{
+    "pandas.tests.frame.methods.test_assign.TestAssign.test_assign": [],
+    "pandas.tests.frame.methods.test_assign.TestAssign.test_assign_multiple": [],
+    "pandas.tests.frame.methods.test_assign.TestAssign.test_assign_order": [],
+    "pandas.tests.frame.methods.test_assign.TestAssign.test_assign_bad": [],
+    "pandas.tests.frame.methods.test_assign.TestAssign.test_assign_dependent": [],
+    "pandas.tests.frame.methods.test_assign.TestAssign": []
+}

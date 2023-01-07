@@ -1,0 +1,5 @@
+{
+    "pandas.tests.scalar.interval.test_arithmetic.test_time_interval_add_subtract_timedelta": [],
+    "pandas.tests.scalar.interval.test_arithmetic.test_numeric_interval_add_timedelta_raises": [],
+    "pandas.tests.scalar.interval.test_arithmetic.test_timdelta_add_timestamp_interval": []
+}

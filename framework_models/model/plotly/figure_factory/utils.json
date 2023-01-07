@@ -1,0 +1,11 @@
+{
+    "plotly.figure_factory.utils.is_sequence": [],
+    "plotly.figure_factory.utils.validate_index": [],
+    "plotly.figure_factory.utils.validate_dataframe": [],
+    "plotly.figure_factory.utils.validate_equal_length": [],
+    "plotly.figure_factory.utils.validate_positive_scalars": [],
+    "plotly.figure_factory.utils.flatten": [],
+    "plotly.figure_factory.utils.endpts_to_intervals": [],
+    "plotly.figure_factory.utils.annotation_dict_for_label": [],
+    "plotly.figure_factory.utils.list_of_options": []
+}

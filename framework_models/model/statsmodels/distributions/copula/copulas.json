@@ -1,0 +1,19 @@
+{
+    "statsmodels.distributions.copula.copulas.CopulaDistribution.__init__": [],
+    "statsmodels.distributions.copula.copulas.CopulaDistribution.rvs": [],
+    "statsmodels.distributions.copula.copulas.CopulaDistribution.cdf": [],
+    "statsmodels.distributions.copula.copulas.CopulaDistribution.pdf": [],
+    "statsmodels.distributions.copula.copulas.CopulaDistribution.logpdf": [],
+    "statsmodels.distributions.copula.copulas.Copula.__init__": [],
+    "statsmodels.distributions.copula.copulas.Copula.rvs": [],
+    "statsmodels.distributions.copula.copulas.Copula.pdf": [],
+    "statsmodels.distributions.copula.copulas.Copula.logpdf": [],
+    "statsmodels.distributions.copula.copulas.Copula.cdf": [],
+    "statsmodels.distributions.copula.copulas.Copula.plot_scatter": [],
+    "statsmodels.distributions.copula.copulas.Copula.plot_pdf": [],
+    "statsmodels.distributions.copula.copulas.Copula.tau_simulated": [],
+    "statsmodels.distributions.copula.copulas.Copula.fit_corr_param": [],
+    "statsmodels.distributions.copula.copulas.Copula._arg_from_tau": [],
+    "statsmodels.distributions.copula.copulas.CopulaDistribution": [],
+    "statsmodels.distributions.copula.copulas.Copula": []
+}

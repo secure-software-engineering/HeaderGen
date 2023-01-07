@@ -1,0 +1,7 @@
+{
+    "numpy.testing.tests.test_doctesting.check_random_directive": [],
+    "numpy.testing.tests.test_doctesting.check_implicit_np": [],
+    "numpy.testing.tests.test_doctesting.check_whitespace_enabled": [],
+    "numpy.testing.tests.test_doctesting.check_empty_output": [],
+    "numpy.testing.tests.test_doctesting.check_skip": []
+}

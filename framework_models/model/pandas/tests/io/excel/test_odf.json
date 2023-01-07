@@ -1,0 +1,5 @@
+{
+    "pandas.tests.io.excel.test_odf.cd_and_set_engine": [],
+    "pandas.tests.io.excel.test_odf.test_read_invalid_types_raises": [],
+    "pandas.tests.io.excel.test_odf.test_read_writer_table": []
+}

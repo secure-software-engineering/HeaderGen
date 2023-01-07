@@ -1,0 +1,23 @@
+from typing import Any
+
+class RegressionEffects:
+    def stats(self, parent) -> None: ...
+
+class CorrelationEffects(RegressionEffects):
+    def stats(self, parent): ...
+
+class ForwardEffects(RegressionEffects):
+    pursuit: Any
+    def __init__(self, pursuit) -> None: ...
+    def stats(self, parent): ...
+
+class OLSEffects(RegressionEffects):
+    def stats(self, parent): ...
+
+class RegModelEffects(RegressionEffects):
+    model_cls: Any
+    regularized: Any
+    model_kws: Any
+    fit_kws: Any
+    def __init__(self, model_cls, regularized: bool = ..., model_kws: Any | None = ..., fit_kws: Any | None = ...) -> None: ...
+    def stats(self, parent): ...

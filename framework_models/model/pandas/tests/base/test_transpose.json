@@ -1,0 +1,6 @@
+{
+    "pandas.tests.base.test_transpose.test_transpose": [],
+    "pandas.tests.base.test_transpose.test_transpose_non_default_axes": [],
+    "pandas.tests.base.test_transpose.test_numpy_transpose": [],
+    "pandas.tests.base.test_transpose.test_duplicate_labels": []
+}

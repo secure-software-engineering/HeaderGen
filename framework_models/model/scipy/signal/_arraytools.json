@@ -1,0 +1,8 @@
+{
+    "scipy.signal._arraytools.axis_slice": [],
+    "scipy.signal._arraytools.axis_reverse": [],
+    "scipy.signal._arraytools.odd_ext": [],
+    "scipy.signal._arraytools.even_ext": [],
+    "scipy.signal._arraytools.const_ext": [],
+    "scipy.signal._arraytools.zero_ext": []
+}

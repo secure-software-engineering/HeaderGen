@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.ragged.ragged_where_op.where_v2": [],
+    "tensorflow.python.ops.ragged.ragged_where_op.where": [],
+    "tensorflow.python.ops.ragged.ragged_where_op._elementwise_where": [],
+    "tensorflow.python.ops.ragged.ragged_where_op._elementwise_where_v2": [],
+    "tensorflow.python.ops.ragged.ragged_where_op._coordinate_where": [],
+    "tensorflow.python.ops.ragged.ragged_where_op._nrows": []
+}

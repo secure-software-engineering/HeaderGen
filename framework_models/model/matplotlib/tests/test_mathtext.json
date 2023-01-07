@@ -1,0 +1,20 @@
+{
+    "matplotlib.tests.test_mathtext.baseline_images": [],
+    "matplotlib.tests.test_mathtext.test_mathtext_rendering": [],
+    "matplotlib.tests.test_mathtext.test_mathtext_rendering_lightweight": [],
+    "matplotlib.tests.test_mathtext.test_mathfont_rendering": [],
+    "matplotlib.tests.test_mathtext.test_fontinfo": [],
+    "matplotlib.tests.test_mathtext.test_mathtext_exceptions": [],
+    "matplotlib.tests.test_mathtext.test_single_minus_sign": [],
+    "matplotlib.tests.test_mathtext.test_spaces": [],
+    "matplotlib.tests.test_mathtext.test_operator_space": [],
+    "matplotlib.tests.test_mathtext.test_mathtext_fallback_valid": [],
+    "matplotlib.tests.test_mathtext.test_mathtext_fallback_invalid": [],
+    "matplotlib.tests.test_mathtext.test_mathtext_fallback": [],
+    "matplotlib.tests.test_mathtext.test_math_to_image": [],
+    "matplotlib.tests.test_mathtext.test_mathtext_to_png": [],
+    "matplotlib.tests.test_mathtext.test_math_fontfamily": [],
+    "matplotlib.tests.test_mathtext.test_default_math_fontfamily": [],
+    "matplotlib.tests.test_mathtext.test_argument_order": [],
+    "matplotlib.tests.test_mathtext.test_mathtext_cmr10_minus_sign": []
+}

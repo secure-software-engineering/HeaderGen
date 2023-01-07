@@ -1,0 +1,6 @@
+{
+    "sklearn.linear_model._huber._huber_loss_and_gradient": [],
+    "sklearn.linear_model._huber.HuberRegressor.__init__": [],
+    "sklearn.linear_model._huber.HuberRegressor.fit": [],
+    "sklearn.linear_model._huber.HuberRegressor": []
+}

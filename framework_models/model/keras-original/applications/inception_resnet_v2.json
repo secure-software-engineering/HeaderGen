@@ -1,0 +1,7 @@
+{
+    "keras.applications.inception_resnet_v2.InceptionResNetV2": [],
+    "keras.applications.inception_resnet_v2.conv2d_bn": [],
+    "keras.applications.inception_resnet_v2.inception_resnet_block": [],
+    "keras.applications.inception_resnet_v2.preprocess_input": [],
+    "keras.applications.inception_resnet_v2.decode_predictions": []
+}

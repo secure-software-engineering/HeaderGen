@@ -1,0 +1,8 @@
+{
+    "pandas.tests.util.test_assert_extension_array_equal.test_assert_extension_array_equal_not_exact": [],
+    "pandas.tests.util.test_assert_extension_array_equal.test_assert_extension_array_equal_less_precise": [],
+    "pandas.tests.util.test_assert_extension_array_equal.test_assert_extension_array_equal_dtype_mismatch": [],
+    "pandas.tests.util.test_assert_extension_array_equal.test_assert_extension_array_equal_missing_values": [],
+    "pandas.tests.util.test_assert_extension_array_equal.test_assert_extension_array_equal_non_extension_array": [],
+    "pandas.tests.util.test_assert_extension_array_equal.test_assert_extension_array_equal_ignore_dtype_mismatch": []
+}

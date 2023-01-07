@@ -1,0 +1,5 @@
+{
+    "keras.mixed_precision.loss_scale.serialize": [],
+    "keras.mixed_precision.loss_scale.deserialize": [],
+    "keras.mixed_precision.loss_scale.get": []
+}

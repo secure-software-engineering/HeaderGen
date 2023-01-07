@@ -1,0 +1,9 @@
+{
+    "main": [
+        "to_import_call.MyClass.__init__",
+        "to_import_call.MyClass.func"
+    ],
+    "to_import_call.MyClass.__init__": [],
+    "to_import_call.MyClass.func": [],
+    "to_import_call": []
+}

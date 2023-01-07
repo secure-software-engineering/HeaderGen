@@ -1,0 +1,8 @@
+{
+    "numpy.typing.tests.test_runtime.test_get_args": [],
+    "numpy.typing.tests.test_runtime.test_get_origin": [],
+    "numpy.typing.tests.test_runtime.test_get_type_hints": [],
+    "numpy.typing.tests.test_runtime.test_get_type_hints_str": [],
+    "numpy.typing.tests.test_runtime.test_keys": [],
+    "numpy.typing.tests.test_runtime.TypeTup": []
+}

@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.ops.parallel_for.gradients.jacobian": [],
+    "tensorflow.python.ops.parallel_for.gradients.batch_jacobian": []
+}

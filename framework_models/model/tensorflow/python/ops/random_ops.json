@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.ops.random_ops.random_normal": [],
+    "tensorflow.python.ops.random_ops.parameterized_truncated_normal": [],
+    "tensorflow.python.ops.random_ops.truncated_normal": [],
+    "tensorflow.python.ops.random_ops.random_uniform": [],
+    "tensorflow.python.ops.random_ops.random_shuffle": [],
+    "tensorflow.python.ops.random_ops.random_crop": [],
+    "tensorflow.python.ops.random_ops.stateless_random_crop": [],
+    "tensorflow.python.ops.random_ops.multinomial": [],
+    "tensorflow.python.ops.random_ops.categorical": [],
+    "tensorflow.python.ops.random_ops.multinomial_categorical_impl": [],
+    "tensorflow.python.ops.random_ops._maybe_set_static_shape_helper": [],
+    "tensorflow.python.ops.random_ops.random_gamma": [],
+    "tensorflow.python.ops.random_ops.random_poisson": [],
+    "tensorflow.python.ops.random_ops.random_poisson_v2": []
+}

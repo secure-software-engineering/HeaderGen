@@ -1,0 +1,14 @@
+{
+    "pandas.tests.arrays.floating.test_construction.test_uses_pandas_na": [],
+    "pandas.tests.arrays.floating.test_construction.test_floating_array_constructor": [],
+    "pandas.tests.arrays.floating.test_construction.test_floating_array_constructor_copy": [],
+    "pandas.tests.arrays.floating.test_construction.test_to_array": [],
+    "pandas.tests.arrays.floating.test_construction.test_to_array_none_is_nan": [],
+    "pandas.tests.arrays.floating.test_construction.test_to_array_mixed_integer_float": [],
+    "pandas.tests.arrays.floating.test_construction.test_to_array_error": [],
+    "pandas.tests.arrays.floating.test_construction.test_to_array_inferred_dtype": [],
+    "pandas.tests.arrays.floating.test_construction.test_to_array_dtype_keyword": [],
+    "pandas.tests.arrays.floating.test_construction.test_to_array_integer": [],
+    "pandas.tests.arrays.floating.test_construction.test_to_array_bool": [],
+    "pandas.tests.arrays.floating.test_construction.test_series_from_float": []
+}

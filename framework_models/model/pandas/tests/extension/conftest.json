@@ -1,0 +1,20 @@
+{
+    "pandas.tests.extension.conftest.dtype": [],
+    "pandas.tests.extension.conftest.data": [],
+    "pandas.tests.extension.conftest.data_for_twos": [],
+    "pandas.tests.extension.conftest.data_missing": [],
+    "pandas.tests.extension.conftest.all_data": [],
+    "pandas.tests.extension.conftest.data_repeated": [],
+    "pandas.tests.extension.conftest.data_for_sorting": [],
+    "pandas.tests.extension.conftest.data_missing_for_sorting": [],
+    "pandas.tests.extension.conftest.na_cmp": [],
+    "pandas.tests.extension.conftest.na_value": [],
+    "pandas.tests.extension.conftest.data_for_grouping": [],
+    "pandas.tests.extension.conftest.box_in_series": [],
+    "pandas.tests.extension.conftest.groupby_apply_op": [],
+    "pandas.tests.extension.conftest.as_frame": [],
+    "pandas.tests.extension.conftest.as_series": [],
+    "pandas.tests.extension.conftest.use_numpy": [],
+    "pandas.tests.extension.conftest.fillna_method": [],
+    "pandas.tests.extension.conftest.as_array": []
+}

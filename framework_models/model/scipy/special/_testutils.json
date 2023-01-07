@@ -1,0 +1,12 @@
+{
+    "scipy.special._testutils.check_version": [],
+    "scipy.special._testutils.with_special_errors": [],
+    "scipy.special._testutils.assert_func_equal": [],
+    "scipy.special._testutils.MissingModule.__init__": [],
+    "scipy.special._testutils.FuncData.__init__": [],
+    "scipy.special._testutils.FuncData.get_tolerances": [],
+    "scipy.special._testutils.FuncData.check": [],
+    "scipy.special._testutils.FuncData.__repr__": [],
+    "scipy.special._testutils.MissingModule": [],
+    "scipy.special._testutils.FuncData": []
+}

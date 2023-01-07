@@ -1,0 +1,21 @@
+{
+    "pandas.tests.indexes.multi.test_get_set.assert_matching": [],
+    "pandas.tests.indexes.multi.test_get_set.test_get_level_number_integer": [],
+    "pandas.tests.indexes.multi.test_get_set.test_get_dtypes": [],
+    "pandas.tests.indexes.multi.test_get_set.test_get_dtypes_no_level_name": [],
+    "pandas.tests.indexes.multi.test_get_set.test_get_level_number_out_of_bounds": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_name_methods": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_levels_codes_directly": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_levels": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_codes": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_levels_codes_names_bad_input": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_names_with_nlevel_1": [],
+    "pandas.tests.indexes.multi.test_get_set.test_multi_set_names_pos_args_deprecation": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_levels_categorical": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_value_keeps_names": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_levels_with_iterable": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_codes_inplace_deprecated": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_levels_inplace_deprecated": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_levels_pos_args_deprecation": [],
+    "pandas.tests.indexes.multi.test_get_set.test_set_codes_pos_args_depreciation": []
+}

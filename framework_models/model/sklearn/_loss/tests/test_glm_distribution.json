@@ -1,0 +1,7 @@
+{
+    "sklearn._loss.tests.test_glm_distribution.test_family_bounds": [],
+    "sklearn._loss.tests.test_glm_distribution.test_invalid_distribution_bound": [],
+    "sklearn._loss.tests.test_glm_distribution.test_tweedie_distribution_power": [],
+    "sklearn._loss.tests.test_glm_distribution.test_deviance_zero": [],
+    "sklearn._loss.tests.test_glm_distribution.test_deviance_derivative": []
+}

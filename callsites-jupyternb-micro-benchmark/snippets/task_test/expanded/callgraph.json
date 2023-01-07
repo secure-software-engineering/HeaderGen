@@ -1,0 +1,14 @@
+{
+    "main": [
+        "something.nothing",
+        "main.Human.eat_apple"
+    ],
+    "something.nothing": [],
+    "main.Human.eat_apple": [
+        "main.Apple.__init__",
+        "main.Apple.eat"
+    ],
+    "main.Apple.__init__": [],
+    "main.Apple.eat": [],
+    "something": []
+}

@@ -1,0 +1,6 @@
+{
+    "keras.distribute.model_collection_base.ModelAndInput.get_model": [],
+    "keras.distribute.model_collection_base.ModelAndInput.get_data": [],
+    "keras.distribute.model_collection_base.ModelAndInput.get_batch_size": [],
+    "keras.distribute.model_collection_base.ModelAndInput": []
+}

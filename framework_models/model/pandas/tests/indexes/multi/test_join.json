@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexes.multi.test_join.test_join_level": [],
+    "pandas.tests.indexes.multi.test_join.test_join_level_corner_case": [],
+    "pandas.tests.indexes.multi.test_join.test_join_self": [],
+    "pandas.tests.indexes.multi.test_join.test_join_multi": [],
+    "pandas.tests.indexes.multi.test_join.test_join_self_unique": [],
+    "pandas.tests.indexes.multi.test_join.test_join_multi_wrong_order": [],
+    "pandas.tests.indexes.multi.test_join.test_join_multi_return_indexers": []
+}

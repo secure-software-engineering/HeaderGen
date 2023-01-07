@@ -1,0 +1,4 @@
+{
+    "pandas.tests.io.pytables.conftest.setup_path": [],
+    "pandas.tests.io.pytables.conftest.setup_mode": []
+}

@@ -1,0 +1,16 @@
+{
+    "statsmodels.tools.decorators.deprecated_alias": [],
+    "statsmodels.tools.decorators.ResettableCache.__init__": [],
+    "statsmodels.tools.decorators.CachedAttribute.__init__": [],
+    "statsmodels.tools.decorators.CachedAttribute.__get__": [],
+    "statsmodels.tools.decorators.CachedAttribute.__set__": [],
+    "statsmodels.tools.decorators.CachedWritableAttribute.__set__": [],
+    "statsmodels.tools.decorators._cache_readonly.__init__": [],
+    "statsmodels.tools.decorators._cache_readonly.__call__": [],
+    "statsmodels.tools.decorators.cache_writable.__call__": [],
+    "statsmodels.tools.decorators.ResettableCache": [],
+    "statsmodels.tools.decorators.CachedAttribute": [],
+    "statsmodels.tools.decorators.CachedWritableAttribute": [],
+    "statsmodels.tools.decorators._cache_readonly": [],
+    "statsmodels.tools.decorators.cache_writable": []
+}

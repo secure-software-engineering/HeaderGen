@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.training.slot_creator._create_slot_var": [],
+    "tensorflow.python.training.slot_creator.create_slot": [],
+    "tensorflow.python.training.slot_creator.create_slot_with_initializer": [],
+    "tensorflow.python.training.slot_creator.create_zeros_slot": []
+}

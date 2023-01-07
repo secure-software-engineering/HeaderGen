@@ -1,0 +1,13 @@
+{
+    "scipy.integrate._ivp.bdf.compute_R": [],
+    "scipy.integrate._ivp.bdf.change_D": [],
+    "scipy.integrate._ivp.bdf.solve_bdf_system": [],
+    "scipy.integrate._ivp.bdf.BDF.__init__": [],
+    "scipy.integrate._ivp.bdf.BDF._validate_jac": [],
+    "scipy.integrate._ivp.bdf.BDF._step_impl": [],
+    "scipy.integrate._ivp.bdf.BDF._dense_output_impl": [],
+    "scipy.integrate._ivp.bdf.BdfDenseOutput.__init__": [],
+    "scipy.integrate._ivp.bdf.BdfDenseOutput._call_impl": [],
+    "scipy.integrate._ivp.bdf.BDF": [],
+    "scipy.integrate._ivp.bdf.BdfDenseOutput": []
+}

@@ -1,0 +1,118 @@
+{
+    "1": [
+        "warnings.filterwarnings"
+    ],
+    "2": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "3": [
+        "datetime.datetime.strptime",
+        "pandas.core.series.Series.apply"
+    ],
+    "4": [
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.generic.DataFrameGroupBy.aggregate"
+    ],
+    "5": [
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame.sort_values",
+        "pandas.core.groupby.groupby.GroupBy.count",
+        "pandas.core.frame.DataFrame.reset_index",
+        "matplotlib.pyplot.figure",
+        "seaborn.categorical.barplot",
+        "matplotlib.pyplot.show",
+        "matplotlib.pyplot.ylabel",
+        "matplotlib.pyplot.xlabel",
+        "matplotlib.pyplot.title"
+    ],
+    "6": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "7": [
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.groupby.GroupBy.sum",
+        "pandas.core.series.Series.reset_index",
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "8": [
+        "plotly.graph_objs._scatter.Scatter",
+        "plotly.graph_objs._layout.Layout",
+        "plotly.graph_objs._figure.Figure",
+        "plotly.offline.offline.iplot"
+    ],
+    "9": [
+        "pandas.core.generic.NDFrame.copy",
+        "pandas.core.series.Series.shift",
+        "pandas.core.frame.DataFrame.dropna",
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "10": [
+        "plotly.graph_objs._scatter.Scatter",
+        "plotly.graph_objs._layout.Layout",
+        "plotly.graph_objs._figure.Figure",
+        "plotly.offline.offline.iplot"
+    ],
+    "11": [
+        "pandas.core.frame.DataFrame.drop",
+        "pandas.core.series.Series.shift",
+        "pandas.core.frame.DataFrame.dropna",
+        "pandas.core.frame.DataFrame.reset_index",
+        "<builtin>.range",
+        "<builtin>.str"
+    ],
+    "12": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "13": [
+        "<builtin>.print",
+        "statsmodels.base.model.Model.from_formula",
+        "statsmodels.base.model.Model.fit"
+    ],
+    "14": [
+        "<builtin>.print",
+        "statsmodels.base.model.Model.from_formula",
+        "statsmodels.base.model.Model.fit"
+    ],
+    "15": [
+        "pandas.core.frame.DataFrame.drop"  
+    ],
+    "17": [
+        "sklearn.preprocessing._data.MinMaxScaler",
+        "sklearn.preprocessing._data.MinMaxScaler.fit",
+        "numpy.ndarray.reshape",
+        "sklearn.preprocessing._data.StandardScaler.transform"
+    ],
+    "18": [
+        "numpy.ndarray.reshape"
+    ],
+    "19": [
+        "keras.engine.sequential.Sequential",
+        "keras.layers.recurrent_v2.LSTM",
+        "keras.engine.sequential.Sequential.add",
+        "keras.layers.core.dense.Dense",
+        "keras.engine.training.Model.compile",
+        "keras.engine.training.Model.fit"
+    ],
+    "20": [
+        "keras.engine.training.Model.predict"
+    ],
+    "21": [
+        "numpy.ndarray.reshape",
+        "<builtin>.range",
+        "sklearn.preprocessing._data.MinMaxScaler.inverse_transform",
+        "numpy.core._multiarray_umath.concatenate",
+        "<builtin>.len",
+        "<builtin>.print",
+        "numpy.array"
+    ],
+    "22": [
+        "<builtin>.int",
+        "<builtin>.range",
+        "pandas.core.frame.DataFrame",
+        "<builtin>.list",
+        "<builtin>.len"
+    ],
+    "23": [
+        "pandas.core.generic.NDFrame.to_csv"
+    ]
+}

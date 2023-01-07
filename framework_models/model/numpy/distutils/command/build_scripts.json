@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.command.build_scripts.build_scripts.generate_scripts": [],
+    "numpy.distutils.command.build_scripts.build_scripts.run": [],
+    "numpy.distutils.command.build_scripts.build_scripts.get_source_files": [],
+    "numpy.distutils.command.build_scripts.build_scripts": []
+}

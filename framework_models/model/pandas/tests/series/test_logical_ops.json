@@ -1,0 +1,22 @@
+{
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_bool_operators_with_nas": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_bool_dtype_with_empty": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_int_dtype_with_int_dtype": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_int_dtype_with_int_scalar": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_int_dtype_with_float": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_int_dtype_with_str": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_int_dtype_with_bool": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_int_dtype_with_object": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_bool_dtype_with_int": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_ops_bool_dtype_with_ndarray": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_operators_int_dtype_with_bool_dtype_and_reindex": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_scalar_na_logical_ops_corners": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_scalar_na_logical_ops_corners_aligns": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_ops_with_index": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_reversed_xor_with_index_returns_index": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_reversed_logical_op_with_index_returns_series": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_reverse_ops_with_index": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_ops_label_based": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps.test_logical_ops_df_compat": [],
+    "pandas.tests.series.test_logical_ops.TestSeriesLogicalOps": []
+}

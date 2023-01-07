@@ -1,0 +1,15 @@
+{
+    "pandas.tests.frame.methods.test_set_axis.test_nonkeyword_arguments_deprecation_warning": [],
+    "pandas.tests.frame.methods.test_set_axis.SharedSetAxisTests.obj": [],
+    "pandas.tests.frame.methods.test_set_axis.SharedSetAxisTests.test_set_axis": [],
+    "pandas.tests.frame.methods.test_set_axis.SharedSetAxisTests.test_set_axis_inplace_axis": [],
+    "pandas.tests.frame.methods.test_set_axis.SharedSetAxisTests.test_set_axis_unnamed_kwarg_warns": [],
+    "pandas.tests.frame.methods.test_set_axis.SharedSetAxisTests.test_set_axis_invalid_axis_name": [],
+    "pandas.tests.frame.methods.test_set_axis.SharedSetAxisTests.test_set_axis_setattr_index_not_collection": [],
+    "pandas.tests.frame.methods.test_set_axis.SharedSetAxisTests.test_set_axis_setattr_index_wrong_length": [],
+    "pandas.tests.frame.methods.test_set_axis.TestDataFrameSetAxis.obj": [],
+    "pandas.tests.frame.methods.test_set_axis.TestSeriesSetAxis.obj": [],
+    "pandas.tests.frame.methods.test_set_axis.SharedSetAxisTests": [],
+    "pandas.tests.frame.methods.test_set_axis.TestDataFrameSetAxis": [],
+    "pandas.tests.frame.methods.test_set_axis.TestSeriesSetAxis": []
+}

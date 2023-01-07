@@ -1,0 +1,7 @@
+{
+    "scipy.signal.tests.test_result_type.test_decimate": [],
+    "scipy.signal.tests.test_result_type.test_lfilter_zi": [],
+    "scipy.signal.tests.test_result_type.test_lfiltic": [],
+    "scipy.signal.tests.test_result_type.test_sos2tf": [],
+    "scipy.signal.tests.test_result_type.test_sosfilt_zi": []
+}

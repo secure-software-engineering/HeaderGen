@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.multi.test_missing.test_fillna": [],
+    "pandas.tests.indexes.multi.test_missing.test_dropna": [],
+    "pandas.tests.indexes.multi.test_missing.test_nulls": [],
+    "pandas.tests.indexes.multi.test_missing.test_hasnans_isnans": [],
+    "pandas.tests.indexes.multi.test_missing.test_nan_stays_float": [],
+    "pandas.tests.indexes.multi.test_missing.test_tuples_have_na": []
+}

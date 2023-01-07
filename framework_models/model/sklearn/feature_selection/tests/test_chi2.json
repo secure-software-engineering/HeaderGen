@@ -1,0 +1,8 @@
+{
+    "sklearn.feature_selection.tests.test_chi2.mkchi2": [],
+    "sklearn.feature_selection.tests.test_chi2.test_chi2": [],
+    "sklearn.feature_selection.tests.test_chi2.test_chi2_coo": [],
+    "sklearn.feature_selection.tests.test_chi2.test_chi2_negative": [],
+    "sklearn.feature_selection.tests.test_chi2.test_chi2_unused_feature": [],
+    "sklearn.feature_selection.tests.test_chi2.test_chisquare": []
+}

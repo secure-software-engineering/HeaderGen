@@ -1,0 +1,9 @@
+{
+  "11": [
+    "random.Random.randint"
+  ],
+  "17": [
+    "main.func1:3",
+    "main.func2:7"
+  ]
+}

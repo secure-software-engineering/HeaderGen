@@ -1,0 +1,19 @@
+{
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_bool": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_categorical": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_fill_value": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_empty": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_duplicate_columns": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_axis1_multiple_blocks": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_axis1_multiple_blocks_with_int_fill": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_tshift": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_tshift_deprecated": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_period_index_frame_shift_with_freq": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_datetime_frame_shift_with_freq": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_period_index_frame_shift_with_freq_error": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_datetime_frame_shift_with_freq_error": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_dt64values_int_fill_deprecated": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift.test_shift_axis1_categorical_columns": [],
+    "pandas.tests.frame.methods.test_shift.TestDataFrameShift": []
+}

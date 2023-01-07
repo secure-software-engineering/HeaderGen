@@ -1,0 +1,11 @@
+{
+    "numpy.core.function_base._linspace_dispatcher": [],
+    "numpy.core.function_base.linspace": ["DATA_CLEANING_PREPARATION"],
+    "numpy.core.function_base._logspace_dispatcher": [],
+    "numpy.core.function_base.logspace": [],
+    "numpy.core.function_base._geomspace_dispatcher": [],
+    "numpy.core.function_base.geomspace": [],
+    "numpy.core.function_base._needs_add_docstring": [],
+    "numpy.core.function_base._add_docstring": [],
+    "numpy.core.function_base.add_newdoc": []
+}

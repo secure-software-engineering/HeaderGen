@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.platform.sysconfig.get_include": [],
+    "tensorflow.python.platform.sysconfig.get_lib": [],
+    "tensorflow.python.platform.sysconfig.get_compile_flags": [],
+    "tensorflow.python.platform.sysconfig.get_link_flags": [],
+    "tensorflow.python.platform.sysconfig.get_build_info": []
+}

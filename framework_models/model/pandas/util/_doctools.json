@@ -1,0 +1,10 @@
+{
+    "pandas.util._doctools.TablePlotter.__init__": [],
+    "pandas.util._doctools.TablePlotter._shape": [],
+    "pandas.util._doctools.TablePlotter._get_cells": [],
+    "pandas.util._doctools.TablePlotter.plot": [],
+    "pandas.util._doctools.TablePlotter._conv": [],
+    "pandas.util._doctools.TablePlotter._insert_index": [],
+    "pandas.util._doctools.TablePlotter._make_table": [],
+    "pandas.util._doctools.TablePlotter": []
+}

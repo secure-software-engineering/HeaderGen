@@ -1,0 +1,13 @@
+{
+    "sklearn.manifold._spectral_embedding._graph_connected_component": [],
+    "sklearn.manifold._spectral_embedding._graph_is_connected": [],
+    "sklearn.manifold._spectral_embedding._set_diag": [],
+    "sklearn.manifold._spectral_embedding.spectral_embedding": [],
+    "sklearn.manifold._spectral_embedding.SpectralEmbedding.__init__": [],
+    "sklearn.manifold._spectral_embedding.SpectralEmbedding._more_tags": [],
+    "sklearn.manifold._spectral_embedding.SpectralEmbedding._pairwise": [],
+    "sklearn.manifold._spectral_embedding.SpectralEmbedding._get_affinity_matrix": [],
+    "sklearn.manifold._spectral_embedding.SpectralEmbedding.fit": [],
+    "sklearn.manifold._spectral_embedding.SpectralEmbedding.fit_transform": [],
+    "sklearn.manifold._spectral_embedding.SpectralEmbedding": []
+}

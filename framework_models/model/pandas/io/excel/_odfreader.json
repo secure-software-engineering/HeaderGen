@@ -1,0 +1,16 @@
+{
+    "pandas.io.excel._odfreader.ODFReader.__init__": [],
+    "pandas.io.excel._odfreader.ODFReader._workbook_class": [],
+    "pandas.io.excel._odfreader.ODFReader.load_workbook": [],
+    "pandas.io.excel._odfreader.ODFReader.empty_value": [],
+    "pandas.io.excel._odfreader.ODFReader.sheet_names": [],
+    "pandas.io.excel._odfreader.ODFReader.get_sheet_by_index": [],
+    "pandas.io.excel._odfreader.ODFReader.get_sheet_by_name": [],
+    "pandas.io.excel._odfreader.ODFReader.get_sheet_data": [],
+    "pandas.io.excel._odfreader.ODFReader._get_row_repeat": [],
+    "pandas.io.excel._odfreader.ODFReader._get_column_repeat": [],
+    "pandas.io.excel._odfreader.ODFReader._is_empty_row": [],
+    "pandas.io.excel._odfreader.ODFReader._get_cell_value": [],
+    "pandas.io.excel._odfreader.ODFReader._get_cell_string_value": [],
+    "pandas.io.excel._odfreader.ODFReader": []
+}

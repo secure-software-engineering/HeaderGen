@@ -1,0 +1,3 @@
+from typing import Any
+
+def configuration(parent_package: str = ..., top_path: Any | None = ...): ...

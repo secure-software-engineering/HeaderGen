@@ -1,0 +1,4 @@
+{
+    "numpy.distutils.command.sdist.sdist.add_defaults": [],
+    "numpy.distutils.command.sdist.sdist": []
+}

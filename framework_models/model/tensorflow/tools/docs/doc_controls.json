@@ -1,0 +1,9 @@
+{
+    "tensorflow.tools.docs.doc_controls.set_deprecated": [],
+    "tensorflow.tools.docs.doc_controls.inheritable_header": [],
+    "tensorflow.tools.docs.doc_controls.do_not_generate_docs": [],
+    "tensorflow.tools.docs.doc_controls.do_not_doc_inheritable": [],
+    "tensorflow.tools.docs.doc_controls.for_subclass_implementers": [],
+    "tensorflow.tools.docs.doc_controls.doc_private": [],
+    "tensorflow.tools.docs.doc_controls.doc_in_current_and_subclasses": []
+}

@@ -1,0 +1,19 @@
+{
+    "sklearn.impute.tests.test_base.data": [],
+    "sklearn.impute.tests.test_base.test_base_imputer_not_fit": [],
+    "sklearn.impute.tests.test_base.test_base_imputer_not_transform": [],
+    "sklearn.impute.tests.test_base.test_base_no_precomputed_mask_fit": [],
+    "sklearn.impute.tests.test_base.test_base_no_precomputed_mask_transform": [],
+    "sklearn.impute.tests.test_base.NoFitIndicatorImputer.fit": [],
+    "sklearn.impute.tests.test_base.NoFitIndicatorImputer.transform": [],
+    "sklearn.impute.tests.test_base.NoTransformIndicatorImputer.fit": [],
+    "sklearn.impute.tests.test_base.NoTransformIndicatorImputer.transform": [],
+    "sklearn.impute.tests.test_base.NoPrecomputedMaskFit.fit": [],
+    "sklearn.impute.tests.test_base.NoPrecomputedMaskFit.transform": [],
+    "sklearn.impute.tests.test_base.NoPrecomputedMaskTransform.fit": [],
+    "sklearn.impute.tests.test_base.NoPrecomputedMaskTransform.transform": [],
+    "sklearn.impute.tests.test_base.NoFitIndicatorImputer": [],
+    "sklearn.impute.tests.test_base.NoTransformIndicatorImputer": [],
+    "sklearn.impute.tests.test_base.NoPrecomputedMaskFit": [],
+    "sklearn.impute.tests.test_base.NoPrecomputedMaskTransform": []
+}

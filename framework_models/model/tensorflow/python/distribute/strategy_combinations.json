@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.distribute.strategy_combinations._version_chooser": [],
+    "tensorflow.python.distribute.strategy_combinations._get_tpu_strategy_creator": [],
+    "tensorflow.python.distribute.strategy_combinations._mirrored_strategy_with_collective_key_base": [],
+    "tensorflow.python.distribute.strategy_combinations._mirrored_strategy_with_no_merge_call": [],
+    "tensorflow.python.distribute.strategy_combinations._get_multi_worker_mirrored_creator": [],
+    "tensorflow.python.distribute.strategy_combinations.get_cluster_def": [],
+    "tensorflow.python.distribute.strategy_combinations._get_ps_strategy_creator": [],
+    "tensorflow.python.distribute.strategy_combinations._deferred_pool_runner": [],
+    "tensorflow.python.distribute.strategy_combinations.parameter_server_strategy_fn": [],
+    "tensorflow.python.distribute.strategy_combinations.set_virtual_cpus_to_at_least": [],
+    "tensorflow.python.distribute.strategy_combinations.strategy_minus_tpu_combinations": [],
+    "tensorflow.python.distribute.strategy_combinations.tpu_strategy_combinations": [],
+    "tensorflow.python.distribute.strategy_combinations.all_strategy_combinations": [],
+    "tensorflow.python.distribute.strategy_combinations.all_strategy_minus_default_and_tpu_combinations": [],
+    "tensorflow.python.distribute.strategy_combinations.all_strategy_combinations_minus_default": []
+}

@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.keras.applications.inception_resnet_v2.InceptionResNetV2": [],
+    "tensorflow.python.keras.applications.inception_resnet_v2.conv2d_bn": [],
+    "tensorflow.python.keras.applications.inception_resnet_v2.inception_resnet_block": [],
+    "tensorflow.python.keras.applications.inception_resnet_v2.preprocess_input": [],
+    "tensorflow.python.keras.applications.inception_resnet_v2.decode_predictions": []
+}

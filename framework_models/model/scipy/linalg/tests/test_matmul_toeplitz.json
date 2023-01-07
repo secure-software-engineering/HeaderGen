@@ -1,0 +1,8 @@
+{
+    "scipy.linalg.tests.test_matmul_toeplitz.TestMatmulToeplitz.setup_method": [],
+    "scipy.linalg.tests.test_matmul_toeplitz.TestMatmulToeplitz.test_real": [],
+    "scipy.linalg.tests.test_matmul_toeplitz.TestMatmulToeplitz.test_complex": [],
+    "scipy.linalg.tests.test_matmul_toeplitz.TestMatmulToeplitz.test_exceptions": [],
+    "scipy.linalg.tests.test_matmul_toeplitz.TestMatmulToeplitz.do": [],
+    "scipy.linalg.tests.test_matmul_toeplitz.TestMatmulToeplitz": []
+}

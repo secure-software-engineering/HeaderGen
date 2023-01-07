@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.fcompiler.mips.MIPSFCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.mips.MIPSFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.mips.MIPSFCompiler.get_flags_arch": [],
+    "numpy.distutils.fcompiler.mips.MIPSFCompiler.get_flags_arch_f77": [],
+    "numpy.distutils.fcompiler.mips.MIPSFCompiler.get_flags_arch_f90": [],
+    "numpy.distutils.fcompiler.mips.MIPSFCompiler": []
+}

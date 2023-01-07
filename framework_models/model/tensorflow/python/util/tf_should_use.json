@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.util.tf_should_use._new__init__": [],
+    "tensorflow.python.util.tf_should_use._new__setattr__": [],
+    "tensorflow.python.util.tf_should_use._new__getattribute__": [],
+    "tensorflow.python.util.tf_should_use._new_mark_used": [],
+    "tensorflow.python.util.tf_should_use._get_wrapper": [],
+    "tensorflow.python.util.tf_should_use._add_should_use_warning": [],
+    "tensorflow.python.util.tf_should_use.should_use_result": [],
+    "tensorflow.python.util.tf_should_use._TFShouldUseHelper.__init__": [],
+    "tensorflow.python.util.tf_should_use._TFShouldUseHelper.sate": [],
+    "tensorflow.python.util.tf_should_use._TFShouldUseHelper._check_sated": [],
+    "tensorflow.python.util.tf_should_use._TFShouldUseHelper.__del__": [],
+    "tensorflow.python.util.tf_should_use._TFShouldUseHelper": []
+}

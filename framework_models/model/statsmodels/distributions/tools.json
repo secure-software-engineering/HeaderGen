@@ -1,0 +1,15 @@
+{
+    "statsmodels.distributions.tools.prob2cdf_grid": [],
+    "statsmodels.distributions.tools.cdf2prob_grid": [],
+    "statsmodels.distributions.tools.average_grid": [],
+    "statsmodels.distributions.tools.nearest_matrix_margins": [],
+    "statsmodels.distributions.tools._rankdata_no_ties": [],
+    "statsmodels.distributions.tools.frequencies_fromdata": [],
+    "statsmodels.distributions.tools.approx_copula_pdf": [],
+    "statsmodels.distributions.tools._eval_bernstein_1d": [],
+    "statsmodels.distributions.tools._eval_bernstein_2d": [],
+    "statsmodels.distributions.tools._eval_bernstein_dd": [],
+    "statsmodels.distributions.tools._ecdf_mv": [],
+    "statsmodels.distributions.tools._Grid.__init__": [],
+    "statsmodels.distributions.tools._Grid": []
+}

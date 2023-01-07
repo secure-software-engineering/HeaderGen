@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.feature_column.serialization.serialize_feature_column": [],
+    "tensorflow.python.feature_column.serialization.deserialize_feature_column": [],
+    "tensorflow.python.feature_column.serialization.serialize_feature_columns": [],
+    "tensorflow.python.feature_column.serialization.deserialize_feature_columns": [],
+    "tensorflow.python.feature_column.serialization._column_name_with_class_name": [],
+    "tensorflow.python.feature_column.serialization._serialize_keras_object": [],
+    "tensorflow.python.feature_column.serialization._deserialize_keras_object": [],
+    "tensorflow.python.feature_column.serialization._class_and_config_for_serialized_keras_object": [],
+    "tensorflow.python.feature_column.serialization._get_registered_object": []
+}

@@ -1,0 +1,15 @@
+{
+    "pandas.tests.resample.test_deprecated._index_factory": [],
+    "pandas.tests.resample.test_deprecated.create_index": [],
+    "pandas.tests.resample.test_deprecated.test_deprecating_on_loffset_and_base": [],
+    "pandas.tests.resample.test_deprecated.test_resample_loffset_arg_type": [],
+    "pandas.tests.resample.test_deprecated.test_resample_loffset": [],
+    "pandas.tests.resample.test_deprecated.test_resample_loffset_upsample": [],
+    "pandas.tests.resample.test_deprecated.test_resample_loffset_count": [],
+    "pandas.tests.resample.test_deprecated.test_resample_base": [],
+    "pandas.tests.resample.test_deprecated.test_resample_float_base": [],
+    "pandas.tests.resample.test_deprecated.test_loffset_returns_datetimeindex": [],
+    "pandas.tests.resample.test_deprecated.test_resample_with_non_zero_base": [],
+    "pandas.tests.resample.test_deprecated.test_resample_base_with_timedeltaindex": [],
+    "pandas.tests.resample.test_deprecated.test_interpolate_posargs_deprecation": []
+}

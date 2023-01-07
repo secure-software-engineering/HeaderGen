@@ -1,0 +1,3 @@
+from statsmodels.tools.sm_exceptions import ModuleUnavailableWarning as ModuleUnavailableWarning, module_unavailable_doc as module_unavailable_doc
+
+def parallel_func(func, n_jobs, verbose: int = ...): ...

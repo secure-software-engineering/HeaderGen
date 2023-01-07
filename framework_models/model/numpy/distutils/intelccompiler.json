@@ -1,0 +1,7 @@
+{
+    "numpy.distutils.intelccompiler.IntelCCompiler.__init__": [],
+    "numpy.distutils.intelccompiler.IntelEM64TCCompiler.__init__": [],
+    "numpy.distutils.intelccompiler.IntelCCompiler": [],
+    "numpy.distutils.intelccompiler.IntelItaniumCCompiler": [],
+    "numpy.distutils.intelccompiler.IntelEM64TCCompiler": []
+}

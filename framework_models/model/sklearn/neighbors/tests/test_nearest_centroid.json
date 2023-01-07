@@ -1,0 +1,12 @@
+{
+    "sklearn.neighbors.tests.test_nearest_centroid.test_classification_toy": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_precomputed": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_iris": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_iris_shrinkage": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_pickle": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_shrinkage_correct": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_shrinkage_threshold_decoded_y": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_predict_translated_data": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_manhattan_metric": [],
+    "sklearn.neighbors.tests.test_nearest_centroid.test_features_zero_var": []
+}

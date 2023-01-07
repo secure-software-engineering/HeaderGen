@@ -1,0 +1,23 @@
+{
+    "scipy.optimize._dual_annealing.dual_annealing": [],
+    "scipy.optimize._dual_annealing.VisitingDistribution.__init__": [],
+    "scipy.optimize._dual_annealing.VisitingDistribution.visiting": [],
+    "scipy.optimize._dual_annealing.VisitingDistribution.visit_fn": [],
+    "scipy.optimize._dual_annealing.EnergyState.__init__": [],
+    "scipy.optimize._dual_annealing.EnergyState.reset": [],
+    "scipy.optimize._dual_annealing.EnergyState.update_best": [],
+    "scipy.optimize._dual_annealing.EnergyState.update_current": [],
+    "scipy.optimize._dual_annealing.StrategyChain.__init__": [],
+    "scipy.optimize._dual_annealing.StrategyChain.accept_reject": [],
+    "scipy.optimize._dual_annealing.StrategyChain.run": [],
+    "scipy.optimize._dual_annealing.StrategyChain.local_search": [],
+    "scipy.optimize._dual_annealing.ObjectiveFunWrapper.__init__": [],
+    "scipy.optimize._dual_annealing.ObjectiveFunWrapper.fun": [],
+    "scipy.optimize._dual_annealing.LocalSearchWrapper.__init__": [],
+    "scipy.optimize._dual_annealing.LocalSearchWrapper.local_search": [],
+    "scipy.optimize._dual_annealing.VisitingDistribution": [],
+    "scipy.optimize._dual_annealing.EnergyState": [],
+    "scipy.optimize._dual_annealing.StrategyChain": [],
+    "scipy.optimize._dual_annealing.ObjectiveFunWrapper": [],
+    "scipy.optimize._dual_annealing.LocalSearchWrapper": []
+}

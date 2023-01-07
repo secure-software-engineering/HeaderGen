@@ -1,0 +1,29 @@
+{
+  "15": [
+    "main.func1:10",
+    "main.func2:5",
+    "main.func3:1",
+    "main.<lambda1>:15",
+    "main.<lambda2>:15",
+    "main.<lambda3>:15"
+  ],
+  "11": [
+    "main.<lambda1>:15"
+  ],
+  "12": [
+    "main.func2:5",
+    "main.<lambda2>:15",
+    "main.func3:1",
+    "main.<lambda3>:15"
+  ],
+  "6": [
+    "main.<lambda2>:15"
+  ],
+  "7": [
+    "main.func3:1",
+    "main.<lambda3>:15"
+  ],
+  "2": [
+    "main.<lambda3>:15"
+  ]
+}

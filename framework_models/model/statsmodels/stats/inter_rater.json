@@ -1,0 +1,14 @@
+{
+    "statsmodels.stats.inter_rater._int_ifclose": [],
+    "statsmodels.stats.inter_rater.aggregate_raters": [],
+    "statsmodels.stats.inter_rater.to_table": [],
+    "statsmodels.stats.inter_rater.fleiss_kappa": [],
+    "statsmodels.stats.inter_rater.cohens_kappa": [],
+    "statsmodels.stats.inter_rater.ResultsBunch.__init__": [],
+    "statsmodels.stats.inter_rater.ResultsBunch._initialize": [],
+    "statsmodels.stats.inter_rater.ResultsBunch.__str__": [],
+    "statsmodels.stats.inter_rater.KappaResults._initialize": [],
+    "statsmodels.stats.inter_rater.KappaResults.__str__": [],
+    "statsmodels.stats.inter_rater.ResultsBunch": [],
+    "statsmodels.stats.inter_rater.KappaResults": []
+}

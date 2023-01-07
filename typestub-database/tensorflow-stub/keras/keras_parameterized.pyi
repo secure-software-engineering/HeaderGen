@@ -1,0 +1,16 @@
+from absl.testing import parameterized
+from tensorflow.python import keras as keras, tf2 as tf2
+from tensorflow.python.eager import context as context
+from tensorflow.python.framework import ops as ops
+from tensorflow.python.keras import testing_utils as testing_utils
+from tensorflow.python.platform import test as test
+from tensorflow.python.util import nest as nest
+from typing import Any
+
+class TestCase(test.TestCase, parameterized.TestCase):
+    def tearDown(self) -> None: ...
+
+def run_with_all_saved_model_formats(test_or_class: Any | None = ..., exclude_formats: Any | None = ...): ...
+def run_with_all_weight_formats(test_or_class: Any | None = ..., exclude_formats: Any | None = ...): ...
+def run_with_all_model_types(test_or_class: Any | None = ..., exclude_models: Any | None = ...): ...
+def run_all_keras_modes(test_or_class: Any | None = ..., config: Any | None = ..., always_skip_v1: bool = ..., always_skip_eager: bool = ..., **kwargs): ...

@@ -1,0 +1,8 @@
+{
+    "scipy.integrate.tests.test_odeint_jac.rhs": [],
+    "scipy.integrate.tests.test_odeint_jac.jac": [],
+    "scipy.integrate.tests.test_odeint_jac.bjac": [],
+    "scipy.integrate.tests.test_odeint_jac.check_odeint": [],
+    "scipy.integrate.tests.test_odeint_jac.test_odeint_full_jac": [],
+    "scipy.integrate.tests.test_odeint_jac.test_odeint_banded_jac": []
+}

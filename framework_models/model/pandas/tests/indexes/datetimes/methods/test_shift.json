@@ -1,0 +1,14 @@
+{
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_dti_shift_tzaware": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_dti_shift_freqs": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_dti_shift_int": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_dti_shift_no_freq": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_dti_shift_localized": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_dti_shift_across_dst": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_dti_shift_near_midnight": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_shift_periods": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_shift_bday": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_shift_bmonth": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift.test_shift_empty": [],
+    "pandas.tests.indexes.datetimes.methods.test_shift.TestDatetimeIndexShift": []
+}

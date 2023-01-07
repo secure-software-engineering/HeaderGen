@@ -1,0 +1,14 @@
+{
+    "matplotlib.testing.jpl_units.Epoch.Epoch.__init__": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.convert": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.frame": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.julianDate": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.secondsPast": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch._cmp": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.__add__": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.__sub__": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.__str__": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.__repr__": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch.range": [],
+    "matplotlib.testing.jpl_units.Epoch.Epoch": []
+}

@@ -1,0 +1,3 @@
+from tensorflow.python.util.compat import as_str_any as as_str_any
+
+def path_to_str(path): ...

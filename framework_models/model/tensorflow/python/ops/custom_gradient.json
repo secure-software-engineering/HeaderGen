@@ -1,0 +1,15 @@
+{
+    "tensorflow.python.ops.custom_gradient.custom_gradient": [],
+    "tensorflow.python.ops.custom_gradient.get_variable_by_name": [],
+    "tensorflow.python.ops.custom_gradient._get_dependent_variables": [],
+    "tensorflow.python.ops.custom_gradient.generate_name": [],
+    "tensorflow.python.ops.custom_gradient._graph_mode_decorator": [],
+    "tensorflow.python.ops.custom_gradient._eager_mode_decorator": [],
+    "tensorflow.python.ops.custom_gradient.recompute_grad": [],
+    "tensorflow.python.ops.custom_gradient.grad_pass_through": [],
+    "tensorflow.python.ops.custom_gradient.Bind.decorator": [],
+    "tensorflow.python.ops.custom_gradient.Bind.__init__": [],
+    "tensorflow.python.ops.custom_gradient.Bind.__get__": [],
+    "tensorflow.python.ops.custom_gradient.Bind.__call__": [],
+    "tensorflow.python.ops.custom_gradient.Bind": []
+}

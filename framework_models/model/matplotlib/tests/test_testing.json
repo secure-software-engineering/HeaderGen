@@ -1,0 +1,7 @@
+{
+    "matplotlib.tests.test_testing.test_warn_to_fail": [],
+    "matplotlib.tests.test_testing.test_parametrize_with_check_figure_equal": [],
+    "matplotlib.tests.test_testing.test_wrap_failure": [],
+    "matplotlib.tests.test_testing.test_check_figures_equal_extra_fig": [],
+    "matplotlib.tests.test_testing.test_check_figures_equal_closed_fig": []
+}

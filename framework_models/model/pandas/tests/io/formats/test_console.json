@@ -1,0 +1,9 @@
+{
+    "pandas.tests.io.formats.test_console.test_detect_console_encoding_from_stdout_stdin": [],
+    "pandas.tests.io.formats.test_console.test_detect_console_encoding_fallback_to_locale": [],
+    "pandas.tests.io.formats.test_console.test_detect_console_encoding_fallback_to_default": [],
+    "pandas.tests.io.formats.test_console.MockEncoding.__init__": [],
+    "pandas.tests.io.formats.test_console.MockEncoding.encoding": [],
+    "pandas.tests.io.formats.test_console.MockEncoding.raise_or_return": [],
+    "pandas.tests.io.formats.test_console.MockEncoding": []
+}

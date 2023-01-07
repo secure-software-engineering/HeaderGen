@@ -1,0 +1,9 @@
+{
+    "10": [
+        "main.func:5",
+        "main.param_func:1"
+    ],
+    "6": [
+        "main.param_func:1"
+    ]
+}

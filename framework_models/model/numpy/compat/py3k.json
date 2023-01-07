@@ -1,0 +1,17 @@
+{
+    "numpy.compat.py3k.asunicode": [],
+    "numpy.compat.py3k.asbytes": [],
+    "numpy.compat.py3k.asstr": [],
+    "numpy.compat.py3k.isfileobj": [],
+    "numpy.compat.py3k.open_latin1": [],
+    "numpy.compat.py3k.sixu": [],
+    "numpy.compat.py3k.getexception": [],
+    "numpy.compat.py3k.asbytes_nested": [],
+    "numpy.compat.py3k.asunicode_nested": [],
+    "numpy.compat.py3k.is_pathlib_path": [],
+    "numpy.compat.py3k.npy_load_module": [],
+    "numpy.compat.py3k.contextlib_nullcontext.__init__": [],
+    "numpy.compat.py3k.contextlib_nullcontext.__enter__": [],
+    "numpy.compat.py3k.contextlib_nullcontext.__exit__": [],
+    "numpy.compat.py3k.contextlib_nullcontext": []
+}

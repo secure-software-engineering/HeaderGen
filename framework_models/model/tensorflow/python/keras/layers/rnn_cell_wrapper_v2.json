@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.__init__": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.call": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.build": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.get_config": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2.from_config": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2.DropoutWrapper.__init__": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2.ResidualWrapper.__init__": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2.DeviceWrapper.__init__": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2._RNNCellWrapperV2": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2.DropoutWrapper": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2.ResidualWrapper": [],
+    "tensorflow.python.keras.layers.rnn_cell_wrapper_v2.DeviceWrapper": []
+}

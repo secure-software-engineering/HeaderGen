@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.autograph.pyct.anno.keys": [],
+    "tensorflow.python.autograph.pyct.anno.getanno": [],
+    "tensorflow.python.autograph.pyct.anno.hasanno": [],
+    "tensorflow.python.autograph.pyct.anno.setanno": [],
+    "tensorflow.python.autograph.pyct.anno.delanno": [],
+    "tensorflow.python.autograph.pyct.anno.copyanno": [],
+    "tensorflow.python.autograph.pyct.anno.dup": [],
+    "tensorflow.python.autograph.pyct.anno.NoValue.of": [],
+    "tensorflow.python.autograph.pyct.anno.NoValue.add_to": [],
+    "tensorflow.python.autograph.pyct.anno.NoValue.exists": [],
+    "tensorflow.python.autograph.pyct.anno.NoValue.__repr__": [],
+    "tensorflow.python.autograph.pyct.anno.NoValue": [],
+    "tensorflow.python.autograph.pyct.anno.Basic": [],
+    "tensorflow.python.autograph.pyct.anno.Static": []
+}

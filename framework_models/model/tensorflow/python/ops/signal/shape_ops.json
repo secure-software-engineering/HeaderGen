@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.ops.signal.shape_ops._infer_frame_shape": [],
+    "tensorflow.python.ops.signal.shape_ops.frame": []
+}

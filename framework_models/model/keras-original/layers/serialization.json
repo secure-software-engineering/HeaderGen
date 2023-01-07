@@ -1,0 +1,6 @@
+{
+    "keras.layers.serialization.populate_deserializable_objects": [],
+    "keras.layers.serialization.serialize": [],
+    "keras.layers.serialization.deserialize": [],
+    "keras.layers.serialization.get_builtin_layer": []
+}

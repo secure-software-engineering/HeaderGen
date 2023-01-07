@@ -1,0 +1,14 @@
+{
+    "pandas.tests.indexing.multiindex.test_iloc.simple_multiindex_dataframe": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_iloc_returns_series": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_iloc_returns_dataframe": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_iloc_returns_scalar": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_iloc_getitem_multiple_items": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_iloc_getitem_labels": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_frame_getitem_slice": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_frame_setitem_slice": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_indexing_ambiguity_bug_1678": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_iloc_integer_locations": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_iloc_setitem_int_multiindex_series": [],
+    "pandas.tests.indexing.multiindex.test_iloc.test_getitem_iloc": []
+}

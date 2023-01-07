@@ -1,0 +1,11 @@
+{
+    "scipy.ndimage.interpolation.spline_filter1d": [],
+    "scipy.ndimage.interpolation.spline_filter": [],
+    "scipy.ndimage.interpolation._prepad_for_spline_filter": [],
+    "scipy.ndimage.interpolation.geometric_transform": [],
+    "scipy.ndimage.interpolation.map_coordinates": [],
+    "scipy.ndimage.interpolation.affine_transform": [],
+    "scipy.ndimage.interpolation.shift": [],
+    "scipy.ndimage.interpolation.zoom": [],
+    "scipy.ndimage.interpolation.rotate": []
+}

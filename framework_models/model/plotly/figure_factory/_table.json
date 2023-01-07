@@ -1,0 +1,9 @@
+{
+    "plotly.figure_factory._table.validate_table": [],
+    "plotly.figure_factory._table.create_table": [],
+    "plotly.figure_factory._table._Table.__init__": [],
+    "plotly.figure_factory._table._Table.get_table_matrix": [],
+    "plotly.figure_factory._table._Table.get_table_font_color": [],
+    "plotly.figure_factory._table._Table.make_table_annotations": [],
+    "plotly.figure_factory._table._Table": []
+}

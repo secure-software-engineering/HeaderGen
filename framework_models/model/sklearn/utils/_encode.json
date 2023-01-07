@@ -1,0 +1,13 @@
+{
+    "sklearn.utils._encode._unique": [],
+    "sklearn.utils._encode._extract_missing": [],
+    "sklearn.utils._encode._map_to_integer": [],
+    "sklearn.utils._encode._unique_python": [],
+    "sklearn.utils._encode._encode": [],
+    "sklearn.utils._encode._check_unknown": [],
+    "sklearn.utils._encode.MissingValues.to_list": [],
+    "sklearn.utils._encode._nandict.__init__": [],
+    "sklearn.utils._encode._nandict.__missing__": [],
+    "sklearn.utils._encode.MissingValues": [],
+    "sklearn.utils._encode._nandict": []
+}

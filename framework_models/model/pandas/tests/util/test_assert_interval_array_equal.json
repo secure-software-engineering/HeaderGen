@@ -1,0 +1,7 @@
+{
+    "pandas.tests.util.test_assert_interval_array_equal.test_interval_array_equal": [],
+    "pandas.tests.util.test_assert_interval_array_equal.test_interval_array_equal_closed_mismatch": [],
+    "pandas.tests.util.test_assert_interval_array_equal.test_interval_array_equal_periods_mismatch": [],
+    "pandas.tests.util.test_assert_interval_array_equal.test_interval_array_equal_end_mismatch": [],
+    "pandas.tests.util.test_assert_interval_array_equal.test_interval_array_equal_start_mismatch": []
+}

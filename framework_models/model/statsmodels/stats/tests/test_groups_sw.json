@@ -1,0 +1,10 @@
+{
+    "statsmodels.stats.tests.test_groups_sw.CheckPanelLagMixin.calculate": [],
+    "statsmodels.stats.tests.test_groups_sw.CheckPanelLagMixin.test_values": [],
+    "statsmodels.stats.tests.test_groups_sw.CheckPanelLagMixin.test_raises": [],
+    "statsmodels.stats.tests.test_groups_sw.TestBalanced.setup_class": [],
+    "statsmodels.stats.tests.test_groups_sw.TestUnBalanced.setup_class": [],
+    "statsmodels.stats.tests.test_groups_sw.CheckPanelLagMixin": [],
+    "statsmodels.stats.tests.test_groups_sw.TestBalanced": [],
+    "statsmodels.stats.tests.test_groups_sw.TestUnBalanced": []
+}

@@ -1,0 +1,7 @@
+{
+    "statsmodels.compat.pytest.pytest_warns": [],
+    "statsmodels.compat.pytest.NoWarningsChecker.__init__": [],
+    "statsmodels.compat.pytest.NoWarningsChecker.__enter__": [],
+    "statsmodels.compat.pytest.NoWarningsChecker.__exit__": [],
+    "statsmodels.compat.pytest.NoWarningsChecker": []
+}

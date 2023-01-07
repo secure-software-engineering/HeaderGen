@@ -1,0 +1,8 @@
+{
+    "scipy.special._precompute.gammainc_asy.compute_a": [],
+    "scipy.special._precompute.gammainc_asy.compute_g": [],
+    "scipy.special._precompute.gammainc_asy.eta": [],
+    "scipy.special._precompute.gammainc_asy.compute_alpha": [],
+    "scipy.special._precompute.gammainc_asy.compute_d": [],
+    "scipy.special._precompute.gammainc_asy.main": []
+}

@@ -1,0 +1,10 @@
+{
+    "sklearn.cluster._spectral.discretize": [],
+    "sklearn.cluster._spectral.spectral_clustering": [],
+    "sklearn.cluster._spectral.SpectralClustering.__init__": [],
+    "sklearn.cluster._spectral.SpectralClustering.fit": [],
+    "sklearn.cluster._spectral.SpectralClustering.fit_predict": [],
+    "sklearn.cluster._spectral.SpectralClustering._more_tags": [],
+    "sklearn.cluster._spectral.SpectralClustering._pairwise": [],
+    "sklearn.cluster._spectral.SpectralClustering": []
+}

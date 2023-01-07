@@ -1,0 +1,8 @@
+{
+    "scipy.integrate._ivp.ivp.prepare_events": [],
+    "scipy.integrate._ivp.ivp.solve_event_equation": [],
+    "scipy.integrate._ivp.ivp.handle_events": [],
+    "scipy.integrate._ivp.ivp.find_active_events": [],
+    "scipy.integrate._ivp.ivp.solve_ivp": [],
+    "scipy.integrate._ivp.ivp.OdeResult": []
+}

@@ -1,0 +1,13 @@
+{
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_acf": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_acf_irregular": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_pacf": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_pacf_kwargs": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_acf_kwargs": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_acf_missing": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_pacf_irregular": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_month": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_plot_quarter": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_seasonal_plot": [],
+    "statsmodels.graphics.tests.test_tsaplots.test_predict_plot": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.tests.extension.base.base.BaseExtensionTests.assert_equal": [],
+    "pandas.tests.extension.base.base.BaseExtensionTests.assert_series_equal": [],
+    "pandas.tests.extension.base.base.BaseExtensionTests.assert_frame_equal": [],
+    "pandas.tests.extension.base.base.BaseExtensionTests.assert_extension_array_equal": [],
+    "pandas.tests.extension.base.base.BaseExtensionTests": []
+}

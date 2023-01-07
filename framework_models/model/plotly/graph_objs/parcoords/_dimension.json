@@ -1,0 +1,19 @@
+{
+    "plotly.graph_objs.parcoords._dimension.Dimension.constraintrange": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.label": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.multiselect": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.name": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.range": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.templateitemname": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.tickformat": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.ticktext": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.ticktextsrc": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.tickvals": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.tickvalssrc": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.values": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.valuessrc": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.visible": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension._prop_descriptions": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension.__init__": [],
+    "plotly.graph_objs.parcoords._dimension.Dimension": []
+}

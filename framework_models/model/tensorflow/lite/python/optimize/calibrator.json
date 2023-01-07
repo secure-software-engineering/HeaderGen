@@ -1,0 +1,10 @@
+{
+    "tensorflow.lite.python.optimize.calibrator.add_intermediate_tensors": [],
+    "tensorflow.lite.python.optimize.calibrator.Calibrator.__init__": [],
+    "tensorflow.lite.python.optimize.calibrator.Calibrator._create_input_array_from_dict": [],
+    "tensorflow.lite.python.optimize.calibrator.Calibrator._feed_tensors": [],
+    "tensorflow.lite.python.optimize.calibrator.Calibrator.calibrate_and_quantize": [],
+    "tensorflow.lite.python.optimize.calibrator.Calibrator.calibrate_and_quantize_single": [],
+    "tensorflow.lite.python.optimize.calibrator.Calibrator.calibrate": [],
+    "tensorflow.lite.python.optimize.calibrator.Calibrator": []
+}

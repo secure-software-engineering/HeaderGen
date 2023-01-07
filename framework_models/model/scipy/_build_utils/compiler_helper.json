@@ -1,0 +1,10 @@
+{
+    "scipy._build_utils.compiler_helper.try_compile": [],
+    "scipy._build_utils.compiler_helper.has_flag": [],
+    "scipy._build_utils.compiler_helper.get_cxx_std_flag": [],
+    "scipy._build_utils.compiler_helper.get_c_std_flag": [],
+    "scipy._build_utils.compiler_helper.try_add_flag": [],
+    "scipy._build_utils.compiler_helper.set_c_flags_hook": [],
+    "scipy._build_utils.compiler_helper.set_cxx_flags_hook": [],
+    "scipy._build_utils.compiler_helper.set_cxx_flags_clib_hook": []
+}

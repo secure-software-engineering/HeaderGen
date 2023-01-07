@@ -1,0 +1,4 @@
+{
+    "tensorflow.gen_mlir_passthrough_op.mlir_passthrough_op": [],
+    "tensorflow.gen_mlir_passthrough_op.mlir_passthrough_op_eager_fallback": []
+}

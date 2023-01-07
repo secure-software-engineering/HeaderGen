@@ -1,0 +1,8 @@
+{
+    "pandas.tests.base.test_value_counts.test_value_counts": [],
+    "pandas.tests.base.test_value_counts.test_value_counts_null": [],
+    "pandas.tests.base.test_value_counts.test_value_counts_inferred": [],
+    "pandas.tests.base.test_value_counts.test_value_counts_bins": [],
+    "pandas.tests.base.test_value_counts.test_value_counts_datetime64": [],
+    "pandas.tests.base.test_value_counts.test_value_counts_with_nan": []
+}

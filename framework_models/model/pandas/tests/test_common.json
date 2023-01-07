@@ -1,0 +1,15 @@
+{
+    "pandas.tests.test_common.test_get_callable_name": [],
+    "pandas.tests.test_common.test_any_none": [],
+    "pandas.tests.test_common.test_all_not_none": [],
+    "pandas.tests.test_common.test_random_state": [],
+    "pandas.tests.test_common.test_maybe_match_name": [],
+    "pandas.tests.test_common.test_standardize_mapping": [],
+    "pandas.tests.test_common.test_git_version": [],
+    "pandas.tests.test_common.test_version_tag": [],
+    "pandas.tests.test_common.test_serializable": [],
+    "pandas.tests.test_common.TestIsBoolIndexer.test_non_bool_array_with_na": [],
+    "pandas.tests.test_common.TestIsBoolIndexer.test_list_subclass": [],
+    "pandas.tests.test_common.TestIsBoolIndexer.test_frozenlist": [],
+    "pandas.tests.test_common.TestIsBoolIndexer": []
+}

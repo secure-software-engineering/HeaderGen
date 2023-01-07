@@ -1,0 +1,6 @@
+{
+    "pandas.tests.groupby.test_apply_mutate.test_mutate_groups": [],
+    "pandas.tests.groupby.test_apply_mutate.test_no_mutate_but_looks_like": [],
+    "pandas.tests.groupby.test_apply_mutate.test_apply_function_with_indexing": [],
+    "pandas.tests.groupby.test_apply_mutate.test_apply_mutate_columns_multiindex": []
+}

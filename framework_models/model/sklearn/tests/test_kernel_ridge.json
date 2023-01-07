@@ -1,0 +1,11 @@
+{
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge": [],
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge_csr": [],
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge_csc": [],
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge_singular_kernel": [],
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge_precomputed": [],
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge_precomputed_kernel_unchanged": [],
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge_sample_weights": [],
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge_multi_output": [],
+    "sklearn.tests.test_kernel_ridge.test_kernel_ridge_pairwise_is_deprecated": []
+}

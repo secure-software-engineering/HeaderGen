@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.timedeltas.test_scalar_compat.TestVectorizedTimedelta.test_tdi_total_seconds": [],
+    "pandas.tests.indexes.timedeltas.test_scalar_compat.TestVectorizedTimedelta.test_tdi_round": [],
+    "pandas.tests.indexes.timedeltas.test_scalar_compat.TestVectorizedTimedelta.test_tdi_round_invalid": [],
+    "pandas.tests.indexes.timedeltas.test_scalar_compat.TestVectorizedTimedelta.test_round": [],
+    "pandas.tests.indexes.timedeltas.test_scalar_compat.TestVectorizedTimedelta.test_components": [],
+    "pandas.tests.indexes.timedeltas.test_scalar_compat.TestVectorizedTimedelta": []
+}

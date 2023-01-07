@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.keras.utils.np_utils.to_categorical": [],
+    "tensorflow.python.keras.utils.np_utils.normalize": []
+}

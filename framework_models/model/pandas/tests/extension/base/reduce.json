@@ -1,0 +1,11 @@
+{
+    "pandas.tests.extension.base.reduce.BaseReduceTests.check_reduce": [],
+    "pandas.tests.extension.base.reduce.BaseNoReduceTests.test_reduce_series_numeric": [],
+    "pandas.tests.extension.base.reduce.BaseNoReduceTests.test_reduce_series_boolean": [],
+    "pandas.tests.extension.base.reduce.BaseNumericReduceTests.test_reduce_series": [],
+    "pandas.tests.extension.base.reduce.BaseBooleanReduceTests.test_reduce_series": [],
+    "pandas.tests.extension.base.reduce.BaseReduceTests": [],
+    "pandas.tests.extension.base.reduce.BaseNoReduceTests": [],
+    "pandas.tests.extension.base.reduce.BaseNumericReduceTests": [],
+    "pandas.tests.extension.base.reduce.BaseBooleanReduceTests": []
+}

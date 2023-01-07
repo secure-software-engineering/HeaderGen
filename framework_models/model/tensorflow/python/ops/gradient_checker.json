@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.ops.gradient_checker._product": [],
+    "tensorflow.python.ops.gradient_checker._extra_feeds": [],
+    "tensorflow.python.ops.gradient_checker._compute_theoretical_jacobian": [],
+    "tensorflow.python.ops.gradient_checker._compute_numeric_jacobian": [],
+    "tensorflow.python.ops.gradient_checker._compute_dx_and_dy": [],
+    "tensorflow.python.ops.gradient_checker._compute_gradient": [],
+    "tensorflow.python.ops.gradient_checker._compute_gradient_list": [],
+    "tensorflow.python.ops.gradient_checker.compute_gradient": [],
+    "tensorflow.python.ops.gradient_checker._compute_error": [],
+    "tensorflow.python.ops.gradient_checker.compute_gradient_error": []
+}

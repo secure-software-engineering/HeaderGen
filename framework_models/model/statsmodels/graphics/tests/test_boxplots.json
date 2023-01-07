@@ -1,0 +1,10 @@
+{
+    "statsmodels.graphics.tests.test_boxplots.age_and_labels": [],
+    "statsmodels.graphics.tests.test_boxplots.test_violinplot": [],
+    "statsmodels.graphics.tests.test_boxplots.test_violinplot_bw_factor": [],
+    "statsmodels.graphics.tests.test_boxplots.test_beanplot": [],
+    "statsmodels.graphics.tests.test_boxplots.test_beanplot_jitter": [],
+    "statsmodels.graphics.tests.test_boxplots.test_beanplot_side_right": [],
+    "statsmodels.graphics.tests.test_boxplots.test_beanplot_side_left": [],
+    "statsmodels.graphics.tests.test_boxplots.test_beanplot_legend_text": []
+}

@@ -1,0 +1,18 @@
+{
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_values": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_more_values": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_values_mixed_dtypes": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_values_duplicates": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_values_with_duplicate_columns": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_values_casts_datetimelike_to_object": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_frame_values_with_tz": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_interleave_with_tzaware": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_values_interleave_non_unique_cols": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_values_numeric_cols": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues.test_values_lcd": [],
+    "pandas.tests.frame.methods.test_values.TestPrivateValues.test_private_values_dt64tz": [],
+    "pandas.tests.frame.methods.test_values.TestPrivateValues.test_private_values_dt64tz_multicol": [],
+    "pandas.tests.frame.methods.test_values.TestPrivateValues.test_private_values_dt64_multiblock": [],
+    "pandas.tests.frame.methods.test_values.TestDataFrameValues": [],
+    "pandas.tests.frame.methods.test_values.TestPrivateValues": []
+}

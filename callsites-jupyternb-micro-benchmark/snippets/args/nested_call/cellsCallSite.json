@@ -1,0 +1,14 @@
+{
+  "4": [
+    "main_nb.func:3",
+    "main_nb.param_func:2",
+    "main_nb.nested_func:1"
+  ],
+  "3": [
+    "main_nb.param_func:2",
+    "main_nb.nested_func:1"
+  ],
+  "2": [
+    "main_nb.nested_func:1"
+  ]
+}

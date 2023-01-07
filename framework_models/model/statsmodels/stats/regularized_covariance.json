@@ -1,0 +1,9 @@
+{
+    "statsmodels.stats.regularized_covariance._calc_nodewise_row": [],
+    "statsmodels.stats.regularized_covariance._calc_nodewise_weight": [],
+    "statsmodels.stats.regularized_covariance._calc_approx_inv_cov": [],
+    "statsmodels.stats.regularized_covariance.RegularizedInvCovariance.__init__": [],
+    "statsmodels.stats.regularized_covariance.RegularizedInvCovariance.fit": [],
+    "statsmodels.stats.regularized_covariance.RegularizedInvCovariance.approx_inv_cov": [],
+    "statsmodels.stats.regularized_covariance.RegularizedInvCovariance": []
+}

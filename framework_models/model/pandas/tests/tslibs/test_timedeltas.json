@@ -1,0 +1,5 @@
+{
+    "pandas.tests.tslibs.test_timedeltas.test_delta_to_nanoseconds": [],
+    "pandas.tests.tslibs.test_timedeltas.test_delta_to_nanoseconds_error": [],
+    "pandas.tests.tslibs.test_timedeltas.test_huge_nanoseconds_overflow": []
+}

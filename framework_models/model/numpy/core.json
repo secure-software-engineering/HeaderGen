@@ -1,0 +1,6 @@
+{
+    "numpy.core._ufunc_reconstruct": [],
+    "numpy.core._ufunc_reduce": [],
+    "numpy.core._DType_reconstruct": [],
+    "numpy.core._DType_reduce": []
+}

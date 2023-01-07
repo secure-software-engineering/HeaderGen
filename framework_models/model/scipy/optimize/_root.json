@@ -1,0 +1,13 @@
+{
+    "scipy.optimize._root.root": [],
+    "scipy.optimize._root._warn_jac_unused": [],
+    "scipy.optimize._root._root_leastsq": [],
+    "scipy.optimize._root._root_nonlin_solve": [],
+    "scipy.optimize._root._root_broyden1_doc": [],
+    "scipy.optimize._root._root_broyden2_doc": [],
+    "scipy.optimize._root._root_anderson_doc": [],
+    "scipy.optimize._root._root_linearmixing_doc": [],
+    "scipy.optimize._root._root_diagbroyden_doc": [],
+    "scipy.optimize._root._root_excitingmixing_doc": [],
+    "scipy.optimize._root._root_krylov_doc": []
+}

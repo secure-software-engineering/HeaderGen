@@ -1,0 +1,3 @@
+from typing import Union, Any
+
+def test(extra_args: Any | None = ...) -> None: ...

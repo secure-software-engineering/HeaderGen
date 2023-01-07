@@ -1,0 +1,13 @@
+{
+    "sklearn.linear_model._omp._cholesky_omp": [],
+    "sklearn.linear_model._omp._gram_omp": [],
+    "sklearn.linear_model._omp.orthogonal_mp": [],
+    "sklearn.linear_model._omp.orthogonal_mp_gram": [],
+    "sklearn.linear_model._omp._omp_path_residues": [],
+    "sklearn.linear_model._omp.OrthogonalMatchingPursuit.__init__": [],
+    "sklearn.linear_model._omp.OrthogonalMatchingPursuit.fit": [],
+    "sklearn.linear_model._omp.OrthogonalMatchingPursuitCV.__init__": [],
+    "sklearn.linear_model._omp.OrthogonalMatchingPursuitCV.fit": [],
+    "sklearn.linear_model._omp.OrthogonalMatchingPursuit": [],
+    "sklearn.linear_model._omp.OrthogonalMatchingPursuitCV": []
+}

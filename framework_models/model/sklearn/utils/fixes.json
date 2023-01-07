@@ -1,0 +1,15 @@
+{
+    "sklearn.utils.fixes._object_dtype_isnan": [],
+    "sklearn.utils.fixes._astype_copy_false": [],
+    "sklearn.utils.fixes._joblib_parallel_args": [],
+    "sklearn.utils.fixes._take_along_axis": [],
+    "sklearn.utils.fixes.delayed": [],
+    "sklearn.utils.fixes.linspace": [],
+    "sklearn.utils.fixes._get_threadpool_controller": [],
+    "sklearn.utils.fixes.threadpool_limits": [],
+    "sklearn.utils.fixes.threadpool_info": [],
+    "sklearn.utils.fixes._FuncWrapper.__init__": [],
+    "sklearn.utils.fixes._FuncWrapper.__call__": [],
+    "sklearn.utils.fixes.loguniform": [],
+    "sklearn.utils.fixes._FuncWrapper": []
+}

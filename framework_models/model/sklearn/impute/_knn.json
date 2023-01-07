@@ -1,0 +1,7 @@
+{
+    "sklearn.impute._knn.KNNImputer.__init__": [],
+    "sklearn.impute._knn.KNNImputer._calc_impute": [],
+    "sklearn.impute._knn.KNNImputer.fit": [],
+    "sklearn.impute._knn.KNNImputer.transform": [],
+    "sklearn.impute._knn.KNNImputer": []
+}

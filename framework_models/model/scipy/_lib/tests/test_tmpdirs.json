@@ -1,0 +1,5 @@
+{
+    "scipy._lib.tests.test_tmpdirs.test_tempdir": [],
+    "scipy._lib.tests.test_tmpdirs.test_in_tempdir": [],
+    "scipy._lib.tests.test_tmpdirs.test_given_directory": []
+}

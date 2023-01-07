@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.training.warm_starting_util._infer_var_name": [],
+    "tensorflow.python.training.warm_starting_util._get_var_info": [],
+    "tensorflow.python.training.warm_starting_util._warm_start_var_with_vocab": [],
+    "tensorflow.python.training.warm_starting_util._get_grouped_variables": [],
+    "tensorflow.python.training.warm_starting_util._get_object_checkpoint_renames": [],
+    "tensorflow.python.training.warm_starting_util.warm_start": [],
+    "tensorflow.python.training.warm_starting_util.VocabInfo.__new__": [],
+    "tensorflow.python.training.warm_starting_util.VocabInfo": []
+}

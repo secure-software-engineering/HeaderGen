@@ -1,0 +1,8 @@
+{
+    "sklearn.tests.test_config.test_config_context": [],
+    "sklearn.tests.test_config.test_config_context_exception": [],
+    "sklearn.tests.test_config.test_set_config": [],
+    "sklearn.tests.test_config.set_assume_finite": [],
+    "sklearn.tests.test_config.test_config_threadsafe_joblib": [],
+    "sklearn.tests.test_config.test_config_threadsafe": []
+}

@@ -1,0 +1,13 @@
+{
+    "pandas.tests.io.pytables.test_errors.test_pass_spec_to_storer": [],
+    "pandas.tests.io.pytables.test_errors.test_table_index_incompatible_dtypes": [],
+    "pandas.tests.io.pytables.test_errors.test_unimplemented_dtypes_table_columns": [],
+    "pandas.tests.io.pytables.test_errors.test_invalid_terms": [],
+    "pandas.tests.io.pytables.test_errors.test_append_with_diff_col_name_types_raises_value_error": [],
+    "pandas.tests.io.pytables.test_errors.test_invalid_complib": [],
+    "pandas.tests.io.pytables.test_errors.test_to_hdf_multiindex_extension_dtype": [],
+    "pandas.tests.io.pytables.test_errors.test_unsuppored_hdf_file_error": [],
+    "pandas.tests.io.pytables.test_errors.test_read_hdf_errors": [],
+    "pandas.tests.io.pytables.test_errors.test_read_hdf_generic_buffer_errors": [],
+    "pandas.tests.io.pytables.test_errors.test_maybe_adjust_name_bad_version_raises": []
+}

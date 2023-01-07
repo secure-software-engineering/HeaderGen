@@ -1,0 +1,21 @@
+{
+    "matplotlib.tests.test_pyplot.test_pyplot_up_to_date": [],
+    "matplotlib.tests.test_pyplot.test_copy_docstring_and_deprecators": [],
+    "matplotlib.tests.test_pyplot.test_pyplot_box": [],
+    "matplotlib.tests.test_pyplot.test_stackplot_smoke": [],
+    "matplotlib.tests.test_pyplot.test_nrows_error": [],
+    "matplotlib.tests.test_pyplot.test_ioff": [],
+    "matplotlib.tests.test_pyplot.test_ion": [],
+    "matplotlib.tests.test_pyplot.test_nested_ion_ioff": [],
+    "matplotlib.tests.test_pyplot.test_close": [],
+    "matplotlib.tests.test_pyplot.test_subplot_reuse": [],
+    "matplotlib.tests.test_pyplot.test_axes_kwargs": [],
+    "matplotlib.tests.test_pyplot.test_subplot_replace_projection": [],
+    "matplotlib.tests.test_pyplot.test_subplot_kwarg_collision": [],
+    "matplotlib.tests.test_pyplot.test_gca_kwargs": [],
+    "matplotlib.tests.test_pyplot.test_subplot_projection_reuse": [],
+    "matplotlib.tests.test_pyplot.test_subplot_polar_normalization": [],
+    "matplotlib.tests.test_pyplot.test_subplot_change_projection": [],
+    "matplotlib.tests.test_pyplot.test_polar_second_call": [],
+    "matplotlib.tests.test_pyplot.test_fallback_position": []
+}

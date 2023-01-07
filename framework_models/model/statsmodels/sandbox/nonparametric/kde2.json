@@ -1,0 +1,7 @@
+{
+    "statsmodels.sandbox.nonparametric.kde2.KDE.__init__": [],
+    "statsmodels.sandbox.nonparametric.kde2.KDE.density": [],
+    "statsmodels.sandbox.nonparametric.kde2.KDE.__call__": [],
+    "statsmodels.sandbox.nonparametric.kde2.KDE.evaluate": [],
+    "statsmodels.sandbox.nonparametric.kde2.KDE": []
+}

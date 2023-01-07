@@ -1,0 +1,11 @@
+{
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr.update_state_sqp": [],
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr.update_state_ip": [],
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr._minimize_trustregion_constr": [],
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr.HessianLinearOperator.__init__": [],
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr.HessianLinearOperator.__call__": [],
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr.LagrangianHessian.__init__": [],
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr.LagrangianHessian.__call__": [],
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr.HessianLinearOperator": [],
+    "scipy.optimize._trustregion_constr.minimize_trustregion_constr.LagrangianHessian": []
+}

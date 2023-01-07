@@ -1,0 +1,23 @@
+{
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_construction_list_tuples_nan": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_constructor_int_dtype_float": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_constructor_dtypes_to_object": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_constructor_categorical_to_object": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_constructor_infer_periodindex": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_from_list_of_periods": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_constructor_infer_nat_dt_like": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_constructor_mixed_nat_objs_infers_object": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference.test_constructor_datetime_and_datetime64": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced.test_constructor_range_values_mismatched_dtype": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced.test_constructor_categorical_values_mismatched_non_ea_dtype": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced.test_constructor_categorical_values_mismatched_dtype": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced.test_constructor_ea_values_mismatched_categorical_dtype": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced.test_constructor_period_values_mismatched_dtype": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced.test_constructor_timedelta64_values_mismatched_dtype": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced.test_constructor_interval_values_mismatched_dtype": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced.test_constructor_datetime64_values_mismatched_period_dtype": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorUnwrapping.test_constructor_from_series_dt64": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorInference": [],
+    "pandas.tests.indexes.test_index_new.TestDtypeEnforced": [],
+    "pandas.tests.indexes.test_index_new.TestIndexConstructorUnwrapping": []
+}

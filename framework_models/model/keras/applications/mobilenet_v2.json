@@ -1,0 +1,7 @@
+{
+    "keras.applications.mobilenet_v2.MobileNetV2": [],
+    "keras.applications.mobilenet_v2._inverted_res_block": [],
+    "keras.applications.mobilenet_v2._make_divisible": [],
+    "keras.applications.mobilenet_v2.preprocess_input": [],
+    "keras.applications.mobilenet_v2.decode_predictions": []
+}

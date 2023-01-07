@@ -1,0 +1,6 @@
+{
+    "seaborn.tests.test_miscplot.TestPalPlot.test_palplot_size": [],
+    "seaborn.tests.test_miscplot.TestDogPlot.test_dogplot": [],
+    "seaborn.tests.test_miscplot.TestPalPlot": [],
+    "seaborn.tests.test_miscplot.TestDogPlot": []
+}

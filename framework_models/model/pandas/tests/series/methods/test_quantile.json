@@ -1,0 +1,14 @@
+{
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_multi": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_interpolation": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_interpolation_dtype": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_nan": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_box": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_datetime_timedelta_quantiles": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_nat": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_sparse": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_empty": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile.test_quantile_dtypes": [],
+    "pandas.tests.series.methods.test_quantile.TestSeriesQuantile": []
+}

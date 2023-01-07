@@ -1,0 +1,6 @@
+{
+    "statsmodels.discrete.tests.test_diagnostic.TestCountDiagnostic.setup_class": [],
+    "statsmodels.discrete.tests.test_diagnostic.TestCountDiagnostic.test_count": [],
+    "statsmodels.discrete.tests.test_diagnostic.TestCountDiagnostic.test_probs": [],
+    "statsmodels.discrete.tests.test_diagnostic.TestCountDiagnostic": []
+}

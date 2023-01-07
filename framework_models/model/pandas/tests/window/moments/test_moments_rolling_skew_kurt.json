@@ -1,0 +1,11 @@
+{
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_series": [],
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_frame": [],
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_time_rule_series": [],
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_time_rule_frame": [],
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_nans": [],
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_min_periods": [],
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_center": [],
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_center_reindex_series": [],
+    "pandas.tests.window.moments.test_moments_rolling_skew_kurt.test_center_reindex_frame": []
+}

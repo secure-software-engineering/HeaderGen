@@ -1,0 +1,11 @@
+{
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin": [],
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin_mixed_types": [],
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin_error_incorrect_subblocks": [],
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin_error_empty_subblocks": [],
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin_error_missing_partitioning": [],
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin_error_non_iterable": [],
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin_error_non_square": [],
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin_error_partitioning": [],
+    "scipy.linalg.tests.test_decomp_cossin.test_cossin_separate": []
+}

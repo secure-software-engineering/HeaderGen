@@ -1,0 +1,7 @@
+{
+    "scipy.optimize.tests.test__root.TestRoot.test_tol_parameter": [],
+    "scipy.optimize.tests.test__root.TestRoot.test_tol_norm": [],
+    "scipy.optimize.tests.test__root.TestRoot.test_minimize_scalar_coerce_args_param": [],
+    "scipy.optimize.tests.test__root.TestRoot.test_f_size": [],
+    "scipy.optimize.tests.test__root.TestRoot": []
+}

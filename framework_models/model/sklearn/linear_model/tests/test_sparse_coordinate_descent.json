@@ -1,0 +1,16 @@
+{
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_sparse_coef": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_normalize_option": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_lasso_zero": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_enet_toy_list_input": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_enet_toy_explicit_sparse_input": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.make_sparse_data": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent._test_sparse_enet_not_as_toy_dataset": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_sparse_enet_not_as_toy_dataset": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_sparse_lasso_not_as_toy_dataset": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_enet_multitarget": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_path_parameters": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_same_output_sparse_dense_lasso_and_enet_cv": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_same_multiple_output_sparse_dense": [],
+    "sklearn.linear_model.tests.test_sparse_coordinate_descent.test_sparse_enet_coordinate_descent": []
+}

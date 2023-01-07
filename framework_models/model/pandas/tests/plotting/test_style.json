@@ -1,0 +1,12 @@
+{
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_default_colors_named_from_prop_cycle": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_default_colors_named_from_prop_cycle_string": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_default_colors_named_undefined_prop_cycle": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_user_input_color_sequence": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_user_input_color_string": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_user_input_color_floats": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_user_input_named_color_string": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_empty_color_raises": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors.test_bad_color_raises": [],
+    "pandas.tests.plotting.test_style.TestGetStandardColors": []
+}

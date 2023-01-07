@@ -1,0 +1,11 @@
+{
+    "numpy.core.tests.test_scalarprint.TestRealScalars.test_str": [],
+    "numpy.core.tests.test_scalarprint.TestRealScalars.test_scalar_cutoffs": [],
+    "numpy.core.tests.test_scalarprint.TestRealScalars.test_py2_float_print": [],
+    "numpy.core.tests.test_scalarprint.TestRealScalars.test_dragon4": [],
+    "numpy.core.tests.test_scalarprint.TestRealScalars.test_dragon4_interface": [],
+    "numpy.core.tests.test_scalarprint.TestRealScalars.test_ppc64_ibm_double_double128": [],
+    "numpy.core.tests.test_scalarprint.TestRealScalars.float32_roundtrip": [],
+    "numpy.core.tests.test_scalarprint.TestRealScalars.float64_vs_python": [],
+    "numpy.core.tests.test_scalarprint.TestRealScalars": []
+}

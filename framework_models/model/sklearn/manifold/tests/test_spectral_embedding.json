@@ -1,0 +1,18 @@
+{
+    "sklearn.manifold.tests.test_spectral_embedding._assert_equal_with_sign_flipping": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_sparse_graph_connected_component": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_two_components": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_precomputed_affinity": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_precomputed_nearest_neighbors_filtering": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_callable_affinity": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_amg_solver": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_amg_solver_failure": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_pipeline_spectral_clustering": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_unknown_eigensolver": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_unknown_affinity": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_connectivity": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_deterministic": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_unnormalized": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_first_eigen_vector": [],
+    "sklearn.manifold.tests.test_spectral_embedding.test_spectral_embedding_pairwise_deprecated": []
+}

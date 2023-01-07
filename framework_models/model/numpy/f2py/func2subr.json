@@ -1,0 +1,6 @@
+{
+    "numpy.f2py.func2subr.var2fixfortran": [],
+    "numpy.f2py.func2subr.createfuncwrapper": [],
+    "numpy.f2py.func2subr.createsubrwrapper": [],
+    "numpy.f2py.func2subr.assubr": []
+}

@@ -1,0 +1,10 @@
+{
+    "matplotlib.sankey.Sankey.__init__": [],
+    "matplotlib.sankey.Sankey._arc": [],
+    "matplotlib.sankey.Sankey._add_input": [],
+    "matplotlib.sankey.Sankey._add_output": [],
+    "matplotlib.sankey.Sankey._revert": [],
+    "matplotlib.sankey.Sankey.add": [],
+    "matplotlib.sankey.Sankey.finish": [],
+    "matplotlib.sankey.Sankey": []
+}

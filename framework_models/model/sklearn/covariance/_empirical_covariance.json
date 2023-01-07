@@ -1,0 +1,12 @@
+{
+    "sklearn.covariance._empirical_covariance.log_likelihood": [],
+    "sklearn.covariance._empirical_covariance.empirical_covariance": [],
+    "sklearn.covariance._empirical_covariance.EmpiricalCovariance.__init__": [],
+    "sklearn.covariance._empirical_covariance.EmpiricalCovariance._set_covariance": [],
+    "sklearn.covariance._empirical_covariance.EmpiricalCovariance.get_precision": [],
+    "sklearn.covariance._empirical_covariance.EmpiricalCovariance.fit": [],
+    "sklearn.covariance._empirical_covariance.EmpiricalCovariance.score": [],
+    "sklearn.covariance._empirical_covariance.EmpiricalCovariance.error_norm": [],
+    "sklearn.covariance._empirical_covariance.EmpiricalCovariance.mahalanobis": [],
+    "sklearn.covariance._empirical_covariance.EmpiricalCovariance": []
+}

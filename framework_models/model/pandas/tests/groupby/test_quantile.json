@@ -1,0 +1,19 @@
+{
+    "pandas.tests.groupby.test_quantile.test_quantile": [],
+    "pandas.tests.groupby.test_quantile.test_quantile_array": [],
+    "pandas.tests.groupby.test_quantile.test_quantile_array2": [],
+    "pandas.tests.groupby.test_quantile.test_quantile_array_no_sort": [],
+    "pandas.tests.groupby.test_quantile.test_quantile_array_multiple_levels": [],
+    "pandas.tests.groupby.test_quantile.test_groupby_quantile_with_arraylike_q_and_int_columns": [],
+    "pandas.tests.groupby.test_quantile.test_quantile_raises": [],
+    "pandas.tests.groupby.test_quantile.test_quantile_out_of_bounds_q_raises": [],
+    "pandas.tests.groupby.test_quantile.test_quantile_missing_group_values_no_segfaults": [],
+    "pandas.tests.groupby.test_quantile.test_quantile_missing_group_values_correct_results": [],
+    "pandas.tests.groupby.test_quantile.test_groupby_quantile_nullable_array": [],
+    "pandas.tests.groupby.test_quantile.test_groupby_quantile_skips_invalid_dtype": [],
+    "pandas.tests.groupby.test_quantile.test_groupby_quantile_NA_float": [],
+    "pandas.tests.groupby.test_quantile.test_groupby_quantile_NA_int": [],
+    "pandas.tests.groupby.test_quantile.test_groupby_quantile_allNA_column": [],
+    "pandas.tests.groupby.test_quantile.test_groupby_timedelta_quantile": [],
+    "pandas.tests.groupby.test_quantile.test_columns_groupby_quantile": []
+}

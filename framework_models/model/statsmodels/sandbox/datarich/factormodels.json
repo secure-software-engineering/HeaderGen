@@ -1,0 +1,8 @@
+{
+    "statsmodels.sandbox.datarich.factormodels.FactorModelUnivariate.__init__": [],
+    "statsmodels.sandbox.datarich.factormodels.FactorModelUnivariate.calc_factors": [],
+    "statsmodels.sandbox.datarich.factormodels.FactorModelUnivariate.fit_fixed_nfact": [],
+    "statsmodels.sandbox.datarich.factormodels.FactorModelUnivariate.fit_find_nfact": [],
+    "statsmodels.sandbox.datarich.factormodels.FactorModelUnivariate.summary_find_nfact": [],
+    "statsmodels.sandbox.datarich.factormodels.FactorModelUnivariate": []
+}

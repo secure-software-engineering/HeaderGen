@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.interval.test_formats.TestIntervalIndexRendering.test_frame_repr": [],
+    "pandas.tests.indexes.interval.test_formats.TestIntervalIndexRendering.test_repr_missing": [],
+    "pandas.tests.indexes.interval.test_formats.TestIntervalIndexRendering.test_repr_floats": [],
+    "pandas.tests.indexes.interval.test_formats.TestIntervalIndexRendering.test_to_native_types": [],
+    "pandas.tests.indexes.interval.test_formats.TestIntervalIndexRendering": []
+}

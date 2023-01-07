@@ -1,0 +1,6 @@
+{
+    "matplotlib.backends.backend_tkagg.FigureCanvasTkAgg.draw": [],
+    "matplotlib.backends.backend_tkagg.FigureCanvasTkAgg.blit": [],
+    "matplotlib.backends.backend_tkagg.FigureCanvasTkAgg": [],
+    "matplotlib.backends.backend_tkagg._BackendTkAgg": []
+}

@@ -1,0 +1,7 @@
+{
+    "matplotlib.backends.backend_qtagg.FigureCanvasQTAgg.__init__": [],
+    "matplotlib.backends.backend_qtagg.FigureCanvasQTAgg.paintEvent": [],
+    "matplotlib.backends.backend_qtagg.FigureCanvasQTAgg.print_figure": [],
+    "matplotlib.backends.backend_qtagg.FigureCanvasQTAgg": [],
+    "matplotlib.backends.backend_qtagg._BackendQTAgg": []
+}

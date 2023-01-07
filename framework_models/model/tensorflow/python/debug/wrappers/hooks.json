@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.debug.wrappers.hooks.LocalCLIDebugHook.__init__": [],
+    "tensorflow.python.debug.wrappers.hooks.LocalCLIDebugHook.add_tensor_filter": [],
+    "tensorflow.python.debug.wrappers.hooks.LocalCLIDebugHook.begin": [],
+    "tensorflow.python.debug.wrappers.hooks.LocalCLIDebugHook.before_run": [],
+    "tensorflow.python.debug.wrappers.hooks.LocalCLIDebugHook.after_run": [],
+    "tensorflow.python.debug.wrappers.hooks.DumpingDebugHook.__init__": [],
+    "tensorflow.python.debug.wrappers.hooks.DumpingDebugHook.begin": [],
+    "tensorflow.python.debug.wrappers.hooks.DumpingDebugHook.before_run": [],
+    "tensorflow.python.debug.wrappers.hooks.DumpingDebugHook.after_run": [],
+    "tensorflow.python.debug.wrappers.hooks.GrpcDebugHook.__init__": [],
+    "tensorflow.python.debug.wrappers.hooks.GrpcDebugHook.before_run": [],
+    "tensorflow.python.debug.wrappers.hooks.TensorBoardDebugHook.__init__": [],
+    "tensorflow.python.debug.wrappers.hooks.TensorBoardDebugHook.before_run": [],
+    "tensorflow.python.debug.wrappers.hooks.LocalCLIDebugHook": [],
+    "tensorflow.python.debug.wrappers.hooks.DumpingDebugHook": [],
+    "tensorflow.python.debug.wrappers.hooks.GrpcDebugHook": [],
+    "tensorflow.python.debug.wrappers.hooks.TensorBoardDebugHook": []
+}

@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.training.training_util.global_step": [],
+    "tensorflow.python.training.training_util.get_global_step": [],
+    "tensorflow.python.training.training_util.create_global_step": [],
+    "tensorflow.python.training.training_util.get_or_create_global_step": [],
+    "tensorflow.python.training.training_util.assert_global_step": [],
+    "tensorflow.python.training.training_util._get_global_step_read": [],
+    "tensorflow.python.training.training_util._get_or_create_global_step_read": [],
+    "tensorflow.python.training.training_util._increment_global_step": []
+}

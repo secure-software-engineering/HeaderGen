@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.training.saving.saveable_hook.SaveableHook.__init__": [],
+    "tensorflow.python.training.saving.saveable_hook.SaveableHook.device": [],
+    "tensorflow.python.training.saving.saveable_hook.SaveableHook.before_save": [],
+    "tensorflow.python.training.saving.saveable_hook.SaveableHook.after_restore": [],
+    "tensorflow.python.training.saving.saveable_hook.SaveableHook": []
+}

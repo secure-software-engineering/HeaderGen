@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.training.saving.saveable_object_util.set_cpu0": [],
+    "tensorflow.python.training.saving.saveable_object_util._tensor_comes_from_variable": [],
+    "tensorflow.python.training.saving.saveable_object_util.create_saveables_from_factory": [],
+    "tensorflow.python.training.saving.saveable_object_util.saveable_objects_for_op": [],
+    "tensorflow.python.training.saving.saveable_object_util.op_list_to_dict": [],
+    "tensorflow.python.training.saving.saveable_object_util._add_saveable": [],
+    "tensorflow.python.training.saving.saveable_object_util.validate_and_slice_inputs": [],
+    "tensorflow.python.training.saving.saveable_object_util.build_traceable_saveable": [],
+    "tensorflow.python.training.saving.saveable_object_util.validate_saveables_for_saved_model": [],
+    "tensorflow.python.training.saving.saveable_object_util.restored_saved_object_factory": [],
+    "tensorflow.python.training.saving.saveable_object_util.create_saveable_object": [],
+    "tensorflow.python.training.saving.saveable_object_util.is_factory_for_restored_saveable_object": [],
+    "tensorflow.python.training.saving.saveable_object_util.ReferenceVariableSaveable.__init__": [],
+    "tensorflow.python.training.saving.saveable_object_util.ReferenceVariableSaveable.restore": [],
+    "tensorflow.python.training.saving.saveable_object_util.ResourceVariableSaveable.__init__": [],
+    "tensorflow.python.training.saving.saveable_object_util.ResourceVariableSaveable.restore": [],
+    "tensorflow.python.training.saving.saveable_object_util.RestoredSaveableObject.__init__": [],
+    "tensorflow.python.training.saving.saveable_object_util.RestoredSaveableObject.restore": [],
+    "tensorflow.python.training.saving.saveable_object_util.ReferenceVariableSaveable": [],
+    "tensorflow.python.training.saving.saveable_object_util.ResourceVariableSaveable": [],
+    "tensorflow.python.training.saving.saveable_object_util.RestoredSaveableObject": []
+}

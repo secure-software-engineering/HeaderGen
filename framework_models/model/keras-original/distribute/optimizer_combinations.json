@@ -1,0 +1,5 @@
+{
+    "keras.distribute.optimizer_combinations.distributions_and_v1_optimizers": [],
+    "keras.distribute.optimizer_combinations.distributions_and_v2_optimizers": [],
+    "keras.distribute.optimizer_combinations.distributions_and_v1_and_v2_optimizers": []
+}

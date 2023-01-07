@@ -1,0 +1,9 @@
+{
+    "sklearn.feature_extraction._hash._iteritems": [],
+    "sklearn.feature_extraction._hash.FeatureHasher.__init__": [],
+    "sklearn.feature_extraction._hash.FeatureHasher._validate_params": [],
+    "sklearn.feature_extraction._hash.FeatureHasher.fit": [],
+    "sklearn.feature_extraction._hash.FeatureHasher.transform": [],
+    "sklearn.feature_extraction._hash.FeatureHasher._more_tags": [],
+    "sklearn.feature_extraction._hash.FeatureHasher": []
+}

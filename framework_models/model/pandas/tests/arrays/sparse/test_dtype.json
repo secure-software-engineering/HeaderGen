@@ -1,0 +1,18 @@
+{
+    "pandas.tests.arrays.sparse.test_dtype.test_inferred_dtype": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_from_sparse_dtype": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_from_sparse_dtype_fill_value": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_equal": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_nans_equal": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_not_equal": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_construct_from_string_raises": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_is_numeric": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_str_uses_object": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_construct_from_string": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_hash_equal": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_parse_subtype": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_construct_from_string_fill_value_raises": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_update_dtype": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_update_dtype_raises": [],
+    "pandas.tests.arrays.sparse.test_dtype.test_repr": []
+}

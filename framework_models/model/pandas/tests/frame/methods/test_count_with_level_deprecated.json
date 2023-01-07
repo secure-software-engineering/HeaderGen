@@ -1,0 +1,7 @@
+{
+    "pandas.tests.frame.methods.test_count_with_level_deprecated.TestDataFrameCount.test_count_multiindex": [],
+    "pandas.tests.frame.methods.test_count_with_level_deprecated.TestDataFrameCount.test_count_level_corner": [],
+    "pandas.tests.frame.methods.test_count_with_level_deprecated.TestDataFrameCount.test_count_index_with_nan": [],
+    "pandas.tests.frame.methods.test_count_with_level_deprecated.TestDataFrameCount.test_count_level": [],
+    "pandas.tests.frame.methods.test_count_with_level_deprecated.TestDataFrameCount": []
+}

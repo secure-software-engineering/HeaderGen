@@ -1,0 +1,19 @@
+from sklearn.base import ClassifierMixin as ClassifierMixin, clone as clone
+from sklearn.compose import make_column_transformer as make_column_transformer
+from sklearn.datasets import load_iris as load_iris
+from sklearn.exceptions import NotFittedError as NotFittedError
+from sklearn.linear_model import LogisticRegression as LogisticRegression
+from sklearn.metrics import plot_det_curve as plot_det_curve, plot_roc_curve as plot_roc_curve
+from sklearn.pipeline import make_pipeline as make_pipeline
+from sklearn.preprocessing import StandardScaler as StandardScaler
+from sklearn.tree import DecisionTreeClassifier as DecisionTreeClassifier
+from typing import Any
+
+pytestmark: Any
+
+def data(): ...
+def data_binary(data): ...
+def test_plot_curve_error_non_binary(pyplot, data, plot_func) -> None: ...
+def test_plot_curve_error_no_response(pyplot, data_binary, response_method, msg, plot_func): ...
+def test_plot_curve_estimator_name_multiple_calls(pyplot, data_binary, plot_func) -> None: ...
+def test_plot_det_curve_not_fitted_errors(pyplot, data_binary, clf, plot_func) -> None: ...

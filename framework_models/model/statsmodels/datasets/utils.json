@@ -1,0 +1,20 @@
+{
+    "statsmodels.datasets.utils.webuse": [],
+    "statsmodels.datasets.utils.process_pandas": [],
+    "statsmodels.datasets.utils._maybe_reset_index": [],
+    "statsmodels.datasets.utils._get_cache": [],
+    "statsmodels.datasets.utils._cache_it": [],
+    "statsmodels.datasets.utils._open_cache": [],
+    "statsmodels.datasets.utils._urlopen_cached": [],
+    "statsmodels.datasets.utils._get_data": [],
+    "statsmodels.datasets.utils._get_dataset_meta": [],
+    "statsmodels.datasets.utils.get_rdataset": [],
+    "statsmodels.datasets.utils.get_data_home": [],
+    "statsmodels.datasets.utils.clear_data_home": [],
+    "statsmodels.datasets.utils.check_internet": [],
+    "statsmodels.datasets.utils.strip_column_names": [],
+    "statsmodels.datasets.utils.load_csv": [],
+    "statsmodels.datasets.utils.Dataset.__init__": [],
+    "statsmodels.datasets.utils.Dataset.__repr__": [],
+    "statsmodels.datasets.utils.Dataset": []
+}

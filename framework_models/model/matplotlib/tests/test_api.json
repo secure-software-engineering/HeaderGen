@@ -1,0 +1,7 @@
+{
+    "matplotlib.tests.test_api.test_check_shape": [],
+    "matplotlib.tests.test_api.test_classproperty_deprecation": [],
+    "matplotlib.tests.test_api.test_deprecate_privatize_attribute": [],
+    "matplotlib.tests.test_api.test_delete_parameter": [],
+    "matplotlib.tests.test_api.test_make_keyword_only": []
+}

@@ -1,0 +1,10 @@
+{
+    "statsmodels.multivariate.cancorr.CanCorr.__init__": [],
+    "statsmodels.multivariate.cancorr.CanCorr._fit": [],
+    "statsmodels.multivariate.cancorr.CanCorr.corr_test": [],
+    "statsmodels.multivariate.cancorr.CanCorrTestResults.__init__": [],
+    "statsmodels.multivariate.cancorr.CanCorrTestResults.__str__": [],
+    "statsmodels.multivariate.cancorr.CanCorrTestResults.summary": [],
+    "statsmodels.multivariate.cancorr.CanCorr": [],
+    "statsmodels.multivariate.cancorr.CanCorrTestResults": []
+}

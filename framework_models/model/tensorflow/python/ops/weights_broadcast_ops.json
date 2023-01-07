@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.ops.weights_broadcast_ops._has_valid_dims": [],
+    "tensorflow.python.ops.weights_broadcast_ops._has_valid_nonscalar_shape": [],
+    "tensorflow.python.ops.weights_broadcast_ops.assert_broadcastable": [],
+    "tensorflow.python.ops.weights_broadcast_ops.broadcast_weights": []
+}

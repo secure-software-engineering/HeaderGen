@@ -1,0 +1,9 @@
+{
+    "pandas.tests.series.methods.test_asof.TestSeriesAsof.test_basic": [],
+    "pandas.tests.series.methods.test_asof.TestSeriesAsof.test_scalar": [],
+    "pandas.tests.series.methods.test_asof.TestSeriesAsof.test_with_nan": [],
+    "pandas.tests.series.methods.test_asof.TestSeriesAsof.test_periodindex": [],
+    "pandas.tests.series.methods.test_asof.TestSeriesAsof.test_errors": [],
+    "pandas.tests.series.methods.test_asof.TestSeriesAsof.test_all_nans": [],
+    "pandas.tests.series.methods.test_asof.TestSeriesAsof": []
+}

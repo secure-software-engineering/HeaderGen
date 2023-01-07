@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.tpu.device_assignment._compute_task_and_cores_to_replicas": [],
+    "tensorflow.python.tpu.device_assignment._open_ring_2d": [],
+    "tensorflow.python.tpu.device_assignment._ring_3d": [],
+    "tensorflow.python.tpu.device_assignment.device_assignment": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.__init__": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.topology": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.num_cores_per_replica": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.num_replicas": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.core_assignment": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.coordinates": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.lookup_replicas": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.tpu_ordinal": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.host_device": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.tpu_device": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment.build": [],
+    "tensorflow.python.tpu.device_assignment.DeviceAssignment": [],
+    "tensorflow.python.tpu.device_assignment.DeviceOrderMode": []
+}

@@ -1,0 +1,8 @@
+{
+    "numpy.core.tests.test_abc.TestABC.test_abstract": [],
+    "numpy.core.tests.test_abc.TestABC.test_floats": [],
+    "numpy.core.tests.test_abc.TestABC.test_complex": [],
+    "numpy.core.tests.test_abc.TestABC.test_int": [],
+    "numpy.core.tests.test_abc.TestABC.test_uint": [],
+    "numpy.core.tests.test_abc.TestABC": []
+}

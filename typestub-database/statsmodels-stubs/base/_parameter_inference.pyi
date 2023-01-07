@@ -1,0 +1,3 @@
+from typing import Any
+
+def score_test(self, exog_extra: Any | None = ..., params_constrained: Any | None = ..., hypothesis: str = ..., cov_type: Any | None = ..., cov_kwds: Any | None = ..., k_constraints: Any | None = ..., observed: bool = ...): ...

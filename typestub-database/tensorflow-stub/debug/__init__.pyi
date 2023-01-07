@@ -1,0 +1,9 @@
+from tensorflow.python.debug.lib.debug_data import DebugDumpDir as DebugDumpDir, DebugTensorDatum as DebugTensorDatum, has_inf_or_nan as has_inf_or_nan, load_tensor_from_event as load_tensor_from_event, load_tensor_from_event_file as load_tensor_from_event_file
+from tensorflow.python.debug.lib.debug_gradients import GradientsDebugger as GradientsDebugger
+from tensorflow.python.debug.lib.debug_graphs import reconstruct_non_debug_graph_def as reconstruct_non_debug_graph_def
+from tensorflow.python.debug.lib.debug_utils import add_debug_tensor_watch as add_debug_tensor_watch, watch_graph as watch_graph, watch_graph_with_denylists as watch_graph_with_denylists
+from tensorflow.python.debug.wrappers.dumping_wrapper import DumpingDebugWrapperSession as DumpingDebugWrapperSession
+from tensorflow.python.debug.wrappers.framework import WatchOptions as WatchOptions
+from tensorflow.python.debug.wrappers.grpc_wrapper import GrpcDebugWrapperSession as GrpcDebugWrapperSession, TensorBoardDebugWrapperSession as TensorBoardDebugWrapperSession
+from tensorflow.python.debug.wrappers.hooks import DumpingDebugHook as DumpingDebugHook, GrpcDebugHook as GrpcDebugHook, LocalCLIDebugHook as LocalCLIDebugHook, TensorBoardDebugHook as TensorBoardDebugHook
+from tensorflow.python.debug.wrappers.local_cli_wrapper import LocalCLIDebugWrapperSession as LocalCLIDebugWrapperSession

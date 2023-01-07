@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.ops.critical_section_ops._identity": [],
+    "tensorflow.python.ops.critical_section_ops._get_device_or_colocation": [],
+    "tensorflow.python.ops.critical_section_ops._get_colocation": [],
+    "tensorflow.python.ops.critical_section_ops._get_critical_section_stack": [],
+    "tensorflow.python.ops.critical_section_ops._push_critical_section_stack": [],
+    "tensorflow.python.ops.critical_section_ops.CriticalSection.__init__": [],
+    "tensorflow.python.ops.critical_section_ops.CriticalSection._init_from_args": [],
+    "tensorflow.python.ops.critical_section_ops.CriticalSection.name": [],
+    "tensorflow.python.ops.critical_section_ops.CriticalSection.execute": [],
+    "tensorflow.python.ops.critical_section_ops.CriticalSection._add_control_dependencies_to_lock": [],
+    "tensorflow.python.ops.critical_section_ops.CriticalSection._is_self_handle": [],
+    "tensorflow.python.ops.critical_section_ops.CriticalSection._check_multiple_access_to_resources": [],
+    "tensorflow.python.ops.critical_section_ops._ExecutionSignature": [],
+    "tensorflow.python.ops.critical_section_ops.CriticalSection": []
+}

@@ -1,0 +1,22 @@
+{
+    "statsmodels.stats.tests.test_multi.test_pvalcorrection_reject": [],
+    "statsmodels.stats.tests.test_multi.test_hommel": [],
+    "statsmodels.stats.tests.test_multi.test_fdr_bky": [],
+    "statsmodels.stats.tests.test_multi.test_issorted": [],
+    "statsmodels.stats.tests.test_multi.test_floating_precision": [],
+    "statsmodels.stats.tests.test_multi.test_tukeyhsd": [],
+    "statsmodels.stats.tests.test_multi.test_local_fdr": [],
+    "statsmodels.stats.tests.test_multi.test_null_distribution": [],
+    "statsmodels.stats.tests.test_multi.test_null_constrained": [],
+    "statsmodels.stats.tests.test_multi.CheckMultiTestsMixin.test_multi_pvalcorrection_rmethods": [],
+    "statsmodels.stats.tests.test_multi.CheckMultiTestsMixin.test_multi_pvalcorrection": [],
+    "statsmodels.stats.tests.test_multi.TestMultiTests1.setup_class": [],
+    "statsmodels.stats.tests.test_multi.TestMultiTests2.setup_class": [],
+    "statsmodels.stats.tests.test_multi.TestMultiTests3.setup_class": [],
+    "statsmodels.stats.tests.test_multi.TestMultiTests4.setup_class": [],
+    "statsmodels.stats.tests.test_multi.CheckMultiTestsMixin": [],
+    "statsmodels.stats.tests.test_multi.TestMultiTests1": [],
+    "statsmodels.stats.tests.test_multi.TestMultiTests2": [],
+    "statsmodels.stats.tests.test_multi.TestMultiTests3": [],
+    "statsmodels.stats.tests.test_multi.TestMultiTests4": []
+}

@@ -1,0 +1,17 @@
+{
+    "statsmodels.duration.survfunc._calc_survfunc_right": [],
+    "statsmodels.duration.survfunc._calc_incidence_right": [],
+    "statsmodels.duration.survfunc._checkargs": [],
+    "statsmodels.duration.survfunc.survdiff": [],
+    "statsmodels.duration.survfunc._survdiff": [],
+    "statsmodels.duration.survfunc.plot_survfunc": [],
+    "statsmodels.duration.survfunc.CumIncidenceRight.__init__": [],
+    "statsmodels.duration.survfunc.SurvfuncRight.__init__": [],
+    "statsmodels.duration.survfunc.SurvfuncRight.plot": [],
+    "statsmodels.duration.survfunc.SurvfuncRight.quantile": [],
+    "statsmodels.duration.survfunc.SurvfuncRight.quantile_ci": [],
+    "statsmodels.duration.survfunc.SurvfuncRight.summary": [],
+    "statsmodels.duration.survfunc.SurvfuncRight.simultaneous_cb": [],
+    "statsmodels.duration.survfunc.CumIncidenceRight": [],
+    "statsmodels.duration.survfunc.SurvfuncRight": []
+}

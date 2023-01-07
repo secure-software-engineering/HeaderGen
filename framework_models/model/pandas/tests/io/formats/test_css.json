@@ -1,0 +1,11 @@
+{
+    "pandas.tests.io.formats.test_css.assert_resolves": [],
+    "pandas.tests.io.formats.test_css.assert_same_resolution": [],
+    "pandas.tests.io.formats.test_css.test_css_parse_normalisation": [],
+    "pandas.tests.io.formats.test_css.test_css_parse_invalid": [],
+    "pandas.tests.io.formats.test_css.test_css_side_shorthands": [],
+    "pandas.tests.io.formats.test_css.test_css_precedence": [],
+    "pandas.tests.io.formats.test_css.test_css_none_absent": [],
+    "pandas.tests.io.formats.test_css.test_css_absolute_font_size": [],
+    "pandas.tests.io.formats.test_css.test_css_relative_font_size": []
+}

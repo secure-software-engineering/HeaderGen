@@ -1,0 +1,4 @@
+{
+    "keras.utils.np_utils.to_categorical": [],
+    "keras.utils.np_utils.normalize": []
+}

@@ -1,0 +1,9 @@
+{
+    "statsmodels.regression.feasible_gls.atleast_2dcols": [],
+    "statsmodels.regression.feasible_gls.GLSHet2.__init__": [],
+    "statsmodels.regression.feasible_gls.GLSHet2.fit": [],
+    "statsmodels.regression.feasible_gls.GLSHet.__init__": [],
+    "statsmodels.regression.feasible_gls.GLSHet.iterative_fit": [],
+    "statsmodels.regression.feasible_gls.GLSHet2": [],
+    "statsmodels.regression.feasible_gls.GLSHet": []
+}

@@ -1,0 +1,10 @@
+{
+    "plotly.express._special_inputs.IdentityMap.__getitem__": [],
+    "plotly.express._special_inputs.IdentityMap.__contains__": [],
+    "plotly.express._special_inputs.IdentityMap.copy": [],
+    "plotly.express._special_inputs.Constant.__init__": [],
+    "plotly.express._special_inputs.Range.__init__": [],
+    "plotly.express._special_inputs.IdentityMap": [],
+    "plotly.express._special_inputs.Constant": [],
+    "plotly.express._special_inputs.Range": []
+}

@@ -1,0 +1,7 @@
+{
+    "scipy.interpolate.tests.test_gil.TestGIL.setup_method": [],
+    "scipy.interpolate.tests.test_gil.TestGIL.log": [],
+    "scipy.interpolate.tests.test_gil.TestGIL.make_worker_thread": [],
+    "scipy.interpolate.tests.test_gil.TestGIL.test_rectbivariatespline": [],
+    "scipy.interpolate.tests.test_gil.TestGIL": []
+}

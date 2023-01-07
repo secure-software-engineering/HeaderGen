@@ -1,0 +1,5 @@
+{
+    "numpy.f2py.tests.test_string._path": [],
+    "numpy.f2py.tests.test_string.TestString.test_char": [],
+    "numpy.f2py.tests.test_string.TestString": []
+}

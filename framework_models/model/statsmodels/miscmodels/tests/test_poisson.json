@@ -1,0 +1,19 @@
+{
+    "statsmodels.miscmodels.tests.test_poisson.CompareMixin.test_params": [],
+    "statsmodels.miscmodels.tests.test_poisson.CompareMixin.test_cov_params": [],
+    "statsmodels.miscmodels.tests.test_poisson.CompareMixin.test_ttest": [],
+    "statsmodels.miscmodels.tests.test_poisson.CompareMixin.test_summary": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonMLE.setup_class": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonMLE.test_predict_distribution": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonOffset.setup_class": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonOffset.test_params": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonOffset.test_cov_params": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonZi.setup_class": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonZi.test_params": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonZi.test_cov_params": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonZi.test_exog_names_warning": [],
+    "statsmodels.miscmodels.tests.test_poisson.CompareMixin": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonMLE": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonOffset": [],
+    "statsmodels.miscmodels.tests.test_poisson.TestPoissonZi": []
+}

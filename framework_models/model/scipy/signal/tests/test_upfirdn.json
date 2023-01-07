@@ -1,0 +1,18 @@
+{
+    "scipy.signal.tests.test_upfirdn.upfirdn_naive": [],
+    "scipy.signal.tests.test_upfirdn.UpFIRDnCase.__init__": [],
+    "scipy.signal.tests.test_upfirdn.UpFIRDnCase.__call__": [],
+    "scipy.signal.tests.test_upfirdn.UpFIRDnCase.scrub": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_valid_input": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_singleton": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_shift_x": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_length_factors": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_vs_convolve": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_vs_naive_delta": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_vs_naive": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn._random_factors": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_extensions": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn.test_modes": [],
+    "scipy.signal.tests.test_upfirdn.UpFIRDnCase": [],
+    "scipy.signal.tests.test_upfirdn.TestUpfirdn": []
+}

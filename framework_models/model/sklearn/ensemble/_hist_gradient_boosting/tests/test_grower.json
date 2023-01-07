@@ -1,0 +1,16 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower._make_training_data": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower._check_children_consistency": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_grow_tree": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_predictor_from_grower": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_min_samples_leaf": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_min_samples_leaf_root": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.assert_is_stump": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_max_depth": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_input_validation": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_init_parameters_validation": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_missing_value_predict_only": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_split_on_nan_with_infinite_values": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_grow_tree_categories": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_grower.test_ohe_equivalence": []
+}

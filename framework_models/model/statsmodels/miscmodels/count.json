@@ -1,0 +1,19 @@
+{
+    "statsmodels.miscmodels.count.maxabs": [],
+    "statsmodels.miscmodels.count.maxabsrel": [],
+    "statsmodels.miscmodels.count.NonlinearDeltaCov.__init__": [],
+    "statsmodels.miscmodels.count.NonlinearDeltaCov.grad": [],
+    "statsmodels.miscmodels.count.NonlinearDeltaCov.cov": [],
+    "statsmodels.miscmodels.count.NonlinearDeltaCov.expected": [],
+    "statsmodels.miscmodels.count.NonlinearDeltaCov.wald": [],
+    "statsmodels.miscmodels.count.PoissonGMLE.nloglikeobs": [],
+    "statsmodels.miscmodels.count.PoissonGMLE.predict_distribution": [],
+    "statsmodels.miscmodels.count.PoissonOffsetGMLE.__init__": [],
+    "statsmodels.miscmodels.count.PoissonOffsetGMLE.nloglikeobs": [],
+    "statsmodels.miscmodels.count.PoissonZiGMLE.__init__": [],
+    "statsmodels.miscmodels.count.PoissonZiGMLE.nloglikeobs": [],
+    "statsmodels.miscmodels.count.NonlinearDeltaCov": [],
+    "statsmodels.miscmodels.count.PoissonGMLE": [],
+    "statsmodels.miscmodels.count.PoissonOffsetGMLE": [],
+    "statsmodels.miscmodels.count.PoissonZiGMLE": []
+}

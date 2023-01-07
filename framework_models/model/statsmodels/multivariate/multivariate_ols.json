@@ -1,0 +1,20 @@
+{
+    "statsmodels.multivariate.multivariate_ols._multivariate_ols_fit": [],
+    "statsmodels.multivariate.multivariate_ols.multivariate_stats": [],
+    "statsmodels.multivariate.multivariate_ols._multivariate_ols_test": [],
+    "statsmodels.multivariate.multivariate_ols._multivariate_test": [],
+    "statsmodels.multivariate.multivariate_ols._MultivariateOLS.__init__": [],
+    "statsmodels.multivariate.multivariate_ols._MultivariateOLS.fit": [],
+    "statsmodels.multivariate.multivariate_ols._MultivariateOLSResults.__init__": [],
+    "statsmodels.multivariate.multivariate_ols._MultivariateOLSResults.__str__": [],
+    "statsmodels.multivariate.multivariate_ols._MultivariateOLSResults.mv_test": [],
+    "statsmodels.multivariate.multivariate_ols._MultivariateOLSResults.summary": [],
+    "statsmodels.multivariate.multivariate_ols.MultivariateTestResults.__init__": [],
+    "statsmodels.multivariate.multivariate_ols.MultivariateTestResults.__str__": [],
+    "statsmodels.multivariate.multivariate_ols.MultivariateTestResults.__getitem__": [],
+    "statsmodels.multivariate.multivariate_ols.MultivariateTestResults.summary_frame": [],
+    "statsmodels.multivariate.multivariate_ols.MultivariateTestResults.summary": [],
+    "statsmodels.multivariate.multivariate_ols._MultivariateOLS": [],
+    "statsmodels.multivariate.multivariate_ols._MultivariateOLSResults": [],
+    "statsmodels.multivariate.multivariate_ols.MultivariateTestResults": []
+}

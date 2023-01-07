@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.layers.preprocessing.integer_lookup.IntegerLookup.__init__": [],
+    "tensorflow.python.keras.layers.preprocessing.integer_lookup.IntegerLookup.set_vocabulary": [],
+    "tensorflow.python.keras.layers.preprocessing.integer_lookup.IntegerLookup": []
+}

@@ -1,0 +1,15 @@
+{
+    "pandas.tests.resample.test_time_grouper.test_apply": [],
+    "pandas.tests.resample.test_time_grouper.test_count": [],
+    "pandas.tests.resample.test_time_grouper.test_numpy_reduction": [],
+    "pandas.tests.resample.test_time_grouper.test_apply_iteration": [],
+    "pandas.tests.resample.test_time_grouper.test_fails_on_no_datetime_index": [],
+    "pandas.tests.resample.test_time_grouper.test_aaa_group_order": [],
+    "pandas.tests.resample.test_time_grouper.test_aggregate_normal": [],
+    "pandas.tests.resample.test_time_grouper.test_resample_entirely_nat_window": [],
+    "pandas.tests.resample.test_time_grouper.test_aggregate_with_nat": [],
+    "pandas.tests.resample.test_time_grouper.test_aggregate_with_nat_size": [],
+    "pandas.tests.resample.test_time_grouper.test_repr": [],
+    "pandas.tests.resample.test_time_grouper.test_upsample_sum": [],
+    "pandas.tests.resample.test_time_grouper.test_groupby_resample_interpolate": []
+}

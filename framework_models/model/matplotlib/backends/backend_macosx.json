@@ -1,0 +1,22 @@
+{
+    "matplotlib.backends.backend_macosx.FigureCanvasMac.__init__": [],
+    "matplotlib.backends.backend_macosx.FigureCanvasMac.set_cursor": [],
+    "matplotlib.backends.backend_macosx.FigureCanvasMac._draw": [],
+    "matplotlib.backends.backend_macosx.FigureCanvasMac.draw": [],
+    "matplotlib.backends.backend_macosx.FigureCanvasMac.blit": [],
+    "matplotlib.backends.backend_macosx.FigureCanvasMac.resize": [],
+    "matplotlib.backends.backend_macosx.FigureManagerMac.__init__": [],
+    "matplotlib.backends.backend_macosx.FigureManagerMac.close": [],
+    "matplotlib.backends.backend_macosx.NavigationToolbar2Mac.__init__": [],
+    "matplotlib.backends.backend_macosx.NavigationToolbar2Mac.draw_rubberband": [],
+    "matplotlib.backends.backend_macosx.NavigationToolbar2Mac.remove_rubberband": [],
+    "matplotlib.backends.backend_macosx.NavigationToolbar2Mac.save_figure": [],
+    "matplotlib.backends.backend_macosx.NavigationToolbar2Mac.prepare_configure_subplots": [],
+    "matplotlib.backends.backend_macosx.NavigationToolbar2Mac.set_message": [],
+    "matplotlib.backends.backend_macosx._BackendMac.mainloop": [],
+    "matplotlib.backends.backend_macosx.TimerMac": [],
+    "matplotlib.backends.backend_macosx.FigureCanvasMac": [],
+    "matplotlib.backends.backend_macosx.FigureManagerMac": [],
+    "matplotlib.backends.backend_macosx.NavigationToolbar2Mac": [],
+    "matplotlib.backends.backend_macosx._BackendMac": []
+}

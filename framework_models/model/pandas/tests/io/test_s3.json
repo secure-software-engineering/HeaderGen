@@ -1,0 +1,5 @@
+{
+    "pandas.tests.io.test_s3.test_streaming_s3_objects": [],
+    "pandas.tests.io.test_s3.test_read_without_creds_from_pub_bucket": [],
+    "pandas.tests.io.test_s3.test_read_with_creds_from_pub_bucket": []
+}

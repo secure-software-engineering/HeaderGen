@@ -1,0 +1,16 @@
+{
+    "scipy.stats.tests.studentized_range_mpmath_ref.write_data": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.to_dict": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.mp_res_to_dict": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.cdf_mp": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.pdf_mp": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.moment_mp": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.result_exists": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.run": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.write_result": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.run_cases": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.run_pdf": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.run_cdf": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.run_moment": [],
+    "scipy.stats.tests.studentized_range_mpmath_ref.main": []
+}

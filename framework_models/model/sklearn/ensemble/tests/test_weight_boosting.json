@@ -1,0 +1,23 @@
+{
+    "sklearn.ensemble.tests.test_weight_boosting.test_samme_proba": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_oneclass_adaboost_proba": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_classification_toy": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_regression_toy": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_iris": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_diabetes": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_staged_predict": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_gridsearch": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_pickle": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_importances": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_error": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_base_estimator": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_sample_weights_infinite": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_sparse_classification": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_sparse_regression": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_sample_weight_adaboost_regressor": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_multidimensional_X": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_adaboostclassifier_without_sample_weight": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_adaboostregressor_sample_weight": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_adaboost_consistent_predict": [],
+    "sklearn.ensemble.tests.test_weight_boosting.test_adaboost_negative_weight_error": []
+}

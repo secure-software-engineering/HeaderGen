@@ -1,0 +1,9 @@
+{
+    "pandas.tests.scalar.interval.test_ops.start_shift": [],
+    "pandas.tests.scalar.interval.test_ops.TestOverlaps.test_overlaps_self": [],
+    "pandas.tests.scalar.interval.test_ops.TestOverlaps.test_overlaps_nested": [],
+    "pandas.tests.scalar.interval.test_ops.TestOverlaps.test_overlaps_disjoint": [],
+    "pandas.tests.scalar.interval.test_ops.TestOverlaps.test_overlaps_endpoint": [],
+    "pandas.tests.scalar.interval.test_ops.TestOverlaps.test_overlaps_invalid_type": [],
+    "pandas.tests.scalar.interval.test_ops.TestOverlaps": []
+}

@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.autograph.converters.variables.transform": [],
+    "tensorflow.python.autograph.converters.variables.VariableAccessTransformer.visit_Name": [],
+    "tensorflow.python.autograph.converters.variables.VariableAccessTransformer.visit_Delete": [],
+    "tensorflow.python.autograph.converters.variables.VariableAccessTransformer.visit_AugAssign": [],
+    "tensorflow.python.autograph.converters.variables.VariableAccessTransformer": []
+}

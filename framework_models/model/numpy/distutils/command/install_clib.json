@@ -1,0 +1,7 @@
+{
+    "numpy.distutils.command.install_clib.install_clib.initialize_options": [],
+    "numpy.distutils.command.install_clib.install_clib.finalize_options": [],
+    "numpy.distutils.command.install_clib.install_clib.run": [],
+    "numpy.distutils.command.install_clib.install_clib.get_outputs": [],
+    "numpy.distutils.command.install_clib.install_clib": []
+}

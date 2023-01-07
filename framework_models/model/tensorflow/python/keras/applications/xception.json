@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.applications.xception.Xception": [],
+    "tensorflow.python.keras.applications.xception.preprocess_input": [],
+    "tensorflow.python.keras.applications.xception.decode_predictions": []
+}

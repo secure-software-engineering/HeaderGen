@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.with_attributes": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.new": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.__init__": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.functions": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.checkpointable_objects": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.functions_to_serialize": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.objects_to_serialize": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.set_and_validate_functions": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes.set_and_validate_objects": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.SerializedAttributes": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.CommonEndpoints": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.LayerAttributes": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.ModelAttributes": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.MetricAttributes": [],
+    "tensorflow.python.keras.saving.saved_model.serialized_attributes.RNNAttributes": []
+}

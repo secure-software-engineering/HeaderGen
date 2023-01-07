@@ -1,0 +1,17 @@
+{
+  "21": [
+    "main.func:17",
+    "main.dec1:1.inner:2",
+    "main.dec2:8.inner:9"
+  ],
+  "17": [
+    "main.dec1:1",
+    "main.dec2:8"
+  ],
+  "10": [
+    "main.func:17"
+  ],
+  "3": [
+    "main.func:17"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "scipy.conftest.pytest_configure": [],
+    "scipy.conftest._get_mark": [],
+    "scipy.conftest.pytest_runtest_setup": [],
+    "scipy.conftest.check_fpu_mode": []
+}

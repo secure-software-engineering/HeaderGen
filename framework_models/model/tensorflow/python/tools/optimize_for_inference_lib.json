@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.tools.optimize_for_inference_lib.optimize_for_inference": [],
+    "tensorflow.python.tools.optimize_for_inference_lib.ensure_graph_is_valid": [],
+    "tensorflow.python.tools.optimize_for_inference_lib.node_name_from_input": [],
+    "tensorflow.python.tools.optimize_for_inference_lib.node_from_map": [],
+    "tensorflow.python.tools.optimize_for_inference_lib.values_from_const": [],
+    "tensorflow.python.tools.optimize_for_inference_lib.scale_after_normalization": [],
+    "tensorflow.python.tools.optimize_for_inference_lib.fold_batch_norms": [],
+    "tensorflow.python.tools.optimize_for_inference_lib.fuse_resize_and_conv": []
+}

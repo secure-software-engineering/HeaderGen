@@ -1,0 +1,17 @@
+{
+    "matplotlib.tests.test_style.temp_style": [],
+    "matplotlib.tests.test_style.test_invalid_rc_warning_includes_filename": [],
+    "matplotlib.tests.test_style.test_available": [],
+    "matplotlib.tests.test_style.test_use": [],
+    "matplotlib.tests.test_style.test_use_url": [],
+    "matplotlib.tests.test_style.test_single_path": [],
+    "matplotlib.tests.test_style.test_context": [],
+    "matplotlib.tests.test_style.test_context_with_dict": [],
+    "matplotlib.tests.test_style.test_context_with_dict_after_namedstyle": [],
+    "matplotlib.tests.test_style.test_context_with_dict_before_namedstyle": [],
+    "matplotlib.tests.test_style.test_context_with_union_of_dict_and_namedstyle": [],
+    "matplotlib.tests.test_style.test_context_with_badparam": [],
+    "matplotlib.tests.test_style.test_alias": [],
+    "matplotlib.tests.test_style.test_xkcd_no_cm": [],
+    "matplotlib.tests.test_style.test_xkcd_cm": []
+}

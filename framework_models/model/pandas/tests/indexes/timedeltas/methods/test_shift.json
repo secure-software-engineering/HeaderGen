@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexes.timedeltas.methods.test_shift.TestTimedeltaIndexShift.test_tdi_shift_empty": [],
+    "pandas.tests.indexes.timedeltas.methods.test_shift.TestTimedeltaIndexShift.test_tdi_shift_hours": [],
+    "pandas.tests.indexes.timedeltas.methods.test_shift.TestTimedeltaIndexShift.test_tdi_shift_minutes": [],
+    "pandas.tests.indexes.timedeltas.methods.test_shift.TestTimedeltaIndexShift.test_tdi_shift_int": [],
+    "pandas.tests.indexes.timedeltas.methods.test_shift.TestTimedeltaIndexShift.test_tdi_shift_nonstandard_freq": [],
+    "pandas.tests.indexes.timedeltas.methods.test_shift.TestTimedeltaIndexShift.test_shift_no_freq": [],
+    "pandas.tests.indexes.timedeltas.methods.test_shift.TestTimedeltaIndexShift": []
+}

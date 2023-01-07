@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.applications.vgg19.VGG19": [],
+    "tensorflow.python.keras.applications.vgg19.preprocess_input": [],
+    "tensorflow.python.keras.applications.vgg19.decode_predictions": []
+}

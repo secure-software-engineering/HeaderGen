@@ -1,0 +1,15 @@
+{
+    "scipy._lib.tests.test__util.test__aligned_zeros": [],
+    "scipy._lib.tests.test__util.test_check_random_state": [],
+    "scipy._lib.tests.test__util.test_getfullargspec_no_self": [],
+    "scipy._lib.tests.test__util.test_mapwrapper_serial": [],
+    "scipy._lib.tests.test__util.test_pool": [],
+    "scipy._lib.tests.test__util.test_mapwrapper_parallel": [],
+    "scipy._lib.tests.test__util.test_numpy_deprecation": [],
+    "scipy._lib.tests.test__util.test_numpy_deprecation_functionality": [],
+    "scipy._lib.tests.test__util.test_rng_integers": [],
+    "scipy._lib.tests.test__util.TestValidateInt.test_validate_int": [],
+    "scipy._lib.tests.test__util.TestValidateInt.test_validate_int_bad": [],
+    "scipy._lib.tests.test__util.TestValidateInt.test_validate_int_below_min": [],
+    "scipy._lib.tests.test__util.TestValidateInt": []
+}

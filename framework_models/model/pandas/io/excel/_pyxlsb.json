@@ -1,0 +1,11 @@
+{
+    "pandas.io.excel._pyxlsb.PyxlsbReader.__init__": [],
+    "pandas.io.excel._pyxlsb.PyxlsbReader._workbook_class": [],
+    "pandas.io.excel._pyxlsb.PyxlsbReader.load_workbook": [],
+    "pandas.io.excel._pyxlsb.PyxlsbReader.sheet_names": [],
+    "pandas.io.excel._pyxlsb.PyxlsbReader.get_sheet_by_name": [],
+    "pandas.io.excel._pyxlsb.PyxlsbReader.get_sheet_by_index": [],
+    "pandas.io.excel._pyxlsb.PyxlsbReader._convert_cell": [],
+    "pandas.io.excel._pyxlsb.PyxlsbReader.get_sheet_data": [],
+    "pandas.io.excel._pyxlsb.PyxlsbReader": []
+}

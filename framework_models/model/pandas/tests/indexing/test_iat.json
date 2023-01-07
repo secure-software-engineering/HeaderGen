@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexing.test_iat.test_iat": [],
+    "pandas.tests.indexing.test_iat.test_iat_duplicate_columns": [],
+    "pandas.tests.indexing.test_iat.test_iat_getitem_series_with_period_index": []
+}

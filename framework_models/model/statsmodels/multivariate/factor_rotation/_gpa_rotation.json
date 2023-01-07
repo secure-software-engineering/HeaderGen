@@ -1,0 +1,12 @@
+{
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.GPA": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.Gf": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.rotateA": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.oblimin_objective": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.orthomax_objective": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.CF_objective": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.vgQ_target": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.ff_target": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.vgQ_partial_target": [],
+    "statsmodels.multivariate.factor_rotation._gpa_rotation.ff_partial_target": []
+}

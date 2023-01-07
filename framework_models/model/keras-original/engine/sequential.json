@@ -1,0 +1,22 @@
+{
+    "keras.engine.sequential._get_shape_tuple": ["MODEL_TRAINING"],
+    "keras.engine.sequential.relax_input_shape": ["MODEL_TRAINING"],
+    "keras.engine.sequential.clear_previously_created_nodes": ["MODEL_TRAINING"],
+    "keras.engine.sequential.track_nodes_created_by_last_call": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.__init__": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.layers": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.add": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.pop": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential._build_graph_network_for_inferred_shape": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.build": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.call": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.compute_output_shape": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.compute_mask": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.get_config": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.from_config": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential.input_spec": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential._trackable_saved_model_saver": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential._is_layer_name_unique": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential._assert_weights_created": ["MODEL_TRAINING"],
+    "keras.engine.sequential.Sequential": ["MODEL_TRAINING"]
+}

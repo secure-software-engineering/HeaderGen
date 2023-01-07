@@ -1,0 +1,10 @@
+{
+    "numpy.typing.tests.data.fail.ufunc_config.func1": [],
+    "numpy.typing.tests.data.fail.ufunc_config.func2": [],
+    "numpy.typing.tests.data.fail.ufunc_config.Write1.write1": [],
+    "numpy.typing.tests.data.fail.ufunc_config.Write2.write": [],
+    "numpy.typing.tests.data.fail.ufunc_config.Write3.write": [],
+    "numpy.typing.tests.data.fail.ufunc_config.Write1": [],
+    "numpy.typing.tests.data.fail.ufunc_config.Write2": [],
+    "numpy.typing.tests.data.fail.ufunc_config.Write3": []
+}

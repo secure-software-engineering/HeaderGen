@@ -1,0 +1,9 @@
+{
+    "pandas.core.array_algos.masked_reductions._sumprod": [],
+    "pandas.core.array_algos.masked_reductions.sum": [],
+    "pandas.core.array_algos.masked_reductions.prod": [],
+    "pandas.core.array_algos.masked_reductions._minmax": [],
+    "pandas.core.array_algos.masked_reductions.min": [],
+    "pandas.core.array_algos.masked_reductions.max": [],
+    "pandas.core.array_algos.masked_reductions.mean": []
+}

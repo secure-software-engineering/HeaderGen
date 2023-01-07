@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.training.adam.AdamOptimizer.__init__": [],
+    "tensorflow.python.training.adam.AdamOptimizer._get_beta_accumulators": [],
+    "tensorflow.python.training.adam.AdamOptimizer._create_slots": [],
+    "tensorflow.python.training.adam.AdamOptimizer._prepare": [],
+    "tensorflow.python.training.adam.AdamOptimizer._apply_dense": [],
+    "tensorflow.python.training.adam.AdamOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.adam.AdamOptimizer._apply_sparse_shared": [],
+    "tensorflow.python.training.adam.AdamOptimizer._apply_sparse": [],
+    "tensorflow.python.training.adam.AdamOptimizer._resource_scatter_add": [],
+    "tensorflow.python.training.adam.AdamOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.adam.AdamOptimizer._finish": [],
+    "tensorflow.python.training.adam.AdamOptimizer": []
+}

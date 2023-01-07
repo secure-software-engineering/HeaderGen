@@ -1,0 +1,6 @@
+{
+    "statsmodels.datasets.danish_data.data.load_pandas": [],
+    "statsmodels.datasets.danish_data.data.load": [],
+    "statsmodels.datasets.danish_data.data._get_data": [],
+    "statsmodels.datasets.danish_data.data.__str__": []
+}

@@ -1,0 +1,18 @@
+{
+    "pandas.tests.indexes.datetimelike_.test_equals.EqualsTests.test_not_equals_numeric": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.EqualsTests.test_equals": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.EqualsTests.test_not_equals_non_arraylike": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.EqualsTests.test_not_equals_strings": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.EqualsTests.test_not_equals_misc_strs": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestPeriodIndexEquals.index": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestPeriodIndexEquals.test_equals2": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestDatetimeIndexEquals.index": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestDatetimeIndexEquals.test_equals2": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestDatetimeIndexEquals.test_not_equals_bday": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestTimedeltaIndexEquals.index": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestTimedeltaIndexEquals.test_equals2": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.EqualsTests": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestPeriodIndexEquals": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestDatetimeIndexEquals": [],
+    "pandas.tests.indexes.datetimelike_.test_equals.TestTimedeltaIndexEquals": []
+}

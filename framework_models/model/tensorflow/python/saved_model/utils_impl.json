@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.saved_model.utils_impl.build_tensor_info": [],
+    "tensorflow.python.saved_model.utils_impl.build_tensor_info_internal": [],
+    "tensorflow.python.saved_model.utils_impl._build_composite_tensor_info_internal": [],
+    "tensorflow.python.saved_model.utils_impl.build_tensor_info_from_op": [],
+    "tensorflow.python.saved_model.utils_impl.get_tensor_from_tensor_info": [],
+    "tensorflow.python.saved_model.utils_impl.get_element_from_tensor_info": [],
+    "tensorflow.python.saved_model.utils_impl.get_or_create_variables_dir": [],
+    "tensorflow.python.saved_model.utils_impl.get_variables_dir": [],
+    "tensorflow.python.saved_model.utils_impl.get_variables_path": [],
+    "tensorflow.python.saved_model.utils_impl.get_or_create_assets_dir": [],
+    "tensorflow.python.saved_model.utils_impl.get_assets_dir": [],
+    "tensorflow.python.saved_model.utils_impl.get_or_create_debug_dir": [],
+    "tensorflow.python.saved_model.utils_impl.get_saved_model_pbtxt_path": [],
+    "tensorflow.python.saved_model.utils_impl.get_saved_model_pb_path": [],
+    "tensorflow.python.saved_model.utils_impl.get_debug_dir": [],
+    "tensorflow.python.saved_model.utils_impl.swap_function_tensor_content": [],
+    "tensorflow.python.saved_model.utils_impl.byte_swap_tensor_content": []
+}

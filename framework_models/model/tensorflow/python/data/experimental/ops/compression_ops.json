@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.data.experimental.ops.compression_ops.compress": [],
+    "tensorflow.python.data.experimental.ops.compression_ops.uncompress": []
+}

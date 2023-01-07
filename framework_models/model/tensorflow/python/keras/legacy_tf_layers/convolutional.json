@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.conv1d": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.conv2d": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.conv3d": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.separable_conv1d": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.separable_conv2d": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.conv2d_transpose": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.conv3d_transpose": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv1D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv2D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv3D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.SeparableConv1D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.SeparableConv2D.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv2DTranspose.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv3DTranspose.__init__": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv1D": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv2D": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv3D": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.SeparableConv1D": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.SeparableConv2D": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv2DTranspose": [],
+    "tensorflow.python.keras.legacy_tf_layers.convolutional.Conv3DTranspose": []
+}

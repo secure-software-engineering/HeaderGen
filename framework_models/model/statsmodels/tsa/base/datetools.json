@@ -1,0 +1,7 @@
+{
+    "statsmodels.tsa.base.datetools._is_leap": [],
+    "statsmodels.tsa.base.datetools.date_parser": [],
+    "statsmodels.tsa.base.datetools.date_range_str": [],
+    "statsmodels.tsa.base.datetools.dates_from_str": [],
+    "statsmodels.tsa.base.datetools.dates_from_range": []
+}

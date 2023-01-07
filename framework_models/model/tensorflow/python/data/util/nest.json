@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.data.util.nest._sorted": [],
+    "tensorflow.python.data.util.nest._yield_value": [],
+    "tensorflow.python.data.util.nest.assert_same_structure": [],
+    "tensorflow.python.data.util.nest._packed_nest_with_indices": [],
+    "tensorflow.python.data.util.nest.pack_sequence_as": [],
+    "tensorflow.python.data.util.nest.map_structure": [],
+    "tensorflow.python.data.util.nest._yield_flat_up_to": [],
+    "tensorflow.python.data.util.nest.assert_shallow_structure": [],
+    "tensorflow.python.data.util.nest.flatten_up_to": [],
+    "tensorflow.python.data.util.nest.map_structure_up_to": []
+}

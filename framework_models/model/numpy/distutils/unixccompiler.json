@@ -1,0 +1,4 @@
+{
+    "numpy.distutils.unixccompiler.UnixCCompiler__compile": [],
+    "numpy.distutils.unixccompiler.UnixCCompiler_create_static_lib": []
+}

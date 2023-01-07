@@ -1,0 +1,13 @@
+{
+    "numpy.polynomial.tests.test_polyutils.TestMisc.test_trimseq": [],
+    "numpy.polynomial.tests.test_polyutils.TestMisc.test_as_series": [],
+    "numpy.polynomial.tests.test_polyutils.TestMisc.test_trimcoef": [],
+    "numpy.polynomial.tests.test_polyutils.TestMisc.test_vander_nd_exception": [],
+    "numpy.polynomial.tests.test_polyutils.TestMisc.test_div_zerodiv": [],
+    "numpy.polynomial.tests.test_polyutils.TestMisc.test_pow_too_large": [],
+    "numpy.polynomial.tests.test_polyutils.TestDomain.test_getdomain": [],
+    "numpy.polynomial.tests.test_polyutils.TestDomain.test_mapdomain": [],
+    "numpy.polynomial.tests.test_polyutils.TestDomain.test_mapparms": [],
+    "numpy.polynomial.tests.test_polyutils.TestMisc": [],
+    "numpy.polynomial.tests.test_polyutils.TestDomain": []
+}

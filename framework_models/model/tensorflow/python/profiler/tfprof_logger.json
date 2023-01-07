@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.profiler.tfprof_logger._fill_missing_graph_shape": [],
+    "tensorflow.python.profiler.tfprof_logger._str_id": [],
+    "tensorflow.python.profiler.tfprof_logger._get_logged_ops": [],
+    "tensorflow.python.profiler.tfprof_logger.merge_default_with_oplog": [],
+    "tensorflow.python.profiler.tfprof_logger.write_op_log": []
+}

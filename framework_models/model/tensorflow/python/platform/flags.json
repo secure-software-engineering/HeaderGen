@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.platform.flags._wrap_define_function": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__init__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__getattribute__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__getattr__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__setattr__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__delattr__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__dir__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__getitem__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__setitem__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__len__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__iter__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__str__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper.__call__": [],
+    "tensorflow.python.platform.flags._FlagValuesWrapper": []
+}

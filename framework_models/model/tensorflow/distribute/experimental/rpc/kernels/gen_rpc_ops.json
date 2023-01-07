@@ -1,0 +1,18 @@
+{
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.delete_rpc_future_resource": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.delete_rpc_future_resource_eager_fallback": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_call": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_call_eager_fallback": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_check_status": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_check_status_eager_fallback": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_client": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_client_eager_fallback": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_get_value": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_get_value_eager_fallback": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_server": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_server_eager_fallback": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_server_register": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_server_register_eager_fallback": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_server_start": [],
+    "tensorflow.distribute.experimental.rpc.kernels.gen_rpc_ops.rpc_server_start_eager_fallback": []
+}

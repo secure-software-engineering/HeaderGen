@@ -1,0 +1,23 @@
+{
+    "pandas.tests.io.parser.test_network.test_compressed_urls": [],
+    "pandas.tests.io.parser.test_network.check_compressed_urls": [],
+    "pandas.tests.io.parser.test_network.test_url_encoding_csv": [],
+    "pandas.tests.io.parser.test_network.tips_df": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_parse_public_s3_bucket": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_parse_public_s3n_bucket": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_parse_public_s3a_bucket": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_parse_public_s3_bucket_nrows": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_parse_public_s3_bucket_chunked": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_parse_public_s3_bucket_chunked_python": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_parse_public_s3_bucket_python": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_infer_s3_compression": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_parse_public_s3_bucket_nrows_python": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_read_s3_fails": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_write_s3_csv_fails": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_write_s3_parquet_fails": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_read_csv_handles_boto_s3_object": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_read_csv_chunked_download": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_read_s3_with_hash_in_key": [],
+    "pandas.tests.io.parser.test_network.TestS3.test_read_feather_s3_file_path": [],
+    "pandas.tests.io.parser.test_network.TestS3": []
+}

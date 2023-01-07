@@ -1,0 +1,8 @@
+{
+    "statsmodels.tsa.tests.results.results_ar.ARLagResults.__init__": [],
+    "statsmodels.tsa.tests.results.results_ar.ARResultsOLS.__init__": [],
+    "statsmodels.tsa.tests.results.results_ar.ARResultsMLE.__init__": [],
+    "statsmodels.tsa.tests.results.results_ar.ARLagResults": [],
+    "statsmodels.tsa.tests.results.results_ar.ARResultsOLS": [],
+    "statsmodels.tsa.tests.results.results_ar.ARResultsMLE": []
+}

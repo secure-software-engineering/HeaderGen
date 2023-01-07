@@ -1,0 +1,11 @@
+{
+    "scipy.stats.tests.test_contingency.test_margins": [],
+    "scipy.stats.tests.test_contingency.test_expected_freq": [],
+    "scipy.stats.tests.test_contingency.test_chi2_contingency_trivial": [],
+    "scipy.stats.tests.test_contingency.test_chi2_contingency_R": [],
+    "scipy.stats.tests.test_contingency.test_chi2_contingency_g": [],
+    "scipy.stats.tests.test_contingency.test_chi2_contingency_bad_args": [],
+    "scipy.stats.tests.test_contingency.test_chi2_contingency_yates_gh13875": [],
+    "scipy.stats.tests.test_contingency.test_bad_association_args": [],
+    "scipy.stats.tests.test_contingency.test_assoc": []
+}

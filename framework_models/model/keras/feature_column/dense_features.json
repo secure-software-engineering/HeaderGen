@@ -1,0 +1,8 @@
+{
+    "keras.feature_column.dense_features.DenseFeatures.__init__": [],
+    "keras.feature_column.dense_features.DenseFeatures._is_feature_layer": [],
+    "keras.feature_column.dense_features.DenseFeatures._tracking_metadata": [],
+    "keras.feature_column.dense_features.DenseFeatures._target_shape": [],
+    "keras.feature_column.dense_features.DenseFeatures.call": [],
+    "keras.feature_column.dense_features.DenseFeatures": []
+}

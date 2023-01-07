@@ -1,0 +1,9 @@
+{
+    "pandas.tests.io.formats.test_to_excel.test_css_to_excel": [],
+    "pandas.tests.io.formats.test_to_excel.test_css_to_excel_multiple": [],
+    "pandas.tests.io.formats.test_to_excel.test_css_to_excel_inherited": [],
+    "pandas.tests.io.formats.test_to_excel.test_css_to_excel_good_colors": [],
+    "pandas.tests.io.formats.test_to_excel.test_css_to_excel_bad_colors": [],
+    "pandas.tests.io.formats.test_to_excel.tests_css_named_colors_valid": [],
+    "pandas.tests.io.formats.test_to_excel.test_css_named_colors_from_mpl_present": []
+}

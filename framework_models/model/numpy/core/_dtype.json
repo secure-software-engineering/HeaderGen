@@ -1,0 +1,18 @@
+{
+    "numpy.core._dtype._kind_name": [],
+    "numpy.core._dtype.__str__": [],
+    "numpy.core._dtype.__repr__": [],
+    "numpy.core._dtype._unpack_field": [],
+    "numpy.core._dtype._isunsized": [],
+    "numpy.core._dtype._construction_repr": [],
+    "numpy.core._dtype._scalar_str": [],
+    "numpy.core._dtype._byte_order_str": [],
+    "numpy.core._dtype._datetime_metadata_str": [],
+    "numpy.core._dtype._struct_dict_str": [],
+    "numpy.core._dtype._is_packed": [],
+    "numpy.core._dtype._struct_list_str": [],
+    "numpy.core._dtype._struct_str": [],
+    "numpy.core._dtype._subarray_str": [],
+    "numpy.core._dtype._name_includes_bit_suffix": [],
+    "numpy.core._dtype._name_get": []
+}

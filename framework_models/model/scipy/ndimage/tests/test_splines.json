@@ -1,0 +1,5 @@
+{
+    "scipy.ndimage.tests.test_splines.get_spline_knot_values": [],
+    "scipy.ndimage.tests.test_splines.make_spline_knot_matrix": [],
+    "scipy.ndimage.tests.test_splines.test_spline_filter_vs_matrix_solution": []
+}

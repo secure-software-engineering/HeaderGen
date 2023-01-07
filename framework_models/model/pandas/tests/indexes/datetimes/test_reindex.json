@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexes.datetimes.test_reindex.TestDatetimeIndexReindex.test_reindex_preserves_tz_if_target_is_empty_list_or_array": [],
+    "pandas.tests.indexes.datetimes.test_reindex.TestDatetimeIndexReindex.test_reindex_with_same_tz_nearest": [],
+    "pandas.tests.indexes.datetimes.test_reindex.TestDatetimeIndexReindex": []
+}

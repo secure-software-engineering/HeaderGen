@@ -1,0 +1,8 @@
+{
+    "statsmodels.compat.pandas.is_int_index": [],
+    "statsmodels.compat.pandas.is_float_index": [],
+    "statsmodels.compat.pandas.to_numpy": [],
+    "statsmodels.compat.pandas.get_cached_func": [],
+    "statsmodels.compat.pandas.call_cached_func": [],
+    "statsmodels.compat.pandas.get_cached_doc": []
+}

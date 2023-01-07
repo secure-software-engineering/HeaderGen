@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.multi.test_lexsort.TestIsLexsorted.test_is_lexsorted": [],
+    "pandas.tests.indexes.multi.test_lexsort.TestIsLexsorted.test_is_lexsorted_deprecation": [],
+    "pandas.tests.indexes.multi.test_lexsort.TestLexsortDepth.test_lexsort_depth": [],
+    "pandas.tests.indexes.multi.test_lexsort.TestLexsortDepth.test_lexsort_depth_deprecation": [],
+    "pandas.tests.indexes.multi.test_lexsort.TestIsLexsorted": [],
+    "pandas.tests.indexes.multi.test_lexsort.TestLexsortDepth": []
+}

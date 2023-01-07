@@ -1,0 +1,15 @@
+{
+    "scipy.interpolate.tests.test_ndgriddata.test_nearest_options": [],
+    "scipy.interpolate.tests.test_ndgriddata.test_nearest_list_argument": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_fill_value": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_alternative_call": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_multivalue_2d": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_multipoint_2d": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_complex_2d": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_1d": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_1d_borders": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_1d_unsorted": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_square_rescale_manual": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata.test_xi_1d": [],
+    "scipy.interpolate.tests.test_ndgriddata.TestGriddata": []
+}

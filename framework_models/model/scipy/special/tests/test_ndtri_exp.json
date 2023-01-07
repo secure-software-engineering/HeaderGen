@@ -1,0 +1,10 @@
+{
+    "scipy.special.tests.test_ndtri_exp.log_ndtr_ndtri_exp": [],
+    "scipy.special.tests.test_ndtri_exp.uniform_random_points": [],
+    "scipy.special.tests.test_ndtri_exp.TestNdtriExp.test_very_small_arg": [],
+    "scipy.special.tests.test_ndtri_exp.TestNdtriExp.test_in_interval": [],
+    "scipy.special.tests.test_ndtri_exp.TestNdtriExp.test_extreme": [],
+    "scipy.special.tests.test_ndtri_exp.TestNdtriExp.test_asymptotes": [],
+    "scipy.special.tests.test_ndtri_exp.TestNdtriExp.test_outside_domain": [],
+    "scipy.special.tests.test_ndtri_exp.TestNdtriExp": []
+}

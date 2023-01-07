@@ -1,0 +1,13 @@
+{
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_clip": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_inplace_clip": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_dataframe_clip": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_clip_mixed_numeric": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_clip_against_series": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_clip_against_list_like": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_clip_against_frame": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_clip_against_unordered_columns": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_clip_with_na_args": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip.test_clip_pos_args_deprecation": [],
+    "pandas.tests.frame.methods.test_clip.TestDataFrameClip": []
+}

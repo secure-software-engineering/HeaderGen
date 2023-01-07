@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.base_class.test_formats.TestIndexRendering.test_string_index_repr": [],
+    "pandas.tests.indexes.base_class.test_formats.TestIndexRendering.test_string_index_repr_with_unicode_option": [],
+    "pandas.tests.indexes.base_class.test_formats.TestIndexRendering.test_repr_summary": [],
+    "pandas.tests.indexes.base_class.test_formats.TestIndexRendering.test_index_repr_bool_nan": [],
+    "pandas.tests.indexes.base_class.test_formats.TestIndexRendering": []
+}

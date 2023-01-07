@@ -1,0 +1,8 @@
+{
+    "scipy.special.tests.test_loggamma.test_identities1": [],
+    "scipy.special.tests.test_loggamma.test_identities2": [],
+    "scipy.special.tests.test_loggamma.test_complex_dispatch_realpart": [],
+    "scipy.special.tests.test_loggamma.test_real_dispatch": [],
+    "scipy.special.tests.test_loggamma.test_gh_6536": [],
+    "scipy.special.tests.test_loggamma.test_branch_cut": []
+}

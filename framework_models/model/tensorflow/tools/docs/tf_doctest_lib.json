@@ -1,0 +1,10 @@
+{
+    "tensorflow.tools.docs.tf_doctest_lib._FloatExtractor.__call__": [],
+    "tensorflow.tools.docs.tf_doctest_lib.TfDoctestOutputChecker.__init__": [],
+    "tensorflow.tools.docs.tf_doctest_lib.TfDoctestOutputChecker._allclose": [],
+    "tensorflow.tools.docs.tf_doctest_lib.TfDoctestOutputChecker._tf_tensor_numpy_output": [],
+    "tensorflow.tools.docs.tf_doctest_lib.TfDoctestOutputChecker.check_output": [],
+    "tensorflow.tools.docs.tf_doctest_lib.TfDoctestOutputChecker.output_difference": [],
+    "tensorflow.tools.docs.tf_doctest_lib._FloatExtractor": [],
+    "tensorflow.tools.docs.tf_doctest_lib.TfDoctestOutputChecker": []
+}

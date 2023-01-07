@@ -1,0 +1,21 @@
+{
+    "keras.saving.saved_model.layer_serialization.get_serialized": [],
+    "keras.saving.saved_model.layer_serialization.LayerSavedModelSaver.object_identifier": [],
+    "keras.saving.saved_model.layer_serialization.LayerSavedModelSaver.python_properties": [],
+    "keras.saving.saved_model.layer_serialization.LayerSavedModelSaver._python_properties_internal": [],
+    "keras.saving.saved_model.layer_serialization.LayerSavedModelSaver.objects_to_serialize": [],
+    "keras.saving.saved_model.layer_serialization.LayerSavedModelSaver.functions_to_serialize": [],
+    "keras.saving.saved_model.layer_serialization.LayerSavedModelSaver._get_serialized_attributes": [],
+    "keras.saving.saved_model.layer_serialization.LayerSavedModelSaver._get_serialized_attributes_internal": [],
+    "keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver.object_identifier": [],
+    "keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver.python_properties": [],
+    "keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver.objects_to_serialize": [],
+    "keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver.functions_to_serialize": [],
+    "keras.saving.saved_model.layer_serialization.RNNSavedModelSaver.object_identifier": [],
+    "keras.saving.saved_model.layer_serialization.RNNSavedModelSaver._get_serialized_attributes_internal": [],
+    "keras.saving.saved_model.layer_serialization.VocabularySavedModelSaver.python_properties": [],
+    "keras.saving.saved_model.layer_serialization.LayerSavedModelSaver": [],
+    "keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver": [],
+    "keras.saving.saved_model.layer_serialization.RNNSavedModelSaver": [],
+    "keras.saving.saved_model.layer_serialization.VocabularySavedModelSaver": []
+}

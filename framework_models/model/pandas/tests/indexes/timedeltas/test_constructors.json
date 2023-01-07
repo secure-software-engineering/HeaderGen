@@ -1,0 +1,20 @@
+{
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_array_of_dt64_nat_raises": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_unit_m_y_raises": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_int64_nocopy": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_infer_from_tdi": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_infer_from_tdi_mismatch": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_dt64_data_invalid": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_float64_ns_rounded": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_float64_unit_conversion": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_construction_base_constructor": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_constructor": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_constructor_iso": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_constructor_coverage": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_constructor_name": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_constructor_no_precision_raises": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_constructor_wrong_precision_raises": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_explicit_none_freq": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex.test_from_categorical": [],
+    "pandas.tests.indexes.timedeltas.test_constructors.TestTimedeltaIndex": []
+}

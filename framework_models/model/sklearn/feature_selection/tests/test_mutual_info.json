@@ -1,0 +1,10 @@
+{
+    "sklearn.feature_selection.tests.test_mutual_info.test_compute_mi_dd": [],
+    "sklearn.feature_selection.tests.test_mutual_info.test_compute_mi_cc": [],
+    "sklearn.feature_selection.tests.test_mutual_info.test_compute_mi_cd": [],
+    "sklearn.feature_selection.tests.test_mutual_info.test_compute_mi_cd_unique_label": [],
+    "sklearn.feature_selection.tests.test_mutual_info.test_mutual_info_classif_discrete": [],
+    "sklearn.feature_selection.tests.test_mutual_info.test_mutual_info_regression": [],
+    "sklearn.feature_selection.tests.test_mutual_info.test_mutual_info_classif_mixed": [],
+    "sklearn.feature_selection.tests.test_mutual_info.test_mutual_info_options": []
+}

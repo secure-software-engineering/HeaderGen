@@ -1,0 +1,14 @@
+{
+    "statsmodels.tsa.seasonal._extrapolate_trend": [],
+    "statsmodels.tsa.seasonal.seasonal_mean": [],
+    "statsmodels.tsa.seasonal.seasonal_decompose": [],
+    "statsmodels.tsa.seasonal.DecomposeResult.__init__": [],
+    "statsmodels.tsa.seasonal.DecomposeResult.observed": [],
+    "statsmodels.tsa.seasonal.DecomposeResult.seasonal": [],
+    "statsmodels.tsa.seasonal.DecomposeResult.trend": [],
+    "statsmodels.tsa.seasonal.DecomposeResult.resid": [],
+    "statsmodels.tsa.seasonal.DecomposeResult.weights": [],
+    "statsmodels.tsa.seasonal.DecomposeResult.nobs": [],
+    "statsmodels.tsa.seasonal.DecomposeResult.plot": [],
+    "statsmodels.tsa.seasonal.DecomposeResult": []
+}

@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.period.methods.test_asfreq.TestPeriodIndex.test_asfreq": [],
+    "pandas.tests.indexes.period.methods.test_asfreq.TestPeriodIndex.test_asfreq_nat": [],
+    "pandas.tests.indexes.period.methods.test_asfreq.TestPeriodIndex.test_asfreq_mult_pi": [],
+    "pandas.tests.indexes.period.methods.test_asfreq.TestPeriodIndex.test_asfreq_combined_pi": [],
+    "pandas.tests.indexes.period.methods.test_asfreq.TestPeriodIndex.test_astype_asfreq": [],
+    "pandas.tests.indexes.period.methods.test_asfreq.TestPeriodIndex": []
+}

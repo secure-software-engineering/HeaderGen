@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.platform.test.main": [],
+    "tensorflow.python.platform.test.get_temp_dir": [],
+    "tensorflow.python.platform.test.test_src_dir_path": [],
+    "tensorflow.python.platform.test.is_built_with_cuda": [],
+    "tensorflow.python.platform.test.is_built_with_rocm": [],
+    "tensorflow.python.platform.test.disable_with_predicate": [],
+    "tensorflow.python.platform.test.is_built_with_gpu_support": [],
+    "tensorflow.python.platform.test.is_built_with_xla": []
+}

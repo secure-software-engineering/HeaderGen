@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.autograph.lang.special_functions._validate_list_constructor": [],
+    "tensorflow.python.autograph.lang.special_functions.match_staging_level": [],
+    "tensorflow.python.autograph.lang.special_functions.tensor_list": [],
+    "tensorflow.python.autograph.lang.special_functions.stack": []
+}

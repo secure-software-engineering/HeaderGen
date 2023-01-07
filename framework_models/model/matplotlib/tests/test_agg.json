@@ -1,0 +1,20 @@
+{
+    "matplotlib.tests.test_agg.test_repeated_save_with_alpha": [],
+    "matplotlib.tests.test_agg.test_large_single_path_collection": [],
+    "matplotlib.tests.test_agg.test_marker_with_nan": [],
+    "matplotlib.tests.test_agg.test_long_path": [],
+    "matplotlib.tests.test_agg.test_agg_filter": [],
+    "matplotlib.tests.test_agg.test_too_large_image": [],
+    "matplotlib.tests.test_agg.test_chunksize": [],
+    "matplotlib.tests.test_agg.test_jpeg_dpi": [],
+    "matplotlib.tests.test_agg.test_pil_kwargs_png": [],
+    "matplotlib.tests.test_agg.test_pil_kwargs_tiff": [],
+    "matplotlib.tests.test_agg.test_draw_path_collection_error_handling": [],
+    "matplotlib.tests.test_agg.chunk_limit_setup": [],
+    "matplotlib.tests.test_agg.test_chunksize_hatch_fail": [],
+    "matplotlib.tests.test_agg.test_chunksize_rgbFace_fail": [],
+    "matplotlib.tests.test_agg.test_chunksize_no_simplify_fail": [],
+    "matplotlib.tests.test_agg.test_chunksize_zero": [],
+    "matplotlib.tests.test_agg.test_chunksize_too_big_to_chunk": [],
+    "matplotlib.tests.test_agg.test_chunksize_toobig_chunks": []
+}

@@ -1,0 +1,22 @@
+{
+    "statsmodels.emplike.tests.test_regression.GenRes.setup_class": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell.test_hypothesis_beta0": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell.test_hypothesis_beta1": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell.test_hypothesis_beta2": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell.test_hypothesis_beta3": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell.test_ci_beta0": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell.test_ci_beta1": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell.test_ci_beta2": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell.test_ci_beta3": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM.test_hypothesis_beta0": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM.test_hypothesis_beta1": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM.test_hypothesis_beta2": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM.test_hypothesis_beta3": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM.test_ci_beta0": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM.test_ci_beta1": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM.test_ci_beta2": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM.test_ci_beta3": [],
+    "statsmodels.emplike.tests.test_regression.GenRes": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionPowell": [],
+    "statsmodels.emplike.tests.test_regression.TestRegressionNM": []
+}

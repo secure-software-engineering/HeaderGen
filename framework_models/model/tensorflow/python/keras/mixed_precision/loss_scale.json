@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.mixed_precision.loss_scale.serialize": [],
+    "tensorflow.python.keras.mixed_precision.loss_scale.deserialize": [],
+    "tensorflow.python.keras.mixed_precision.loss_scale.get": []
+}

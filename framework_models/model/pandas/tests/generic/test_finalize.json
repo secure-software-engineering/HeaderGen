@@ -1,0 +1,16 @@
+{
+    "pandas.tests.generic.test_finalize.idfn": [],
+    "pandas.tests.generic.test_finalize.ndframe_method": [],
+    "pandas.tests.generic.test_finalize.test_finalize_called": [],
+    "pandas.tests.generic.test_finalize.test_finalize_called_eval_numexpr": [],
+    "pandas.tests.generic.test_finalize.test_binops": [],
+    "pandas.tests.generic.test_finalize.test_string_method": [],
+    "pandas.tests.generic.test_finalize.test_datetime_method": [],
+    "pandas.tests.generic.test_finalize.test_datetime_property": [],
+    "pandas.tests.generic.test_finalize.test_timedelta_property": [],
+    "pandas.tests.generic.test_finalize.test_timedelta_methods": [],
+    "pandas.tests.generic.test_finalize.test_categorical_accessor": [],
+    "pandas.tests.generic.test_finalize.test_groupby_finalize": [],
+    "pandas.tests.generic.test_finalize.test_groupby_finalize_not_implemented": [],
+    "pandas.tests.generic.test_finalize.test_finalize_frame_series_name": []
+}

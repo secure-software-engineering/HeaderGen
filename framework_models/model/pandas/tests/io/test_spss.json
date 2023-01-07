@@ -1,0 +1,7 @@
+{
+    "pandas.tests.io.test_spss.test_spss_labelled_num": [],
+    "pandas.tests.io.test_spss.test_spss_labelled_num_na": [],
+    "pandas.tests.io.test_spss.test_spss_labelled_str": [],
+    "pandas.tests.io.test_spss.test_spss_umlauts": [],
+    "pandas.tests.io.test_spss.test_spss_usecols": []
+}

@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.__new__": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase._op_callback": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase._run_as_tf_function": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.variable": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.setUp": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.tearDown": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertGraphContains": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertOpCreated": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertOpsNotCreated": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertNoOpsCreated": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertEqual": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertLess": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertGreaterEqual": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertDictEqual": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase.assertRaisesRuntime": [],
+    "tensorflow.python.autograph.utils.testing.AutoGraphTestCase": []
+}

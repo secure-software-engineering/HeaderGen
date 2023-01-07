@@ -1,0 +1,14 @@
+{
+    "pandas.tests.resample.test_timedelta.test_asfreq_bug": [],
+    "pandas.tests.resample.test_timedelta.test_resample_with_nat": [],
+    "pandas.tests.resample.test_timedelta.test_resample_as_freq_with_subperiod": [],
+    "pandas.tests.resample.test_timedelta.test_resample_with_timedeltas": [],
+    "pandas.tests.resample.test_timedelta.test_resample_single_period_timedelta": [],
+    "pandas.tests.resample.test_timedelta.test_resample_timedelta_idempotency": [],
+    "pandas.tests.resample.test_timedelta.test_resample_offset_with_timedeltaindex": [],
+    "pandas.tests.resample.test_timedelta.test_resample_categorical_data_with_timedeltaindex": [],
+    "pandas.tests.resample.test_timedelta.test_resample_timedelta_values": [],
+    "pandas.tests.resample.test_timedelta.test_resample_timedelta_edge_case": [],
+    "pandas.tests.resample.test_timedelta.test_resample_with_timedelta_yields_no_empty_groups": [],
+    "pandas.tests.resample.test_timedelta.test_resample_quantile_timedelta": []
+}

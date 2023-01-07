@@ -1,0 +1,10 @@
+{
+    "statsmodels.iolib.tests.test_summary2.test_ols_summary_rsquared_label": [],
+    "statsmodels.iolib.tests.test_summary2.test_summary_col_r2": [],
+    "statsmodels.iolib.tests.test_summary2.TestSummaryLatex.test_summarycol": [],
+    "statsmodels.iolib.tests.test_summary2.TestSummaryLatex.test_summarycol_float_format": [],
+    "statsmodels.iolib.tests.test_summary2.TestSummaryLatex.test_summarycol_drop_omitted": [],
+    "statsmodels.iolib.tests.test_summary2.TestSummaryLatex.test_summary_col_ordering_preserved": [],
+    "statsmodels.iolib.tests.test_summary2.TestSummaryLatex.test_OLSsummary": [],
+    "statsmodels.iolib.tests.test_summary2.TestSummaryLatex": []
+}

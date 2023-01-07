@@ -1,0 +1,21 @@
+{
+    "numpy.core.tests.test_api.test_array_array": [],
+    "numpy.core.tests.test_api.test_array_impossible_casts": [],
+    "numpy.core.tests.test_api.test_fastCopyAndTranspose": [],
+    "numpy.core.tests.test_api.test_array_astype": [],
+    "numpy.core.tests.test_api.test_array_astype_to_string_discovery_empty": [],
+    "numpy.core.tests.test_api.test_array_astype_to_void": [],
+    "numpy.core.tests.test_api.test_object_array_astype_to_void": [],
+    "numpy.core.tests.test_api.test_array_astype_warning": [],
+    "numpy.core.tests.test_api.test_string_to_boolean_cast": [],
+    "numpy.core.tests.test_api.test_string_to_boolean_cast_errors": [],
+    "numpy.core.tests.test_api.test_string_to_complex_cast": [],
+    "numpy.core.tests.test_api.test_none_to_nan_cast": [],
+    "numpy.core.tests.test_api.test_copyto_fromscalar": [],
+    "numpy.core.tests.test_api.test_copyto": [],
+    "numpy.core.tests.test_api.test_copyto_permut": [],
+    "numpy.core.tests.test_api.test_copy_order": [],
+    "numpy.core.tests.test_api.test_contiguous_flags": [],
+    "numpy.core.tests.test_api.test_broadcast_arrays": [],
+    "numpy.core.tests.test_api.test_full_from_list": []
+}

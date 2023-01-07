@@ -1,0 +1,7 @@
+{
+    "pandas.tests.frame.methods.test_tz_localize.TestTZLocalize.test_tz_localize": [],
+    "pandas.tests.frame.methods.test_tz_localize.TestTZLocalize.test_tz_localize_axis1": [],
+    "pandas.tests.frame.methods.test_tz_localize.TestTZLocalize.test_tz_localize_naive": [],
+    "pandas.tests.frame.methods.test_tz_localize.TestTZLocalize.test_tz_localize_copy_inplace_mutate": [],
+    "pandas.tests.frame.methods.test_tz_localize.TestTZLocalize": []
+}

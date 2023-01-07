@@ -1,0 +1,14 @@
+{
+    "pandas.tests.strings.test_cat.test_str_cat_name": [],
+    "pandas.tests.strings.test_cat.test_str_cat": [],
+    "pandas.tests.strings.test_cat.test_str_cat_raises_intuitive_error": [],
+    "pandas.tests.strings.test_cat.test_str_cat_categorical": [],
+    "pandas.tests.strings.test_cat.test_str_cat_wrong_dtype_raises": [],
+    "pandas.tests.strings.test_cat.test_str_cat_mixed_inputs": [],
+    "pandas.tests.strings.test_cat.test_str_cat_align_indexed": [],
+    "pandas.tests.strings.test_cat.test_str_cat_align_mixed_inputs": [],
+    "pandas.tests.strings.test_cat.test_str_cat_all_na": [],
+    "pandas.tests.strings.test_cat.test_str_cat_special_cases": [],
+    "pandas.tests.strings.test_cat.test_cat_on_filtered_index": [],
+    "pandas.tests.strings.test_cat.test_cat_different_classes": []
+}

@@ -1,0 +1,7 @@
+{
+    "scipy.special.tests.test_wright_bessel.test_wright_bessel_zero": [],
+    "scipy.special.tests.test_wright_bessel.test_wright_bessel_iv": [],
+    "scipy.special.tests.test_wright_bessel.test_wright_functional": [],
+    "scipy.special.tests.test_wright_bessel.test_wright_data_grid_failures": [],
+    "scipy.special.tests.test_wright_bessel.test_wright_data_grid_less_accurate": []
+}

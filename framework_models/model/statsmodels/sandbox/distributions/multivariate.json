@@ -1,0 +1,10 @@
+{
+    "statsmodels.sandbox.distributions.multivariate.chi2_pdf": [],
+    "statsmodels.sandbox.distributions.multivariate.chi_pdf": [],
+    "statsmodels.sandbox.distributions.multivariate.chi_logpdf": [],
+    "statsmodels.sandbox.distributions.multivariate.funbgh": [],
+    "statsmodels.sandbox.distributions.multivariate.funbgh2": [],
+    "statsmodels.sandbox.distributions.multivariate.bghfactor": [],
+    "statsmodels.sandbox.distributions.multivariate.mvstdtprob": [],
+    "statsmodels.sandbox.distributions.multivariate.multivariate_t_rvs": []
+}

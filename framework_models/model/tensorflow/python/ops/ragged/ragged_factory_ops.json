@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.ragged.ragged_factory_ops.constant": [],
+    "tensorflow.python.ops.ragged.ragged_factory_ops.constant_value": [],
+    "tensorflow.python.ops.ragged.ragged_factory_ops._constant_value": [],
+    "tensorflow.python.ops.ragged.ragged_factory_ops._find_scalar_and_max_depth": [],
+    "tensorflow.python.ops.ragged.ragged_factory_ops._default_inner_shape_for_pylist": [],
+    "tensorflow.python.ops.ragged.ragged_factory_ops.placeholder": []
+}

@@ -1,0 +1,9 @@
+{
+    "tensorflow.core.debug.debug_service_pb2_grpc.add_EventListenerServicer_to_server": [],
+    "tensorflow.core.debug.debug_service_pb2_grpc.EventListenerStub.__init__": [],
+    "tensorflow.core.debug.debug_service_pb2_grpc.EventListenerServicer.SendEvents": [],
+    "tensorflow.core.debug.debug_service_pb2_grpc.EventListenerServicer.SendTracebacks": [],
+    "tensorflow.core.debug.debug_service_pb2_grpc.EventListenerServicer.SendSourceFiles": [],
+    "tensorflow.core.debug.debug_service_pb2_grpc.EventListenerStub": [],
+    "tensorflow.core.debug.debug_service_pb2_grpc.EventListenerServicer": []
+}

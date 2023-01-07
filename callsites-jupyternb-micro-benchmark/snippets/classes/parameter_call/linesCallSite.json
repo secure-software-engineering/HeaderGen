@@ -1,0 +1,14 @@
+{
+  "13": [
+    "main.MyClass:1.func1:8",
+    "main.MyClass:1.func2:5",
+    "main.MyClass:1.func3:2"
+  ],
+  "9": [
+    "main.MyClass:1.func2:5",
+    "main.MyClass:1.func3:2"
+  ],
+  "6": [
+    "main.MyClass:1.func3:2"
+  ]
+}

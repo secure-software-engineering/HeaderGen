@@ -1,0 +1,8 @@
+{
+    "statsmodels.gam.gam_cross_validation.cross_validators.BaseCrossValidator.__init__": [],
+    "statsmodels.gam.gam_cross_validation.cross_validators.BaseCrossValidator.split": [],
+    "statsmodels.gam.gam_cross_validation.cross_validators.KFold.__init__": [],
+    "statsmodels.gam.gam_cross_validation.cross_validators.KFold.split": [],
+    "statsmodels.gam.gam_cross_validation.cross_validators.BaseCrossValidator": [],
+    "statsmodels.gam.gam_cross_validation.cross_validators.KFold": []
+}

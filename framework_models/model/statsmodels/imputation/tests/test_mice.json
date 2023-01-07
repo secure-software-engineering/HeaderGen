@@ -1,0 +1,23 @@
+{
+    "statsmodels.imputation.tests.test_mice.close_or_save": [],
+    "statsmodels.imputation.tests.test_mice.teardown_module": [],
+    "statsmodels.imputation.tests.test_mice.gendat": [],
+    "statsmodels.imputation.tests.test_mice.test_micedata_miss1": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_default": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_settingwithcopywarning": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_next_sample": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_pertmeth": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_phreg": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_set_imputer": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_plot_missing_pattern": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_plot_bivariate": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_fit_obs": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData.test_plot_imputed_hist": [],
+    "statsmodels.imputation.tests.test_mice.TestMICE.test_MICE": [],
+    "statsmodels.imputation.tests.test_mice.TestMICE.test_MICE1": [],
+    "statsmodels.imputation.tests.test_mice.TestMICE.test_MICE1_regularized": [],
+    "statsmodels.imputation.tests.test_mice.TestMICE.test_MICE2": [],
+    "statsmodels.imputation.tests.test_mice.TestMICE.test_combine": [],
+    "statsmodels.imputation.tests.test_mice.TestMICEData": [],
+    "statsmodels.imputation.tests.test_mice.TestMICE": []
+}

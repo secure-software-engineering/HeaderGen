@@ -1,0 +1,9 @@
+{
+    "plotly.figure_factory._hexbin_mapbox._project_latlon_to_wgs84": [],
+    "plotly.figure_factory._hexbin_mapbox._project_wgs84_to_latlon": [],
+    "plotly.figure_factory._hexbin_mapbox._getBoundsZoomLevel": [],
+    "plotly.figure_factory._hexbin_mapbox._compute_hexbin": [],
+    "plotly.figure_factory._hexbin_mapbox._compute_wgs84_hexbin": [],
+    "plotly.figure_factory._hexbin_mapbox._hexagons_to_geojson": [],
+    "plotly.figure_factory._hexbin_mapbox.create_hexbin_mapbox": []
+}

@@ -1,0 +1,17 @@
+{
+    "sklearn.feature_extraction.image._make_edges_3d": [],
+    "sklearn.feature_extraction.image._compute_gradient_3d": [],
+    "sklearn.feature_extraction.image._mask_edges_weights": [],
+    "sklearn.feature_extraction.image._to_graph": [],
+    "sklearn.feature_extraction.image.img_to_graph": [],
+    "sklearn.feature_extraction.image.grid_to_graph": [],
+    "sklearn.feature_extraction.image._compute_n_patches": [],
+    "sklearn.feature_extraction.image._extract_patches": [],
+    "sklearn.feature_extraction.image.extract_patches_2d": [],
+    "sklearn.feature_extraction.image.reconstruct_from_patches_2d": [],
+    "sklearn.feature_extraction.image.PatchExtractor.__init__": [],
+    "sklearn.feature_extraction.image.PatchExtractor.fit": [],
+    "sklearn.feature_extraction.image.PatchExtractor.transform": [],
+    "sklearn.feature_extraction.image.PatchExtractor._more_tags": [],
+    "sklearn.feature_extraction.image.PatchExtractor": []
+}

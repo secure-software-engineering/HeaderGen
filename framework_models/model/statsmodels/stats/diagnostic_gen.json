@@ -1,0 +1,7 @@
+{
+    "statsmodels.stats.diagnostic_gen.test_chisquare_binning": [],
+    "statsmodels.stats.diagnostic_gen.prob_larger_ordinal_choice": [],
+    "statsmodels.stats.diagnostic_gen.prob_larger_2ordinal": [],
+    "statsmodels.stats.diagnostic_gen.cov_multinomial": [],
+    "statsmodels.stats.diagnostic_gen.var_multinomial": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.series.methods.test_dropna.TestDropna.test_dropna_empty": [],
+    "pandas.tests.series.methods.test_dropna.TestDropna.test_dropna_preserve_name": [],
+    "pandas.tests.series.methods.test_dropna.TestDropna.test_dropna_no_nan": [],
+    "pandas.tests.series.methods.test_dropna.TestDropna.test_dropna_intervals": [],
+    "pandas.tests.series.methods.test_dropna.TestDropna.test_dropna_period_dtype": [],
+    "pandas.tests.series.methods.test_dropna.TestDropna.test_datetime64_tz_dropna": [],
+    "pandas.tests.series.methods.test_dropna.TestDropna.test_dropna_pos_args_deprecation": [],
+    "pandas.tests.series.methods.test_dropna.TestDropna": []
+}

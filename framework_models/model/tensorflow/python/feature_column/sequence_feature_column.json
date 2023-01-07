@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.feature_column.sequence_feature_column.concatenate_context_input": [],
+    "tensorflow.python.feature_column.sequence_feature_column.sequence_categorical_column_with_identity": [],
+    "tensorflow.python.feature_column.sequence_feature_column.sequence_categorical_column_with_hash_bucket": [],
+    "tensorflow.python.feature_column.sequence_feature_column.sequence_categorical_column_with_vocabulary_file": [],
+    "tensorflow.python.feature_column.sequence_feature_column.sequence_categorical_column_with_vocabulary_list": [],
+    "tensorflow.python.feature_column.sequence_feature_column.sequence_numeric_column": [],
+    "tensorflow.python.feature_column.sequence_feature_column._assert_all_equal_and_return": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn._is_v2_column": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn.name": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn.parse_example_spec": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn.transform_feature": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn.variable_shape": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn.get_sequence_dense_tensor": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn.parents": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn.get_config": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn.from_config": [],
+    "tensorflow.python.feature_column.sequence_feature_column.SequenceNumericColumn": []
+}

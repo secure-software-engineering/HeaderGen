@@ -1,0 +1,9 @@
+{
+    "sklearn.decomposition._truncated_svd.TruncatedSVD.__init__": [],
+    "sklearn.decomposition._truncated_svd.TruncatedSVD.fit": [],
+    "sklearn.decomposition._truncated_svd.TruncatedSVD.fit_transform": [],
+    "sklearn.decomposition._truncated_svd.TruncatedSVD.transform": [],
+    "sklearn.decomposition._truncated_svd.TruncatedSVD.inverse_transform": [],
+    "sklearn.decomposition._truncated_svd.TruncatedSVD._more_tags": [],
+    "sklearn.decomposition._truncated_svd.TruncatedSVD": []
+}

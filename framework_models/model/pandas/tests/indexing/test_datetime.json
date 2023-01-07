@@ -1,0 +1,11 @@
+{
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex.test_datetimeindex_transpose_empty_df": [],
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex.test_indexing_with_datetime_tz": [],
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex.test_indexing_fast_xs": [],
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex.test_consistency_with_tz_aware_scalar": [],
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex.test_indexing_with_datetimeindex_tz": [],
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex.test_nanosecond_getitem_setitem_with_tz": [],
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex.test_getitem_millisecond_resolution": [],
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex.test_str_subclass": [],
+    "pandas.tests.indexing.test_datetime.TestDatetimeIndex": []
+}

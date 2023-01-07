@@ -1,0 +1,6 @@
+{
+    "statsmodels.compat.tests.test_pandas.test_is_int_index": [],
+    "statsmodels.compat.tests.test_pandas.test_is_float_index": [],
+    "statsmodels.compat.tests.test_pandas.test_legacy_int_index": [],
+    "statsmodels.compat.tests.test_pandas.test_legacy_float_index": []
+}

@@ -1,0 +1,13 @@
+{
+    "plotly.utils._list_repr_elided": [],
+    "plotly.utils.node_generator": [],
+    "plotly.utils.get_by_path": [],
+    "plotly.utils.decode_unicode": [],
+    "plotly.utils.ElidedWrapper.__init__": [],
+    "plotly.utils.ElidedWrapper.is_wrappable": [],
+    "plotly.utils.ElidedWrapper.__repr__": [],
+    "plotly.utils.ElidedPrettyPrinter.__init__": [],
+    "plotly.utils.ElidedPrettyPrinter._format": [],
+    "plotly.utils.ElidedWrapper": [],
+    "plotly.utils.ElidedPrettyPrinter": []
+}

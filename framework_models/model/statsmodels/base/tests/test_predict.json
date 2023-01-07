@@ -1,0 +1,11 @@
+{
+    "statsmodels.base.tests.test_predict.CheckPredictReturns.test_2d": [],
+    "statsmodels.base.tests.test_predict.CheckPredictReturns.test_1d": [],
+    "statsmodels.base.tests.test_predict.CheckPredictReturns.test_nopatsy": [],
+    "statsmodels.base.tests.test_predict.TestPredictOLS.setup_class": [],
+    "statsmodels.base.tests.test_predict.TestPredictGLM.setup_class": [],
+    "statsmodels.base.tests.test_predict.TestPredictGLM.test_predict_offset": [],
+    "statsmodels.base.tests.test_predict.CheckPredictReturns": [],
+    "statsmodels.base.tests.test_predict.TestPredictOLS": [],
+    "statsmodels.base.tests.test_predict.TestPredictGLM": []
+}

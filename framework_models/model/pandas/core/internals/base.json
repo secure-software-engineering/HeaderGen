@@ -1,0 +1,17 @@
+{
+    "pandas.core.internals.base.interleaved_dtype": [],
+    "pandas.core.internals.base.DataManager.items": [],
+    "pandas.core.internals.base.DataManager.__len__": [],
+    "pandas.core.internals.base.DataManager.ndim": [],
+    "pandas.core.internals.base.DataManager.shape": [],
+    "pandas.core.internals.base.DataManager._validate_set_axis": [],
+    "pandas.core.internals.base.DataManager.reindex_indexer": [],
+    "pandas.core.internals.base.DataManager.reindex_axis": [],
+    "pandas.core.internals.base.DataManager._equal_values": [],
+    "pandas.core.internals.base.DataManager.equals": [],
+    "pandas.core.internals.base.DataManager.apply": [],
+    "pandas.core.internals.base.DataManager.isna": [],
+    "pandas.core.internals.base.SingleDataManager.array": [],
+    "pandas.core.internals.base.DataManager": [],
+    "pandas.core.internals.base.SingleDataManager": []
+}

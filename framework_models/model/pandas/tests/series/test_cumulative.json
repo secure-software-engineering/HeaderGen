@@ -1,0 +1,13 @@
+{
+    "pandas.tests.series.test_cumulative._check_accum_op": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cumsum": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cumprod": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cummin": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cummax": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cummin_datetime64": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cummax_datetime64": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cummin_timedelta64": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cummax_timedelta64": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps.test_cummethods_bool": [],
+    "pandas.tests.series.test_cumulative.TestSeriesCumulativeOps": []
+}

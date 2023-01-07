@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.randhie.data.load": [],
+    "statsmodels.datasets.randhie.data.load_pandas": [],
+    "statsmodels.datasets.randhie.data._get_data": []
+}

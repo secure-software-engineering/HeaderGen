@@ -1,0 +1,23 @@
+{
+    "numpy.distutils.tests.test_exec_command.test_exec_command_stdout": [],
+    "numpy.distutils.tests.test_exec_command.test_exec_command_stderr": [],
+    "numpy.distutils.tests.test_exec_command.redirect_stdout.__init__": [],
+    "numpy.distutils.tests.test_exec_command.redirect_stdout.__enter__": [],
+    "numpy.distutils.tests.test_exec_command.redirect_stdout.__exit__": [],
+    "numpy.distutils.tests.test_exec_command.redirect_stderr.__init__": [],
+    "numpy.distutils.tests.test_exec_command.redirect_stderr.__enter__": [],
+    "numpy.distutils.tests.test_exec_command.redirect_stderr.__exit__": [],
+    "numpy.distutils.tests.test_exec_command.emulate_nonposix.__init__": [],
+    "numpy.distutils.tests.test_exec_command.emulate_nonposix.__enter__": [],
+    "numpy.distutils.tests.test_exec_command.emulate_nonposix.__exit__": [],
+    "numpy.distutils.tests.test_exec_command.TestExecCommand.setup": [],
+    "numpy.distutils.tests.test_exec_command.TestExecCommand.check_nt": [],
+    "numpy.distutils.tests.test_exec_command.TestExecCommand.check_posix": [],
+    "numpy.distutils.tests.test_exec_command.TestExecCommand.check_basic": [],
+    "numpy.distutils.tests.test_exec_command.TestExecCommand.check_execute_in": [],
+    "numpy.distutils.tests.test_exec_command.TestExecCommand.test_basic": [],
+    "numpy.distutils.tests.test_exec_command.redirect_stdout": [],
+    "numpy.distutils.tests.test_exec_command.redirect_stderr": [],
+    "numpy.distutils.tests.test_exec_command.emulate_nonposix": [],
+    "numpy.distutils.tests.test_exec_command.TestExecCommand": []
+}

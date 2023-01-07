@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.keras.utils.vis_utils.check_pydot": [],
+    "tensorflow.python.keras.utils.vis_utils.is_wrapped_model": [],
+    "tensorflow.python.keras.utils.vis_utils.add_edge": [],
+    "tensorflow.python.keras.utils.vis_utils.model_to_dot": [],
+    "tensorflow.python.keras.utils.vis_utils.plot_model": []
+}

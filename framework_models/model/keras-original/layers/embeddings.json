@@ -1,0 +1,9 @@
+{
+    "keras.layers.embeddings.Embedding.__init__": [],
+    "keras.layers.embeddings.Embedding.build": [],
+    "keras.layers.embeddings.Embedding.compute_mask": [],
+    "keras.layers.embeddings.Embedding.compute_output_shape": [],
+    "keras.layers.embeddings.Embedding.call": [],
+    "keras.layers.embeddings.Embedding.get_config": [],
+    "keras.layers.embeddings.Embedding": []
+}

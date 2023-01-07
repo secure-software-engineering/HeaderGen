@@ -1,0 +1,9 @@
+{
+    "scipy.integrate.tests.test_banded_ode_solvers._band_count": [],
+    "scipy.integrate.tests.test_banded_ode_solvers._linear_func": [],
+    "scipy.integrate.tests.test_banded_ode_solvers._linear_jac": [],
+    "scipy.integrate.tests.test_banded_ode_solvers._linear_banded_jac": [],
+    "scipy.integrate.tests.test_banded_ode_solvers._solve_linear_sys": [],
+    "scipy.integrate.tests.test_banded_ode_solvers._analytical_solution": [],
+    "scipy.integrate.tests.test_banded_ode_solvers.test_banded_ode_solvers": []
+}

@@ -1,0 +1,20 @@
+{
+    "pandas.tests.io.formats.style.test_align.bar_grad": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_left": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_left_0points": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_pos_and_neg": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_all_pos": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_all_neg": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_zero_pos_and_neg": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_left_axis_none": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_zero_axis_none": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_axis_none": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_vmin": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_vmax": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_vmin_vmax_wide": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_vmin_vmax_clipping": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_mid_nans": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_align_zero_nans": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign.test_bar_bad_align_raises": [],
+    "pandas.tests.io.formats.style.test_align.TestStylerBarAlign": []
+}

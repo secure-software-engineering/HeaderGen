@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.data.util.options._internal_attr_name": [],
+    "tensorflow.python.data.util.options.graph_rewrites": [],
+    "tensorflow.python.data.util.options.create_option": [],
+    "tensorflow.python.data.util.options.merge_options": [],
+    "tensorflow.python.data.util.options.OptionsBase.__init__": [],
+    "tensorflow.python.data.util.options.OptionsBase.__eq__": [],
+    "tensorflow.python.data.util.options.OptionsBase.__ne__": [],
+    "tensorflow.python.data.util.options.OptionsBase.__setattr__": [],
+    "tensorflow.python.data.util.options.OptionsBase._set_mutable": [],
+    "tensorflow.python.data.util.options.OptionsBase._to_proto": [],
+    "tensorflow.python.data.util.options.OptionsBase._from_proto": [],
+    "tensorflow.python.data.util.options.OptionsBase": []
+}

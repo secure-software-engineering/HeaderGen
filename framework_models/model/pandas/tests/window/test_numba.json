@@ -1,0 +1,21 @@
+{
+    "pandas.tests.window.test_numba.test_use_global_config": [],
+    "pandas.tests.window.test_numba.test_invalid_kwargs_nopython": [],
+    "pandas.tests.window.test_numba.TestEngine.test_numba_vs_cython_apply": [],
+    "pandas.tests.window.test_numba.TestEngine.test_numba_vs_cython_rolling_methods": [],
+    "pandas.tests.window.test_numba.TestEngine.test_numba_vs_cython_expanding_methods": [],
+    "pandas.tests.window.test_numba.TestEngine.test_cache_apply": [],
+    "pandas.tests.window.test_numba.TestEWMMean.test_invalid_engine": [],
+    "pandas.tests.window.test_numba.TestEWMMean.test_invalid_engine_kwargs": [],
+    "pandas.tests.window.test_numba.TestEWMMean.test_cython_vs_numba": [],
+    "pandas.tests.window.test_numba.TestEWMMean.test_cython_vs_numba_times": [],
+    "pandas.tests.window.test_numba.TestTableMethod.test_table_series_valueerror": [],
+    "pandas.tests.window.test_numba.TestTableMethod.test_table_method_rolling_methods": [],
+    "pandas.tests.window.test_numba.TestTableMethod.test_table_method_rolling_apply": [],
+    "pandas.tests.window.test_numba.TestTableMethod.test_table_method_rolling_weighted_mean": [],
+    "pandas.tests.window.test_numba.TestTableMethod.test_table_method_expanding_apply": [],
+    "pandas.tests.window.test_numba.TestTableMethod.test_table_method_expanding_methods": [],
+    "pandas.tests.window.test_numba.TestEngine": [],
+    "pandas.tests.window.test_numba.TestEWMMean": [],
+    "pandas.tests.window.test_numba.TestTableMethod": []
+}

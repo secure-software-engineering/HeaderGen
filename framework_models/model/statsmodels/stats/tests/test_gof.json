@@ -1,0 +1,5 @@
+{
+    "statsmodels.stats.tests.test_gof.test_chisquare_power": [],
+    "statsmodels.stats.tests.test_gof.test_chisquare": [],
+    "statsmodels.stats.tests.test_gof.test_chisquare_effectsize": []
+}

@@ -1,0 +1,16 @@
+{
+    "pandas.io.formats.string._binify": [],
+    "pandas.io.formats.string.StringFormatter.__init__": [],
+    "pandas.io.formats.string.StringFormatter.to_string": [],
+    "pandas.io.formats.string.StringFormatter._get_strcols": [],
+    "pandas.io.formats.string.StringFormatter._get_string_representation": [],
+    "pandas.io.formats.string.StringFormatter._empty_info_line": [],
+    "pandas.io.formats.string.StringFormatter._need_to_wrap_around": [],
+    "pandas.io.formats.string.StringFormatter._insert_dot_separators": [],
+    "pandas.io.formats.string.StringFormatter._adjusted_tr_col_num": [],
+    "pandas.io.formats.string.StringFormatter._insert_dot_separator_horizontal": [],
+    "pandas.io.formats.string.StringFormatter._insert_dot_separator_vertical": [],
+    "pandas.io.formats.string.StringFormatter._join_multiline": [],
+    "pandas.io.formats.string.StringFormatter._fit_strcols_to_terminal_width": [],
+    "pandas.io.formats.string.StringFormatter": []
+}

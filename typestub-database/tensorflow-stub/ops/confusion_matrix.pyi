@@ -1,0 +1,9 @@
+from tensorflow.python.framework import dtypes as dtypes, ops as ops
+from tensorflow.python.ops import array_ops as array_ops, check_ops as check_ops, control_flow_ops as control_flow_ops, math_ops as math_ops
+from tensorflow.python.util import deprecation as deprecation, dispatch as dispatch
+from tensorflow.python.util.tf_export import tf_export as tf_export
+from typing import Any
+
+def remove_squeezable_dimensions(labels, predictions, expected_rank_diff: int = ..., name: Any | None = ...): ...
+def confusion_matrix(labels, predictions, num_classes: Any | None = ..., weights: Any | None = ..., dtype=..., name: Any | None = ...): ...
+def confusion_matrix_v1(labels, predictions, num_classes: Any | None = ..., dtype=..., name: Any | None = ..., weights: Any | None = ...): ...

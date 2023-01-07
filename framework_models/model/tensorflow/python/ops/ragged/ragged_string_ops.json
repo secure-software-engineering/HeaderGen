@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.ops.ragged.ragged_string_ops.string_bytes_split": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.unicode_encode": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.unicode_decode": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.unicode_decode_with_offsets": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.unicode_split": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.unicode_split_with_offsets": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops._unicode_decode": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.string_split_v2": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.string_split": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.strings_split_v1": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.reduce_join": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.ngrams": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.string_format": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.ragged_tensor_to_string": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops._ragged_tensor_to_string": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops._nrows": [],
+    "tensorflow.python.ops.ragged.ragged_string_ops.string_join": []
+}

@@ -1,0 +1,9 @@
+{
+    "scipy.special.tests.test_faddeeva.TestVoigtProfile.test_nan": [],
+    "scipy.special.tests.test_faddeeva.TestVoigtProfile.test_inf": [],
+    "scipy.special.tests.test_faddeeva.TestVoigtProfile.test_against_mathematica": [],
+    "scipy.special.tests.test_faddeeva.TestVoigtProfile.test_symmetry": [],
+    "scipy.special.tests.test_faddeeva.TestVoigtProfile.test_corner_cases": [],
+    "scipy.special.tests.test_faddeeva.TestVoigtProfile.test_continuity": [],
+    "scipy.special.tests.test_faddeeva.TestVoigtProfile": []
+}

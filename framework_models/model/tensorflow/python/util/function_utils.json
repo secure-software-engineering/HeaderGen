@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.util.function_utils._is_bound_method": [],
+    "tensorflow.python.util.function_utils._is_callable_object": [],
+    "tensorflow.python.util.function_utils.fn_args": [],
+    "tensorflow.python.util.function_utils.has_kwargs": [],
+    "tensorflow.python.util.function_utils.get_func_name": [],
+    "tensorflow.python.util.function_utils.get_func_code": [],
+    "tensorflow.python.util.function_utils.get_disabled_rewriter_config": []
+}

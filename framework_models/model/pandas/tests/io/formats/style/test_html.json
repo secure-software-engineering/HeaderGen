@@ -1,0 +1,21 @@
+{
+    "pandas.tests.io.formats.style.test_html.styler": [],
+    "pandas.tests.io.formats.style.test_html.styler_mi": [],
+    "pandas.tests.io.formats.style.test_html.tpl_style": [],
+    "pandas.tests.io.formats.style.test_html.tpl_table": [],
+    "pandas.tests.io.formats.style.test_html.test_html_template_extends_options": [],
+    "pandas.tests.io.formats.style.test_html.test_exclude_styles": [],
+    "pandas.tests.io.formats.style.test_html.test_w3_html_format": [],
+    "pandas.tests.io.formats.style.test_html.test_colspan_w3": [],
+    "pandas.tests.io.formats.style.test_html.test_rowspan_w3": [],
+    "pandas.tests.io.formats.style.test_html.test_styles": [],
+    "pandas.tests.io.formats.style.test_html.test_doctype": [],
+    "pandas.tests.io.formats.style.test_html.test_block_names": [],
+    "pandas.tests.io.formats.style.test_html.test_from_custom_template_table": [],
+    "pandas.tests.io.formats.style.test_html.test_from_custom_template_style": [],
+    "pandas.tests.io.formats.style.test_html.test_caption_as_sequence": [],
+    "pandas.tests.io.formats.style.test_html.test_sticky_basic": [],
+    "pandas.tests.io.formats.style.test_html.test_sticky_mi": [],
+    "pandas.tests.io.formats.style.test_html.test_sticky_levels": [],
+    "pandas.tests.io.formats.style.test_html.test_sticky_raises": []
+}

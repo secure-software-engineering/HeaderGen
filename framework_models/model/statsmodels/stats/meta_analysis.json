@@ -1,0 +1,16 @@
+{
+    "statsmodels.stats.meta_analysis.effectsize_smd": [],
+    "statsmodels.stats.meta_analysis.effectsize_2proportions": [],
+    "statsmodels.stats.meta_analysis.combine_effects": [],
+    "statsmodels.stats.meta_analysis._fit_tau_iterative": [],
+    "statsmodels.stats.meta_analysis._fit_tau_mm": [],
+    "statsmodels.stats.meta_analysis._fit_tau_iter_mm": [],
+    "statsmodels.stats.meta_analysis.CombineResults.__init__": [],
+    "statsmodels.stats.meta_analysis.CombineResults.conf_int_samples": [],
+    "statsmodels.stats.meta_analysis.CombineResults.conf_int": [],
+    "statsmodels.stats.meta_analysis.CombineResults.test_homogeneity": [],
+    "statsmodels.stats.meta_analysis.CombineResults.summary_array": [],
+    "statsmodels.stats.meta_analysis.CombineResults.summary_frame": [],
+    "statsmodels.stats.meta_analysis.CombineResults.plot_forest": [],
+    "statsmodels.stats.meta_analysis.CombineResults": []
+}

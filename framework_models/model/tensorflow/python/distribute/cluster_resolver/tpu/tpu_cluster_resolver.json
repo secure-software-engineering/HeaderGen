@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.is_running_in_gce": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver._LocalCloudTpuClient.api_available": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.connect": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver._get_device_dict_and_cores": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver._verify_and_return_same_core_count": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.__init__": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.__enter__": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.__exit__": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.master": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.get_master": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.get_job_name": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.get_tpu_system_metadata": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.cluster_spec": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.num_accelerators": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.environment": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver._start_local_server": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver.__deepcopy__": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver._LocalCloudTpuClient": [],
+    "tensorflow.python.distribute.cluster_resolver.tpu.tpu_cluster_resolver.TPUClusterResolver": []
+}

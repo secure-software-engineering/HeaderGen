@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.eager.execute.quick_execute": [],
+    "tensorflow.python.eager.execute.execute_with_cancellation": [],
+    "tensorflow.python.eager.execute.execute_with_callbacks": [],
+    "tensorflow.python.eager.execute.must_record_gradient": [],
+    "tensorflow.python.eager.execute.record_gradient": [],
+    "tensorflow.python.eager.execute.make_float": [],
+    "tensorflow.python.eager.execute.make_int": [],
+    "tensorflow.python.eager.execute.make_str": [],
+    "tensorflow.python.eager.execute.make_bool": [],
+    "tensorflow.python.eager.execute.make_type": [],
+    "tensorflow.python.eager.execute.make_shape": [],
+    "tensorflow.python.eager.execute.make_tensor": [],
+    "tensorflow.python.eager.execute.args_to_matching_eager": [],
+    "tensorflow.python.eager.execute.convert_to_mixed_eager_tensors": [],
+    "tensorflow.python.eager.execute.args_to_mixed_eager_tensors": []
+}

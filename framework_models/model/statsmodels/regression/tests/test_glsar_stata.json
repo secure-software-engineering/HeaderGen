@@ -1,0 +1,11 @@
+{
+    "statsmodels.regression.tests.test_glsar_stata.CheckStataResultsMixin.test_params_table": [],
+    "statsmodels.regression.tests.test_glsar_stata.CheckStataResultsPMixin.test_predicted": [],
+    "statsmodels.regression.tests.test_glsar_stata.TestGLSARCorc.setup_class": [],
+    "statsmodels.regression.tests.test_glsar_stata.TestGLSARCorc.test_rho": [],
+    "statsmodels.regression.tests.test_glsar_stata.TestGLSARCorc.test_glsar_arima": [],
+    "statsmodels.regression.tests.test_glsar_stata.TestGLSARCorc.test_glsar_iter0": [],
+    "statsmodels.regression.tests.test_glsar_stata.CheckStataResultsMixin": [],
+    "statsmodels.regression.tests.test_glsar_stata.CheckStataResultsPMixin": [],
+    "statsmodels.regression.tests.test_glsar_stata.TestGLSARCorc": []
+}

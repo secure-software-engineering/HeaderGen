@@ -1,0 +1,20 @@
+{
+    "statsmodels.tools.tools.asstr2": [],
+    "statsmodels.tools.tools._make_dictnames": [],
+    "statsmodels.tools.tools.drop_missing": [],
+    "statsmodels.tools.tools.categorical": [],
+    "statsmodels.tools.tools.add_constant": [],
+    "statsmodels.tools.tools.isestimable": [],
+    "statsmodels.tools.tools.pinv_extended": [],
+    "statsmodels.tools.tools.recipr": [],
+    "statsmodels.tools.tools.recipr0": [],
+    "statsmodels.tools.tools.clean0": [],
+    "statsmodels.tools.tools.fullrank": [],
+    "statsmodels.tools.tools.unsqueeze": [],
+    "statsmodels.tools.tools.nan_dot": [],
+    "statsmodels.tools.tools.maybe_unwrap_results": [],
+    "statsmodels.tools.tools._ensure_2d": [],
+    "statsmodels.tools.tools.matrix_rank": [],
+    "statsmodels.tools.tools.Bunch.__init__": [],
+    "statsmodels.tools.tools.Bunch": []
+}

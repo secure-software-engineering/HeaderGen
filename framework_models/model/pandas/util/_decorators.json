@@ -1,0 +1,17 @@
+{
+    "pandas.util._decorators.deprecate": [],
+    "pandas.util._decorators.deprecate_kwarg": [],
+    "pandas.util._decorators._format_argument_list": [],
+    "pandas.util._decorators.future_version_msg": [],
+    "pandas.util._decorators.deprecate_nonkeyword_arguments": [],
+    "pandas.util._decorators.rewrite_axis_style_signature": [],
+    "pandas.util._decorators.doc": [],
+    "pandas.util._decorators.indent": [],
+    "pandas.util._decorators.Substitution.__init__": [],
+    "pandas.util._decorators.Substitution.__call__": [],
+    "pandas.util._decorators.Substitution.update": [],
+    "pandas.util._decorators.Appender.__init__": [],
+    "pandas.util._decorators.Appender.__call__": [],
+    "pandas.util._decorators.Substitution": [],
+    "pandas.util._decorators.Appender": []
+}

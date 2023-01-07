@@ -1,0 +1,20 @@
+{
+    "keras.legacy_tf_layers.base.keras_style_scope": [],
+    "keras.legacy_tf_layers.base.set_keras_style": [],
+    "keras.legacy_tf_layers.base._is_in_keras_style_scope": [],
+    "keras.legacy_tf_layers.base._add_elements_to_collection": [],
+    "keras.legacy_tf_layers.base.Layer.__init__": [],
+    "keras.legacy_tf_layers.base.Layer.graph": [],
+    "keras.legacy_tf_layers.base.Layer._init_set_name": [],
+    "keras.legacy_tf_layers.base.Layer._make_unique_name": [],
+    "keras.legacy_tf_layers.base.Layer.scope_name": [],
+    "keras.legacy_tf_layers.base.Layer.add_loss": [],
+    "keras.legacy_tf_layers.base.Layer._name_scope": [],
+    "keras.legacy_tf_layers.base.Layer._set_scope": [],
+    "keras.legacy_tf_layers.base.Layer.add_weight": [],
+    "keras.legacy_tf_layers.base.Layer.__call__": [],
+    "keras.legacy_tf_layers.base.Layer.__deepcopy__": [],
+    "keras.legacy_tf_layers.base.Layer.__setattr__": [],
+    "keras.legacy_tf_layers.base.Layer._is_legacy_layer": [],
+    "keras.legacy_tf_layers.base.Layer": []
+}

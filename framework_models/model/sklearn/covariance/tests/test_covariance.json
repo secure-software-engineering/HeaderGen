@@ -1,0 +1,11 @@
+{
+    "sklearn.covariance.tests.test_covariance.test_covariance": [],
+    "sklearn.covariance.tests.test_covariance.test_shrunk_covariance": [],
+    "sklearn.covariance.tests.test_covariance.test_ledoit_wolf": [],
+    "sklearn.covariance.tests.test_covariance._naive_ledoit_wolf_shrinkage": [],
+    "sklearn.covariance.tests.test_covariance.test_ledoit_wolf_small": [],
+    "sklearn.covariance.tests.test_covariance.test_ledoit_wolf_large": [],
+    "sklearn.covariance.tests.test_covariance.test_ledoit_wolf_empty_array": [],
+    "sklearn.covariance.tests.test_covariance.test_oas": [],
+    "sklearn.covariance.tests.test_covariance.test_EmpiricalCovariance_validates_mahalanobis": []
+}

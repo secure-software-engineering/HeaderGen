@@ -1,0 +1,7 @@
+{
+    "pandas._config.localization.set_locale": [],
+    "pandas._config.localization.can_set_locale": [],
+    "pandas._config.localization._valid_locales": [],
+    "pandas._config.localization._default_locale_getter": [],
+    "pandas._config.localization.get_locales": []
+}

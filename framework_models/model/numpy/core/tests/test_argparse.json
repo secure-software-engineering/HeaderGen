@@ -1,0 +1,7 @@
+{
+    "numpy.core.tests.test_argparse.test_invalid_integers": [],
+    "numpy.core.tests.test_argparse.test_missing_arguments": [],
+    "numpy.core.tests.test_argparse.test_too_many_positional": [],
+    "numpy.core.tests.test_argparse.test_multiple_values": [],
+    "numpy.core.tests.test_argparse.test_string_fallbacks": []
+}

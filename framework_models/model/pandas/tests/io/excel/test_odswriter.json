@@ -1,0 +1,5 @@
+{
+    "pandas.tests.io.excel.test_odswriter.test_write_append_mode_raises": [],
+    "pandas.tests.io.excel.test_odswriter.test_kwargs": [],
+    "pandas.tests.io.excel.test_odswriter.test_engine_kwargs": []
+}

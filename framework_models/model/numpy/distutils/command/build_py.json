@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.command.build_py.build_py.run": [],
+    "numpy.distutils.command.build_py.build_py.find_package_modules": [],
+    "numpy.distutils.command.build_py.build_py.find_modules": [],
+    "numpy.distutils.command.build_py.build_py": []
+}

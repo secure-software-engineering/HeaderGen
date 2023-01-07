@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.autograph.converters.functions.transform": [],
+    "tensorflow.python.autograph.converters.functions._Function.__init__": [],
+    "tensorflow.python.autograph.converters.functions.FunctionTransformer._function_scope_options": [],
+    "tensorflow.python.autograph.converters.functions.FunctionTransformer.visit_Lambda": [],
+    "tensorflow.python.autograph.converters.functions.FunctionTransformer.visit_FunctionDef": [],
+    "tensorflow.python.autograph.converters.functions._Function": [],
+    "tensorflow.python.autograph.converters.functions.FunctionTransformer": []
+}

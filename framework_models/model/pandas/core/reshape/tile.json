@@ -1,0 +1,13 @@
+{
+    "pandas.core.reshape.tile.cut": [],
+    "pandas.core.reshape.tile.qcut": [],
+    "pandas.core.reshape.tile._bins_to_cuts": [],
+    "pandas.core.reshape.tile._coerce_to_type": [],
+    "pandas.core.reshape.tile._convert_bin_to_numeric_type": [],
+    "pandas.core.reshape.tile._convert_bin_to_datelike_type": [],
+    "pandas.core.reshape.tile._format_labels": [],
+    "pandas.core.reshape.tile._preprocess_for_cut": [],
+    "pandas.core.reshape.tile._postprocess_for_cut": [],
+    "pandas.core.reshape.tile._round_frac": [],
+    "pandas.core.reshape.tile._infer_precision": []
+}

@@ -1,0 +1,19 @@
+{
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_dijkstra_limit": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_directed": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_undirected": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_directed_sparse_zero": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_undirected_sparse_zero": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_dijkstra_indices_min_only": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_shortest_path_min_only_random": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_shortest_path_indices": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_predecessors": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_construct_shortest_path": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_unweighted_path": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_negative_cycles": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_masked_input": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_overwrite": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_buffer": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_NaN_warnings": [],
+    "scipy.sparse.csgraph.tests.test_shortest_path.test_sparse_matrices": []
+}

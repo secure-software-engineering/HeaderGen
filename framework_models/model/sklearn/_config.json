@@ -1,0 +1,6 @@
+{
+    "sklearn._config._get_threadlocal_config": [],
+    "sklearn._config.get_config": [],
+    "sklearn._config.set_config": [],
+    "sklearn._config.config_context": []
+}

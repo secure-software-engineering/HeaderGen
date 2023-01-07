@@ -1,0 +1,9 @@
+{
+    "pandas.tests.frame.methods.test_duplicated.test_duplicated_with_misspelled_column_name": [],
+    "pandas.tests.frame.methods.test_duplicated.test_duplicated_do_not_fail_on_wide_dataframes": [],
+    "pandas.tests.frame.methods.test_duplicated.test_duplicated_keep": [],
+    "pandas.tests.frame.methods.test_duplicated.test_duplicated_nan_none": [],
+    "pandas.tests.frame.methods.test_duplicated.test_duplicated_subset": [],
+    "pandas.tests.frame.methods.test_duplicated.test_duplicated_on_empty_frame": [],
+    "pandas.tests.frame.methods.test_duplicated.test_frame_datetime64_duplicated": []
+}

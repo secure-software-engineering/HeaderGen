@@ -1,0 +1,13 @@
+{
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_argsort_matches_array": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_can_hold_identifiers": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_shift_identity": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_shift_empty": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_str": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_view": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_map_callable": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_map_dictlike": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_getitem_preserves_freq": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike.test_where_cast_str": [],
+    "pandas.tests.indexes.datetimelike.DatetimeLike": []
+}

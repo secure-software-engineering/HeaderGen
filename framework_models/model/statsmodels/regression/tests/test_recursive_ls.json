@@ -1,0 +1,16 @@
+{
+    "statsmodels.regression.tests.test_recursive_ls.test_endog": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_ols": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_glm": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_glm_constrained": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_filter": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_estimates": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_plots": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_from_formula": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_resid_recursive": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_cusum": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_stata": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_constraints_stata": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_multiple_constraints": [],
+    "statsmodels.regression.tests.test_recursive_ls.test_fix_params": []
+}

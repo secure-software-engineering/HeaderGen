@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.summary.writer.event_file_writer_v2.EventFileWriterV2.__init__": [],
+    "tensorflow.python.summary.writer.event_file_writer_v2.EventFileWriterV2.get_logdir": [],
+    "tensorflow.python.summary.writer.event_file_writer_v2.EventFileWriterV2.reopen": [],
+    "tensorflow.python.summary.writer.event_file_writer_v2.EventFileWriterV2.add_event": [],
+    "tensorflow.python.summary.writer.event_file_writer_v2.EventFileWriterV2.flush": [],
+    "tensorflow.python.summary.writer.event_file_writer_v2.EventFileWriterV2.close": [],
+    "tensorflow.python.summary.writer.event_file_writer_v2.EventFileWriterV2": []
+}

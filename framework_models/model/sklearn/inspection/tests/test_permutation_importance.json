@@ -1,0 +1,15 @@
+{
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_correlated_feature_regression": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_correlated_feature_regression_pandas": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_robustness_to_high_cardinality_noisy_feature": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_mixed_types": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_mixed_types_pandas": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_linear_regresssion": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_equivalence_sequential_parallel": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_equivalence_array_dataframe": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_large_memmaped_data": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_sample_weight": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_no_weights_scoring_function": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_multi_metric": [],
+    "sklearn.inspection.tests.test_permutation_importance.test_permutation_importance_max_samples_error": []
+}

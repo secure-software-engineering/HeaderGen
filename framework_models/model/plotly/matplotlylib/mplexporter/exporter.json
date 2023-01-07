@@ -1,0 +1,14 @@
+{
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.__init__": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.run": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.process_transform": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.crawl_fig": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.crawl_ax": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.crawl_legend": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.draw_line": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.draw_text": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.draw_patch": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.draw_collection": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter.draw_image": [],
+    "plotly.matplotlylib.mplexporter.exporter.Exporter": []
+}

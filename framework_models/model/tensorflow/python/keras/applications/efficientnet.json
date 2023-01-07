@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.keras.applications.efficientnet.EfficientNet": [],
+    "tensorflow.python.keras.applications.efficientnet.block": [],
+    "tensorflow.python.keras.applications.efficientnet.EfficientNetB0": [],
+    "tensorflow.python.keras.applications.efficientnet.EfficientNetB1": [],
+    "tensorflow.python.keras.applications.efficientnet.EfficientNetB2": [],
+    "tensorflow.python.keras.applications.efficientnet.EfficientNetB3": [],
+    "tensorflow.python.keras.applications.efficientnet.EfficientNetB4": [],
+    "tensorflow.python.keras.applications.efficientnet.EfficientNetB5": [],
+    "tensorflow.python.keras.applications.efficientnet.EfficientNetB6": [],
+    "tensorflow.python.keras.applications.efficientnet.EfficientNetB7": [],
+    "tensorflow.python.keras.applications.efficientnet.preprocess_input": [],
+    "tensorflow.python.keras.applications.efficientnet.decode_predictions": []
+}

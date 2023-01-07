@@ -1,0 +1,8 @@
+{
+    "numpy.core.memmap.memmap.__new__": [],
+    "numpy.core.memmap.memmap.__array_finalize__": [],
+    "numpy.core.memmap.memmap.flush": [],
+    "numpy.core.memmap.memmap.__array_wrap__": [],
+    "numpy.core.memmap.memmap.__getitem__": [],
+    "numpy.core.memmap.memmap": []
+}

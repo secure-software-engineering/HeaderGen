@@ -1,0 +1,11 @@
+{
+    "keras.layers.core.spatial_dropout.SpatialDropout1D.__init__": [],
+    "keras.layers.core.spatial_dropout.SpatialDropout1D._get_noise_shape": [],
+    "keras.layers.core.spatial_dropout.SpatialDropout2D.__init__": [],
+    "keras.layers.core.spatial_dropout.SpatialDropout2D._get_noise_shape": [],
+    "keras.layers.core.spatial_dropout.SpatialDropout3D.__init__": [],
+    "keras.layers.core.spatial_dropout.SpatialDropout3D._get_noise_shape": [],
+    "keras.layers.core.spatial_dropout.SpatialDropout1D": [],
+    "keras.layers.core.spatial_dropout.SpatialDropout2D": [],
+    "keras.layers.core.spatial_dropout.SpatialDropout3D": []
+}

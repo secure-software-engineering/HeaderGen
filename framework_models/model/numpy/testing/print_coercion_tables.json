@@ -1,0 +1,9 @@
+{
+    "numpy.testing.print_coercion_tables.print_cancast_table": [],
+    "numpy.testing.print_coercion_tables.print_coercion_table": [],
+    "numpy.testing.print_coercion_tables.print_new_cast_table": [],
+    "numpy.testing.print_coercion_tables.GenericObject.__init__": [],
+    "numpy.testing.print_coercion_tables.GenericObject.__add__": [],
+    "numpy.testing.print_coercion_tables.GenericObject.__radd__": [],
+    "numpy.testing.print_coercion_tables.GenericObject": []
+}

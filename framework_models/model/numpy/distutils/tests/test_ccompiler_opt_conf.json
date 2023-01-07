@@ -1,0 +1,19 @@
+{
+    "numpy.distutils.tests.test_ccompiler_opt_conf.FakeCCompilerOpt.__init__": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf.FakeCCompilerOpt.dist_compile": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf.FakeCCompilerOpt.dist_info": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf.FakeCCompilerOpt.dist_log": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf._TestConfFeatures.conf_features_partial": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf._TestConfFeatures.test_feature": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf._TestConfFeatures.test_option_types": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf._TestConfFeatures.test_duplicates": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf._TestConfFeatures.test_implies": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf._TestConfFeatures.test_group": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf._TestConfFeatures.test_extra_checks": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf.TestConfFeatures.__init__": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf.TestConfFeatures.setup": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf.TestConfFeatures.test_features": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf.FakeCCompilerOpt": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf._TestConfFeatures": [],
+    "numpy.distutils.tests.test_ccompiler_opt_conf.TestConfFeatures": []
+}

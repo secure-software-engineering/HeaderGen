@@ -1,0 +1,13 @@
+ARIMA_DEPRECATION_ERROR: str
+
+class ARMA:
+    def __init__(self, *args, **kwargs) -> None: ...
+
+class ARIMA(ARMA):
+    def __init__(self, *args, **kwargs) -> None: ...
+
+class ARMAResults:
+    def __init__(self, *args, **kwargs) -> None: ...
+
+class ARIMAResults(ARMAResults):
+    def __init__(self, *args, **kwargs) -> None: ...

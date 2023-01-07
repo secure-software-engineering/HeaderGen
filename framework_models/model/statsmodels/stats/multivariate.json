@@ -1,0 +1,13 @@
+{
+    "statsmodels.stats.multivariate._logdet": [],
+    "statsmodels.stats.multivariate.test_mvmean": [],
+    "statsmodels.stats.multivariate.test_mvmean_2indep": [],
+    "statsmodels.stats.multivariate.confint_mvmean": [],
+    "statsmodels.stats.multivariate.confint_mvmean_fromstats": [],
+    "statsmodels.stats.multivariate.test_cov": [],
+    "statsmodels.stats.multivariate.test_cov_spherical": [],
+    "statsmodels.stats.multivariate.test_cov_diagonal": [],
+    "statsmodels.stats.multivariate._get_blocks": [],
+    "statsmodels.stats.multivariate.test_cov_blockdiagonal": [],
+    "statsmodels.stats.multivariate.test_cov_oneway": []
+}

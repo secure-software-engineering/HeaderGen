@@ -1,0 +1,7 @@
+{
+    "pandas.tests.series.indexing.test_delitem.TestSeriesDelItem.test_delitem": [],
+    "pandas.tests.series.indexing.test_delitem.TestSeriesDelItem.test_delitem_object_index": [],
+    "pandas.tests.series.indexing.test_delitem.TestSeriesDelItem.test_delitem_missing_key": [],
+    "pandas.tests.series.indexing.test_delitem.TestSeriesDelItem.test_delitem_extension_dtype": [],
+    "pandas.tests.series.indexing.test_delitem.TestSeriesDelItem": []
+}

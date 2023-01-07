@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.saved_model.signature_serialization._get_signature": [],
+    "tensorflow.python.saved_model.signature_serialization._valid_signature": [],
+    "tensorflow.python.saved_model.signature_serialization._validate_inputs": [],
+    "tensorflow.python.saved_model.signature_serialization._get_signature_name_changes": [],
+    "tensorflow.python.saved_model.signature_serialization.find_function_to_export": [],
+    "tensorflow.python.saved_model.signature_serialization.canonicalize_signatures": [],
+    "tensorflow.python.saved_model.signature_serialization._normalize_outputs": [],
+    "tensorflow.python.saved_model.signature_serialization.create_signature_map": [],
+    "tensorflow.python.saved_model.signature_serialization.validate_saveable_view": [],
+    "tensorflow.python.saved_model.signature_serialization._SignatureMap.__init__": [],
+    "tensorflow.python.saved_model.signature_serialization._SignatureMap._add_signature": [],
+    "tensorflow.python.saved_model.signature_serialization._SignatureMap.__getitem__": [],
+    "tensorflow.python.saved_model.signature_serialization._SignatureMap.__iter__": [],
+    "tensorflow.python.saved_model.signature_serialization._SignatureMap.__len__": [],
+    "tensorflow.python.saved_model.signature_serialization._SignatureMap.__repr__": [],
+    "tensorflow.python.saved_model.signature_serialization._SignatureMap._list_functions_for_serialization": [],
+    "tensorflow.python.saved_model.signature_serialization._SignatureMap": []
+}

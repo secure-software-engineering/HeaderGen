@@ -1,0 +1,13 @@
+{
+    "statsmodels.tsa.base.prediction.PredictionResults.__init__": [],
+    "statsmodels.tsa.base.prediction.PredictionResults._wrap_pandas": [],
+    "statsmodels.tsa.base.prediction.PredictionResults.row_labels": [],
+    "statsmodels.tsa.base.prediction.PredictionResults.predicted_mean": [],
+    "statsmodels.tsa.base.prediction.PredictionResults.var_pred_mean": [],
+    "statsmodels.tsa.base.prediction.PredictionResults.se_mean": [],
+    "statsmodels.tsa.base.prediction.PredictionResults.tvalues": [],
+    "statsmodels.tsa.base.prediction.PredictionResults.t_test": [],
+    "statsmodels.tsa.base.prediction.PredictionResults.conf_int": [],
+    "statsmodels.tsa.base.prediction.PredictionResults.summary_frame": [],
+    "statsmodels.tsa.base.prediction.PredictionResults": []
+}

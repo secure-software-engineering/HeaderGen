@@ -1,0 +1,7 @@
+{
+    "matplotlib.tests.test_matplotlib.test_parse_to_version_info": [],
+    "matplotlib.tests.test_matplotlib.test_tmpconfigdir_warning": [],
+    "matplotlib.tests.test_matplotlib.test_importable_with_no_home": [],
+    "matplotlib.tests.test_matplotlib.test_use_doc_standard_backends": [],
+    "matplotlib.tests.test_matplotlib.test_importable_with__OO": []
+}

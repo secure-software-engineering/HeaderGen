@@ -1,0 +1,22 @@
+{
+    "statsmodels.stats.tests.test_tost.assert_almost_equal_inf": [],
+    "statsmodels.stats.tests.test_tost.test_tost_log": [],
+    "statsmodels.stats.tests.test_tost.test_tost_asym": [],
+    "statsmodels.stats.tests.test_tost.test_ttest": [],
+    "statsmodels.stats.tests.test_tost.test_tost_transform_paired": [],
+    "statsmodels.stats.tests.test_tost.CheckTostMixin.test_pval": [],
+    "statsmodels.stats.tests.test_tost.TestTostp1.setup_class": [],
+    "statsmodels.stats.tests.test_tost.TestTostp1.test_special": [],
+    "statsmodels.stats.tests.test_tost.TestTostp2.setup_class": [],
+    "statsmodels.stats.tests.test_tost.TestTosti1.setup_class": [],
+    "statsmodels.stats.tests.test_tost.TestTosti2.setup_class": [],
+    "statsmodels.stats.tests.test_tost.TestTostip1.setup_class": [],
+    "statsmodels.stats.tests.test_tost.TestTostip2.setup_class": [],
+    "statsmodels.stats.tests.test_tost.CheckTostMixin": [],
+    "statsmodels.stats.tests.test_tost.TestTostp1": [],
+    "statsmodels.stats.tests.test_tost.TestTostp2": [],
+    "statsmodels.stats.tests.test_tost.TestTosti1": [],
+    "statsmodels.stats.tests.test_tost.TestTosti2": [],
+    "statsmodels.stats.tests.test_tost.TestTostip1": [],
+    "statsmodels.stats.tests.test_tost.TestTostip2": []
+}

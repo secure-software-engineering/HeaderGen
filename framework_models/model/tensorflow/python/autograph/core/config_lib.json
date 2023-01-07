@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.autograph.core.config_lib.Rule.__init__": [],
+    "tensorflow.python.autograph.core.config_lib.Rule.matches": [],
+    "tensorflow.python.autograph.core.config_lib.DoNotConvert.__str__": [],
+    "tensorflow.python.autograph.core.config_lib.DoNotConvert.get_action": [],
+    "tensorflow.python.autograph.core.config_lib.Convert.__str__": [],
+    "tensorflow.python.autograph.core.config_lib.Convert.get_action": [],
+    "tensorflow.python.autograph.core.config_lib.Rule": [],
+    "tensorflow.python.autograph.core.config_lib.Action": [],
+    "tensorflow.python.autograph.core.config_lib.DoNotConvert": [],
+    "tensorflow.python.autograph.core.config_lib.Convert": []
+}

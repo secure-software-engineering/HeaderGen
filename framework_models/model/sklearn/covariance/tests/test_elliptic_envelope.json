@@ -1,0 +1,4 @@
+{
+    "sklearn.covariance.tests.test_elliptic_envelope.test_elliptic_envelope": [],
+    "sklearn.covariance.tests.test_elliptic_envelope.test_score_samples": []
+}

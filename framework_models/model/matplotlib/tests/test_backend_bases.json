@@ -1,0 +1,13 @@
+{
+    "matplotlib.tests.test_backend_bases.test_uses_per_path": [],
+    "matplotlib.tests.test_backend_bases.test_canvas_ctor": [],
+    "matplotlib.tests.test_backend_bases.test_get_default_filename": [],
+    "matplotlib.tests.test_backend_bases.test_canvas_change": [],
+    "matplotlib.tests.test_backend_bases.test_non_gui_warning": [],
+    "matplotlib.tests.test_backend_bases.test_location_event_position": [],
+    "matplotlib.tests.test_backend_bases.test_pick": [],
+    "matplotlib.tests.test_backend_bases.test_interactive_zoom": [],
+    "matplotlib.tests.test_backend_bases.test_interactive_colorbar": [],
+    "matplotlib.tests.test_backend_bases.test_toolbar_zoompan": [],
+    "matplotlib.tests.test_backend_bases.test_draw": []
+}

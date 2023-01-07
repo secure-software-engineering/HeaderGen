@@ -1,0 +1,11 @@
+{
+    "pandas.tests.io.parser.dtypes.test_empty.test_dtype_all_columns_empty": [],
+    "pandas.tests.io.parser.dtypes.test_empty.test_empty_pass_dtype": [],
+    "pandas.tests.io.parser.dtypes.test_empty.test_empty_with_index_pass_dtype": [],
+    "pandas.tests.io.parser.dtypes.test_empty.test_empty_with_multi_index_pass_dtype": [],
+    "pandas.tests.io.parser.dtypes.test_empty.test_empty_with_mangled_column_pass_dtype_by_names": [],
+    "pandas.tests.io.parser.dtypes.test_empty.test_empty_with_mangled_column_pass_dtype_by_indexes": [],
+    "pandas.tests.io.parser.dtypes.test_empty.test_empty_with_dup_column_pass_dtype_by_indexes": [],
+    "pandas.tests.io.parser.dtypes.test_empty.test_empty_with_dup_column_pass_dtype_by_indexes_raises": [],
+    "pandas.tests.io.parser.dtypes.test_empty.test_empty_dtype": []
+}

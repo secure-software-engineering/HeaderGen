@@ -1,0 +1,21 @@
+{
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.get_serialized": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.LayerSavedModelSaver.object_identifier": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.LayerSavedModelSaver.python_properties": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.LayerSavedModelSaver._python_properties_internal": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.LayerSavedModelSaver.objects_to_serialize": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.LayerSavedModelSaver.functions_to_serialize": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.LayerSavedModelSaver._get_serialized_attributes": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.LayerSavedModelSaver._get_serialized_attributes_internal": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver.object_identifier": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver.python_properties": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver.objects_to_serialize": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver.functions_to_serialize": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.RNNSavedModelSaver.object_identifier": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.RNNSavedModelSaver._get_serialized_attributes_internal": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.IndexLookupLayerSavedModelSaver.python_properties": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.LayerSavedModelSaver": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.InputLayerSavedModelSaver": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.RNNSavedModelSaver": [],
+    "tensorflow.python.keras.saving.saved_model.layer_serialization.IndexLookupLayerSavedModelSaver": []
+}

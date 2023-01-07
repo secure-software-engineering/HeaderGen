@@ -1,0 +1,22 @@
+{
+    "statsmodels.formula.tests.test_formula.test_tests": [],
+    "statsmodels.formula.tests.test_formula.test_formula_labels": [],
+    "statsmodels.formula.tests.test_formula.test_formula_predict": [],
+    "statsmodels.formula.tests.test_formula.test_formula_predict_series": [],
+    "statsmodels.formula.tests.test_formula.test_patsy_lazy_dict": [],
+    "statsmodels.formula.tests.test_formula.test_patsy_missing_data": [],
+    "statsmodels.formula.tests.test_formula.test_predict_nondataframe": [],
+    "statsmodels.formula.tests.test_formula.test_formula_environment": [],
+    "statsmodels.formula.tests.test_formula.test_formula_predict_series_exog": [],
+    "statsmodels.formula.tests.test_formula.CheckFormulaOLS.setup_class": [],
+    "statsmodels.formula.tests.test_formula.CheckFormulaOLS.test_endog_names": [],
+    "statsmodels.formula.tests.test_formula.CheckFormulaOLS.test_exog_names": [],
+    "statsmodels.formula.tests.test_formula.CheckFormulaOLS.test_design": [],
+    "statsmodels.formula.tests.test_formula.CheckFormulaOLS.test_endog": [],
+    "statsmodels.formula.tests.test_formula.CheckFormulaOLS.test_summary": [],
+    "statsmodels.formula.tests.test_formula.TestFormulaPandas.setup_class": [],
+    "statsmodels.formula.tests.test_formula.TestFormulaDict.setup_class": [],
+    "statsmodels.formula.tests.test_formula.CheckFormulaOLS": [],
+    "statsmodels.formula.tests.test_formula.TestFormulaPandas": [],
+    "statsmodels.formula.tests.test_formula.TestFormulaDict": []
+}

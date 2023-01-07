@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.ops.signal.dct_ops._validate_dct_arguments": [],
+    "tensorflow.python.ops.signal.dct_ops.dct": [],
+    "tensorflow.python.ops.signal.dct_ops.idct": []
+}

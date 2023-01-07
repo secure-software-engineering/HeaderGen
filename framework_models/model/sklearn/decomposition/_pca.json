@@ -1,0 +1,14 @@
+{
+    "sklearn.decomposition._pca._assess_dimension": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca._infer_dimension": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA.__init__": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA.fit": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA.fit_transform": ["DATA_CLEANING_PREPARATION", "FEATURE_ENGINEERING"],
+    "sklearn.decomposition._pca.PCA._fit": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA._fit_full": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA._fit_truncated": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA.score_samples": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA.score": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA._more_tags": ["DATA_CLEANING_PREPARATION"],
+    "sklearn.decomposition._pca.PCA": ["DATA_CLEANING_PREPARATION"]
+}

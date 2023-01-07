@@ -1,0 +1,13 @@
+{
+    "numpy.core.setup_common.is_released": [],
+    "numpy.core.setup_common.get_api_versions": [],
+    "numpy.core.setup_common.check_api_version": [],
+    "numpy.core.setup_common.fname2def": [],
+    "numpy.core.setup_common.sym2def": [],
+    "numpy.core.setup_common.type2def": [],
+    "numpy.core.setup_common.check_long_double_representation": [],
+    "numpy.core.setup_common.pyod": [],
+    "numpy.core.setup_common.long_double_representation": [],
+    "numpy.core.setup_common.check_for_right_shift_internal_compiler_error": [],
+    "numpy.core.setup_common.MismatchCAPIWarning": []
+}

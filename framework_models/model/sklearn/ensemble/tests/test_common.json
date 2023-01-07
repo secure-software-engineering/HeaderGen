@@ -1,0 +1,7 @@
+{
+    "sklearn.ensemble.tests.test_common.test_ensemble_heterogeneous_estimators_behavior": [],
+    "sklearn.ensemble.tests.test_common.test_ensemble_heterogeneous_estimators_type": [],
+    "sklearn.ensemble.tests.test_common.test_ensemble_heterogeneous_estimators_name_validation": [],
+    "sklearn.ensemble.tests.test_common.test_ensemble_heterogeneous_estimators_all_dropped": [],
+    "sklearn.ensemble.tests.test_common.test_heterogeneous_ensemble_support_missing_values": []
+}

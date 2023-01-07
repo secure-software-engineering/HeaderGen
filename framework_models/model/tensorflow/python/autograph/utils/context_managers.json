@@ -1,0 +1,3 @@
+{
+    "tensorflow.python.autograph.utils.context_managers.control_dependency_on_returns": []
+}

@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexes.datetimes.test_delete.TestDelete.test_delete": [],
+    "pandas.tests.indexes.datetimes.test_delete.TestDelete.test_delete_slice": [],
+    "pandas.tests.indexes.datetimes.test_delete.TestDelete": []
+}

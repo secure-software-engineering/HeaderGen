@@ -1,0 +1,8 @@
+{
+    "pandas.tests.dtypes.cast.test_downcast.test_downcast": [],
+    "pandas.tests.dtypes.cast.test_downcast.test_downcast_booleans": [],
+    "pandas.tests.dtypes.cast.test_downcast.test_downcast_conversion_no_nan": [],
+    "pandas.tests.dtypes.cast.test_downcast.test_downcast_conversion_nan": [],
+    "pandas.tests.dtypes.cast.test_downcast.test_downcast_conversion_empty": [],
+    "pandas.tests.dtypes.cast.test_downcast.test_datetime_likes_nan": []
+}

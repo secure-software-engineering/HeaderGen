@@ -1,0 +1,4 @@
+{
+    "keras.layers.VersionAwareLayers.__getattr__": [],
+    "keras.layers.VersionAwareLayers": []
+}

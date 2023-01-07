@@ -1,0 +1,17 @@
+{
+    "pandas.tests.io.formats.test_printing.test_adjoin": [],
+    "pandas.tests.io.formats.test_printing.test_repr_binary_type": [],
+    "pandas.tests.io.formats.test_printing.TestFormattBase.test_adjoin": [],
+    "pandas.tests.io.formats.test_printing.TestFormattBase.test_adjoin_unicode": [],
+    "pandas.tests.io.formats.test_printing.TestFormattBase.test_justify": [],
+    "pandas.tests.io.formats.test_printing.TestFormattBase.test_east_asian_len": [],
+    "pandas.tests.io.formats.test_printing.TestFormattBase.test_ambiguous_width": [],
+    "pandas.tests.io.formats.test_printing.TestTableSchemaRepr.setup_class": [],
+    "pandas.tests.io.formats.test_printing.TestTableSchemaRepr.test_publishes": [],
+    "pandas.tests.io.formats.test_printing.TestTableSchemaRepr.test_publishes_not_implemented": [],
+    "pandas.tests.io.formats.test_printing.TestTableSchemaRepr.test_config_on": [],
+    "pandas.tests.io.formats.test_printing.TestTableSchemaRepr.test_config_default_off": [],
+    "pandas.tests.io.formats.test_printing.TestTableSchemaRepr.test_enable_data_resource_formatter": [],
+    "pandas.tests.io.formats.test_printing.TestFormattBase": [],
+    "pandas.tests.io.formats.test_printing.TestTableSchemaRepr": []
+}

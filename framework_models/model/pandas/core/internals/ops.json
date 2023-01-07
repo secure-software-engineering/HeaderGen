@@ -1,0 +1,7 @@
+{
+    "pandas.core.internals.ops._iter_block_pairs": [],
+    "pandas.core.internals.ops.operate_blockwise": [],
+    "pandas.core.internals.ops._reset_block_mgr_locs": [],
+    "pandas.core.internals.ops._get_same_shape_values": [],
+    "pandas.core.internals.ops.blockwise_all": []
+}

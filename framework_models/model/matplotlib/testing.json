@@ -1,0 +1,7 @@
+{
+    "matplotlib.testing.set_font_settings_for_testing": [],
+    "matplotlib.testing.set_reproducibility_for_testing": [],
+    "matplotlib.testing.setup": [],
+    "matplotlib.testing._check_for_pgf": [],
+    "matplotlib.testing._has_tex_package": []
+}

@@ -1,0 +1,15 @@
+{
+    "statsmodels.sandbox.regression.runmnl.TryCLogit.__init__": [],
+    "statsmodels.sandbox.regression.runmnl.TryCLogit.xbetas": [],
+    "statsmodels.sandbox.regression.runmnl.TryCLogit.loglike": [],
+    "statsmodels.sandbox.regression.runmnl.TryCLogit.fit": [],
+    "statsmodels.sandbox.regression.runmnl.TryNCLogit.__init__": [],
+    "statsmodels.sandbox.regression.runmnl.TryNCLogit.xbetas": [],
+    "statsmodels.sandbox.regression.runmnl.TryNCLogit.loglike_leafbranch": [],
+    "statsmodels.sandbox.regression.runmnl.TryNCLogit.loglike_branch": [],
+    "statsmodels.sandbox.regression.runmnl.RU2NMNL.__init__": [],
+    "statsmodels.sandbox.regression.runmnl.RU2NMNL.calc_prob": [],
+    "statsmodels.sandbox.regression.runmnl.TryCLogit": [],
+    "statsmodels.sandbox.regression.runmnl.TryNCLogit": [],
+    "statsmodels.sandbox.regression.runmnl.RU2NMNL": []
+}

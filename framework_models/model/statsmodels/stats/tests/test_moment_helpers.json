@@ -1,0 +1,6 @@
+{
+    "statsmodels.stats.tests.test_moment_helpers.test_cov2corr": [],
+    "statsmodels.stats.tests.test_moment_helpers.test_moment_conversion": [],
+    "statsmodels.stats.tests.test_moment_helpers.test_multidimensional": [],
+    "statsmodels.stats.tests.test_moment_helpers.test_moment_conversion_types": []
+}

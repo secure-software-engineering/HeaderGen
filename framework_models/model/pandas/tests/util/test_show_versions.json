@@ -1,0 +1,6 @@
+{
+    "pandas.tests.util.test_show_versions.test_show_versions": [],
+    "pandas.tests.util.test_show_versions.test_show_versions_console_json": [],
+    "pandas.tests.util.test_show_versions.test_show_versions_console": [],
+    "pandas.tests.util.test_show_versions.test_json_output_match": []
+}

@@ -1,0 +1,18 @@
+{
+    "pandas.tests.reductions.test_stat_reductions.TestDatetimeLikeStatReductions.test_dt64_mean": [],
+    "pandas.tests.reductions.test_stat_reductions.TestDatetimeLikeStatReductions.test_period_mean": [],
+    "pandas.tests.reductions.test_stat_reductions.TestDatetimeLikeStatReductions.test_td64_mean": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions._check_stat_op": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_sum": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_mean": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_median": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_prod": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_min": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_max": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_var_std": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_sem": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_skew": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions.test_kurt": [],
+    "pandas.tests.reductions.test_stat_reductions.TestDatetimeLikeStatReductions": [],
+    "pandas.tests.reductions.test_stat_reductions.TestSeriesStatReductions": []
+}

@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.spector.data.load": [],
+    "statsmodels.datasets.spector.data.load_pandas": [],
+    "statsmodels.datasets.spector.data._get_data": []
+}

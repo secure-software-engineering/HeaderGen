@@ -1,0 +1,14 @@
+{
+    "statsmodels.stats.knockoff_regeffects.RegressionEffects.stats": [],
+    "statsmodels.stats.knockoff_regeffects.CorrelationEffects.stats": [],
+    "statsmodels.stats.knockoff_regeffects.ForwardEffects.__init__": [],
+    "statsmodels.stats.knockoff_regeffects.ForwardEffects.stats": [],
+    "statsmodels.stats.knockoff_regeffects.OLSEffects.stats": [],
+    "statsmodels.stats.knockoff_regeffects.RegModelEffects.__init__": [],
+    "statsmodels.stats.knockoff_regeffects.RegModelEffects.stats": [],
+    "statsmodels.stats.knockoff_regeffects.RegressionEffects": [],
+    "statsmodels.stats.knockoff_regeffects.CorrelationEffects": [],
+    "statsmodels.stats.knockoff_regeffects.ForwardEffects": [],
+    "statsmodels.stats.knockoff_regeffects.OLSEffects": [],
+    "statsmodels.stats.knockoff_regeffects.RegModelEffects": []
+}

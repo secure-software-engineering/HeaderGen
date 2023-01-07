@@ -1,0 +1,6 @@
+from .system_info import platform_bits as platform_bits
+from distutils.msvccompiler import MSVCCompiler as _MSVCCompiler
+
+class MSVCCompiler(_MSVCCompiler):
+    def __init__(self, verbose: int = ..., dry_run: int = ..., force: int = ...) -> None: ...
+    def initialize(self) -> None: ...

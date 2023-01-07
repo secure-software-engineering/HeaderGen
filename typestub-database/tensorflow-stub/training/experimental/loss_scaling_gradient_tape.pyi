@@ -1,0 +1,13 @@
+from tensorflow.python.distribute import distribution_strategy_context as distribution_strategy_context
+from tensorflow.python.eager import backprop as backprop
+from tensorflow.python.framework import ops as ops
+from tensorflow.python.ops import array_ops as array_ops, control_flow_ops as control_flow_ops, math_ops as math_ops
+from tensorflow.python.ops.unconnected_gradients import UnconnectedGradients as UnconnectedGradients
+from tensorflow.python.util import nest as nest
+from typing import Any
+
+class LossScaleGradientTape(backprop.GradientTape):
+    def __init__(self, loss_scale, persistent: bool = ..., watch_accessed_variables: bool = ...) -> None: ...
+    def gradient(self, target, sources, output_gradients: Any | None = ..., unconnected_gradients=...): ...
+    def jacobian(self, target, sources, unconnected_gradients=..., parallel_iterations: Any | None = ..., experimental_use_pfor: bool = ...) -> None: ...
+    def batch_jacobian(self, target, source, unconnected_gradients=..., parallel_iterations: Any | None = ..., experimental_use_pfor: bool = ...) -> None: ...

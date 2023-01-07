@@ -1,0 +1,13 @@
+{
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categorical": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categoricals_nan": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categoricals_empty": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categorical_same_category": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categorical_same_categories_different_order": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categoricals_ordered": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categoricals_ignore_order": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categoricals_sort": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categoricals_sort_false": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals.test_union_categorical_unwrap": [],
+    "pandas.tests.reshape.test_union_categoricals.TestUnionCategoricals": []
+}

@@ -1,0 +1,11 @@
+{
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.is_increasing": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.is_decreasing": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.assert_leaves_values_monotonic": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.assert_children_values_monotonic": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.assert_children_values_bounded": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.test_nodes_values": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.test_predictions": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.test_input_error": [],
+    "sklearn.ensemble._hist_gradient_boosting.tests.test_monotonic_contraints.test_bounded_value_min_gain_to_split": []
+}

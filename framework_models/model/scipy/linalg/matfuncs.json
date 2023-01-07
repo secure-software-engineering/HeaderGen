@@ -1,0 +1,16 @@
+{
+    "scipy.linalg.matfuncs._asarray_square": [],
+    "scipy.linalg.matfuncs._maybe_real": [],
+    "scipy.linalg.matfuncs.fractional_matrix_power": [],
+    "scipy.linalg.matfuncs.logm": [],
+    "scipy.linalg.matfuncs.expm": [],
+    "scipy.linalg.matfuncs.cosm": [],
+    "scipy.linalg.matfuncs.sinm": [],
+    "scipy.linalg.matfuncs.tanm": [],
+    "scipy.linalg.matfuncs.coshm": [],
+    "scipy.linalg.matfuncs.sinhm": [],
+    "scipy.linalg.matfuncs.tanhm": [],
+    "scipy.linalg.matfuncs.funm": [],
+    "scipy.linalg.matfuncs.signm": [],
+    "scipy.linalg.matfuncs.khatri_rao": []
+}

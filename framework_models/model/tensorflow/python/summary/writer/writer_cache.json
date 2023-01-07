@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.summary.writer.writer_cache.FileWriterCache.clear": [],
+    "tensorflow.python.summary.writer.writer_cache.FileWriterCache.get": [],
+    "tensorflow.python.summary.writer.writer_cache.FileWriterCache": []
+}

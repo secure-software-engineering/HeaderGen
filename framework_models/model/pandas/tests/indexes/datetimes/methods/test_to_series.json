@@ -1,0 +1,6 @@
+{
+    "pandas.tests.indexes.datetimes.methods.test_to_series.TestToSeries.idx_expected": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_series.TestToSeries.test_to_series_keep_tz_deprecated_true": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_series.TestToSeries.test_to_series_keep_tz_deprecated_false": [],
+    "pandas.tests.indexes.datetimes.methods.test_to_series.TestToSeries": []
+}

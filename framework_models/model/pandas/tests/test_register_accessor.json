@@ -1,0 +1,12 @@
+{
+    "pandas.tests.test_register_accessor.test_dirname_mixin": [],
+    "pandas.tests.test_register_accessor.ensure_removed": [],
+    "pandas.tests.test_register_accessor.test_register": [],
+    "pandas.tests.test_register_accessor.test_accessor_works": [],
+    "pandas.tests.test_register_accessor.test_overwrite_warns": [],
+    "pandas.tests.test_register_accessor.test_raises_attribute_error": [],
+    "pandas.tests.test_register_accessor.MyAccessor.__init__": [],
+    "pandas.tests.test_register_accessor.MyAccessor.prop": [],
+    "pandas.tests.test_register_accessor.MyAccessor.method": [],
+    "pandas.tests.test_register_accessor.MyAccessor": []
+}

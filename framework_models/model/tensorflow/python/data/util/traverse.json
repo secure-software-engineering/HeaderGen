@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.data.util.traverse._traverse": [],
+    "tensorflow.python.data.util.traverse.obtain_capture_by_value_ops": [],
+    "tensorflow.python.data.util.traverse.obtain_all_variant_tensor_ops": []
+}

@@ -1,0 +1,23 @@
+{
+    "keras.layers.cudnn_recurrent._CuDNNRNN.__init__": [],
+    "keras.layers.cudnn_recurrent._CuDNNRNN.call": [],
+    "keras.layers.cudnn_recurrent._CuDNNRNN.get_config": [],
+    "keras.layers.cudnn_recurrent._CuDNNRNN.from_config": [],
+    "keras.layers.cudnn_recurrent._CuDNNRNN.trainable_weights": [],
+    "keras.layers.cudnn_recurrent._CuDNNRNN.non_trainable_weights": [],
+    "keras.layers.cudnn_recurrent._CuDNNRNN.losses": [],
+    "keras.layers.cudnn_recurrent._CuDNNRNN.get_losses_for": [],
+    "keras.layers.cudnn_recurrent.CuDNNGRU.__init__": [],
+    "keras.layers.cudnn_recurrent.CuDNNGRU.cell": [],
+    "keras.layers.cudnn_recurrent.CuDNNGRU.build": [],
+    "keras.layers.cudnn_recurrent.CuDNNGRU._process_batch": [],
+    "keras.layers.cudnn_recurrent.CuDNNGRU.get_config": [],
+    "keras.layers.cudnn_recurrent.CuDNNLSTM.__init__": [],
+    "keras.layers.cudnn_recurrent.CuDNNLSTM.cell": [],
+    "keras.layers.cudnn_recurrent.CuDNNLSTM.build": [],
+    "keras.layers.cudnn_recurrent.CuDNNLSTM._process_batch": [],
+    "keras.layers.cudnn_recurrent.CuDNNLSTM.get_config": [],
+    "keras.layers.cudnn_recurrent._CuDNNRNN": [],
+    "keras.layers.cudnn_recurrent.CuDNNGRU": [],
+    "keras.layers.cudnn_recurrent.CuDNNLSTM": []
+}

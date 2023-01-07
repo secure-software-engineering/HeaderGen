@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.saved_model.function_deserialization._is_tensor": [],
+    "tensorflow.python.saved_model.function_deserialization._call_concrete_function": [],
+    "tensorflow.python.saved_model.function_deserialization._try_convert_to_tensor_spec": [],
+    "tensorflow.python.saved_model.function_deserialization._concrete_function_callable_with": [],
+    "tensorflow.python.saved_model.function_deserialization._deserialize_function_spec_as_nonmethod": [],
+    "tensorflow.python.saved_model.function_deserialization.setup_bare_concrete_function": [],
+    "tensorflow.python.saved_model.function_deserialization.recreate_function": [],
+    "tensorflow.python.saved_model.function_deserialization.load_function_def_library": [],
+    "tensorflow.python.saved_model.function_deserialization._gen_gradient_func": [],
+    "tensorflow.python.saved_model.function_deserialization._restore_gradient_functions": [],
+    "tensorflow.python.saved_model.function_deserialization._sort_function_defs": [],
+    "tensorflow.python.saved_model.function_deserialization._get_gradient_op_type": [],
+    "tensorflow.python.saved_model.function_deserialization.fix_node_def": [],
+    "tensorflow.python.saved_model.function_deserialization._fix_fdef": [],
+    "tensorflow.python.saved_model.function_deserialization._list_function_deps": [],
+    "tensorflow.python.saved_model.function_deserialization._clean_function_name": [],
+    "tensorflow.python.saved_model.function_deserialization.RestoredFunction.__init__": [],
+    "tensorflow.python.saved_model.function_deserialization.RestoredFunction._run_functions_eagerly": [],
+    "tensorflow.python.saved_model.function_deserialization.RestoredFunction._list_all_concrete_functions_for_serialization": [],
+    "tensorflow.python.saved_model.function_deserialization.RestoredFunction._defun_with_scope": [],
+    "tensorflow.python.saved_model.function_deserialization.RestoredFunction": []
+}

@@ -1,0 +1,21 @@
+{
+    "scipy.sparse.dia.isspmatrix_dia": [],
+    "scipy.sparse.dia.dia_matrix.__init__": [],
+    "scipy.sparse.dia.dia_matrix.__repr__": [],
+    "scipy.sparse.dia.dia_matrix._data_mask": [],
+    "scipy.sparse.dia.dia_matrix.count_nonzero": [],
+    "scipy.sparse.dia.dia_matrix.getnnz": [],
+    "scipy.sparse.dia.dia_matrix.sum": [],
+    "scipy.sparse.dia.dia_matrix._add_sparse": [],
+    "scipy.sparse.dia.dia_matrix._mul_vector": [],
+    "scipy.sparse.dia.dia_matrix._mul_multimatrix": [],
+    "scipy.sparse.dia.dia_matrix._setdiag": [],
+    "scipy.sparse.dia.dia_matrix.todia": [],
+    "scipy.sparse.dia.dia_matrix.transpose": [],
+    "scipy.sparse.dia.dia_matrix.diagonal": [],
+    "scipy.sparse.dia.dia_matrix.tocsc": [],
+    "scipy.sparse.dia.dia_matrix.tocoo": [],
+    "scipy.sparse.dia.dia_matrix._with_data": [],
+    "scipy.sparse.dia.dia_matrix.resize": [],
+    "scipy.sparse.dia.dia_matrix": []
+}

@@ -1,0 +1,12 @@
+{
+    "sklearn.utils.tests.test_multiclass.test_unique_labels": [],
+    "sklearn.utils.tests.test_multiclass.test_unique_labels_non_specific": [],
+    "sklearn.utils.tests.test_multiclass.test_unique_labels_mixed_types": [],
+    "sklearn.utils.tests.test_multiclass.test_is_multilabel": [],
+    "sklearn.utils.tests.test_multiclass.test_check_classification_targets": [],
+    "sklearn.utils.tests.test_multiclass.test_type_of_target": [],
+    "sklearn.utils.tests.test_multiclass.test_type_of_target_pandas_sparse": [],
+    "sklearn.utils.tests.test_multiclass.test_class_distribution": [],
+    "sklearn.utils.tests.test_multiclass.test_safe_split_with_precomputed_kernel": [],
+    "sklearn.utils.tests.test_multiclass.test_ovr_decision_function": []
+}

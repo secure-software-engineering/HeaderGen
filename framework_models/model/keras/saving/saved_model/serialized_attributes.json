@@ -1,0 +1,17 @@
+{
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.with_attributes": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.new": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.__init__": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.functions": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.checkpointable_objects": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.functions_to_serialize": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.objects_to_serialize": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.set_and_validate_functions": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes.set_and_validate_objects": [],
+    "keras.saving.saved_model.serialized_attributes.SerializedAttributes": [],
+    "keras.saving.saved_model.serialized_attributes.CommonEndpoints": [],
+    "keras.saving.saved_model.serialized_attributes.LayerAttributes": [],
+    "keras.saving.saved_model.serialized_attributes.ModelAttributes": [],
+    "keras.saving.saved_model.serialized_attributes.MetricAttributes": [],
+    "keras.saving.saved_model.serialized_attributes.RNNAttributes": []
+}

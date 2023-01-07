@@ -1,0 +1,11 @@
+{
+    "statsmodels.multivariate.tests.test_factor.test_auto_col_name": [],
+    "statsmodels.multivariate.tests.test_factor.test_direct_corr_matrix": [],
+    "statsmodels.multivariate.tests.test_factor.test_unknown_fa_method_error": [],
+    "statsmodels.multivariate.tests.test_factor.test_example_compare_to_R_output": [],
+    "statsmodels.multivariate.tests.test_factor.test_plots": [],
+    "statsmodels.multivariate.tests.test_factor.test_getframe_smoke": [],
+    "statsmodels.multivariate.tests.test_factor.test_factor_missing": [],
+    "statsmodels.multivariate.tests.test_factor._zscore": [],
+    "statsmodels.multivariate.tests.test_factor.test_factor_scoring": []
+}

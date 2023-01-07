@@ -1,0 +1,10 @@
+{
+    "matplotlib.tests.test_usetex.test_usetex": [],
+    "matplotlib.tests.test_usetex.test_empty": [],
+    "matplotlib.tests.test_usetex.test_unicode_minus": [],
+    "matplotlib.tests.test_usetex.test_mathdefault": [],
+    "matplotlib.tests.test_usetex.test_minus_no_descent": [],
+    "matplotlib.tests.test_usetex.test_usetex_packages": [],
+    "matplotlib.tests.test_usetex.test_latex_pkg_already_loaded": [],
+    "matplotlib.tests.test_usetex.test_usetex_with_underscore": []
+}

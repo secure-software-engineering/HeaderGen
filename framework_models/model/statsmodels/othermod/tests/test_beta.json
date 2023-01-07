@@ -1,0 +1,19 @@
+{
+    "statsmodels.othermod.tests.test_beta.check_same": [],
+    "statsmodels.othermod.tests.test_beta.assert_close": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel.setup_class": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel.test_income_coefficients": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel.test_income_precision": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel.test_methylation_coefficients": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel.test_methylation_precision": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel.test_precision_formula": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel.test_scores": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel.test_results_other": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaMeth.setup_class": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaMeth.test_basic": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaMeth.test_resid": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaMeth.test_oim": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaMeth.test_predict_distribution": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaModel": [],
+    "statsmodels.othermod.tests.test_beta.TestBetaMeth": []
+}

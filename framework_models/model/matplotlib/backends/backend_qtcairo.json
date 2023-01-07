@@ -1,0 +1,7 @@
+{
+    "matplotlib.backends.backend_qtcairo.FigureCanvasQTCairo.__init__": [],
+    "matplotlib.backends.backend_qtcairo.FigureCanvasQTCairo.draw": [],
+    "matplotlib.backends.backend_qtcairo.FigureCanvasQTCairo.paintEvent": [],
+    "matplotlib.backends.backend_qtcairo.FigureCanvasQTCairo": [],
+    "matplotlib.backends.backend_qtcairo._BackendQTCairo": []
+}

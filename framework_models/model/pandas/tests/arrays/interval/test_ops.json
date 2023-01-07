@@ -1,0 +1,9 @@
+{
+    "pandas.tests.arrays.interval.test_ops.constructor": [],
+    "pandas.tests.arrays.interval.test_ops.start_shift": [],
+    "pandas.tests.arrays.interval.test_ops.TestOverlaps.test_overlaps_interval": [],
+    "pandas.tests.arrays.interval.test_ops.TestOverlaps.test_overlaps_interval_container": [],
+    "pandas.tests.arrays.interval.test_ops.TestOverlaps.test_overlaps_na": [],
+    "pandas.tests.arrays.interval.test_ops.TestOverlaps.test_overlaps_invalid_type": [],
+    "pandas.tests.arrays.interval.test_ops.TestOverlaps": []
+}

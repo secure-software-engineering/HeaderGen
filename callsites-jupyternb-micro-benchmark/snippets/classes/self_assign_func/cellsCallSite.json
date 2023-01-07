@@ -1,0 +1,12 @@
+{
+  "4": [
+    "main_nb.B:2.__init__:2"
+  ],
+  "5": [
+    "main_nb.B:2.func:2",
+    "main_nb.A:1.func:1"
+  ],
+  "2": [
+    "main_nb.A:1.func:1"
+  ]
+}

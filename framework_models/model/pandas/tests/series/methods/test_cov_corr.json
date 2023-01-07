@@ -1,0 +1,10 @@
+{
+    "pandas.tests.series.methods.test_cov_corr.TestSeriesCov.test_cov": [],
+    "pandas.tests.series.methods.test_cov_corr.TestSeriesCov.test_cov_ddof": [],
+    "pandas.tests.series.methods.test_cov_corr.TestSeriesCorr.test_corr": [],
+    "pandas.tests.series.methods.test_cov_corr.TestSeriesCorr.test_corr_rank": [],
+    "pandas.tests.series.methods.test_cov_corr.TestSeriesCorr.test_corr_invalid_method": [],
+    "pandas.tests.series.methods.test_cov_corr.TestSeriesCorr.test_corr_callable_method": [],
+    "pandas.tests.series.methods.test_cov_corr.TestSeriesCov": [],
+    "pandas.tests.series.methods.test_cov_corr.TestSeriesCorr": []
+}

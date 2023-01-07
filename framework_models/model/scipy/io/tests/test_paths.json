@@ -1,0 +1,14 @@
+{
+    "scipy.io.tests.test_paths.TestPaths.test_savemat": [],
+    "scipy.io.tests.test_paths.TestPaths.test_loadmat": [],
+    "scipy.io.tests.test_paths.TestPaths.test_whosmat": [],
+    "scipy.io.tests.test_paths.TestPaths.test_readsav": [],
+    "scipy.io.tests.test_paths.TestPaths.test_hb_read": [],
+    "scipy.io.tests.test_paths.TestPaths.test_hb_write": [],
+    "scipy.io.tests.test_paths.TestPaths.test_mmio_read": [],
+    "scipy.io.tests.test_paths.TestPaths.test_mmio_write": [],
+    "scipy.io.tests.test_paths.TestPaths.test_netcdf_file": [],
+    "scipy.io.tests.test_paths.TestPaths.test_wavfile_read": [],
+    "scipy.io.tests.test_paths.TestPaths.test_wavfile_write": [],
+    "scipy.io.tests.test_paths.TestPaths": []
+}

@@ -1,0 +1,13 @@
+{
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_dropna_multi_index_dataframe_nan_in_one_group": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_dropna_multi_index_dataframe_nan_in_two_groups": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_dropna_normal_index_dataframe": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_dropna_series_level": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_dropna_series_by": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_grouper_dropna_propagation": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_dataframe_slice_then_transform": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_dropna_multi_index_dataframe_agg": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_dropna_datetime_like_data": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_apply_with_dropna_for_multi_index": [],
+    "pandas.tests.groupby.test_groupby_dropna.test_groupby_nan_included": []
+}

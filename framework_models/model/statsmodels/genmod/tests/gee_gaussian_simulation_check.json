@@ -1,0 +1,14 @@
+{
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.gen_gendat_ar0": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.gen_gendat_ar1": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.gendat_nested0": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.gendat_nested1": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.GEE_simulator.print_dparams": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.AR_simulator.print_dparams": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.AR_simulator.simulate": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.Nested_simulator.print_dparams": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.Nested_simulator.simulate": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.GEE_simulator": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.AR_simulator": [],
+    "statsmodels.genmod.tests.gee_gaussian_simulation_check.Nested_simulator": []
+}

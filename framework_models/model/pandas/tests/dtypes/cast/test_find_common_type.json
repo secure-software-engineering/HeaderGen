@@ -1,0 +1,11 @@
+{
+    "pandas.tests.dtypes.cast.test_find_common_type.test_numpy_dtypes": [],
+    "pandas.tests.dtypes.cast.test_find_common_type.test_raises_empty_input": [],
+    "pandas.tests.dtypes.cast.test_find_common_type.test_categorical_dtype": [],
+    "pandas.tests.dtypes.cast.test_find_common_type.test_datetimetz_dtype_match": [],
+    "pandas.tests.dtypes.cast.test_find_common_type.test_datetimetz_dtype_mismatch": [],
+    "pandas.tests.dtypes.cast.test_find_common_type.test_period_dtype_match": [],
+    "pandas.tests.dtypes.cast.test_find_common_type.test_period_dtype_mismatch": [],
+    "pandas.tests.dtypes.cast.test_find_common_type.test_interval_dtype": [],
+    "pandas.tests.dtypes.cast.test_find_common_type.test_interval_dtype_with_categorical": []
+}

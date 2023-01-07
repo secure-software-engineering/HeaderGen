@@ -1,0 +1,18 @@
+{
+    "pandas.compat.numpy.function.process_skipna": [],
+    "pandas.compat.numpy.function.validate_argmin_with_skipna": [],
+    "pandas.compat.numpy.function.validate_argmax_with_skipna": [],
+    "pandas.compat.numpy.function.validate_argsort_with_ascending": [],
+    "pandas.compat.numpy.function.validate_clip_with_axis": [],
+    "pandas.compat.numpy.function.validate_cum_func_with_skipna": [],
+    "pandas.compat.numpy.function.validate_take_with_convert": [],
+    "pandas.compat.numpy.function.validate_window_func": [],
+    "pandas.compat.numpy.function.validate_rolling_func": [],
+    "pandas.compat.numpy.function.validate_expanding_func": [],
+    "pandas.compat.numpy.function.validate_groupby_func": [],
+    "pandas.compat.numpy.function.validate_resampler_func": [],
+    "pandas.compat.numpy.function.validate_minmax_axis": [],
+    "pandas.compat.numpy.function.CompatValidator.__init__": [],
+    "pandas.compat.numpy.function.CompatValidator.__call__": [],
+    "pandas.compat.numpy.function.CompatValidator": []
+}

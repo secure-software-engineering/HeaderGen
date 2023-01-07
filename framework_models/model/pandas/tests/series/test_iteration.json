@@ -1,0 +1,10 @@
+{
+    "pandas.tests.series.test_iteration.TestIteration.test_keys": [],
+    "pandas.tests.series.test_iteration.TestIteration.test_iter_datetimes": [],
+    "pandas.tests.series.test_iteration.TestIteration.test_iter_strings": [],
+    "pandas.tests.series.test_iteration.TestIteration.test_iteritems_datetimes": [],
+    "pandas.tests.series.test_iteration.TestIteration.test_iteritems_strings": [],
+    "pandas.tests.series.test_iteration.TestIteration.test_items_datetimes": [],
+    "pandas.tests.series.test_iteration.TestIteration.test_items_strings": [],
+    "pandas.tests.series.test_iteration.TestIteration": []
+}

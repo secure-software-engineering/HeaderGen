@@ -1,0 +1,5 @@
+{
+    "scipy.special.tests.test_digamma.test_consistency": [],
+    "scipy.special.tests.test_digamma.test_special_values": [],
+    "scipy.special.tests.test_digamma.test_nonfinite": []
+}

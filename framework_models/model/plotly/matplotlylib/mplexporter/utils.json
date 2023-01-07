@@ -1,0 +1,17 @@
+{
+    "plotly.matplotlylib.mplexporter.utils.export_color": [],
+    "plotly.matplotlylib.mplexporter.utils._many_to_one": [],
+    "plotly.matplotlylib.mplexporter.utils.get_dasharray": [],
+    "plotly.matplotlylib.mplexporter.utils.SVG_path": [],
+    "plotly.matplotlylib.mplexporter.utils.get_path_style": [],
+    "plotly.matplotlylib.mplexporter.utils.get_line_style": [],
+    "plotly.matplotlylib.mplexporter.utils.get_marker_style": [],
+    "plotly.matplotlylib.mplexporter.utils.get_text_style": [],
+    "plotly.matplotlylib.mplexporter.utils.get_axis_properties": [],
+    "plotly.matplotlylib.mplexporter.utils.get_grid_style": [],
+    "plotly.matplotlylib.mplexporter.utils.get_figure_properties": [],
+    "plotly.matplotlylib.mplexporter.utils.get_axes_properties": [],
+    "plotly.matplotlylib.mplexporter.utils.iter_all_children": [],
+    "plotly.matplotlylib.mplexporter.utils.get_legend_properties": [],
+    "plotly.matplotlylib.mplexporter.utils.image_to_base64": []
+}

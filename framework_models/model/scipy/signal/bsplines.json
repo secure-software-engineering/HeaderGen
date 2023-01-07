@@ -1,0 +1,18 @@
+{
+    "scipy.signal.bsplines.spline_filter": [],
+    "scipy.signal.bsplines._bspline_piecefunctions": [],
+    "scipy.signal.bsplines.bspline": [],
+    "scipy.signal.bsplines.gauss_spline": [],
+    "scipy.signal.bsplines.cubic": [],
+    "scipy.signal.bsplines.quadratic": [],
+    "scipy.signal.bsplines._coeff_smooth": [],
+    "scipy.signal.bsplines._hc": [],
+    "scipy.signal.bsplines._hs": [],
+    "scipy.signal.bsplines._cubic_smooth_coeff": [],
+    "scipy.signal.bsplines._cubic_coeff": [],
+    "scipy.signal.bsplines._quadratic_coeff": [],
+    "scipy.signal.bsplines.cspline1d": [],
+    "scipy.signal.bsplines.qspline1d": [],
+    "scipy.signal.bsplines.cspline1d_eval": [],
+    "scipy.signal.bsplines.qspline1d_eval": []
+}

@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.data.util.sparse.any_sparse": [],
+    "tensorflow.python.data.util.sparse.as_dense_shapes": [],
+    "tensorflow.python.data.util.sparse.as_dense_types": [],
+    "tensorflow.python.data.util.sparse.deserialize_sparse_tensors": [],
+    "tensorflow.python.data.util.sparse.get_classes": [],
+    "tensorflow.python.data.util.sparse.serialize_many_sparse_tensors": [],
+    "tensorflow.python.data.util.sparse.serialize_sparse_tensors": []
+}

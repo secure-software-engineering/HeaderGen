@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.keras.utils.metrics_utils.update_state_wrapper": [],
+    "tensorflow.python.keras.utils.metrics_utils.result_wrapper": [],
+    "tensorflow.python.keras.utils.metrics_utils.weakmethod": [],
+    "tensorflow.python.keras.utils.metrics_utils.assert_thresholds_range": [],
+    "tensorflow.python.keras.utils.metrics_utils.parse_init_thresholds": [],
+    "tensorflow.python.keras.utils.metrics_utils._update_confusion_matrix_variables_optimized": [],
+    "tensorflow.python.keras.utils.metrics_utils.is_evenly_distributed_thresholds": [],
+    "tensorflow.python.keras.utils.metrics_utils.update_confusion_matrix_variables": [],
+    "tensorflow.python.keras.utils.metrics_utils._filter_top_k": [],
+    "tensorflow.python.keras.utils.metrics_utils.ragged_assert_compatible_and_get_flat_values": [],
+    "tensorflow.python.keras.utils.metrics_utils._assert_splits_match": [],
+    "tensorflow.python.keras.utils.metrics_utils.AUCCurve.from_str": [],
+    "tensorflow.python.keras.utils.metrics_utils.AUCSummationMethod.from_str": [],
+    "tensorflow.python.keras.utils.metrics_utils.Reduction": [],
+    "tensorflow.python.keras.utils.metrics_utils.ConfusionMatrix": [],
+    "tensorflow.python.keras.utils.metrics_utils.AUCCurve": [],
+    "tensorflow.python.keras.utils.metrics_utils.AUCSummationMethod": []
+}

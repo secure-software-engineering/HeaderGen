@@ -1,0 +1,8 @@
+{
+    "keras.distribute.keras_stateful_lstm_model_correctness_test.strategies_for_stateful_embedding_model": [],
+    "keras.distribute.keras_stateful_lstm_model_correctness_test.test_combinations_for_stateful_embedding_model": [],
+    "keras.distribute.keras_stateful_lstm_model_correctness_test.DistributionStrategyStatefulLstmModelCorrectnessTest.get_model": [],
+    "keras.distribute.keras_stateful_lstm_model_correctness_test.DistributionStrategyStatefulLstmModelCorrectnessTest.disabled_test_stateful_lstm_model_correctness": [],
+    "keras.distribute.keras_stateful_lstm_model_correctness_test.DistributionStrategyStatefulLstmModelCorrectnessTest.test_incorrectly_use_multiple_cores_for_stateful_lstm_model": [],
+    "keras.distribute.keras_stateful_lstm_model_correctness_test.DistributionStrategyStatefulLstmModelCorrectnessTest": []
+}

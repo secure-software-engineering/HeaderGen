@@ -1,0 +1,14 @@
+{
+    "statsmodels.base.tests.test_screening._get_poisson_data": [],
+    "statsmodels.base.tests.test_screening.test_poisson_screening": [],
+    "statsmodels.base.tests.test_screening.test_screen_iterated": [],
+    "statsmodels.base.tests.test_screening.test_glmpoisson_screening": [],
+    "statsmodels.base.tests.test_screening._get_logit_data": [],
+    "statsmodels.base.tests.test_screening.test_logit_screening": [],
+    "statsmodels.base.tests.test_screening.test_glmlogit_screening": [],
+    "statsmodels.base.tests.test_screening._get_gaussian_data": [],
+    "statsmodels.base.tests.test_screening.test_glmgaussian_screening": [],
+    "statsmodels.base.tests.test_screening.PoissonPenalized": [],
+    "statsmodels.base.tests.test_screening.LogitPenalized": [],
+    "statsmodels.base.tests.test_screening.GLMPenalized": []
+}

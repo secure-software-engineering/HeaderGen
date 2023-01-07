@@ -1,0 +1,14 @@
+{
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.autocolorscale": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.cauto": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.cmax": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.cmid": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.cmin": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.colorbar": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.colorscale": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.reversescale": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.showscale": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis._prop_descriptions": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis.__init__": [],
+    "plotly.graph_objs.layout._coloraxis.Coloraxis": []
+}

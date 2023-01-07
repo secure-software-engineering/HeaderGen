@@ -1,0 +1,15 @@
+{
+    "scipy.interpolate._fitpack_impl._int_overflow": [],
+    "scipy.interpolate._fitpack_impl.splprep": [],
+    "scipy.interpolate._fitpack_impl.splrep": [],
+    "scipy.interpolate._fitpack_impl.splev": [],
+    "scipy.interpolate._fitpack_impl.splint": [],
+    "scipy.interpolate._fitpack_impl.sproot": [],
+    "scipy.interpolate._fitpack_impl.spalde": [],
+    "scipy.interpolate._fitpack_impl.bisplrep": [],
+    "scipy.interpolate._fitpack_impl.bisplev": [],
+    "scipy.interpolate._fitpack_impl.dblint": [],
+    "scipy.interpolate._fitpack_impl.insert": [],
+    "scipy.interpolate._fitpack_impl.splder": [],
+    "scipy.interpolate._fitpack_impl.splantider": []
+}

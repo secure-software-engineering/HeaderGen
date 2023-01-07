@@ -1,0 +1,19 @@
+{
+    "pandas.tests.frame.methods.test_rank.TestRank.method": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank2": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_does_not_mutate": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_mixed_frame": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_na_option": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_axis": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_methods_frame": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_descending": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_2d_tie_methods": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_pct_true": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_pct_max_many_rows": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_inf_and_nan": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_df_series_inf_nan_consistency": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_both_inf": [],
+    "pandas.tests.frame.methods.test_rank.TestRank.test_rank_mixed_axis_zero": [],
+    "pandas.tests.frame.methods.test_rank.TestRank": []
+}

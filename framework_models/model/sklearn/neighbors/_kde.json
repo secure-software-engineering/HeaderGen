@@ -1,0 +1,10 @@
+{
+    "sklearn.neighbors._kde.KernelDensity.__init__": [],
+    "sklearn.neighbors._kde.KernelDensity._choose_algorithm": [],
+    "sklearn.neighbors._kde.KernelDensity.fit": [],
+    "sklearn.neighbors._kde.KernelDensity.score_samples": [],
+    "sklearn.neighbors._kde.KernelDensity.score": [],
+    "sklearn.neighbors._kde.KernelDensity.sample": [],
+    "sklearn.neighbors._kde.KernelDensity._more_tags": [],
+    "sklearn.neighbors._kde.KernelDensity": []
+}

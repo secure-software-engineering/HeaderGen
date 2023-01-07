@@ -1,0 +1,6 @@
+from sklearn.covariance import EllipticEnvelope as EllipticEnvelope
+from sklearn.exceptions import NotFittedError as NotFittedError
+from sklearn.utils._testing import assert_almost_equal as assert_almost_equal, assert_array_almost_equal as assert_array_almost_equal, assert_array_equal as assert_array_equal
+
+def test_elliptic_envelope() -> None: ...
+def test_score_samples() -> None: ...

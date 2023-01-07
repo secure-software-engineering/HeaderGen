@@ -1,0 +1,12 @@
+{
+    "scipy.optimize.tests.test_hessian_update_strategy.Rosenbrock.__init__": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.Rosenbrock.fun": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.Rosenbrock.grad": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.Rosenbrock.hess": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.TestHessianUpdateStrategy.test_hessian_initialization": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.TestHessianUpdateStrategy.test_rosenbrock_with_no_exception": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.TestHessianUpdateStrategy.test_SR1_skip_update": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.TestHessianUpdateStrategy.test_BFGS_skip_update": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.Rosenbrock": [],
+    "scipy.optimize.tests.test_hessian_update_strategy.TestHessianUpdateStrategy": []
+}

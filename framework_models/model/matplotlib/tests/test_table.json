@@ -1,0 +1,9 @@
+{
+    "matplotlib.tests.test_table.test_non_square": [],
+    "matplotlib.tests.test_table.test_zorder": [],
+    "matplotlib.tests.test_table.test_label_colours": [],
+    "matplotlib.tests.test_table.test_diff_cell_table": [],
+    "matplotlib.tests.test_table.test_customcell": [],
+    "matplotlib.tests.test_table.test_auto_column": [],
+    "matplotlib.tests.test_table.test_table_cells": []
+}

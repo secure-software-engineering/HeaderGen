@@ -1,0 +1,7 @@
+{
+    "pandas.tests.series.methods.test_argsort.TestSeriesArgsort._check_accum_op": [],
+    "pandas.tests.series.methods.test_argsort.TestSeriesArgsort.test_argsort": [],
+    "pandas.tests.series.methods.test_argsort.TestSeriesArgsort.test_argsort_stable": [],
+    "pandas.tests.series.methods.test_argsort.TestSeriesArgsort.test_argsort_preserve_name": [],
+    "pandas.tests.series.methods.test_argsort.TestSeriesArgsort": []
+}

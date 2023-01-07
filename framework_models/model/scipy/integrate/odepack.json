@@ -1,0 +1,4 @@
+{
+    "scipy.integrate.odepack.odeint": [],
+    "scipy.integrate.odepack.ODEintWarning": []
+}

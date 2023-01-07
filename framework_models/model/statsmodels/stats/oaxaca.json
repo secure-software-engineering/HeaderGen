@@ -1,0 +1,10 @@
+{
+    "statsmodels.stats.oaxaca.OaxacaBlinder.__init__": [],
+    "statsmodels.stats.oaxaca.OaxacaBlinder.variance": [],
+    "statsmodels.stats.oaxaca.OaxacaBlinder.three_fold": [],
+    "statsmodels.stats.oaxaca.OaxacaBlinder.two_fold": [],
+    "statsmodels.stats.oaxaca.OaxacaResults.__init__": [],
+    "statsmodels.stats.oaxaca.OaxacaResults.summary": [],
+    "statsmodels.stats.oaxaca.OaxacaBlinder": [],
+    "statsmodels.stats.oaxaca.OaxacaResults": []
+}

@@ -1,0 +1,10 @@
+{
+    "pandas.tests.indexes.datetimelike_.test_nat.NATests.test_nat": [],
+    "pandas.tests.indexes.datetimelike_.test_nat.TestDatetimeIndexNA.index_without_na": [],
+    "pandas.tests.indexes.datetimelike_.test_nat.TestTimedeltaIndexNA.index_without_na": [],
+    "pandas.tests.indexes.datetimelike_.test_nat.TestPeriodIndexNA.index_without_na": [],
+    "pandas.tests.indexes.datetimelike_.test_nat.NATests": [],
+    "pandas.tests.indexes.datetimelike_.test_nat.TestDatetimeIndexNA": [],
+    "pandas.tests.indexes.datetimelike_.test_nat.TestTimedeltaIndexNA": [],
+    "pandas.tests.indexes.datetimelike_.test_nat.TestPeriodIndexNA": []
+}

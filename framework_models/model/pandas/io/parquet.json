@@ -1,0 +1,18 @@
+{
+    "pandas.io.parquet.get_engine": [],
+    "pandas.io.parquet._get_path_or_handle": [],
+    "pandas.io.parquet.to_parquet": [],
+    "pandas.io.parquet.read_parquet": [],
+    "pandas.io.parquet.BaseImpl.validate_dataframe": [],
+    "pandas.io.parquet.BaseImpl.write": [],
+    "pandas.io.parquet.BaseImpl.read": [],
+    "pandas.io.parquet.PyArrowImpl.__init__": [],
+    "pandas.io.parquet.PyArrowImpl.write": [],
+    "pandas.io.parquet.PyArrowImpl.read": [],
+    "pandas.io.parquet.FastParquetImpl.__init__": [],
+    "pandas.io.parquet.FastParquetImpl.write": [],
+    "pandas.io.parquet.FastParquetImpl.read": [],
+    "pandas.io.parquet.BaseImpl": [],
+    "pandas.io.parquet.PyArrowImpl": [],
+    "pandas.io.parquet.FastParquetImpl": []
+}

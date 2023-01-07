@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.keras.feature_column.dense_features_v2.no_manual_dependency_tracking_scope": [],
+    "tensorflow.python.keras.feature_column.dense_features_v2.DenseFeatures.__init__": [],
+    "tensorflow.python.keras.feature_column.dense_features_v2.DenseFeatures.build": [],
+    "tensorflow.python.keras.feature_column.dense_features_v2._StateManagerImplV2.create_variable": [],
+    "tensorflow.python.keras.feature_column.dense_features_v2.DenseFeatures": [],
+    "tensorflow.python.keras.feature_column.dense_features_v2._StateManagerImplV2": []
+}

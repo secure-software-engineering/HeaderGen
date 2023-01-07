@@ -1,0 +1,15 @@
+{
+    "statsmodels.nonparametric.tests.test_bandwidths.TestBandwidthCalculation.test_calculate_bandwidth_gaussian": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.TestBandwidthCalculation.test_calculate_normal_reference_bandwidth": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.CheckNormalReferenceConstant.test_calculate_normal_reference_constant": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.BandwidthZero.test_bandwidth_zero": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.TestBandwidthCalculation": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.CheckNormalReferenceConstant": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.TestEpanechnikov": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.TestGaussian": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.TestBiweight": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.TestTriweight": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.BandwidthZero": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.TestAllBandwidthZero": [],
+    "statsmodels.nonparametric.tests.test_bandwidths.TestAnyBandwidthZero": []
+}

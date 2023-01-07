@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.ops.distributions.special_math.ndtr": [],
+    "tensorflow.python.ops.distributions.special_math._ndtr": [],
+    "tensorflow.python.ops.distributions.special_math.ndtri": [],
+    "tensorflow.python.ops.distributions.special_math._ndtri": [],
+    "tensorflow.python.ops.distributions.special_math.log_ndtr": [],
+    "tensorflow.python.ops.distributions.special_math._log_ndtr_lower": [],
+    "tensorflow.python.ops.distributions.special_math._log_ndtr_asymptotic_series": [],
+    "tensorflow.python.ops.distributions.special_math.erfinv": [],
+    "tensorflow.python.ops.distributions.special_math._double_factorial": [],
+    "tensorflow.python.ops.distributions.special_math.log_cdf_laplace": []
+}

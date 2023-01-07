@@ -1,0 +1,4 @@
+{
+    "scipy.sparse.spfuncs.estimate_blocksize": [],
+    "scipy.sparse.spfuncs.count_blocks": []
+}

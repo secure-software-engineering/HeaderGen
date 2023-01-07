@@ -1,0 +1,20 @@
+{
+    "sklearn.utils.extmath.squared_norm": [],
+    "sklearn.utils.extmath.row_norms": [],
+    "sklearn.utils.extmath.fast_logdet": [],
+    "sklearn.utils.extmath.density": [],
+    "sklearn.utils.extmath.safe_sparse_dot": [],
+    "sklearn.utils.extmath.randomized_range_finder": [],
+    "sklearn.utils.extmath.randomized_svd": [],
+    "sklearn.utils.extmath._randomized_eigsh": [],
+    "sklearn.utils.extmath.weighted_mode": [],
+    "sklearn.utils.extmath.cartesian": [],
+    "sklearn.utils.extmath.svd_flip": [],
+    "sklearn.utils.extmath.log_logistic": [],
+    "sklearn.utils.extmath.softmax": [],
+    "sklearn.utils.extmath.make_nonnegative": [],
+    "sklearn.utils.extmath._safe_accumulator_op": [],
+    "sklearn.utils.extmath._incremental_mean_and_var": [],
+    "sklearn.utils.extmath._deterministic_vector_sign_flip": [],
+    "sklearn.utils.extmath.stable_cumsum": []
+}

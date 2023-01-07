@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.autograph.converters.directives._map_args": [],
+    "tensorflow.python.autograph.converters.directives.transform": [],
+    "tensorflow.python.autograph.converters.directives._LoopScope.__init__": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer._process_symbol_directive": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer._process_statement_directive": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer.visit_Name": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer.visit_Attribute": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer.visit_Assign": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer.visit_AugAssign": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer.visit_Expr": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer._track_and_visit_loop": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer.visit_While": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer.visit_For": [],
+    "tensorflow.python.autograph.converters.directives._LoopScope": [],
+    "tensorflow.python.autograph.converters.directives.DirectivesTransformer": []
+}

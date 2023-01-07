@@ -1,0 +1,10 @@
+{
+    "statsmodels.nonparametric.smoothers_lowess_old.lowess": [],
+    "statsmodels.nonparametric.smoothers_lowess_old._lowess_initial_fit": [],
+    "statsmodels.nonparametric.smoothers_lowess_old._lowess_wt_standardize": [],
+    "statsmodels.nonparametric.smoothers_lowess_old._lowess_robustify_fit": [],
+    "statsmodels.nonparametric.smoothers_lowess_old._lowess_update_nn": [],
+    "statsmodels.nonparametric.smoothers_lowess_old._lowess_tricube": [],
+    "statsmodels.nonparametric.smoothers_lowess_old._lowess_mycube": [],
+    "statsmodels.nonparametric.smoothers_lowess_old._lowess_bisquare": []
+}

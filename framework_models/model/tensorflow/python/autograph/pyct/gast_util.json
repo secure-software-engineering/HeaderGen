@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.autograph.pyct.gast_util._is_constant_gast_2": [],
+    "tensorflow.python.autograph.pyct.gast_util._is_constant_gast_3": [],
+    "tensorflow.python.autograph.pyct.gast_util.is_literal": [],
+    "tensorflow.python.autograph.pyct.gast_util._is_ellipsis_gast_2": [],
+    "tensorflow.python.autograph.pyct.gast_util._is_ellipsis_gast_3": []
+}

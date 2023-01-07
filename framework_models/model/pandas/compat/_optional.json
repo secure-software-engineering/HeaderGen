@@ -1,0 +1,4 @@
+{
+    "pandas.compat._optional.get_version": [],
+    "pandas.compat._optional.import_optional_dependency": []
+}

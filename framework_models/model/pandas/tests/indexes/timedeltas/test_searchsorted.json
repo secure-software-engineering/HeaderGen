@@ -1,0 +1,5 @@
+{
+    "pandas.tests.indexes.timedeltas.test_searchsorted.TestSearchSorted.test_searchsorted_different_argument_classes": [],
+    "pandas.tests.indexes.timedeltas.test_searchsorted.TestSearchSorted.test_searchsorted_invalid_argument_dtype": [],
+    "pandas.tests.indexes.timedeltas.test_searchsorted.TestSearchSorted": []
+}

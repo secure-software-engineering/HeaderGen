@@ -1,0 +1,7 @@
+{
+    "pandas.tests.arrays.period.test_astype.test_astype": [],
+    "pandas.tests.arrays.period.test_astype.test_astype_copies": [],
+    "pandas.tests.arrays.period.test_astype.test_astype_categorical": [],
+    "pandas.tests.arrays.period.test_astype.test_astype_period": [],
+    "pandas.tests.arrays.period.test_astype.test_astype_datetime": []
+}

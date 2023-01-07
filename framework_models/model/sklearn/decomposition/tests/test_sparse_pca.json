@@ -1,0 +1,14 @@
+{
+    "sklearn.decomposition.tests.test_sparse_pca.generate_toy_data": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_correct_shapes": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_fit_transform": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_fit_transform_parallel": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_transform_nan": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_fit_transform_tall": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_initialization": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_mini_batch_correct_shapes": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_mini_batch_fit_transform": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_scaling_fit_transform": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_pca_vs_spca": [],
+    "sklearn.decomposition.tests.test_sparse_pca.test_spca_n_components_": []
+}

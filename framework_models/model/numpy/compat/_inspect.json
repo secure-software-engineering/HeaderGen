@@ -1,0 +1,12 @@
+{
+    "numpy.compat._inspect.ismethod": [],
+    "numpy.compat._inspect.isfunction": [],
+    "numpy.compat._inspect.iscode": [],
+    "numpy.compat._inspect.getargs": [],
+    "numpy.compat._inspect.getargspec": [],
+    "numpy.compat._inspect.getargvalues": [],
+    "numpy.compat._inspect.joinseq": [],
+    "numpy.compat._inspect.strseq": [],
+    "numpy.compat._inspect.formatargspec": [],
+    "numpy.compat._inspect.formatargvalues": []
+}

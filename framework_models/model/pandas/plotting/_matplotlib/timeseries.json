@@ -1,0 +1,16 @@
+{
+    "pandas.plotting._matplotlib.timeseries.maybe_resample": [],
+    "pandas.plotting._matplotlib.timeseries._is_sub": [],
+    "pandas.plotting._matplotlib.timeseries._is_sup": [],
+    "pandas.plotting._matplotlib.timeseries._upsample_others": [],
+    "pandas.plotting._matplotlib.timeseries._replot_ax": [],
+    "pandas.plotting._matplotlib.timeseries.decorate_axes": [],
+    "pandas.plotting._matplotlib.timeseries._get_ax_freq": [],
+    "pandas.plotting._matplotlib.timeseries._get_period_alias": [],
+    "pandas.plotting._matplotlib.timeseries._get_freq": [],
+    "pandas.plotting._matplotlib.timeseries.use_dynamic_x": [],
+    "pandas.plotting._matplotlib.timeseries._get_index_freq": [],
+    "pandas.plotting._matplotlib.timeseries.maybe_convert_index": [],
+    "pandas.plotting._matplotlib.timeseries._format_coord": [],
+    "pandas.plotting._matplotlib.timeseries.format_dateaxis": []
+}

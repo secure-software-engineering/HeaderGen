@@ -1,0 +1,22 @@
+{
+    "sklearn._loss.glm_distribution.ExponentialDispersionModel.in_y_range": [],
+    "sklearn._loss.glm_distribution.ExponentialDispersionModel.unit_variance": [],
+    "sklearn._loss.glm_distribution.ExponentialDispersionModel.unit_deviance": [],
+    "sklearn._loss.glm_distribution.ExponentialDispersionModel.unit_deviance_derivative": [],
+    "sklearn._loss.glm_distribution.ExponentialDispersionModel.deviance": [],
+    "sklearn._loss.glm_distribution.ExponentialDispersionModel.deviance_derivative": [],
+    "sklearn._loss.glm_distribution.TweedieDistribution.__init__": [],
+    "sklearn._loss.glm_distribution.TweedieDistribution.power": [],
+    "sklearn._loss.glm_distribution.TweedieDistribution.unit_variance": [],
+    "sklearn._loss.glm_distribution.TweedieDistribution.unit_deviance": [],
+    "sklearn._loss.glm_distribution.NormalDistribution.__init__": [],
+    "sklearn._loss.glm_distribution.PoissonDistribution.__init__": [],
+    "sklearn._loss.glm_distribution.GammaDistribution.__init__": [],
+    "sklearn._loss.glm_distribution.InverseGaussianDistribution.__init__": [],
+    "sklearn._loss.glm_distribution.ExponentialDispersionModel": [],
+    "sklearn._loss.glm_distribution.TweedieDistribution": [],
+    "sklearn._loss.glm_distribution.NormalDistribution": [],
+    "sklearn._loss.glm_distribution.PoissonDistribution": [],
+    "sklearn._loss.glm_distribution.GammaDistribution": [],
+    "sklearn._loss.glm_distribution.InverseGaussianDistribution": []
+}

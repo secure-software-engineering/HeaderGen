@@ -1,0 +1,6 @@
+{
+    "tensorflow.python.platform.gfile.GFile.__init__": [],
+    "tensorflow.python.platform.gfile.FastGFile.__init__": [],
+    "tensorflow.python.platform.gfile.GFile": [],
+    "tensorflow.python.platform.gfile.FastGFile": []
+}

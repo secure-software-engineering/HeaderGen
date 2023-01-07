@@ -1,0 +1,4 @@
+{
+    "pandas.tests.strings.conftest.any_string_method": [],
+    "pandas.tests.strings.conftest.any_allowed_skipna_inferred_dtype": []
+}

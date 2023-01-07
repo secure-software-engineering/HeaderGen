@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._check_perm": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._assert_non_singular": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._domain_dimension_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._log_abs_determinant": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._solve": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._to_dense": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._diag_part": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._cond": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation.perm": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_permutation.LinearOperatorPermutation": []
+}

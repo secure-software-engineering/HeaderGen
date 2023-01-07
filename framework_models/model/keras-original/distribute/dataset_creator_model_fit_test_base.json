@@ -1,0 +1,8 @@
+{
+    "keras.distribute.dataset_creator_model_fit_test_base.DatasetCreatorModelFitTestBase._get_dataset_fn": [],
+    "keras.distribute.dataset_creator_model_fit_test_base.DatasetCreatorModelFitTestBase._model_compile": [],
+    "keras.distribute.dataset_creator_model_fit_test_base.DatasetCreatorModelFitTestBase._model_fit": [],
+    "keras.distribute.dataset_creator_model_fit_test_base.DatasetCreatorModelFitTestBase._model_evaluate": [],
+    "keras.distribute.dataset_creator_model_fit_test_base.DatasetCreatorModelFitTestBase._model_predict": [],
+    "keras.distribute.dataset_creator_model_fit_test_base.DatasetCreatorModelFitTestBase": []
+}

@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.framework.graph_to_function_def._make_argname_from_tensor_name": [],
+    "tensorflow.python.framework.graph_to_function_def._tensor_to_argdef": [],
+    "tensorflow.python.framework.graph_to_function_def._is_in_placeholders": [],
+    "tensorflow.python.framework.graph_to_function_def._get_node_def": [],
+    "tensorflow.python.framework.graph_to_function_def._get_op_def": [],
+    "tensorflow.python.framework.graph_to_function_def._create_input_dict": [],
+    "tensorflow.python.framework.graph_to_function_def._add_op_node": [],
+    "tensorflow.python.framework.graph_to_function_def.graph_to_function_def": []
+}

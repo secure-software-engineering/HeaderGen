@@ -1,0 +1,8 @@
+{
+    "pandas.tests.series.methods.test_diff.TestSeriesDiff.test_diff_np": [],
+    "pandas.tests.series.methods.test_diff.TestSeriesDiff.test_diff_int": [],
+    "pandas.tests.series.methods.test_diff.TestSeriesDiff.test_diff_tz": [],
+    "pandas.tests.series.methods.test_diff.TestSeriesDiff.test_diff_bool": [],
+    "pandas.tests.series.methods.test_diff.TestSeriesDiff.test_diff_object_dtype": [],
+    "pandas.tests.series.methods.test_diff.TestSeriesDiff": []
+}

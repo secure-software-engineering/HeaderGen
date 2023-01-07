@@ -1,0 +1,9 @@
+{
+    "scipy.fft.tests.test_multithreading.x": [],
+    "scipy.fft.tests.test_multithreading.test_threaded_same": [],
+    "scipy.fft.tests.test_multithreading._mt_fft": [],
+    "scipy.fft.tests.test_multithreading.test_mixed_threads_processes": [],
+    "scipy.fft.tests.test_multithreading.test_invalid_workers": [],
+    "scipy.fft.tests.test_multithreading.test_set_get_workers": [],
+    "scipy.fft.tests.test_multithreading.test_set_workers_invalid": []
+}

@@ -1,0 +1,7 @@
+{
+    "pandas.tests.tseries.frequencies.test_freq_code.test_get_to_timestamp_base": [],
+    "pandas.tests.tseries.frequencies.test_freq_code.test_get_attrname_from_abbrev": [],
+    "pandas.tests.tseries.frequencies.test_freq_code.test_get_freq_roundtrip2": [],
+    "pandas.tests.tseries.frequencies.test_freq_code.test_resolution_bumping": [],
+    "pandas.tests.tseries.frequencies.test_freq_code.test_cat": []
+}

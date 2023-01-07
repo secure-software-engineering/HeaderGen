@@ -1,0 +1,6 @@
+{
+    "numpy.distutils.tests.test_shell_utils.Parser": [],
+    "numpy.distutils.tests.test_shell_utils.runner": [],
+    "numpy.distutils.tests.test_shell_utils.test_join_matches_subprocess": [],
+    "numpy.distutils.tests.test_shell_utils.test_roundtrip": []
+}

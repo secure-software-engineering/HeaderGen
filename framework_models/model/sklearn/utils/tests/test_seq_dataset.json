@@ -1,0 +1,11 @@
+{
+    "sklearn.utils.tests.test_seq_dataset.assert_csr_equal_values": [],
+    "sklearn.utils.tests.test_seq_dataset.make_dense_dataset_32": [],
+    "sklearn.utils.tests.test_seq_dataset.make_dense_dataset_64": [],
+    "sklearn.utils.tests.test_seq_dataset.make_sparse_dataset_32": [],
+    "sklearn.utils.tests.test_seq_dataset.make_sparse_dataset_64": [],
+    "sklearn.utils.tests.test_seq_dataset.test_seq_dataset_basic_iteration": [],
+    "sklearn.utils.tests.test_seq_dataset.test_seq_dataset_shuffle": [],
+    "sklearn.utils.tests.test_seq_dataset.test_fused_types_consistency": [],
+    "sklearn.utils.tests.test_seq_dataset.test_buffer_dtype_mismatch_error": []
+}

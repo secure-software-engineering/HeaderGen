@@ -1,0 +1,13 @@
+{
+    "tensorflow.python.framework.python_memory_checker._get_typename": [],
+    "tensorflow.python.framework.python_memory_checker._create_python_object_snapshot": [],
+    "tensorflow.python.framework.python_memory_checker._snapshot_diff": [],
+    "tensorflow.python.framework.python_memory_checker._PythonMemoryChecker.__init__": [],
+    "tensorflow.python.framework.python_memory_checker._PythonMemoryChecker.record_snapshot": [],
+    "tensorflow.python.framework.python_memory_checker._PythonMemoryChecker.report": [],
+    "tensorflow.python.framework.python_memory_checker._PythonMemoryChecker.assert_no_leak_if_all_possibly_except_one": [],
+    "tensorflow.python.framework.python_memory_checker._PythonMemoryChecker.assert_no_new_objects": [],
+    "tensorflow.python.framework.python_memory_checker._PythonMemoryChecker._snapshot_diff": [],
+    "tensorflow.python.framework.python_memory_checker._PythonMemoryChecker._get_internal_object_ids": [],
+    "tensorflow.python.framework.python_memory_checker._PythonMemoryChecker": []
+}

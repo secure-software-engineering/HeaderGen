@@ -1,0 +1,9 @@
+{
+    "keras.optimizer_v2.utils.all_reduce_sum_gradients": [],
+    "keras.optimizer_v2.utils.filter_empty_gradients": [],
+    "keras.optimizer_v2.utils.make_gradient_clipnorm_fn": [],
+    "keras.optimizer_v2.utils.make_global_gradient_clipnorm_fn": [],
+    "keras.optimizer_v2.utils.make_gradient_clipvalue_fn": [],
+    "keras.optimizer_v2.utils._all_reduce_sum_fn": [],
+    "keras.optimizer_v2.utils.strategy_supports_no_merge_call": []
+}

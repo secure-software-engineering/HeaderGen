@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.keras.backend_config.epsilon": [],
+    "tensorflow.python.keras.backend_config.set_epsilon": [],
+    "tensorflow.python.keras.backend_config.floatx": [],
+    "tensorflow.python.keras.backend_config.set_floatx": [],
+    "tensorflow.python.keras.backend_config.image_data_format": [],
+    "tensorflow.python.keras.backend_config.set_image_data_format": []
+}

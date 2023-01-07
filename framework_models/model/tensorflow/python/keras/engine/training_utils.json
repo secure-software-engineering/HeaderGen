@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.keras.engine.training_utils.slice_arrays": [],
+    "tensorflow.python.keras.engine.training_utils.handle_partial_sample_weights": [],
+    "tensorflow.python.keras.engine.training_utils.get_input_shape_and_dtype": [],
+    "tensorflow.python.keras.engine.training_utils.get_static_batch_size": [],
+    "tensorflow.python.keras.engine.training_utils.list_to_tuple": [],
+    "tensorflow.python.keras.engine.training_utils.RespectCompiledTrainableState.__init__": [],
+    "tensorflow.python.keras.engine.training_utils.RespectCompiledTrainableState.__enter__": [],
+    "tensorflow.python.keras.engine.training_utils.RespectCompiledTrainableState.__exit__": [],
+    "tensorflow.python.keras.engine.training_utils.RespectCompiledTrainableState": []
+}

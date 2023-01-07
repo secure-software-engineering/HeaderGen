@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.sets_impl.set_size": [],
+    "tensorflow.python.ops.sets_impl._convert_to_tensors_or_sparse_tensors": [],
+    "tensorflow.python.ops.sets_impl._set_operation": [],
+    "tensorflow.python.ops.sets_impl.set_intersection": [],
+    "tensorflow.python.ops.sets_impl.set_difference": [],
+    "tensorflow.python.ops.sets_impl.set_union": []
+}

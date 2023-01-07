@@ -1,0 +1,11 @@
+{
+    "sklearn.utils.tests.test_encode.test_encode_util": [],
+    "sklearn.utils.tests.test_encode.test_encode_with_check_unknown": [],
+    "sklearn.utils.tests.test_encode._assert_check_unknown": [],
+    "sklearn.utils.tests.test_encode.test_check_unknown": [],
+    "sklearn.utils.tests.test_encode.test_check_unknown_missing_values": [],
+    "sklearn.utils.tests.test_encode.test_unique_util_missing_values_objects": [],
+    "sklearn.utils.tests.test_encode.test_unique_util_missing_values_numeric": [],
+    "sklearn.utils.tests.test_encode.test_unique_util_with_all_missing_values": [],
+    "sklearn.utils.tests.test_encode.test_check_unknown_with_both_missing_values": []
+}

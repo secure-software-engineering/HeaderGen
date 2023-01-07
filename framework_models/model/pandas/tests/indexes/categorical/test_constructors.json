@@ -1,0 +1,9 @@
+{
+    "pandas.tests.indexes.categorical.test_constructors.TestCategoricalIndexConstructors.test_construction_without_data_deprecated": [],
+    "pandas.tests.indexes.categorical.test_constructors.TestCategoricalIndexConstructors.test_construction_disallows_scalar": [],
+    "pandas.tests.indexes.categorical.test_constructors.TestCategoricalIndexConstructors.test_construction": [],
+    "pandas.tests.indexes.categorical.test_constructors.TestCategoricalIndexConstructors.test_construction_with_dtype": [],
+    "pandas.tests.indexes.categorical.test_constructors.TestCategoricalIndexConstructors.test_construction_empty_with_bool_categories": [],
+    "pandas.tests.indexes.categorical.test_constructors.TestCategoricalIndexConstructors.test_construction_with_categorical_dtype": [],
+    "pandas.tests.indexes.categorical.test_constructors.TestCategoricalIndexConstructors": []
+}

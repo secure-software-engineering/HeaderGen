@@ -1,0 +1,18 @@
+{
+    "statsmodels.base.distributed_estimation._est_regularized_naive": [],
+    "statsmodels.base.distributed_estimation._est_unregularized_naive": [],
+    "statsmodels.base.distributed_estimation._join_naive": [],
+    "statsmodels.base.distributed_estimation._calc_grad": [],
+    "statsmodels.base.distributed_estimation._calc_wdesign_mat": [],
+    "statsmodels.base.distributed_estimation._est_regularized_debiased": [],
+    "statsmodels.base.distributed_estimation._join_debiased": [],
+    "statsmodels.base.distributed_estimation._helper_fit_partition": [],
+    "statsmodels.base.distributed_estimation.DistributedModel.__init__": [],
+    "statsmodels.base.distributed_estimation.DistributedModel.fit": [],
+    "statsmodels.base.distributed_estimation.DistributedModel.fit_sequential": [],
+    "statsmodels.base.distributed_estimation.DistributedModel.fit_joblib": [],
+    "statsmodels.base.distributed_estimation.DistributedResults.__init__": [],
+    "statsmodels.base.distributed_estimation.DistributedResults.predict": [],
+    "statsmodels.base.distributed_estimation.DistributedModel": [],
+    "statsmodels.base.distributed_estimation.DistributedResults": []
+}

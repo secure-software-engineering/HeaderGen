@@ -1,0 +1,8 @@
+{
+    "matplotlib.backends.backend_wxcairo.FigureFrameWxCairo.get_canvas": [],
+    "matplotlib.backends.backend_wxcairo.FigureCanvasWxCairo.__init__": [],
+    "matplotlib.backends.backend_wxcairo.FigureCanvasWxCairo.draw": [],
+    "matplotlib.backends.backend_wxcairo.FigureFrameWxCairo": [],
+    "matplotlib.backends.backend_wxcairo.FigureCanvasWxCairo": [],
+    "matplotlib.backends.backend_wxcairo._BackendWxCairo": []
+}

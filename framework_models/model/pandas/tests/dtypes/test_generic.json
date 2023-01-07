@@ -1,0 +1,7 @@
+{
+    "pandas.tests.dtypes.test_generic.test_setattr_warnings": [],
+    "pandas.tests.dtypes.test_generic.TestABCClasses.test_abc_pairs": [],
+    "pandas.tests.dtypes.test_generic.TestABCClasses.test_abc_hierarchy": [],
+    "pandas.tests.dtypes.test_generic.TestABCClasses.test_abc_coverage": [],
+    "pandas.tests.dtypes.test_generic.TestABCClasses": []
+}

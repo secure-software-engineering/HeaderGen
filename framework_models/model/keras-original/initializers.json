@@ -1,0 +1,6 @@
+{
+    "keras.initializers.populate_deserializable_objects": [],
+    "keras.initializers.serialize": [],
+    "keras.initializers.deserialize": [],
+    "keras.initializers.get": []
+}

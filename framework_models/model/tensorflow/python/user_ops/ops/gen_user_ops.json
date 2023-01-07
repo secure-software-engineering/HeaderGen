@@ -1,0 +1,4 @@
+{
+    "tensorflow.python.user_ops.ops.gen_user_ops.fact": [],
+    "tensorflow.python.user_ops.ops.gen_user_ops.fact_eager_fallback": []
+}

@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.gen_nccl_ops.nccl_all_reduce": [],
+    "tensorflow.python.ops.gen_nccl_ops.nccl_all_reduce_eager_fallback": [],
+    "tensorflow.python.ops.gen_nccl_ops.nccl_broadcast": [],
+    "tensorflow.python.ops.gen_nccl_ops.nccl_broadcast_eager_fallback": [],
+    "tensorflow.python.ops.gen_nccl_ops.nccl_reduce": [],
+    "tensorflow.python.ops.gen_nccl_ops.nccl_reduce_eager_fallback": []
+}

@@ -1,0 +1,14 @@
+{
+    "pandas.core.reshape.pivot.pivot_table": [],
+    "pandas.core.reshape.pivot.__internal_pivot_table": [],
+    "pandas.core.reshape.pivot._add_margins": [],
+    "pandas.core.reshape.pivot._compute_grand_margin": [],
+    "pandas.core.reshape.pivot._generate_marginal_results": [],
+    "pandas.core.reshape.pivot._generate_marginal_results_without_values": [],
+    "pandas.core.reshape.pivot._convert_by": [],
+    "pandas.core.reshape.pivot.pivot": [],
+    "pandas.core.reshape.pivot.crosstab": [],
+    "pandas.core.reshape.pivot._normalize": [],
+    "pandas.core.reshape.pivot._get_names": [],
+    "pandas.core.reshape.pivot._build_names_mapper": []
+}

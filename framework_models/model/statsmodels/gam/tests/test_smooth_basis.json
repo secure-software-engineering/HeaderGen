@@ -1,0 +1,5 @@
+{
+    "statsmodels.gam.tests.test_smooth_basis.test_univariate_polynomial_smoother": [],
+    "statsmodels.gam.tests.test_smooth_basis.test_multivariate_polynomial_basis": [],
+    "statsmodels.gam.tests.test_smooth_basis.test_bsplines": []
+}

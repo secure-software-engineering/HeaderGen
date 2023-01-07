@@ -1,0 +1,6 @@
+{
+    "scipy.linalg.blas.find_best_blas_type": [],
+    "scipy.linalg.blas._get_funcs": [],
+    "scipy.linalg.blas._memoize_get_funcs": [],
+    "scipy.linalg.blas.get_blas_funcs": []
+}

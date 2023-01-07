@@ -1,0 +1,4 @@
+{
+    "xgboost.libpath.find_lib_path": [],
+    "xgboost.libpath.XGBoostLibraryNotFound": []
+}

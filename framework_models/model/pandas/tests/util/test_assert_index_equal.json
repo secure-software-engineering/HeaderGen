@@ -1,0 +1,15 @@
+{
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_levels_mismatch": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_values_mismatch": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_length_mismatch": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_class_mismatch": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_values_close": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_values_less_close": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_values_too_far": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_value_oder_mismatch": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_level_values_mismatch": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_names": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_category_mismatch": [],
+    "pandas.tests.util.test_assert_index_equal.test_index_equal_range_categories": [],
+    "pandas.tests.util.test_assert_index_equal.test_assert_index_equal_mixed_dtype": []
+}

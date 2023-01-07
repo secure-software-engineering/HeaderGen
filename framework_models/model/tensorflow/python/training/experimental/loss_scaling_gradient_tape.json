@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.training.experimental.loss_scaling_gradient_tape._convert_to_per_replicas": [],
+    "tensorflow.python.training.experimental.loss_scaling_gradient_tape._compute_gradients_until_finite": [],
+    "tensorflow.python.training.experimental.loss_scaling_gradient_tape.LossScaleGradientTape.__init__": [],
+    "tensorflow.python.training.experimental.loss_scaling_gradient_tape.LossScaleGradientTape.gradient": [],
+    "tensorflow.python.training.experimental.loss_scaling_gradient_tape.LossScaleGradientTape.jacobian": [],
+    "tensorflow.python.training.experimental.loss_scaling_gradient_tape.LossScaleGradientTape.batch_jacobian": [],
+    "tensorflow.python.training.experimental.loss_scaling_gradient_tape.LossScaleGradientTape": []
+}

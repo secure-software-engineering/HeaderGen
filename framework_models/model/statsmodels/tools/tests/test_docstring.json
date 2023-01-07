@@ -1,0 +1,11 @@
+{
+    "statsmodels.tools.tests.test_docstring.test_remove_parameter": [],
+    "statsmodels.tools.tests.test_docstring.test_insert_parameters": [],
+    "statsmodels.tools.tests.test_docstring.test_set_unknown": [],
+    "statsmodels.tools.tests.test_docstring.test_replace_block": [],
+    "statsmodels.tools.tests.test_docstring.test_repeat": [],
+    "statsmodels.tools.tests.test_docstring.test_bad": [],
+    "statsmodels.tools.tests.test_docstring.test_empty_ds": [],
+    "statsmodels.tools.tests.test_docstring.test_yield_return": [],
+    "statsmodels.tools.tests.test_docstring.test_multiple_sig": []
+}

@@ -1,0 +1,13 @@
+{
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_nan": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_dtypes": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_nooverwrite": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_filtered": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_raise_bad_parameter": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_raise_on_overlap": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_from_non_df": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_datetime_tz": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate.test_update_with_different_dtype": [],
+    "pandas.tests.frame.methods.test_update.TestDataFrameUpdate": []
+}

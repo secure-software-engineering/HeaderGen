@@ -1,0 +1,8 @@
+{
+    "statsmodels.tools.testing.bunch_factory": [],
+    "statsmodels.tools.testing.assert_equal": [],
+    "statsmodels.tools.testing.Holder.__init__": [],
+    "statsmodels.tools.testing.Holder.__str__": [],
+    "statsmodels.tools.testing.Holder.__repr__": [],
+    "statsmodels.tools.testing.Holder": []
+}

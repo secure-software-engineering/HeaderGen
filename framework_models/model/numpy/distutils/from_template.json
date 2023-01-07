@@ -1,0 +1,12 @@
+{
+    "numpy.distutils.from_template.parse_structure": [],
+    "numpy.distutils.from_template.find_repl_patterns": [],
+    "numpy.distutils.from_template.find_and_remove_repl_patterns": [],
+    "numpy.distutils.from_template.conv": [],
+    "numpy.distutils.from_template.unique_key": [],
+    "numpy.distutils.from_template.expand_sub": [],
+    "numpy.distutils.from_template.process_str": [],
+    "numpy.distutils.from_template.resolve_includes": [],
+    "numpy.distutils.from_template.process_file": [],
+    "numpy.distutils.from_template.main": []
+}

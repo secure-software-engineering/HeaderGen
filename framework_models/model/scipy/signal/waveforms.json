@@ -1,0 +1,10 @@
+{
+    "scipy.signal.waveforms.sawtooth": [],
+    "scipy.signal.waveforms.square": [],
+    "scipy.signal.waveforms.gausspulse": [],
+    "scipy.signal.waveforms.chirp": [],
+    "scipy.signal.waveforms._chirp_phase": [],
+    "scipy.signal.waveforms.sweep_poly": [],
+    "scipy.signal.waveforms._sweep_poly_phase": [],
+    "scipy.signal.waveforms.unit_impulse": []
+}

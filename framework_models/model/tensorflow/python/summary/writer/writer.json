@@ -1,0 +1,23 @@
+{
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer.__init__": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer.add_summary": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer.add_session_log": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer._add_graph_def": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer.add_graph": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer._write_plugin_assets": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer.add_meta_graph": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer.add_run_metadata": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer._add_event": [],
+    "tensorflow.python.summary.writer.writer.FileWriter.__init__": [],
+    "tensorflow.python.summary.writer.writer.FileWriter.__enter__": [],
+    "tensorflow.python.summary.writer.writer.FileWriter.__exit__": [],
+    "tensorflow.python.summary.writer.writer.FileWriter.get_logdir": [],
+    "tensorflow.python.summary.writer.writer.FileWriter._warn_if_event_writer_is_closed": [],
+    "tensorflow.python.summary.writer.writer.FileWriter._add_event": [],
+    "tensorflow.python.summary.writer.writer.FileWriter.add_event": [],
+    "tensorflow.python.summary.writer.writer.FileWriter.flush": [],
+    "tensorflow.python.summary.writer.writer.FileWriter.close": [],
+    "tensorflow.python.summary.writer.writer.FileWriter.reopen": [],
+    "tensorflow.python.summary.writer.writer.SummaryToEventTransformer": [],
+    "tensorflow.python.summary.writer.writer.FileWriter": []
+}

@@ -1,0 +1,8 @@
+{
+    "numpy._globals._NoValueType.__new__": [],
+    "numpy._globals._NoValueType.__reduce__": [],
+    "numpy._globals._NoValueType.__repr__": [],
+    "numpy._globals.ModuleDeprecationWarning": [],
+    "numpy._globals.VisibleDeprecationWarning": [],
+    "numpy._globals._NoValueType": []
+}

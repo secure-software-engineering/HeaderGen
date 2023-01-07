@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.ccard.data.load_pandas": [],
+    "statsmodels.datasets.ccard.data.load": [],
+    "statsmodels.datasets.ccard.data._get_data": []
+}

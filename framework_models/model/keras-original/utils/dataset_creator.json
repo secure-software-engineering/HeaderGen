@@ -1,0 +1,5 @@
+{
+    "keras.utils.dataset_creator.DatasetCreator.__init__": [],
+    "keras.utils.dataset_creator.DatasetCreator.__call__": [],
+    "keras.utils.dataset_creator.DatasetCreator": []
+}

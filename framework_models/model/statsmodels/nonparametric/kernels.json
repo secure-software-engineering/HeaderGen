@@ -1,0 +1,15 @@
+{
+    "statsmodels.nonparametric.kernels.aitchison_aitken": [],
+    "statsmodels.nonparametric.kernels.wang_ryzin": [],
+    "statsmodels.nonparametric.kernels.gaussian": [],
+    "statsmodels.nonparametric.kernels.tricube": [],
+    "statsmodels.nonparametric.kernels.gaussian_convolution": [],
+    "statsmodels.nonparametric.kernels.wang_ryzin_convolution": [],
+    "statsmodels.nonparametric.kernels.aitchison_aitken_convolution": [],
+    "statsmodels.nonparametric.kernels.gaussian_cdf": [],
+    "statsmodels.nonparametric.kernels.aitchison_aitken_cdf": [],
+    "statsmodels.nonparametric.kernels.wang_ryzin_cdf": [],
+    "statsmodels.nonparametric.kernels.d_gaussian": [],
+    "statsmodels.nonparametric.kernels.aitchison_aitken_reg": [],
+    "statsmodels.nonparametric.kernels.wang_ryzin_reg": []
+}

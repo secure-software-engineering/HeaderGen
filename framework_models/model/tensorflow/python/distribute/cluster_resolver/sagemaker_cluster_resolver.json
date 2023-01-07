@@ -1,0 +1,14 @@
+{
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.format_master_url": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver._load_tf_config": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver._get_value_in_tfconfig": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver.__init__": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver.task_type": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver.task_id": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver.environment": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver.rpc_layer": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver.num_accelerators": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver.cluster_spec": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver.master": [],
+    "tensorflow.python.distribute.cluster_resolver.sagemaker_cluster_resolver.SageMakerClusterResolver": []
+}

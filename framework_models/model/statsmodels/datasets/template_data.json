@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.template_data.load": [],
+    "statsmodels.datasets.template_data.load_pandas": [],
+    "statsmodels.datasets.template_data._get_data": []
+}

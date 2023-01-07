@@ -1,0 +1,8 @@
+{
+    "numpy.typing.tests.test_generic_alias._get_subclass_mro": [],
+    "numpy.typing.tests.test_generic_alias.TestGenericAlias.test_pass": [],
+    "numpy.typing.tests.test_generic_alias.TestGenericAlias.test_weakref": [],
+    "numpy.typing.tests.test_generic_alias.TestGenericAlias.test_getattr": [],
+    "numpy.typing.tests.test_generic_alias.TestGenericAlias.test_raise": [],
+    "numpy.typing.tests.test_generic_alias.TestGenericAlias": []
+}

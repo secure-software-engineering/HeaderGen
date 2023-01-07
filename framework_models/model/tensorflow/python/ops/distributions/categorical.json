@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.ops.distributions.categorical._broadcast_cat_event_and_params": [],
+    "tensorflow.python.ops.distributions.categorical._kl_categorical_categorical": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical.__init__": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical.event_size": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical.logits": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical.probs": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._batch_shape_tensor": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._batch_shape": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._event_shape_tensor": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._event_shape": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._sample_n": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._cdf": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._log_prob": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._entropy": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical._mode": [],
+    "tensorflow.python.ops.distributions.categorical.Categorical": []
+}

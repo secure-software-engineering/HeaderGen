@@ -1,0 +1,18 @@
+{
+    "numpy.abs": ["DATA_CLEANING_PREPARATION"],
+    "numpy.arange": ["DATA_CLEANING_PREPARATION"],
+    "numpy.array": ["DATA_CLEANING_PREPARATION"],
+    "numpy.asarray": ["DATA_CLEANING_PREPARATION"],
+    "numpy.exp": ["DATA_CLEANING_PREPARATION"],
+    "numpy.float32": ["DATA_CLEANING_PREPARATION"],
+    "numpy.floor": ["DATA_CLEANING_PREPARATION"],
+    "numpy.full": ["DATA_CLEANING_PREPARATION"],
+    "numpy.load": ["DATA_LOADING"],
+    "numpy.log1p": ["DATA_CLEANING_PREPARATION"],
+    "numpy.maximum": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ndenumerate": ["DATA_CLEANING_PREPARATION"],
+    "numpy.ones": ["DATA_CLEANING_PREPARATION"],
+    "numpy.rint": ["DATA_CLEANING_PREPARATION"],
+    "numpy.sqrt": ["DATA_CLEANING_PREPARATION"],
+    "numpy.zeros": ["DATA_CLEANING_PREPARATION"]
+}

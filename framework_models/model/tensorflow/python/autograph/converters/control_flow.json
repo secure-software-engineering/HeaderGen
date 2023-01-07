@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.autograph.converters.control_flow.transform": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer.visit_Lambda": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer.visit_FunctionDef": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer._create_nonlocal_declarations": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer._create_state_functions": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer._create_loop_options": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer._create_undefined_assigns": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer._get_block_basic_vars": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer._get_block_composite_vars": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer._get_block_vars": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer.visit_If": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer.visit_While": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer.visit_For": [],
+    "tensorflow.python.autograph.converters.control_flow.AnnotatedDef.__init__": [],
+    "tensorflow.python.autograph.converters.control_flow._Function": [],
+    "tensorflow.python.autograph.converters.control_flow.ControlFlowTransformer": [],
+    "tensorflow.python.autograph.converters.control_flow.AnnotatedDef": []
+}

@@ -1,0 +1,17 @@
+{
+    "pandas.tests.groupby.test_rank.test_rank_apply": [],
+    "pandas.tests.groupby.test_rank.test_rank_args": [],
+    "pandas.tests.groupby.test_rank.test_infs_n_nans": [],
+    "pandas.tests.groupby.test_rank.test_rank_args_missing": [],
+    "pandas.tests.groupby.test_rank.test_rank_resets_each_group": [],
+    "pandas.tests.groupby.test_rank.test_rank_avg_even_vals": [],
+    "pandas.tests.groupby.test_rank.test_rank_object_dtype": [],
+    "pandas.tests.groupby.test_rank.test_rank_naoption_raises": [],
+    "pandas.tests.groupby.test_rank.test_rank_empty_group": [],
+    "pandas.tests.groupby.test_rank.test_rank_zero_div": [],
+    "pandas.tests.groupby.test_rank.test_rank_min_int": [],
+    "pandas.tests.groupby.test_rank.test_rank_pct_equal_values_on_group_transition": [],
+    "pandas.tests.groupby.test_rank.test_rank_multiindex": [],
+    "pandas.tests.groupby.test_rank.test_groupby_axis0_rank_axis1": [],
+    "pandas.tests.groupby.test_rank.test_groupby_axis0_cummax_axis1": []
+}

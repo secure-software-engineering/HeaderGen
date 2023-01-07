@@ -1,0 +1,6 @@
+{
+    "pandas.tests.frame.indexing.test_take.TestDataFrameTake.test_take": [],
+    "pandas.tests.frame.indexing.test_take.TestDataFrameTake.test_take_mixed_type": [],
+    "pandas.tests.frame.indexing.test_take.TestDataFrameTake.test_take_mixed_numeric": [],
+    "pandas.tests.frame.indexing.test_take.TestDataFrameTake": []
+}

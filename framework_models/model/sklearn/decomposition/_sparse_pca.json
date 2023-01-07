@@ -1,0 +1,9 @@
+{
+    "sklearn.decomposition._sparse_pca.SparsePCA.__init__": [],
+    "sklearn.decomposition._sparse_pca.SparsePCA.fit": [],
+    "sklearn.decomposition._sparse_pca.SparsePCA.transform": [],
+    "sklearn.decomposition._sparse_pca.MiniBatchSparsePCA.__init__": [],
+    "sklearn.decomposition._sparse_pca.MiniBatchSparsePCA.fit": [],
+    "sklearn.decomposition._sparse_pca.SparsePCA": [],
+    "sklearn.decomposition._sparse_pca.MiniBatchSparsePCA": []
+}

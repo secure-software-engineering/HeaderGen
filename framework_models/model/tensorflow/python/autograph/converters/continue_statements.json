@@ -1,0 +1,19 @@
+{
+    "tensorflow.python.autograph.converters.continue_statements.transform": [],
+    "tensorflow.python.autograph.converters.continue_statements._Continue.__init__": [],
+    "tensorflow.python.autograph.converters.continue_statements._Continue.__repr__": [],
+    "tensorflow.python.autograph.converters.continue_statements._Block.__init__": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer.visit_Continue": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer._postprocess_statement": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer._visit_loop_body": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer._visit_non_loop_body": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer.visit_While": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer.visit_For": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer.visit_If": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer.visit_With": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer.visit_Try": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer.visit_ExceptHandler": [],
+    "tensorflow.python.autograph.converters.continue_statements._Continue": [],
+    "tensorflow.python.autograph.converters.continue_statements._Block": [],
+    "tensorflow.python.autograph.converters.continue_statements.ContinueCanonicalizationTransformer": []
+}

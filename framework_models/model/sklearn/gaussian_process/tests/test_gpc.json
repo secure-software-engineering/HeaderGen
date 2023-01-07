@@ -1,0 +1,15 @@
+{
+    "sklearn.gaussian_process.tests.test_gpc.f": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_predict_consistent": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_predict_consistent_structured": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_lml_improving": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_lml_precomputed": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_lml_without_cloning_kernel": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_converged_to_local_maximum": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_lml_gradient": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_random_starts": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_custom_optimizer": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_multi_class": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_multi_class_n_jobs": [],
+    "sklearn.gaussian_process.tests.test_gpc.test_warning_bounds": []
+}

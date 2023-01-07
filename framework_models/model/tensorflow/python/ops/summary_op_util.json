@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.ops.summary_op_util.collect": [],
+    "tensorflow.python.ops.summary_op_util.clean_tag": [],
+    "tensorflow.python.ops.summary_op_util.summary_scope": []
+}

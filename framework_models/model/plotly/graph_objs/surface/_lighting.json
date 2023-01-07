@@ -1,0 +1,10 @@
+{
+    "plotly.graph_objs.surface._lighting.Lighting.ambient": [],
+    "plotly.graph_objs.surface._lighting.Lighting.diffuse": [],
+    "plotly.graph_objs.surface._lighting.Lighting.fresnel": [],
+    "plotly.graph_objs.surface._lighting.Lighting.roughness": [],
+    "plotly.graph_objs.surface._lighting.Lighting.specular": [],
+    "plotly.graph_objs.surface._lighting.Lighting._prop_descriptions": [],
+    "plotly.graph_objs.surface._lighting.Lighting.__init__": [],
+    "plotly.graph_objs.surface._lighting.Lighting": []
+}

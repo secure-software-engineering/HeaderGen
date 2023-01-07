@@ -1,0 +1,7 @@
+{
+    "tensorflow.python.keras.utils.kernelized_utils._to_matrix": [],
+    "tensorflow.python.keras.utils.kernelized_utils._align_matrices": [],
+    "tensorflow.python.keras.utils.kernelized_utils.inner_product": [],
+    "tensorflow.python.keras.utils.kernelized_utils.exact_gaussian_kernel": [],
+    "tensorflow.python.keras.utils.kernelized_utils.exact_laplacian_kernel": []
+}

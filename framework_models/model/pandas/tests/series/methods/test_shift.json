@@ -1,0 +1,22 @@
+{
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_always_copy": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_datetime_shift_always_copy": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift2": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_fill_value": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_categorical_fill_value": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_dst": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_tshift": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_tshift_deprecated": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_period_index_series_shift_with_freq": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_datetime_series_shift_with_freq": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_period_index_series_shift_with_freq_error": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_datetime_series_shift_with_freq_error": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_int": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_object_non_scalar_fill": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_categorical": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_dt64values_int_fill_deprecated": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_preserve_freqstr": [],
+    "pandas.tests.series.methods.test_shift.TestShift.test_shift_non_writable_array": [],
+    "pandas.tests.series.methods.test_shift.TestShift": []
+}

@@ -1,0 +1,10 @@
+{
+    "scipy.stats._rvs_sampling.rvs_ratio_uniforms": [],
+    "scipy.stats._rvs_sampling._fni_input_validation": [],
+    "scipy.stats._rvs_sampling._fast_numerical_inverse": [],
+    "scipy.stats._rvs_sampling.NumericalInverseHermite.__init__": [],
+    "scipy.stats._rvs_sampling.NumericalInverseHermite.ppf": [],
+    "scipy.stats._rvs_sampling.NumericalInverseHermite.rvs": [],
+    "scipy.stats._rvs_sampling.NumericalInverseHermite.qrvs": [],
+    "scipy.stats._rvs_sampling.NumericalInverseHermite": []
+}

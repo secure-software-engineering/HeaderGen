@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.training.tracking.layer_utils.is_layer": [],
+    "tensorflow.python.training.tracking.layer_utils.has_weights": [],
+    "tensorflow.python.training.tracking.layer_utils.invalidate_recursive_cache": [],
+    "tensorflow.python.training.tracking.layer_utils.filter_empty_layer_containers": [],
+    "tensorflow.python.training.tracking.layer_utils.MutationSentinel.mark_as": [],
+    "tensorflow.python.training.tracking.layer_utils.MutationSentinel.in_cached_state": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel.__init__": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel.__repr__": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel.add_parent": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel.get": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel._set": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel.mark_cached": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel.invalidate": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel.invalidate_all": [],
+    "tensorflow.python.training.tracking.layer_utils.MutationSentinel": [],
+    "tensorflow.python.training.tracking.layer_utils.AttributeSentinel": []
+}

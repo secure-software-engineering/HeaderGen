@@ -1,0 +1,5 @@
+{
+    "pandas.tests.io.sas.test_sas.TestSas.test_sas_buffer_format": [],
+    "pandas.tests.io.sas.test_sas.TestSas.test_sas_read_no_format_or_extension": [],
+    "pandas.tests.io.sas.test_sas.TestSas": []
+}

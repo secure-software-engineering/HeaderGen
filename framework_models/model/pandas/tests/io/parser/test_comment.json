@@ -1,0 +1,10 @@
+{
+    "pandas.tests.io.parser.test_comment.test_comment": [],
+    "pandas.tests.io.parser.test_comment.test_line_comment": [],
+    "pandas.tests.io.parser.test_comment.test_comment_skiprows": [],
+    "pandas.tests.io.parser.test_comment.test_comment_header": [],
+    "pandas.tests.io.parser.test_comment.test_comment_skiprows_header": [],
+    "pandas.tests.io.parser.test_comment.test_custom_comment_char": [],
+    "pandas.tests.io.parser.test_comment.test_comment_first_line": [],
+    "pandas.tests.io.parser.test_comment.test_comment_char_in_default_value": []
+}

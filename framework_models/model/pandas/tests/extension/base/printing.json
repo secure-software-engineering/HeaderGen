@@ -1,0 +1,8 @@
+{
+    "pandas.tests.extension.base.printing.BasePrintingTests.test_array_repr": [],
+    "pandas.tests.extension.base.printing.BasePrintingTests.test_array_repr_unicode": [],
+    "pandas.tests.extension.base.printing.BasePrintingTests.test_series_repr": [],
+    "pandas.tests.extension.base.printing.BasePrintingTests.test_dataframe_repr": [],
+    "pandas.tests.extension.base.printing.BasePrintingTests.test_dtype_name_in_info": [],
+    "pandas.tests.extension.base.printing.BasePrintingTests": []
+}

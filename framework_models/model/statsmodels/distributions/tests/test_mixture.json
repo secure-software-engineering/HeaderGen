@@ -1,0 +1,9 @@
+{
+    "statsmodels.distributions.tests.test_mixture.TestMixtureDistributions.test_mixture_rvs_random": [],
+    "statsmodels.distributions.tests.test_mixture.TestMixtureDistributions.test_mv_mixture_rvs_random": [],
+    "statsmodels.distributions.tests.test_mixture.TestMixtureDistributions.test_mixture_pdf": [],
+    "statsmodels.distributions.tests.test_mixture.TestMixtureDistributions.test_mixture_cdf": [],
+    "statsmodels.distributions.tests.test_mixture.TestMixtureDistributions.test_mixture_rvs_fixed": [],
+    "statsmodels.distributions.tests.test_mixture.TestMixtureDistributions.test_mv_mixture_rvs_fixed": [],
+    "statsmodels.distributions.tests.test_mixture.TestMixtureDistributions": []
+}

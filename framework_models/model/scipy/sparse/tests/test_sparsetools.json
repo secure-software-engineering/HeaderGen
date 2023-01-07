@@ -1,0 +1,23 @@
+{
+    "scipy.sparse.tests.test_sparsetools.test_exception": [],
+    "scipy.sparse.tests.test_sparsetools.test_threads": [],
+    "scipy.sparse.tests.test_sparsetools.test_regression_std_vector_dtypes": [],
+    "scipy.sparse.tests.test_sparsetools.test_nnz_overflow": [],
+    "scipy.sparse.tests.test_sparsetools.test_csr_matmat_int64_overflow": [],
+    "scipy.sparse.tests.test_sparsetools.test_upcast": [],
+    "scipy.sparse.tests.test_sparsetools.test_endianness": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow.setup_method": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow.teardown_method": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow.test_coo_todense": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow.test_matvecs": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow.test_dia_matvec": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow.test_bsr_1_block": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow.test_bsr_n_block": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow._check_bsr_matvecs": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow._check_bsr_matvec": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow._check_bsr_diagonal": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow._check_bsr_sort_indices": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow._check_bsr_transpose": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow._check_bsr_matmat": [],
+    "scipy.sparse.tests.test_sparsetools.TestInt32Overflow": []
+}

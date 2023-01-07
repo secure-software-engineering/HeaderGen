@@ -1,0 +1,13 @@
+{
+    "scipy.stats._page_trend_test.page_trend_test": [],
+    "scipy.stats._page_trend_test._choose_method": [],
+    "scipy.stats._page_trend_test._l_vectorized": [],
+    "scipy.stats._page_trend_test._l_p_asymptotic": [],
+    "scipy.stats._page_trend_test._l_p_exact": [],
+    "scipy.stats._page_trend_test._PageL.__init__": [],
+    "scipy.stats._page_trend_test._PageL.set_k": [],
+    "scipy.stats._page_trend_test._PageL.sf": [],
+    "scipy.stats._page_trend_test._PageL.p_l_k_1": [],
+    "scipy.stats._page_trend_test._PageL.pmf": [],
+    "scipy.stats._page_trend_test._PageL": []
+}

@@ -1,0 +1,5 @@
+{
+    "scipy.special.tests.test_nan_inputs._get_ufuncs": [],
+    "scipy.special.tests.test_nan_inputs.test_nan_inputs": [],
+    "scipy.special.tests.test_nan_inputs.test_legacy_cast": []
+}

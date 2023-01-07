@@ -1,0 +1,10 @@
+{
+    "sklearn.metrics.cluster.tests.test_common.test_symmetric_non_symmetric_union": [],
+    "sklearn.metrics.cluster.tests.test_common.test_symmetry": [],
+    "sklearn.metrics.cluster.tests.test_common.test_non_symmetry": [],
+    "sklearn.metrics.cluster.tests.test_common.test_normalized_output": [],
+    "sklearn.metrics.cluster.tests.test_common.test_permute_labels": [],
+    "sklearn.metrics.cluster.tests.test_common.test_format_invariance": [],
+    "sklearn.metrics.cluster.tests.test_common.test_single_sample": [],
+    "sklearn.metrics.cluster.tests.test_common.test_inf_nan_input": []
+}

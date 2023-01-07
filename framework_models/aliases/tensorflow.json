@@ -1,0 +1,5 @@
+{
+    "tensorflow.local_variables_initializer": "tensorflow.compat.v1.local_variables_initializer",
+    "tensorflow.metrics": "keras.metrics",
+    "tensorflow.metrics.auc": "keras.metrics.AUC"
+}

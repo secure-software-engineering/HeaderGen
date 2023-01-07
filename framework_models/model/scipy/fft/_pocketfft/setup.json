@@ -1,0 +1,4 @@
+{
+    "scipy.fft._pocketfft.setup.pre_build_hook": [],
+    "scipy.fft._pocketfft.setup.configuration": []
+}

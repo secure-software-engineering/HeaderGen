@@ -1,0 +1,17 @@
+{
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer.__init__": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._doing_dynamic_loss_scaling": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer.compute_gradients": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._scale_loss": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._unscale_grads": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._scale_grad": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer.apply_gradients": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._distributed_apply": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._apply_gradients": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._apply_sparse": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._apply_dense": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._resource_apply_sparse": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer._resource_apply_dense": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer.variables": [],
+    "tensorflow.python.training.experimental.loss_scale_optimizer.MixedPrecisionLossScaleOptimizer": []
+}

@@ -1,0 +1,15 @@
+{
+    "statsmodels.tsa.arma_mle.Arma.__init__": [],
+    "statsmodels.tsa.arma_mle.Arma.initialize": [],
+    "statsmodels.tsa.arma_mle.Arma.geterrors": [],
+    "statsmodels.tsa.arma_mle.Arma.loglike": [],
+    "statsmodels.tsa.arma_mle.Arma.nloglikeobs": [],
+    "statsmodels.tsa.arma_mle.Arma.fit": [],
+    "statsmodels.tsa.arma_mle.Arma.fit_mle": [],
+    "statsmodels.tsa.arma_mle.Arma.predicted": [],
+    "statsmodels.tsa.arma_mle.Arma.forecast": [],
+    "statsmodels.tsa.arma_mle.Arma.forecast2": [],
+    "statsmodels.tsa.arma_mle.Arma.forecast3": [],
+    "statsmodels.tsa.arma_mle.Arma.generate_sample": [],
+    "statsmodels.tsa.arma_mle.Arma": []
+}

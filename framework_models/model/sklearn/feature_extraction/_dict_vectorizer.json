@@ -1,0 +1,15 @@
+{
+    "sklearn.feature_extraction._dict_vectorizer._tosequence": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer.__init__": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer._add_iterable_element": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer.fit": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer._transform": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer.fit_transform": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer.inverse_transform": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer.transform": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer.get_feature_names": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer.get_feature_names_out": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer.restrict": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer._more_tags": [],
+    "sklearn.feature_extraction._dict_vectorizer.DictVectorizer": []
+}

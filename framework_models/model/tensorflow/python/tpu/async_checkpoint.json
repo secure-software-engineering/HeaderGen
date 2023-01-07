@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook.__init__": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook._set_steps_per_run": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook.begin": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook.after_create_session": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook.before_run": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook.after_run": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook.end": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook._save": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook._get_saver": [],
+    "tensorflow.python.tpu.async_checkpoint.AsyncCheckpointSaverHook": []
+}

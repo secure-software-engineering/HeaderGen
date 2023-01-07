@@ -1,0 +1,9 @@
+{
+    "keras.premade.wide_deep.WideDeepModel.__init__": [],
+    "keras.premade.wide_deep.WideDeepModel.call": [],
+    "keras.premade.wide_deep.WideDeepModel.train_step": [],
+    "keras.premade.wide_deep.WideDeepModel._make_train_function": [],
+    "keras.premade.wide_deep.WideDeepModel.get_config": [],
+    "keras.premade.wide_deep.WideDeepModel.from_config": [],
+    "keras.premade.wide_deep.WideDeepModel": []
+}

@@ -1,0 +1,10 @@
+{
+    "tensorflow.python.keras.optimizer_v2.adadelta.Adadelta.__init__": [],
+    "tensorflow.python.keras.optimizer_v2.adadelta.Adadelta._create_slots": [],
+    "tensorflow.python.keras.optimizer_v2.adadelta.Adadelta._prepare_local": [],
+    "tensorflow.python.keras.optimizer_v2.adadelta.Adadelta.set_weights": [],
+    "tensorflow.python.keras.optimizer_v2.adadelta.Adadelta._resource_apply_dense": [],
+    "tensorflow.python.keras.optimizer_v2.adadelta.Adadelta._resource_apply_sparse": [],
+    "tensorflow.python.keras.optimizer_v2.adadelta.Adadelta.get_config": [],
+    "tensorflow.python.keras.optimizer_v2.adadelta.Adadelta": []
+}

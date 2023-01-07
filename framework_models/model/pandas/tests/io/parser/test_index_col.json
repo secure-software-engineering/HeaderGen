@@ -1,0 +1,17 @@
+{
+    "pandas.tests.io.parser.test_index_col.test_index_col_named": [],
+    "pandas.tests.io.parser.test_index_col.test_index_col_named2": [],
+    "pandas.tests.io.parser.test_index_col.test_index_col_is_true": [],
+    "pandas.tests.io.parser.test_index_col.test_infer_index_col": [],
+    "pandas.tests.io.parser.test_index_col.test_index_col_empty_data": [],
+    "pandas.tests.io.parser.test_index_col.test_empty_with_index_col_false": [],
+    "pandas.tests.io.parser.test_index_col.test_multi_index_naming": [],
+    "pandas.tests.io.parser.test_index_col.test_multi_index_naming_not_all_at_beginning": [],
+    "pandas.tests.io.parser.test_index_col.test_no_multi_index_level_names_empty": [],
+    "pandas.tests.io.parser.test_index_col.test_header_with_index_col": [],
+    "pandas.tests.io.parser.test_index_col.test_index_col_large_csv": [],
+    "pandas.tests.io.parser.test_index_col.test_index_col_multiindex_columns_no_data": [],
+    "pandas.tests.io.parser.test_index_col.test_index_col_header_no_data": [],
+    "pandas.tests.io.parser.test_index_col.test_multiindex_columns_no_data": [],
+    "pandas.tests.io.parser.test_index_col.test_multiindex_columns_index_col_with_data": []
+}

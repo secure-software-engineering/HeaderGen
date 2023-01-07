@@ -1,0 +1,20 @@
+{
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.transform": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._create_cond_branch": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._create_cond_expr": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._fmt_symbols": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._determine_aliased_symbols": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._create_state_functions": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._create_loop_options": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._create_undefined_assigns": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer.visit_If": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._get_basic_loop_vars": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._get_composite_loop_vars": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._get_loop_vars": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer._loop_var_constructs": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer.visit_While": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer.visit_For": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.AnnotatedDef.__init__": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.ControlFlowTransformer": [],
+    "tensorflow.python.autograph.converters.control_flow_deprecated_py2.AnnotatedDef": []
+}

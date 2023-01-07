@@ -1,0 +1,18 @@
+{
+    "tensorflow.python.ops.ragged.ragged_array_ops.boolean_mask": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.tile": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops._tile_ragged_values": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops._tile_ragged_splits": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.expand_dims": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops._ragged_expand_dims_v1": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.size": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops._ragged_size_v1": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.rank": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.ragged_one_hot": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.stack_dynamic_partitions": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.reverse": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.cross": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.cross_hashed": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops._cross_internal": [],
+    "tensorflow.python.ops.ragged.ragged_array_ops.dynamic_partition": []
+}

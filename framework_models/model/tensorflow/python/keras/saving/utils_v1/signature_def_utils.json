@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.saving.utils_v1.signature_def_utils.supervised_train_signature_def": [],
+    "tensorflow.python.keras.saving.utils_v1.signature_def_utils.supervised_eval_signature_def": [],
+    "tensorflow.python.keras.saving.utils_v1.signature_def_utils._supervised_signature_def": []
+}

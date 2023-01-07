@@ -1,0 +1,22 @@
+{
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.setup_method": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_constructor_errors": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_different_normalize_equals": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_repr": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_with_offset": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_eq": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_sub": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_hash": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_call": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.testRollback1": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.testRollback2": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.testRollforward1": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.testRollforward2": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_roll_date_object": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_normalize": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_is_on_offset": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_apply": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_apply_nanoseconds": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour.test_us_federal_holiday_with_datetime": [],
+    "pandas.tests.tseries.offsets.test_custom_business_hour.TestCustomBusinessHour": []
+}

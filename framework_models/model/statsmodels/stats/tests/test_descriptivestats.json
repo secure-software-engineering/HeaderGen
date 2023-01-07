@@ -1,0 +1,23 @@
+{
+    "statsmodels.stats.tests.test_descriptivestats.df": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_sign_test": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_description_exceptions": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_description_basic": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_odd_percentiles": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_large_ntop": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_use_t": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_special_stats": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_empty_columns": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_extension_types": [],
+    "statsmodels.stats.tests.test_descriptivestats.test_describe": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_basic_1": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_basic_2": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_describe_summary_float_ndarray": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_basic_4": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_basic_1a": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_basic_1b": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_basic_2a": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_basic_3": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable.test_basic_4a": [],
+    "statsmodels.stats.tests.test_descriptivestats.TestSimpleTable": []
+}

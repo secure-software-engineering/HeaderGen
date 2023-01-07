@@ -1,0 +1,3 @@
+from typing import Any
+
+def array_like(pos, name, dtype=..., ndim: Any | None = ..., maxdim: Any | None = ..., shape: Any | None = ..., order: str = ..., contiguous: bool = ...): ...

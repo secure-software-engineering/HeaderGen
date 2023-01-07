@@ -1,0 +1,5 @@
+{
+    "statsmodels.datasets.stackloss.data.load": [],
+    "statsmodels.datasets.stackloss.data.load_pandas": [],
+    "statsmodels.datasets.stackloss.data._get_data": []
+}

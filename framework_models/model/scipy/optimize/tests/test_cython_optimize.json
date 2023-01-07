@@ -1,0 +1,7 @@
+{
+    "scipy.optimize.tests.test_cython_optimize.test_bisect": [],
+    "scipy.optimize.tests.test_cython_optimize.test_ridder": [],
+    "scipy.optimize.tests.test_cython_optimize.test_brenth": [],
+    "scipy.optimize.tests.test_cython_optimize.test_brentq": [],
+    "scipy.optimize.tests.test_cython_optimize.test_brentq_full_output": []
+}

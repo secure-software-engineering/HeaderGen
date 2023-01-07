@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.kernel_tests.cudnn_deterministic_base.ConvolutionTest._random_data_op": [],
+    "tensorflow.python.kernel_tests.cudnn_deterministic_base.ConvolutionTest._random_out_op": [],
+    "tensorflow.python.kernel_tests.cudnn_deterministic_base.ConvolutionTest._assert_reproducible": [],
+    "tensorflow.python.kernel_tests.cudnn_deterministic_base.ConvolutionTest.testForward": [],
+    "tensorflow.python.kernel_tests.cudnn_deterministic_base.ConvolutionTest.testBackwardFilterGradient": [],
+    "tensorflow.python.kernel_tests.cudnn_deterministic_base.ConvolutionTest.testBackwardInputGradient": [],
+    "tensorflow.python.kernel_tests.cudnn_deterministic_base.ConvolutionTest": []
+}

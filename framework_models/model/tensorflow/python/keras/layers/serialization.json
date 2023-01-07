@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.keras.layers.serialization.populate_deserializable_objects": [],
+    "tensorflow.python.keras.layers.serialization.serialize": [],
+    "tensorflow.python.keras.layers.serialization.deserialize": []
+}

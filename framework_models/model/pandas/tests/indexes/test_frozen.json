@@ -1,0 +1,16 @@
+{
+    "pandas.tests.indexes.test_frozen.TestFrozenList.setup_method": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.check_mutable_error": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_no_mutable_funcs": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_slicing_maintains_type": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.check_result": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_string_methods_dont_fail": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_tricky_container": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_add": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_iadd": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_union": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_difference": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_difference_dupe": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList.test_tricky_container_to_bytes_raises": [],
+    "pandas.tests.indexes.test_frozen.TestFrozenList": []
+}

@@ -1,0 +1,50 @@
+{
+    "1": [
+        "Library Loading"
+    ],
+    "2": [
+        "Data Loading"
+    ],
+    "3": [
+        "Data Cleaning Filtering",
+        "Feature Transformation"        
+    ],
+    "4": [
+        "Data Profiling and Exploratory Data Analysis"
+    ],
+    "5": [
+        "Feature Transformation"
+    ],
+    "6": [
+        "Feature Transformation"
+    ],
+    "7": [
+        "Model Building and Training"
+    ],
+    "8": [
+        "Model Training"
+    ],
+    "9": [
+        "Visualization",
+        "Model Validation and Assembling"
+    ],
+    "10": [
+        "Model Validation and Assembling"
+    ],
+    "11": [
+        "Model Validation and Assembling"
+    ],
+    "12": [
+        "Feature Transformation"
+    ],
+    "13": [
+        "Model Validation and Assembling"
+    ],
+    "14": [
+        "*Others"
+    ],
+    "15": [
+        "Data Loading"
+    ],
+    "16": []
+}

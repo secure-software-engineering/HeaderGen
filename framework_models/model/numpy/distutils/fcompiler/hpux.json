@@ -1,0 +1,8 @@
+{
+    "numpy.distutils.fcompiler.hpux.HPUXFCompiler.get_flags": [],
+    "numpy.distutils.fcompiler.hpux.HPUXFCompiler.get_flags_opt": [],
+    "numpy.distutils.fcompiler.hpux.HPUXFCompiler.get_libraries": [],
+    "numpy.distutils.fcompiler.hpux.HPUXFCompiler.get_library_dirs": [],
+    "numpy.distutils.fcompiler.hpux.HPUXFCompiler.get_version": [],
+    "numpy.distutils.fcompiler.hpux.HPUXFCompiler": []
+}

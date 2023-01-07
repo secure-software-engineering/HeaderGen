@@ -1,0 +1,18 @@
+{
+    "pandas.tests.tslibs.test_parsing.test_parse_time_string": [],
+    "pandas.tests.tslibs.test_parsing.test_parse_time_string_invalid_type": [],
+    "pandas.tests.tslibs.test_parsing.test_parse_time_quarter_with_dash": [],
+    "pandas.tests.tslibs.test_parsing.test_parse_time_quarter_with_dash_error": [],
+    "pandas.tests.tslibs.test_parsing.test_does_not_convert_mixed_integer": [],
+    "pandas.tests.tslibs.test_parsing.test_parsers_quarterly_with_freq_error": [],
+    "pandas.tests.tslibs.test_parsing.test_parsers_quarterly_with_freq": [],
+    "pandas.tests.tslibs.test_parsing.test_parsers_quarter_invalid": [],
+    "pandas.tests.tslibs.test_parsing.test_parsers_month_freq": [],
+    "pandas.tests.tslibs.test_parsing.test_guess_datetime_format_with_parseable_formats": [],
+    "pandas.tests.tslibs.test_parsing.test_guess_datetime_format_with_dayfirst": [],
+    "pandas.tests.tslibs.test_parsing.test_guess_datetime_format_with_locale_specific_formats": [],
+    "pandas.tests.tslibs.test_parsing.test_guess_datetime_format_invalid_inputs": [],
+    "pandas.tests.tslibs.test_parsing.test_guess_datetime_format_no_padding": [],
+    "pandas.tests.tslibs.test_parsing.test_try_parse_dates": [],
+    "pandas.tests.tslibs.test_parsing.test_parse_time_string_check_instance_type_raise_exception": []
+}

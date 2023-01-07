@@ -1,0 +1,6 @@
+{
+    "pandas.tests.dtypes.cast.test_construct_from_scalar.test_cast_1d_array_like_from_scalar_categorical": [],
+    "pandas.tests.dtypes.cast.test_construct_from_scalar.test_cast_1d_array_like_from_timestamp": [],
+    "pandas.tests.dtypes.cast.test_construct_from_scalar.test_cast_1d_array_like_from_timedelta": [],
+    "pandas.tests.dtypes.cast.test_construct_from_scalar.test_cast_1d_array_like_mismatched_datetimelike": []
+}

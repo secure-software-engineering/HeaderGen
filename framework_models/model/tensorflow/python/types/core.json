@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.types.core.Tensor.dtype": [],
+    "tensorflow.python.types.core.Tensor.shape": [],
+    "tensorflow.python.types.core.Value.numpy": [],
+    "tensorflow.python.types.core.Callable.__call__": [],
+    "tensorflow.python.types.core.GenericFunction.get_concrete_function": [],
+    "tensorflow.python.types.core.GenericFunction.experimental_get_compiler_ir": [],
+    "tensorflow.python.types.core.TensorProtocol.__tf_tensor__": [],
+    "tensorflow.python.types.core.Tensor": [],
+    "tensorflow.python.types.core.Symbol": [],
+    "tensorflow.python.types.core.Value": [],
+    "tensorflow.python.types.core.Callable": [],
+    "tensorflow.python.types.core.ConcreteFunction": [],
+    "tensorflow.python.types.core.GenericFunction": [],
+    "tensorflow.python.types.core.TensorProtocol": []
+}

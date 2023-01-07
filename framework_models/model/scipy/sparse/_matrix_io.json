@@ -1,0 +1,4 @@
+{
+    "scipy.sparse._matrix_io.save_npz": [],
+    "scipy.sparse._matrix_io.load_npz": []
+}

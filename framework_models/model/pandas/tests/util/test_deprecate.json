@@ -1,0 +1,9 @@
+{
+    "pandas.tests.util.test_deprecate.new_func": [],
+    "pandas.tests.util.test_deprecate.new_func_no_docstring": [],
+    "pandas.tests.util.test_deprecate.new_func_wrong_docstring": [],
+    "pandas.tests.util.test_deprecate.new_func_with_deprecation": [],
+    "pandas.tests.util.test_deprecate.test_deprecate_ok": [],
+    "pandas.tests.util.test_deprecate.test_deprecate_no_docstring": [],
+    "pandas.tests.util.test_deprecate.test_deprecate_wrong_docstring": []
+}

@@ -1,0 +1,14 @@
+{
+    "scipy.spatial.transform._rotation_spline._create_skew_matrix": [],
+    "scipy.spatial.transform._rotation_spline._matrix_vector_product_of_stacks": [],
+    "scipy.spatial.transform._rotation_spline._angular_rate_to_rotvec_dot_matrix": [],
+    "scipy.spatial.transform._rotation_spline._rotvec_dot_to_angular_rate_matrix": [],
+    "scipy.spatial.transform._rotation_spline._angular_acceleration_nonlinear_term": [],
+    "scipy.spatial.transform._rotation_spline._compute_angular_rate": [],
+    "scipy.spatial.transform._rotation_spline._compute_angular_acceleration": [],
+    "scipy.spatial.transform._rotation_spline._create_block_3_diagonal_matrix": [],
+    "scipy.spatial.transform._rotation_spline.RotationSpline._solve_for_angular_rates": [],
+    "scipy.spatial.transform._rotation_spline.RotationSpline.__init__": [],
+    "scipy.spatial.transform._rotation_spline.RotationSpline.__call__": [],
+    "scipy.spatial.transform._rotation_spline.RotationSpline": []
+}

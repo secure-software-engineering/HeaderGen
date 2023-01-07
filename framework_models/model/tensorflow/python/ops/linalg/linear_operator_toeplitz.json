@@ -1,0 +1,16 @@
+{
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz._to_complex": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz.__init__": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._check_row_col": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._shape": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._shape_tensor": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._assert_self_adjoint": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._matmul": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._trace": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._diag_part": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._to_dense": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz.col": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz.row": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz._composite_tensor_fields": [],
+    "tensorflow.python.ops.linalg.linear_operator_toeplitz.LinearOperatorToeplitz": []
+}

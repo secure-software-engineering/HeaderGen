@@ -1,0 +1,6 @@
+{
+    "scipy.sparse.csgraph.tests.test_traversal.test_graph_breadth_first": [],
+    "scipy.sparse.csgraph.tests.test_traversal.test_graph_depth_first": [],
+    "scipy.sparse.csgraph.tests.test_traversal.test_graph_breadth_first_trivial_graph": [],
+    "scipy.sparse.csgraph.tests.test_traversal.test_graph_depth_first_trivial_graph": []
+}

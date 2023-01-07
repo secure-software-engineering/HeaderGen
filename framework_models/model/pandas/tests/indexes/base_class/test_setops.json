@@ -1,0 +1,21 @@
+{
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_setops_disallow_true": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_setops_preserve_object_dtype": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_union_base": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_union_different_type_base": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_union_sort_other_incomparable": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_union_sort_other_incomparable_true": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_intersection_equal_sort_true": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_intersection_base": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_intersection_different_type_base": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_intersection_nosort": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_intersection_equal_sort": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_intersection_str_dates": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_intersection_non_monotonic_non_unique": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_difference_base": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_symmetric_difference": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_tuple_union_bug": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_union_name_preservation": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps.test_difference_object_type": [],
+    "pandas.tests.indexes.base_class.test_setops.TestIndexSetOps": []
+}

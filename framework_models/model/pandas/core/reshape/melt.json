@@ -1,0 +1,5 @@
+{
+    "pandas.core.reshape.melt.melt": [],
+    "pandas.core.reshape.melt.lreshape": [],
+    "pandas.core.reshape.melt.wide_to_long": []
+}

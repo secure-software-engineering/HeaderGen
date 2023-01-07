@@ -1,0 +1,8 @@
+{
+    "statsmodels.genmod.tests.results.gee_generate_tests.generate_logistic": [],
+    "statsmodels.genmod.tests.results.gee_generate_tests.generate_linear": [],
+    "statsmodels.genmod.tests.results.gee_generate_tests.generate_nested_linear": [],
+    "statsmodels.genmod.tests.results.gee_generate_tests.generate_ordinal": [],
+    "statsmodels.genmod.tests.results.gee_generate_tests.generate_nominal": [],
+    "statsmodels.genmod.tests.results.gee_generate_tests.generate_poisson": []
+}

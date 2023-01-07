@@ -1,0 +1,9 @@
+{
+    "pandas.tests.arrays.boolean.test_comparison.data": [],
+    "pandas.tests.arrays.boolean.test_comparison.TestComparisonOps._compare_other": [],
+    "pandas.tests.arrays.boolean.test_comparison.TestComparisonOps.test_compare_scalar": [],
+    "pandas.tests.arrays.boolean.test_comparison.TestComparisonOps.test_compare_array": [],
+    "pandas.tests.arrays.boolean.test_comparison.TestComparisonOps.test_scalar": [],
+    "pandas.tests.arrays.boolean.test_comparison.TestComparisonOps.test_array": [],
+    "pandas.tests.arrays.boolean.test_comparison.TestComparisonOps": []
+}

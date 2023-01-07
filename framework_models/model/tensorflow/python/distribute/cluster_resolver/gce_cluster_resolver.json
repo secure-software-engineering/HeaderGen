@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.distribute.cluster_resolver.gce_cluster_resolver.GCEClusterResolver.__init__": [],
+    "tensorflow.python.distribute.cluster_resolver.gce_cluster_resolver.GCEClusterResolver.cluster_spec": [],
+    "tensorflow.python.distribute.cluster_resolver.gce_cluster_resolver.GCEClusterResolver.master": [],
+    "tensorflow.python.distribute.cluster_resolver.gce_cluster_resolver.GCEClusterResolver.task_type": [],
+    "tensorflow.python.distribute.cluster_resolver.gce_cluster_resolver.GCEClusterResolver.task_id": [],
+    "tensorflow.python.distribute.cluster_resolver.gce_cluster_resolver.GCEClusterResolver.rpc_layer": [],
+    "tensorflow.python.distribute.cluster_resolver.gce_cluster_resolver.GCEClusterResolver": []
+}

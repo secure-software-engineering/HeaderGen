@@ -1,0 +1,5 @@
+{
+    "pandas.tests.frame.test_npfuncs.TestAsArray.test_asarray_homogenous": [],
+    "pandas.tests.frame.test_npfuncs.TestAsArray.test_np_sqrt": [],
+    "pandas.tests.frame.test_npfuncs.TestAsArray": []
+}

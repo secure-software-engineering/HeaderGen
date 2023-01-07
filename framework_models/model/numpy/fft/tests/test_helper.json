@@ -1,0 +1,14 @@
+{
+    "numpy.fft.tests.test_helper.TestFFTShift.test_definition": [],
+    "numpy.fft.tests.test_helper.TestFFTShift.test_inverse": [],
+    "numpy.fft.tests.test_helper.TestFFTShift.test_axes_keyword": [],
+    "numpy.fft.tests.test_helper.TestFFTShift.test_uneven_dims": [],
+    "numpy.fft.tests.test_helper.TestFFTShift.test_equal_to_original": [],
+    "numpy.fft.tests.test_helper.TestFFTFreq.test_definition": [],
+    "numpy.fft.tests.test_helper.TestRFFTFreq.test_definition": [],
+    "numpy.fft.tests.test_helper.TestIRFFTN.test_not_last_axis_success": [],
+    "numpy.fft.tests.test_helper.TestFFTShift": [],
+    "numpy.fft.tests.test_helper.TestFFTFreq": [],
+    "numpy.fft.tests.test_helper.TestRFFTFreq": [],
+    "numpy.fft.tests.test_helper.TestIRFFTN": []
+}

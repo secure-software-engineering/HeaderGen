@@ -1,0 +1,12 @@
+{
+    "tensorflow.python.ops.map_ops.empty_tensor_map": [],
+    "tensorflow.python.ops.map_ops.tensor_map_size": [],
+    "tensorflow.python.ops.map_ops.tensor_map_insert": [],
+    "tensorflow.python.ops.map_ops.tensor_map_lookup": [],
+    "tensorflow.python.ops.map_ops.tensor_map_erase": [],
+    "tensorflow.python.ops.map_ops.tensor_map_has_key": [],
+    "tensorflow.python.ops.map_ops.tensor_map_stack_keys": [],
+    "tensorflow.python.ops.map_ops.LookupGrad": [],
+    "tensorflow.python.ops.map_ops.InsertGrad": [],
+    "tensorflow.python.ops.map_ops.EraseGrad": []
+}

@@ -1,0 +1,9 @@
+{
+    "tensorflow.python.framework.immutable_dict.ImmutableDict.__init__": [],
+    "tensorflow.python.framework.immutable_dict.ImmutableDict.__getitem__": [],
+    "tensorflow.python.framework.immutable_dict.ImmutableDict.__contains__": [],
+    "tensorflow.python.framework.immutable_dict.ImmutableDict.__iter__": [],
+    "tensorflow.python.framework.immutable_dict.ImmutableDict.__len__": [],
+    "tensorflow.python.framework.immutable_dict.ImmutableDict.__repr__": [],
+    "tensorflow.python.framework.immutable_dict.ImmutableDict": []
+}

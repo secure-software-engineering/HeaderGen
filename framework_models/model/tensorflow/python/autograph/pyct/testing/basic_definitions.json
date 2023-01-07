@@ -1,0 +1,11 @@
+{
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.simple_function": [],
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.nested_functions": [],
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.function_with_print": [],
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.function_with_multiline_call": [],
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.basic_decorator": [],
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.decorated_function": [],
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.SimpleClass.simple_method": [],
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.SimpleClass.method_with_print": [],
+    "tensorflow.python.autograph.pyct.testing.basic_definitions.SimpleClass": []
+}

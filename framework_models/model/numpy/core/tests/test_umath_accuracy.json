@@ -1,0 +1,5 @@
+{
+    "numpy.core.tests.test_umath_accuracy.convert": [],
+    "numpy.core.tests.test_umath_accuracy.TestAccuracy.test_validate_transcendentals": [],
+    "numpy.core.tests.test_umath_accuracy.TestAccuracy": []
+}

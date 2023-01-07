@@ -1,0 +1,7 @@
+{
+    "seaborn._docstrings.DocstringComponents.__init__": [],
+    "seaborn._docstrings.DocstringComponents.__getattr__": [],
+    "seaborn._docstrings.DocstringComponents.from_nested_components": [],
+    "seaborn._docstrings.DocstringComponents.from_function_params": [],
+    "seaborn._docstrings.DocstringComponents": []
+}

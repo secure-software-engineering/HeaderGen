@@ -1,0 +1,15 @@
+{
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_frame_align_aware": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_float": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_int": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_mixed_type": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_mixed_float": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_mixed_int": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_categorical": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_multiindex": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_series_combinations": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign._check_align": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign.test_align_fill_method": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign._check_align_fill": [],
+    "pandas.tests.frame.methods.test_align.TestDataFrameAlign": []
+}

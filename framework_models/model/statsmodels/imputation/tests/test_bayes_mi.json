@@ -1,0 +1,7 @@
+{
+    "statsmodels.imputation.tests.test_bayes_mi.test_pat": [],
+    "statsmodels.imputation.tests.test_bayes_mi.test_2x2": [],
+    "statsmodels.imputation.tests.test_bayes_mi.test_MI": [],
+    "statsmodels.imputation.tests.test_bayes_mi.test_MI_stat": [],
+    "statsmodels.imputation.tests.test_bayes_mi.test_mi_formula": []
+}

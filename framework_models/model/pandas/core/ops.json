@@ -1,0 +1,11 @@
+{
+    "pandas.core.ops.fill_binop": [],
+    "pandas.core.ops.align_method_SERIES": [],
+    "pandas.core.ops.flex_method_SERIES": [],
+    "pandas.core.ops.align_method_FRAME": [],
+    "pandas.core.ops.should_reindex_frame_op": [],
+    "pandas.core.ops.frame_arith_method_with_reindex": [],
+    "pandas.core.ops._maybe_align_series_as_frame": [],
+    "pandas.core.ops.flex_arith_method_FRAME": [],
+    "pandas.core.ops.flex_comp_method_FRAME": []
+}

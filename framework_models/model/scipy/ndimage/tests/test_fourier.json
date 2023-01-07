@@ -1,0 +1,14 @@
+{
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_gaussian_real01": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_gaussian_complex01": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_uniform_real01": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_uniform_complex01": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_shift_real01": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_shift_complex01": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_ellipsoid_real01": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_ellipsoid_complex01": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_ellipsoid_unimplemented_ndim": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_ellipsoid_1d_complex": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier.test_fourier_zero_length_dims": [],
+    "scipy.ndimage.tests.test_fourier.TestNdimageFourier": []
+}

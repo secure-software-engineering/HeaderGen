@@ -1,0 +1,8 @@
+{
+    "scipy._lib.tests.test__gcutils.test_set_gc_state": [],
+    "scipy._lib.tests.test__gcutils.test_gc_state": [],
+    "scipy._lib.tests.test__gcutils.test_assert_deallocated": [],
+    "scipy._lib.tests.test__gcutils.test_assert_deallocated_nodel": [],
+    "scipy._lib.tests.test__gcutils.test_assert_deallocated_circular": [],
+    "scipy._lib.tests.test__gcutils.test_assert_deallocated_circular2": []
+}

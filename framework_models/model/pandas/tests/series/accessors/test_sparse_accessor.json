@@ -1,0 +1,4 @@
+{
+    "pandas.tests.series.accessors.test_sparse_accessor.TestSparseAccessor.test_sparse_accessor_updates_on_inplace": [],
+    "pandas.tests.series.accessors.test_sparse_accessor.TestSparseAccessor": []
+}

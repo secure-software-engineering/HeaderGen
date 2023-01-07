@@ -1,0 +1,7 @@
+{
+    "pandas.tests.indexes.multi.test_conversion.test_to_numpy": [],
+    "pandas.tests.indexes.multi.test_conversion.test_to_frame": [],
+    "pandas.tests.indexes.multi.test_conversion.test_to_frame_dtype_fidelity": [],
+    "pandas.tests.indexes.multi.test_conversion.test_to_frame_resulting_column_order": [],
+    "pandas.tests.indexes.multi.test_conversion.test_to_flat_index": []
+}

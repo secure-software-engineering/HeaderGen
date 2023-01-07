@@ -1,0 +1,9 @@
+{
+    "sklearn.compose._target.TransformedTargetRegressor.__init__": [],
+    "sklearn.compose._target.TransformedTargetRegressor._fit_transformer": [],
+    "sklearn.compose._target.TransformedTargetRegressor.fit": [],
+    "sklearn.compose._target.TransformedTargetRegressor.predict": [],
+    "sklearn.compose._target.TransformedTargetRegressor._more_tags": [],
+    "sklearn.compose._target.TransformedTargetRegressor.n_features_in_": [],
+    "sklearn.compose._target.TransformedTargetRegressor": []
+}

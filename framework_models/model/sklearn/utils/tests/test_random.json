@@ -1,0 +1,10 @@
+{
+    "sklearn.utils.tests.test_random.test_invalid_sample_without_replacement_algorithm": [],
+    "sklearn.utils.tests.test_random.test_sample_without_replacement_algorithms": [],
+    "sklearn.utils.tests.test_random.check_edge_case_of_sample_int": [],
+    "sklearn.utils.tests.test_random.check_sample_int": [],
+    "sklearn.utils.tests.test_random.check_sample_int_distribution": [],
+    "sklearn.utils.tests.test_random.test_random_choice_csc": [],
+    "sklearn.utils.tests.test_random.test_random_choice_csc_errors": [],
+    "sklearn.utils.tests.test_random.test_our_rand_r": []
+}

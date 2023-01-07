@@ -1,0 +1,23 @@
+{
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_signature": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_mi": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_chainmap": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_multiindex": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_nocopy": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_inplace": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_bug": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_bug2": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_errors_raises": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_errors": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_objects": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_axis_style": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_mapper_multi": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_positional_named": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_axis_style_raises": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_positional_raises": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_no_mappings_raises": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_mapper_and_positional_arguments_raises": [],
+    "pandas.tests.frame.methods.test_rename.TestRename.test_rename_with_duplicate_columns": [],
+    "pandas.tests.frame.methods.test_rename.TestRename": []
+}

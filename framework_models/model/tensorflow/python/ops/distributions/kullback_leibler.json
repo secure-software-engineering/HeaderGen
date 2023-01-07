@@ -1,0 +1,8 @@
+{
+    "tensorflow.python.ops.distributions.kullback_leibler._registered_kl": [],
+    "tensorflow.python.ops.distributions.kullback_leibler.kl_divergence": [],
+    "tensorflow.python.ops.distributions.kullback_leibler.cross_entropy": [],
+    "tensorflow.python.ops.distributions.kullback_leibler.RegisterKL.__init__": [],
+    "tensorflow.python.ops.distributions.kullback_leibler.RegisterKL.__call__": [],
+    "tensorflow.python.ops.distributions.kullback_leibler.RegisterKL": []
+}

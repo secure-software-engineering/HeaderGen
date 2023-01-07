@@ -1,0 +1,150 @@
+{
+    "1": [
+        "<builtin>.print",
+        "os.path.join",
+        "os.walk"
+    ],
+    "2": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "3": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "4": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "5": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "6": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "7": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "9": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "12": [
+        "pandas.core.series.Series.isin"
+    ],
+    "13": [
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "14": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "15": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "16": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "18": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "19": [
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame.reset_index",
+        "pandas.core.groupby.groupby.GroupBy.last",
+        "<builtin>.dict"
+    ],
+    "20": [
+        "pandas.core.series.Series.map",
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "21": [
+        "pandas.core.frame.DataFrame.isnull",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum"
+    ],
+    "23": [
+        "pandas.core.series.Series.isin"        
+    ],
+    "25": [
+        "pandas.core.frame.DataFrame.isnull",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum"
+    ],
+    "27": [
+        "pandas.core.frame.DataFrame.drop",
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "28": [
+        "<builtin>.dict",
+        "pandas.core.series.Series.map"
+    ],
+    "29": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "30": [
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "32": [
+        "pandas.core.reshape.concat.concat"
+    ],
+    "33": [
+        "seaborn.distributions.histplot"
+    ],
+    "34": [
+        "pandas.core.reshape.concat.concat",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.mean",
+        "pandas.core.series.Series.apply",
+        "pandas.core.series.Series.fillna",
+        "numpy.log1p"
+    ],
+    "35": [
+        "pandas.core.series.Series.notnull",
+        "pandas.core.series.Series.isnull"
+    ],
+    "37": [
+        "pandas.core.series.Series.isnull",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum"
+    ],
+    "38": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "40": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "42": [
+        "sklearn.preprocessing._data.MinMaxScaler.transform",
+        "sklearn.preprocessing._data.MinMaxScaler",
+        "sklearn.base.TransformerMixin.fit_transform"
+    ],
+    "44": [
+        "keras.engine.sequential.Sequential",
+        "keras.engine.sequential.Sequential.add",
+        "keras.layers.core.dense.Dense",
+        "keras.engine.training.Model.summary"
+    ],
+    "45": [
+        "keras.engine.training.Model.compile"
+    ],
+    "46": [
+        "keras.engine.training.Model.fit"
+    ],
+    "47": [
+        "keras.engine.training.Model.predict",
+        "sklearn.metrics._regression.mean_squared_error",
+        "<builtin>.print",
+        "numpy.sqrt"
+    ],
+    "48": [
+        "keras.engine.training.Model.predict",
+        "numpy.ndarray.flatten"
+    ],
+    "49": [
+        "pandas.core.frame.DataFrame",
+        "pandas.core.generic.NDFrame.to_csv"
+    ],
+    "50": [
+        "pandas.core.reshape.concat.concat",
+        "pandas.core.frame.DataFrame",
+        "pandas.core.generic.NDFrame.to_csv"
+    ]
+}

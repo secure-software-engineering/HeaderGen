@@ -1,0 +1,5 @@
+{
+    "tensorflow.python.training.checkpoint_ops._load_and_remap_matrix": [],
+    "tensorflow.python.training.checkpoint_ops._load_and_remap_matrix_initializer": [],
+    "tensorflow.python.training.checkpoint_ops._load_embedding_initializer": []
+}

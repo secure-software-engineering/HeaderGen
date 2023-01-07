@@ -1,0 +1,13 @@
+{
+    "statsmodels.tools.validation.validation._right_squeeze": [],
+    "statsmodels.tools.validation.validation.array_like": [],
+    "statsmodels.tools.validation.validation.bool_like": [],
+    "statsmodels.tools.validation.validation.int_like": [],
+    "statsmodels.tools.validation.validation.required_int_like": [],
+    "statsmodels.tools.validation.validation.float_like": [],
+    "statsmodels.tools.validation.validation.string_like": [],
+    "statsmodels.tools.validation.validation.dict_like": [],
+    "statsmodels.tools.validation.validation.PandasWrapper.__init__": [],
+    "statsmodels.tools.validation.validation.PandasWrapper.wrap": [],
+    "statsmodels.tools.validation.validation.PandasWrapper": []
+}

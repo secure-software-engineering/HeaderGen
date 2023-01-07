@@ -1,0 +1,14 @@
+{
+    "matplotlib.container.Container.__repr__": [],
+    "matplotlib.container.Container.__new__": [],
+    "matplotlib.container.Container.__init__": [],
+    "matplotlib.container.Container.remove": [],
+    "matplotlib.container.Container.get_children": [],
+    "matplotlib.container.BarContainer.__init__": [],
+    "matplotlib.container.ErrorbarContainer.__init__": [],
+    "matplotlib.container.StemContainer.__init__": [],
+    "matplotlib.container.Container": [],
+    "matplotlib.container.BarContainer": [],
+    "matplotlib.container.ErrorbarContainer": [],
+    "matplotlib.container.StemContainer": []
+}

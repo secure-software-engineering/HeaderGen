@@ -1,0 +1,8 @@
+{
+    "pandas.tests.indexes.timedeltas.test_timedelta_range.TestTimedeltas.test_timedelta_range": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta_range.TestTimedeltas.test_linspace_behavior": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta_range.TestTimedeltas.test_errors": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta_range.TestTimedeltas.test_timedelta_range_freq_divide_end": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta_range.TestTimedeltas.test_timedelta_range_infer_freq": [],
+    "pandas.tests.indexes.timedeltas.test_timedelta_range.TestTimedeltas": []
+}

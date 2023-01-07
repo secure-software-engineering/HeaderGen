@@ -1,0 +1,15 @@
+{
+    "statsmodels.stats.mediation._pvalue": [],
+    "statsmodels.stats.mediation.Mediation.__init__": [],
+    "statsmodels.stats.mediation.Mediation._variable_pos": [],
+    "statsmodels.stats.mediation.Mediation._guess_endog_name": [],
+    "statsmodels.stats.mediation.Mediation._simulate_params": [],
+    "statsmodels.stats.mediation.Mediation._get_mediator_exog": [],
+    "statsmodels.stats.mediation.Mediation._get_outcome_exog": [],
+    "statsmodels.stats.mediation.Mediation._fit_model": [],
+    "statsmodels.stats.mediation.Mediation.fit": [],
+    "statsmodels.stats.mediation.MediationResults.__init__": [],
+    "statsmodels.stats.mediation.MediationResults.summary": [],
+    "statsmodels.stats.mediation.Mediation": [],
+    "statsmodels.stats.mediation.MediationResults": []
+}

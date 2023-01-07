@@ -1,0 +1,20 @@
+{
+    "sklearn.neighbors.tests.test_nca.test_simple_example": [],
+    "sklearn.neighbors.tests.test_nca.test_toy_example_collapse_points": [],
+    "sklearn.neighbors.tests.test_nca.test_finite_differences": [],
+    "sklearn.neighbors.tests.test_nca.test_params_validation": [],
+    "sklearn.neighbors.tests.test_nca.test_transformation_dimensions": [],
+    "sklearn.neighbors.tests.test_nca.test_n_components": [],
+    "sklearn.neighbors.tests.test_nca.test_init_transformation": [],
+    "sklearn.neighbors.tests.test_nca.test_auto_init": [],
+    "sklearn.neighbors.tests.test_nca.test_warm_start_validation": [],
+    "sklearn.neighbors.tests.test_nca.test_warm_start_effectiveness": [],
+    "sklearn.neighbors.tests.test_nca.test_verbose": [],
+    "sklearn.neighbors.tests.test_nca.test_no_verbose": [],
+    "sklearn.neighbors.tests.test_nca.test_singleton_class": [],
+    "sklearn.neighbors.tests.test_nca.test_one_class": [],
+    "sklearn.neighbors.tests.test_nca.test_callback": [],
+    "sklearn.neighbors.tests.test_nca.test_expected_transformation_shape": [],
+    "sklearn.neighbors.tests.test_nca.test_convergence_warning": [],
+    "sklearn.neighbors.tests.test_nca.test_parameters_valid_types": []
+}

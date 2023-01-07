@@ -1,0 +1,6 @@
+{
+    "pandas.tests.io.parser.usecols.test_strings.test_usecols_with_unicode_strings": [],
+    "pandas.tests.io.parser.usecols.test_strings.test_usecols_with_single_byte_unicode_strings": [],
+    "pandas.tests.io.parser.usecols.test_strings.test_usecols_with_mixed_encoding_strings": [],
+    "pandas.tests.io.parser.usecols.test_strings.test_usecols_with_multi_byte_characters": []
+}
