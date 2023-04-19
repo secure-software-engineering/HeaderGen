@@ -381,3 +381,5 @@ playground
 pycg_extended/machinery/pytd_cache.pickle
 headergen_output/*
 type-inference-micro-benchmark/langservers
+
+!.pre-commit-config.yaml
