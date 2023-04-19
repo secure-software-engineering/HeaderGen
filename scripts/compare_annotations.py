@@ -29,7 +29,7 @@ phase_groups = {
     "Library Loading": ["Library Loading"],
     "Visualization": ["Visualization"],
     "Others": ["Others"],
-    "Data Preparation": ["Data Preparation", "Data Profiling and Exploratory Data Analysis" ,"Data Cleaning Filtering" ,"Data Sub-sampling and Train-test Splitting", "Data Loading"],
+    "Data Preparation": ["Data Preparation", "Data Profiling and Exploratory Data Analysis", "Exploratory Data Analysis" ,"Data Cleaning Filtering" ,"Data Sub-sampling and Train-test Splitting", "Data Loading"],
     "Feature Engineering": ["Feature Engineering", "Feature Transformation", "Feature Selection"],
     "Model Building and Training": ["Model Building and Training", "Model Training", "Model Parameter Tuning", "Model Validation and Assembling"]
 }
