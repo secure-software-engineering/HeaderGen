@@ -1,0 +1,3 @@
+python generate_headergen_notebooks.py
+python compare_macro_benchmark_cg.py
+python compare_annotations.py

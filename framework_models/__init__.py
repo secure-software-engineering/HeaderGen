@@ -6,6 +6,10 @@ import os
 from pathlib import Path
 import pickle 
 
+from framework_models.ml_function_classifier import MLFunctionClassifier 
+
+ml_function_classifier = MLFunctionClassifier.MLFunctionClassifier()
+
 SCRIPT_ROOT = pathlib.Path(__file__).parent.absolute()
 cache_models = True
 # cache_models = True
@@ -165,6 +169,24 @@ def lookup_pipeline_tag(func_call):
         print("ML tag missing for:", func_call)
         return [PHASES["UNKNOWN"]]
 
+def lookup_pipeline_tag_ml(func_call, doc_string):
+    root_module = func_call.split(".")[0]
+
+    if root_module in ML_MODULES_ALIAS:
+        if func_call in ML_MODULES_ALIAS[root_module]:
+            func_call = ML_MODULES_ALIAS[root_module][func_call]
+
+    try:
+        _res = ml_function_classifier.predict_function(doc_string)
+        # _classic_res = lookup_pipeline_tag(func_call)
+
+        if not _res:
+            _res = [PHASES["UNKNOWN"]]
+    except:
+        print("ML tag missing for:", func_call)
+        return [PHASES["UNKNOWN"]]
+
+    return _res
 
 if __name__ == "__main__":
     for line in open("test.txt").readlines():

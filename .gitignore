@@ -383,3 +383,4 @@ headergen_output/*
 type-inference-micro-benchmark/langservers
 
 !.pre-commit-config.yaml
+callsites-jupyternb-real-world-benchmark/notebooks/*.py

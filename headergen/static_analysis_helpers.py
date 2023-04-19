@@ -9,7 +9,7 @@ import argparse
 import shutil
 from framework_models import MODELS as PIPELINE_LIBRARY_MODEL
 from framework_models import PHASES as PIPELINE_PHASES
-from framework_models import lookup_pipeline_tag
+from framework_models import lookup_pipeline_tag, lookup_pipeline_tag_ml
 import headergen.utils as utils
 
 import simplejson as sjson
@@ -25,9 +25,13 @@ from pycg_extended import formats as pycg_formats
 BUILTIN_FUNC_LIST = dir(builtins)
 MAX_ITER = 500
 
+ML_PIPELINE_MODEL = True
 
-def get_dl_pipeline_tag(function_call):
-    return lookup_pipeline_tag(function_call)
+def get_dl_pipeline_tag(function_call, doc_string=None):
+    if ML_PIPELINE_MODEL:
+        return lookup_pipeline_tag_ml(function_call, doc_string)
+    else:  
+        return lookup_pipeline_tag(function_call)
 
 
 def sort_pycg_calls(analysis_info, main_file_name):
@@ -58,7 +62,16 @@ def sort_pycg_calls(analysis_info, main_file_name):
 
         # Sort library calls
         else:
-            _tag = {"func_call": func, "dl_pipeline_tag": get_dl_pipeline_tag(func)}
+            if ML_PIPELINE_MODEL:
+                if func in analysis_info["function_doc_strings"]:
+                    _tags = get_dl_pipeline_tag(func, analysis_info["function_doc_strings"][func])
+                else:
+                    print(f"No doc string for: {func}")
+                    _tags = []
+
+                _tag = {"func_call": func, "dl_pipeline_tag": _tags}                
+            else:
+                _tag = {"func_call": func, "dl_pipeline_tag": get_dl_pipeline_tag(func)}
 
         if func in analysis_info["function_doc_strings"]:
             _tag["doc_string"] = analysis_info["function_doc_strings"][func]

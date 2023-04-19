@@ -1,33 +1,36 @@
 import numpy as np
 import pickle
-from data_cleaning import data_cleaning
+import os
+from framework_models.ml_function_classifier.data_cleaning import data_cleaning 
+
+script_dir = os.path.abspath(os.path.dirname(__file__))
 
 class MLFunctionClassifier:
     
     def __init__(self):
         
-        with open('highlevel_vectorizer.pkl', 'rb') as f:
+        with open(f'{script_dir}/highlevel_vectorizer.pkl', 'rb') as f:
             self.highlevel_vectorizer = pickle.load(f)
 
-        with open('highlevel_classifier.pkl', 'rb') as f:
+        with open(f'{script_dir}/highlevel_classifier.pkl', 'rb') as f:
             self.highlevel_classifier = pickle.load(f)
 
-        with open('dp_vectorizer.pkl', 'rb') as f:
+        with open(f'{script_dir}/dp_vectorizer.pkl', 'rb') as f:
             self.dp_vectorizer = pickle.load(f)
 
-        with open('dp_classifier.pkl', 'rb') as f:
+        with open(f'{script_dir}/dp_classifier.pkl', 'rb') as f:
             self.dp_classifier = pickle.load(f)
 
-        with open('fe_vectorizer.pkl', 'rb') as f:
+        with open(f'{script_dir}/fe_vectorizer.pkl', 'rb') as f:
             self.fe_vectorizer = pickle.load(f)
 
-        with open('fe_classifier.pkl', 'rb') as f:
+        with open(f'{script_dir}/fe_classifier.pkl', 'rb') as f:
             self.fe_classifier = pickle.load(f)
 
-        with open('mb_vectorizer.pkl', 'rb') as f:
+        with open(f'{script_dir}/mb_vectorizer.pkl', 'rb') as f:
             self.mb_vectorizer = pickle.load(f)
 
-        with open('mb_classifier.pkl', 'rb') as f:
+        with open(f'{script_dir}/mb_classifier.pkl', 'rb') as f:
             self.mb_classifier = pickle.load(f)
         
         self.dp_labels = ['Data Cleaning Filtering', 'Data Loading','Data Sub-sampling and Train-test Splitting','Exploratory Data Analysis']
