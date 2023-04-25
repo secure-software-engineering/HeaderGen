@@ -1,12 +1,13 @@
 import json
-import pathlib
-import pygtrie
-import numpy
 import os
+import pathlib
+import pickle
 from pathlib import Path
-import pickle 
 
-from framework_models.ml_function_classifier import MLFunctionClassifier 
+import numpy
+import pygtrie
+
+from framework_models.ml_function_classifier import MLFunctionClassifier
 
 ml_function_classifier = MLFunctionClassifier.MLFunctionClassifier()
 
@@ -65,10 +66,26 @@ PHASE_GROUPS = {
     "Library Loading": ["Library Loading"],
     "Visualization": ["Visualization"],
     "Others": ["Others"],
-    "Data Preparation": ["Data Preparation", "Data Profiling and Exploratory Data Analysis" ,"Data Cleaning Filtering" ,"Data Sub-sampling and Train-test Splitting", "Data Loading"],
-    "Feature Engineering": ["Feature Engineering", "Feature Transformation", "Feature Selection"],
-    "Model Building and Training": ["Model Building and Training", "Model Training", "Model Parameter Tuning", "Model Validation and Assembling"]
+    "Data Preparation": [
+        "Data Preparation",
+        "Data Profiling and Exploratory Data Analysis",
+        "Data Cleaning Filtering",
+        "Data Sub-sampling and Train-test Splitting",
+        "Data Loading",
+    ],
+    "Feature Engineering": [
+        "Feature Engineering",
+        "Feature Transformation",
+        "Feature Selection",
+    ],
+    "Model Building and Training": [
+        "Model Building and Training",
+        "Model Training",
+        "Model Parameter Tuning",
+        "Model Validation and Assembling",
+    ],
 }
+
 
 def get_high_level_phase(phase):
     for _k, _v in PHASE_GROUPS.items():
@@ -95,21 +112,30 @@ ML_MODULES = {
 }
 
 ML_MODULES_ALIAS = {
-    "keras": json.loads(open(os.path.join(SCRIPT_ROOT, "aliases", "keras.json")).read()),
-    "matplotlib": json.loads(open(os.path.join(SCRIPT_ROOT, "aliases", "matplotlib.json")).read()),
-    "numpy": json.loads(open(os.path.join(SCRIPT_ROOT, "aliases", "numpy.json")).read()),
-    "pandas": json.loads(open(os.path.join(SCRIPT_ROOT, "aliases", "pandas.json")).read()),
-    "tensorflow": json.loads(open(os.path.join(SCRIPT_ROOT, "aliases", "tensorflow.json")).read()),
+    "keras": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "keras.json")).read()
+    ),
+    "matplotlib": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "matplotlib.json")).read()
+    ),
+    "numpy": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "numpy.json")).read()
+    ),
+    "pandas": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "pandas.json")).read()
+    ),
+    "tensorflow": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "tensorflow.json")).read()
+    ),
     # "tensorflow": os.path.SCRIPT_ROOT, "tensorflow"),
 }
 
-MODELS = { 
-    k: pygtrie.StringTrie(separator=".") for k in ML_MODULES
-}
+MODELS = {k: pygtrie.StringTrie(separator=".") for k in ML_MODULES}
+
 
 def get_relative_module_name(filepath, module_name, module_path):
     module_string = []
-    for i in range(1,len(filepath.parts)+1):
+    for i in range(1, len(filepath.parts) + 1):
         if filepath.parts[-i].startswith("__init__"):
             if str(filepath.parent) == module_path:
                 module_string.append(module_name)
@@ -125,12 +151,13 @@ def get_relative_module_name(filepath, module_name, module_path):
 
     return ".".join(reversed(module_string))
 
+
 if cache_models and os.path.exists(os.path.join(SCRIPT_ROOT, "models_cache.pickle")):
     MODELS = pickle.load(open(os.path.join(SCRIPT_ROOT, "models_cache.pickle"), "rb"))
 else:
     for _module_name, _module_path in ML_MODULES.items():
         counter = 0
-        for _file in Path(_module_path).rglob('*.json'):
+        for _file in Path(_module_path).rglob("*.json"):
             # if "numpy" in _file.name:
             #     print()
             print(counter, _file)
@@ -139,7 +166,10 @@ else:
             counter += 1
 
     if cache_models:
-        pickle.dump(MODELS, open(os.path.join(SCRIPT_ROOT, "models_cache.pickle"), "wb"))
+        pickle.dump(
+            MODELS, open(os.path.join(SCRIPT_ROOT, "models_cache.pickle"), "wb")
+        )
+
 
 def check_alias(func_call):
     root_module = func_call.split(".")[0]
@@ -151,6 +181,7 @@ def check_alias(func_call):
             func_call = ML_MODULES_ALIAS[root_module][func_call]
 
     return func_call
+
 
 def lookup_pipeline_tag(func_call):
     root_module = func_call.split(".")[0]
@@ -169,6 +200,7 @@ def lookup_pipeline_tag(func_call):
         print("ML tag missing for:", func_call)
         return [PHASES["UNKNOWN"]]
 
+
 def lookup_pipeline_tag_ml(func_call, doc_string):
     root_module = func_call.split(".")[0]
 
@@ -177,7 +209,7 @@ def lookup_pipeline_tag_ml(func_call, doc_string):
             func_call = ML_MODULES_ALIAS[root_module][func_call]
 
     try:
-        _res = ml_function_classifier.predict_function(doc_string)
+        _res = ml_function_classifier.predict_function(func_call, doc_string)
         # _classic_res = lookup_pipeline_tag(func_call)
 
         if not _res:
@@ -188,16 +220,17 @@ def lookup_pipeline_tag_ml(func_call, doc_string):
 
     return _res
 
+
 if __name__ == "__main__":
     for line in open("test.txt").readlines():
         # print(line.strip())
         # print(lookup_pipeline_tag(line.strip()))
 
         lookup_pipeline_tag(line.strip())
-        # lookup_pipeline_tag("keras.backend.get_session")        
+        # lookup_pipeline_tag("keras.backend.get_session")
 
 
-'''
+"""
 Pipeline Phases
 
 LIBRARY_LOADING
@@ -215,6 +248,6 @@ MODEL_BUILDING_AND_TRAINING
 MODEL_TRAINING
 MODEL_PARAMETER_TUNING
 MODEL_VALIDATION_AND_ASSEMBLING
-'''
+"""
 
 # MODEL_SAVING_AND_LOADING
