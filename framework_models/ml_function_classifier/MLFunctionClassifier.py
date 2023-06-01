@@ -87,7 +87,7 @@ class MLFunctionClassifier:
 
     def predict_function(self, func_call, docstring):
         root = func_call.split(".")[0]
-        if root in ["warnings", "os", "posix", "re", "time"]:
+        if root in ["warnings", "os", "posix"]:
             return []
 
         preprocessed_docstring = data_cleaning(docstring)
@@ -137,21 +137,3 @@ class MLFunctionClassifier:
             predicted_classes.append("Visualization")
 
         return predicted_classes
-
-
-docstring = """
-                "Plot the values in a color palette as a horizontal array.
-
-                Parameters
-                ----------
-                pal : sequence of matplotlib colors
-                    colors, i.e. as returned by seaborn.color_palette()
-                size :
-                    scaling factor for size of plot"
-
-            """
-
-if __name__ == "__main__":
-    ml_function_classifier = MLFunctionClassifier()
-    predicted_classes = ml_function_classifier.predict_function(docstring)
-    print(predicted_classes)
