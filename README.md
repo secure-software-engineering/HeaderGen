@@ -56,4 +56,4 @@ Output generated from the following commands, such as annotated notebooks, repor
 
 ---
 
-This repo contains code for the paper **"Enhancing Comprehension and Navigation in Jupyter Notebooks with Static Analysis"** published at the [SANER Conference 2023](https://saner2023.must.edu.mo/accepted).
+This repo contains code for the paper **"Enhancing Comprehension and Navigation in Jupyter Notebooks with Static Analysis"** published at the [SANER Conference 2023](https://arxiv.org/abs/2301.04419).
