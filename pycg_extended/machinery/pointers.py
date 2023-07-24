@@ -21,6 +21,7 @@
 class Pointer(object):
     def __init__(self):
         self.values = set()
+        self.type = set()
 
     def add(self, item):
         self.values.add(item)
@@ -55,6 +56,7 @@ class LiteralPointer(Pointer):
             self.values.add(item)
         else:
             self.values.add(self.UNK_LIT)
+        self.type.add(type(item))
 
 
 class NamePointer(Pointer):

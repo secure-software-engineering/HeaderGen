@@ -20,12 +20,11 @@
 #
 import ast
 import os
+import re
 
 from pycg_extended import utils
 from pycg_extended.machinery.definitions import Definition
-
 from pycg_extended.processing.usedef_processor import UseDefProcessor
-import re
 
 disable_for_testing_other_implementaions = False
 
@@ -474,7 +473,12 @@ class ProcessingBase(ast.NodeVisitor):
         return []
 
     def _is_literal(self, item):
-        return isinstance(item, int) or isinstance(item, str) or isinstance(item, float)
+        return (
+            isinstance(item, int)
+            or isinstance(item, str)
+            or isinstance(item, float)
+            or isinstance(item, bool)
+        )
 
     def _retrieve_base_names(self, node):
         if not isinstance(node, ast.Attribute):

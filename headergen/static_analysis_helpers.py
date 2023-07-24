@@ -1,23 +1,23 @@
+import argparse
 import ast
-from collections import deque, OrderedDict
-from pprint import pprint
 import builtins
 import glob
-import os
+import json
 import logging
-import argparse
+import os
 import shutil
+from collections import OrderedDict, deque
+from pathlib import Path
+from pprint import pprint
+
+import simplejson as sjson
+
+import headergen.utils as utils
 from framework_models import MODELS as PIPELINE_LIBRARY_MODEL
 from framework_models import PHASES as PIPELINE_PHASES
 from framework_models import lookup_pipeline_tag, lookup_pipeline_tag_ml
-import headergen.utils as utils
-
-import simplejson as sjson
-import json
-from pathlib import Path
-
-from pycg_extended import pycg
 from pycg_extended import formats as pycg_formats
+from pycg_extended import pycg
 
 # CallGraphGenerator
 
@@ -27,10 +27,11 @@ MAX_ITER = 500
 
 ML_PIPELINE_MODEL = True
 
+
 def get_dl_pipeline_tag(function_call, doc_string=None):
     if ML_PIPELINE_MODEL:
         return lookup_pipeline_tag_ml(function_call, doc_string)
-    else:  
+    else:
         return lookup_pipeline_tag(function_call)
 
 
@@ -64,12 +65,14 @@ def sort_pycg_calls(analysis_info, main_file_name):
         else:
             if ML_PIPELINE_MODEL:
                 if func in analysis_info["function_doc_strings"]:
-                    _tags = get_dl_pipeline_tag(func, analysis_info["function_doc_strings"][func])
+                    _tags = get_dl_pipeline_tag(
+                        func, analysis_info["function_doc_strings"][func]
+                    )
                 else:
                     print(f"No doc string for: {func}")
                     _tags = []
 
-                _tag = {"func_call": func, "dl_pipeline_tag": _tags}                
+                _tag = {"func_call": func, "dl_pipeline_tag": _tags}
             else:
                 _tag = {"func_call": func, "dl_pipeline_tag": get_dl_pipeline_tag(func)}
 
@@ -101,6 +104,7 @@ def sort_pycg_calls(analysis_info, main_file_name):
         "defined_calls": defined_calls,
         "function_doc_strings": analysis_info["function_doc_strings"],
         "pycg_output": analysis_info["pycg_output"],
+        "pycg_cg": analysis_info["pycg_cg"],
         "imports_info": imports_info,
         "eag": analysis_info["eag"],
         "line_uses": analysis_info["line_uses"],
@@ -121,14 +125,14 @@ def get_pycg_analysis(py_ntbk_path):
     cg.analyze()
 
     formatter = pycg_formats.Simple(cg)
-    # ag_formatter = pycg_formats.AsGraph(cg)
+    ag_formatter = pycg_formats.AsGraph(cg)
     cs_formatter = pycg_formats.CallSites(cg)
 
     cg_json = cs_formatter.get_cg()
     imports_json = cs_formatter.get_imports()
     imports_info = list(imports_json[main_file_name]["imports"])
 
-    # ag_json = ag_formatter.generate()
+    ag_json = ag_formatter.generate()
     cs_json = cs_formatter.generate(module_name=main_file_name)
 
     call_args = cg.ca
@@ -153,9 +157,93 @@ def get_pycg_analysis(py_ntbk_path):
             # pprint(cg_json[_key])
             defined_func_info[_key] = cg_json[_key]
 
+    types_formatted = []
+
+    # Class vars
+    for _class_var_fact in cg.def_manager.class_vars:
+        _class_var = _class_var_fact["name"]
+        local_name = None
+        for _scp, variables in cg.state["scopes"].items():
+            for _v in variables:
+                if _v.endswith(_class_var):
+                    local_name = _v
+                    break
+            if local_name:
+                break
+
+        local_defs = cg.def_manager.transitive_closure().get(local_name)
+        if local_defs:
+            _type_fact = {"file": Path(py_ntbk_path).name, "type": []}
+            for _def in local_defs:
+                if _def in cg.def_manager.defs:
+                    # Prepare type_fact dict
+                    _type_fact["line_number"] = _class_var_fact["lineno"]
+
+                    if _scp != main_file_name:
+                        _type_fact["function"] = _scp.split(":")[0].split(
+                            f"{main_file_name}."
+                        )[1]
+
+                    _type_fact["variable"] = utils.get_clear_all_lineno(_class_var)
+
+                    if cg.def_manager.defs[_def].def_type == "EXTERNALDEF":
+                        pass
+                        # _type_fact["type"].append(utils.get_clear_lineno(cg.def_manager.defs[_def].fullns))
+                        # types_formatted.append(_type_fact)
+
+                    elif cg.def_manager.defs[_def].def_type == "FUNCTIONDEF":
+                        _type_fact["type"].append("callable")
+                        types_formatted.append(_type_fact)
+
+                    elif cg.def_manager.defs[_def].get_lit_pointer().values:
+                        for lit_value in (
+                            cg.def_manager.defs[_def].get_lit_pointer().values
+                        ):
+                            _type_fact["type"].append(type(lit_value).__name__)
+
+                            types_formatted.append(_type_fact)
+
     # return types
+    for _def_name, _def_value in cg.def_manager.defs.items():
+        if _def_name.endswith(".<RETURN>"):
+            _type_fact = {
+                "file": Path(py_ntbk_path).name,
+                "line_number": utils.get_last_lineno_return(_def_name),
+                "function": utils.get_clear_all_lineno(_def_name)
+                .split(f"{main_file_name}.")[-1]
+                .split(".<RETURN>")[0],
+                "type": [],
+            }
+
+            local_defs = cg.def_manager.transitive_closure().get(_def_name)
+            if local_defs:
+                for _def in local_defs:
+                    if _def in cg.def_manager.defs:
+                        if cg.def_manager.defs[_def].def_type == "EXTERNALDEF":
+                            pass
+                            # _type_fact["type"].append(utils.get_clear_lineno(cg.def_manager.defs[_def].fullns))
+                            # types_formatted.append(_type_fact)
+
+                        elif cg.def_manager.defs[_def].def_type == "FUNCTIONDEF":
+                            _type_fact["type"].append("callable")
+                            types_formatted.append(_type_fact)
+
+                        elif cg.def_manager.defs[_def].get_lit_pointer().values:
+                            for lit_value in (
+                                cg.def_manager.defs[_def].get_lit_pointer().values
+                            ):
+                                _type_fact["type"].append(type(lit_value).__name__)
+
+                                types_formatted.append(_type_fact)
+
+    def decode_type():
+        pass
+
+    # local types
     locals_types = {}
-    for _local in cg.def_manager.locals_defs:
+    for _local_fact in cg.def_manager.locals_defs:
+        _local = _local_fact["name"]
+        _type_fact = {"file": Path(py_ntbk_path).name, "type": []}
         try:
             # find scope
             local_name = None
@@ -163,6 +251,9 @@ def get_pycg_analysis(py_ntbk_path):
                 for _v in variables:
                     if _v.endswith(_local):
                         local_name = _v
+                        break
+                if local_name:
+                    break
 
             if not local_name:
                 locals_types[local_name] = []
@@ -174,24 +265,68 @@ def get_pycg_analysis(py_ntbk_path):
             if local_defs:
                 for _def in local_defs:
                     if _def in cg.def_manager.defs:
+                        # Prepare type_fact dict
+                        _type_fact["line_number"] = _local_fact["lineno"]
+
+                        if _scp != main_file_name:
+                            _type_fact["function"] = _scp.split(":")[0].split(
+                                f"{main_file_name}."
+                            )[1]
+
+                        if _local_fact["node_type"] == "param":
+                            _type_fact["parameter"] = _local_fact["id"]
+                        else:
+                            _type_fact["variable"] = _local_fact["id"]
+
                         if cg.def_manager.defs[_def].def_type == "EXTERNALDEF":
                             locals_types[local_name].append(
                                 utils.get_clear_lineno(cg.def_manager.defs[_def].fullns)
                             )
+                            # _type_fact["type"].append(utils.get_clear_lineno(cg.def_manager.defs[_def].fullns))
+                            # types_formatted.append(_type_fact)
+
+                        elif cg.def_manager.defs[_def].def_type == "FUNCTIONDEF":
+                            _type_fact["type"].append("callable")
+                            types_formatted.append(_type_fact)
+
                         elif cg.def_manager.defs[_def].get_lit_pointer().values:
                             for lit_value in (
                                 cg.def_manager.defs[_def].get_lit_pointer().values
                             ):
+                                _type_fact["type"].append(type(lit_value).__name__)
+
+                                types_formatted.append(_type_fact)
+
                                 locals_types[local_name].append(
                                     type(lit_value).__name__
                                 )
+
+                        elif cg.def_manager.defs[_def].def_type == "NAMEDEF":
+                            if dict_num := utils.is_dict(
+                                cg.def_manager.defs[_def].fullns
+                            ):
+                                _type_fact["type"].append("dict")
+                                types_formatted.append(_type_fact)
+                                locals_types[local_name].append("dict")
+                                all_dicts = [
+                                    x
+                                    for x in cg.def_manager.defs
+                                    if utils.is_dict(x, specific_dict=dict_num)
+                                ]
+                                # TODO: Add all dict keys to type list
+                            elif utils.is_list(cg.def_manager.defs[_def].fullns):
+                                _type_fact["type"].append("list")
+                                types_formatted.append(_type_fact)
+                                locals_types[local_name].append("list")
+
         except Exception as e:
-            print("Failed return_type fetch!")
+            print(f"Failed return_type fetch! {str(e)}")
             continue
 
     return {
         "func_calls": sorted(cg_json[main_file_name]),
         "context_func_calls": context_func_calls,
+        "pycg_cg": cg_json,
         "pycg_output": pycg_output,
         "eag": cg.state["defs"],
         "line_uses": cg.def_manager.line_uses,

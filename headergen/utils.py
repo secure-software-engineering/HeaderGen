@@ -1,6 +1,7 @@
-import jupytext
 import re
 from pathlib import Path
+
+import jupytext
 
 
 def remove_element(element, the_list):
@@ -83,6 +84,47 @@ def get_block_of_lineno(lineno, block_mapping):
 
 def get_clear_lineno(call_str):
     return re.sub(r"<\d+>", "", call_str)
+
+
+def get_clear_all_lineno(call_str):
+    return re.sub(r"(?s):.*?(?=\.)|:.*?(?=$)", "", call_str)
+
+
+def is_dict(name, specific_dict=None):
+    if specific_dict:
+        pattern = f"<dict{specific_dict}>\.(.*)"
+        match = re.search(pattern, name)
+        if match is not None:
+            return True
+    else:
+        match = re.search(r".*<dict([0-9]+)>$", name)
+
+        if match is not None:
+            number = match.group(1)
+            return number
+
+    return False
+
+
+def is_list(name, specific_list=None):
+    if specific_list:
+        pattern = f"<list{specific_list}>\.(.*)"
+        match = re.search(pattern, name)
+        if match is not None:
+            return True
+    else:
+        match = re.search(r".*<list([0-9]+)>$", name)
+
+        if match is not None:
+            number = match.group(1)
+            return number
+
+    return False
+
+
+def get_last_lineno_return(call_str):
+    matches = re.findall(r":(\d+).<RETURN>", call_str)
+    return matches[-1]
 
 
 def get_line_numbers_cleaned(call_sites, filename, module_name):

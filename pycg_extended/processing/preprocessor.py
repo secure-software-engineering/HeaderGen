@@ -19,11 +19,11 @@
 # under the License.
 #
 import ast
-import os
 import importlib
+import os
 
-from pycg_extended.machinery.definitions import DefinitionManager, Definition
 from pycg_extended import utils
+from pycg_extended.machinery.definitions import Definition, DefinitionManager
 from pycg_extended.processing.base import ProcessingBase
 
 
@@ -53,6 +53,7 @@ class PreProcessor(ProcessingBase):
         self.typestub_manager = typestub_manager
         self.def_manager.line_uses = self.usedefprocessor.line_uses
         self.def_manager.locals_defs = self.usedefprocessor.locals_defs
+        self.def_manager.class_vars = self.usedefprocessor.class_vars
 
     def _get_fun_defaults(self, node):
         defaults = {}
