@@ -110,6 +110,7 @@ def sort_pycg_calls(analysis_info, main_file_name):
         "line_uses": analysis_info["line_uses"],
         "call_args": analysis_info["call_args"],
         "locals_types": analysis_info["locals_types"],
+        "types_formatted": analysis_info["types_formatted"],
     }
 
 
@@ -334,6 +335,7 @@ def get_pycg_analysis(py_ntbk_path):
         "imports_info": imports_info,
         "function_doc_strings": cg.typestub_manager.function_doc_strings,
         "locals_types": locals_types,
+        "types_formatted": types_formatted,
         "call_args": call_args,
     }
 
