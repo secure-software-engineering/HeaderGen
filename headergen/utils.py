@@ -122,6 +122,15 @@ def is_list(name, specific_list=None):
     return False
 
 
+def is_local_in_scope(local, pycg_def):
+    pattern = rf"\b{local}\b.*$"
+    match = re.search(pattern, pycg_def)
+    if match is not None:
+        return True
+
+    return False
+
+
 def get_last_lineno_return(call_str):
     matches = re.findall(r":(\d+).<RETURN>", call_str)
     return matches[-1]

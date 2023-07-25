@@ -166,7 +166,7 @@ def get_pycg_analysis(py_ntbk_path):
         local_name = None
         for _scp, variables in cg.state["scopes"].items():
             for _v in variables:
-                if _v.endswith(_class_var):
+                if utils.is_local_in_scope(_class_var, _v):
                     local_name = _v
                     break
             if local_name:
@@ -250,7 +250,9 @@ def get_pycg_analysis(py_ntbk_path):
             local_name = None
             for _scp, variables in cg.state["scopes"].items():
                 for _v in variables:
-                    if _v.endswith(_local):
+                    # TODO: replace other endswith with the following re check
+                    # if _v.endswith(_local):
+                    if utils.is_local_in_scope(_local, _v):
                         local_name = _v
                         break
                 if local_name:
@@ -319,6 +321,11 @@ def get_pycg_analysis(py_ntbk_path):
                                 _type_fact["type"].append("list")
                                 types_formatted.append(_type_fact)
                                 locals_types[local_name].append("list")
+
+                            else:
+                                _type_fact["type"].append("any")
+                                types_formatted.append(_type_fact)
+                                locals_types[local_name].append("any")
 
         except Exception as e:
             print(f"Failed return_type fetch! {str(e)}")
