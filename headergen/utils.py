@@ -133,7 +133,11 @@ def is_local_in_scope(local, pycg_def):
 
 def get_last_lineno_return(call_str):
     matches = re.findall(r":(\d+).<RETURN>", call_str)
-    return matches[-1]
+    if matches:
+        return matches[-1]
+
+    # No lineno, therefor external funcdef
+    return False
 
 
 def get_line_numbers_cleaned(call_sites, filename, module_name):

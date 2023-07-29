@@ -131,7 +131,9 @@ def get_pycg_analysis(py_ntbk_path):
 
     cg_json = cs_formatter.get_cg()
     imports_json = cs_formatter.get_imports()
-    imports_info = list(imports_json[main_file_name]["imports"])
+    imports_info = []
+    if imports_json:
+        imports_info = list(imports_json[main_file_name]["imports"])
 
     ag_json = ag_formatter.generate()
     cs_json = cs_formatter.generate(module_name=main_file_name)
@@ -161,7 +163,11 @@ def get_pycg_analysis(py_ntbk_path):
     types_formatted = []
 
     # Class vars
-    for _class_var_fact in cg.def_manager.class_vars:
+    class_vars = []
+    if str(py_ntbk_path) in cg.def_manager.usedefcache:
+        class_vars = cg.def_manager.usedefcache[str(py_ntbk_path)]["class_vars"]
+
+    for _class_var_fact in class_vars:
         _class_var = _class_var_fact["name"]
         local_name = None
         for _scp, variables in cg.state["scopes"].items():
@@ -175,74 +181,110 @@ def get_pycg_analysis(py_ntbk_path):
         local_defs = cg.def_manager.transitive_closure().get(local_name)
         if local_defs:
             _type_fact = {"file": Path(py_ntbk_path).name, "type": []}
+            # Prepare type_fact dict
+            _type_fact["line_number"] = int(_class_var_fact["lineno"])
+
+            if _scp != main_file_name:
+                _type_fact["function"] = _scp.split(":")[0].split(f"{main_file_name}.")[
+                    1
+                ]
+            _type_fact["variable"] = utils.get_clear_all_lineno(_class_var)
+
             for _def in local_defs:
                 if _def in cg.def_manager.defs:
-                    # Prepare type_fact dict
-                    _type_fact["line_number"] = _class_var_fact["lineno"]
-
-                    if _scp != main_file_name:
-                        _type_fact["function"] = _scp.split(":")[0].split(
-                            f"{main_file_name}."
-                        )[1]
-
-                    _type_fact["variable"] = utils.get_clear_all_lineno(_class_var)
-
-                    if cg.def_manager.defs[_def].def_type == "EXTERNALDEF":
-                        pass
-                        # _type_fact["type"].append(utils.get_clear_lineno(cg.def_manager.defs[_def].fullns))
-                        # types_formatted.append(_type_fact)
+                    if cg.def_manager.defs[_def].def_type in [
+                        "EXTERNALDEF",
+                        "CLASSDEF",
+                    ]:
+                        # locals_types[local_name].append(
+                        #     utils.get_clear_all_lineno(
+                        #         cg.def_manager.defs[_def].fullns
+                        #     )
+                        # )
+                        type_ns = utils.get_clear_all_lineno(
+                            cg.def_manager.defs[_def].fullns
+                        )
+                        if type_ns.startswith(f"{main_file_name}."):
+                            type_ns = type_ns.replace(f"{main_file_name}.", "")
+                        _type_fact["type"].append(type_ns)
 
                     elif cg.def_manager.defs[_def].def_type == "FUNCTIONDEF":
                         _type_fact["type"].append("callable")
-                        types_formatted.append(_type_fact)
 
-                    elif cg.def_manager.defs[_def].get_lit_pointer().values:
-                        for lit_value in (
-                            cg.def_manager.defs[_def].get_lit_pointer().values
+                    elif cg.def_manager.defs[_def].get_lit_pointer().type:
+                        for lit_type in (
+                            cg.def_manager.defs[_def].get_lit_pointer().type
                         ):
-                            _type_fact["type"].append(type(lit_value).__name__)
+                            _type_fact["type"].append(lit_type)
 
-                            types_formatted.append(_type_fact)
+            # if not _type_fact["type"]:
+            #     _type_fact["type"].append("any")
+
+            if _type_fact["type"]:
+                types_formatted.append(_type_fact)
 
     # return types
     for _def_name, _def_value in cg.def_manager.defs.items():
-        if _def_name.endswith(".<RETURN>"):
+        if _def_name.endswith(".<RETURN>") and (
+            _def_name.split(".")[0] == main_file_name
+        ):
+            if not utils.get_last_lineno_return(_def_name):
+                continue
+            # TODO: Ignore external func definitions
             _type_fact = {
                 "file": Path(py_ntbk_path).name,
-                "line_number": utils.get_last_lineno_return(_def_name),
+                "line_number": int(utils.get_last_lineno_return(_def_name)),
                 "function": utils.get_clear_all_lineno(_def_name)
                 .split(f"{main_file_name}.")[-1]
                 .split(".<RETURN>")[0],
                 "type": [],
             }
 
+            # Check literal pointers
+            if _def_name in cg.def_manager.defs:
+                if cg.def_manager.defs[_def_name].get_lit_pointer().type:
+                    for lit_type in (
+                        cg.def_manager.defs[_def_name].get_lit_pointer().type
+                    ):
+                        _type_fact["type"].append(lit_type)
+
             local_defs = cg.def_manager.transitive_closure().get(_def_name)
             if local_defs:
                 for _def in local_defs:
                     if _def in cg.def_manager.defs:
-                        if cg.def_manager.defs[_def].def_type == "EXTERNALDEF":
-                            pass
-                            # _type_fact["type"].append(utils.get_clear_lineno(cg.def_manager.defs[_def].fullns))
-                            # types_formatted.append(_type_fact)
+                        if cg.def_manager.defs[_def].def_type in [
+                            "EXTERNALDEF",
+                            "CLASSDEF",
+                        ]:
+                            type_ns = utils.get_clear_all_lineno(
+                                cg.def_manager.defs[_def].fullns
+                            )
+                            if type_ns.startswith(f"{main_file_name}."):
+                                type_ns = type_ns.replace(f"{main_file_name}.", "")
+                            _type_fact["type"].append(type_ns)
 
                         elif cg.def_manager.defs[_def].def_type == "FUNCTIONDEF":
                             _type_fact["type"].append("callable")
-                            types_formatted.append(_type_fact)
 
-                        elif cg.def_manager.defs[_def].get_lit_pointer().values:
-                            for lit_value in (
-                                cg.def_manager.defs[_def].get_lit_pointer().values
+                        elif cg.def_manager.defs[_def].get_lit_pointer().type:
+                            for lit_type in (
+                                cg.def_manager.defs[_def].get_lit_pointer().type
                             ):
-                                _type_fact["type"].append(type(lit_value).__name__)
+                                _type_fact["type"].append(lit_type)
 
-                                types_formatted.append(_type_fact)
+                # if not _type_fact["type"]:
+                #     _type_fact["type"].append("any")
 
-    def decode_type():
-        pass
+                if _type_fact["type"]:
+                    types_formatted.append(_type_fact)
 
     # local types
+    locals_defs = []
+    if str(py_ntbk_path) in cg.def_manager.usedefcache:
+        locals_defs = cg.def_manager.usedefcache[str(py_ntbk_path)]["locals_defs"]
+
     locals_types = {}
-    for _local_fact in cg.def_manager.locals_defs:
+    for _local_fact in locals_defs:
         _local = _local_fact["name"]
         _type_fact = {"file": Path(py_ntbk_path).name, "type": []}
         try:
@@ -266,50 +308,49 @@ def get_pycg_analysis(py_ntbk_path):
                 locals_types[local_name] = []
             local_defs = cg.def_manager.transitive_closure().get(local_name)
             if local_defs:
+                # Prepare type_fact dict
+                _type_fact["line_number"] = int(_local_fact["lineno"])
+
+                if _scp != main_file_name:
+                    _type_fact["function"] = utils.get_clear_all_lineno(_scp).split(
+                        f"{main_file_name}."
+                    )[1]
+
+                if _local_fact["node_type"] == "param":
+                    _type_fact["parameter"] = _local_fact["id"]
+                else:
+                    _type_fact["variable"] = _local_fact["id"]
                 for _def in local_defs:
                     if _def in cg.def_manager.defs:
-                        # Prepare type_fact dict
-                        _type_fact["line_number"] = _local_fact["lineno"]
-
-                        if _scp != main_file_name:
-                            _type_fact["function"] = _scp.split(":")[0].split(
-                                f"{main_file_name}."
-                            )[1]
-
-                        if _local_fact["node_type"] == "param":
-                            _type_fact["parameter"] = _local_fact["id"]
-                        else:
-                            _type_fact["variable"] = _local_fact["id"]
-
-                        if cg.def_manager.defs[_def].def_type == "EXTERNALDEF":
-                            locals_types[local_name].append(
-                                utils.get_clear_lineno(cg.def_manager.defs[_def].fullns)
+                        if cg.def_manager.defs[_def].def_type in [
+                            "EXTERNALDEF",
+                            "CLASSDEF",
+                        ]:
+                            type_ns = utils.get_clear_all_lineno(
+                                cg.def_manager.defs[_def].fullns
                             )
-                            # _type_fact["type"].append(utils.get_clear_lineno(cg.def_manager.defs[_def].fullns))
-                            # types_formatted.append(_type_fact)
+                            if type_ns.startswith(f"{main_file_name}."):
+                                type_ns = type_ns.replace(f"{main_file_name}.", "")
+                            _type_fact["type"].append(type_ns)
+
+                            locals_types[local_name].append(type_ns)
 
                         elif cg.def_manager.defs[_def].def_type == "FUNCTIONDEF":
                             _type_fact["type"].append("callable")
-                            types_formatted.append(_type_fact)
 
-                        elif cg.def_manager.defs[_def].get_lit_pointer().values:
-                            for lit_value in (
-                                cg.def_manager.defs[_def].get_lit_pointer().values
+                        elif cg.def_manager.defs[_def].get_lit_pointer().type:
+                            for lit_type in (
+                                cg.def_manager.defs[_def].get_lit_pointer().type
                             ):
-                                _type_fact["type"].append(type(lit_value).__name__)
+                                _type_fact["type"].append(lit_type)
 
-                                types_formatted.append(_type_fact)
-
-                                locals_types[local_name].append(
-                                    type(lit_value).__name__
-                                )
+                                locals_types[local_name].append(lit_type)
 
                         elif cg.def_manager.defs[_def].def_type == "NAMEDEF":
                             if dict_num := utils.is_dict(
                                 cg.def_manager.defs[_def].fullns
                             ):
                                 _type_fact["type"].append("dict")
-                                types_formatted.append(_type_fact)
                                 locals_types[local_name].append("dict")
                                 all_dicts = [
                                     x
@@ -319,20 +360,28 @@ def get_pycg_analysis(py_ntbk_path):
                                 # TODO: Add all dict keys to type list
                             elif utils.is_list(cg.def_manager.defs[_def].fullns):
                                 _type_fact["type"].append("list")
-                                types_formatted.append(_type_fact)
                                 locals_types[local_name].append("list")
 
-                            else:
-                                _type_fact["type"].append("any")
-                                types_formatted.append(_type_fact)
-                                locals_types[local_name].append("any")
+                            # else:
+                            #     _type_fact["type"].append("any")
+                            #     locals_types[local_name].append("any")
+
+                # if not _type_fact["type"]:
+                #     _type_fact["type"].append("any")
+
+                if _type_fact["type"]:
+                    types_formatted.append(_type_fact)
 
         except Exception as e:
             print(f"Failed return_type fetch! {str(e)}")
             continue
 
+    # Remove duplicates in type list
+    for _type in types_formatted:
+        _type["type"] = list(set(_type["type"]))
+
     return {
-        "func_calls": sorted(cg_json[main_file_name]),
+        "func_calls": sorted(cg_json[main_file_name]) if cg_json else {},
         "context_func_calls": context_func_calls,
         "pycg_cg": cg_json,
         "pycg_output": pycg_output,
@@ -356,6 +405,14 @@ def get_annotated_analysis(tree, py_ntbk_path=None):
     library_calls_pycg = sort_pycg_calls(pycg_analysis_info, main_file_name)
 
     return library_calls_pycg
+
+
+def get_analysis_output(tree, py_ntbk_path=None):
+    main_file_name = Path(py_ntbk_path).name.split(".")[0]
+
+    pycg_analysis_info = get_pycg_analysis(py_ntbk_path)
+
+    return pycg_analysis_info
 
 
 # Direct run

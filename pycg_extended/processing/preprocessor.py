@@ -54,6 +54,7 @@ class PreProcessor(ProcessingBase):
         self.def_manager.line_uses = self.usedefprocessor.line_uses
         self.def_manager.locals_defs = self.usedefprocessor.locals_defs
         self.def_manager.class_vars = self.usedefprocessor.class_vars
+        self.def_manager.usedefcache = self.usedefprocessor.use_def_cache
 
     def _get_fun_defaults(self, node):
         defaults = {}

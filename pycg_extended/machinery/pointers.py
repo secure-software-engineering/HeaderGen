@@ -56,7 +56,7 @@ class LiteralPointer(Pointer):
             self.values.add(item)
         else:
             self.values.add(self.UNK_LIT)
-        self.type.add(type(item))
+        self.type.add(type(item).__name__)
 
 
 class NamePointer(Pointer):

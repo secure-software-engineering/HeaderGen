@@ -226,8 +226,9 @@ class ProcessingBase(ast.NodeVisitor):
             self.visit(target)
             if isinstance(target, ast.Tuple):
                 for pos, elt in enumerate(target.elts):
-                    if pos < len(decoded):
-                        do_assign(decoded[pos], elt)
+                    if decoded:
+                        if not isinstance(decoded, Definition) and pos < len(decoded):
+                            do_assign(decoded[pos], elt)
             else:
                 targetns = self._get_target_ns(target)
                 for tns in targetns:
@@ -393,6 +394,26 @@ class ProcessingBase(ast.NodeVisitor):
                                 defi = self.def_manager.get(return_ns)
                                 if defi:
                                     return_defs.append(defi)
+                elif called_def.get_type() == utils.constants.NAME_DEF:
+                    if getattr(self, "closured", None) and self.closured.get(
+                        called_def.get_ns(), None
+                    ):
+                        for name in self.closured.get(called_def.get_ns(), []):
+                            called_name_defi = self.def_manager.get(name)
+                            name_return_ns = utils.constants.INVALID_NAME
+
+                            if called_name_defi.get_type() == utils.constants.FUN_DEF:
+                                name_return_ns = utils.join_ns(
+                                    called_name_defi.get_ns(),
+                                    utils.constants.RETURN_NAME,
+                                )
+                            elif called_name_defi.get_type() == utils.constants.CLS_DEF:
+                                name_return_ns = called_name_defi.get_ns()
+
+                            name_defi = self.def_manager.get(name_return_ns)
+                            if name_defi:
+                                return_defs.append(name_defi)
+
                 else:
                     defi = self.def_manager.get(return_ns)
                     if defi:
@@ -410,6 +431,10 @@ class ProcessingBase(ast.NodeVisitor):
             for elt in node.elts:
                 decoded.append(self.decode_node(elt))
             return decoded
+        elif isinstance(node, ast.UnaryOp):
+            decoded_operand = self.decode_node(node.operand)
+            return decoded_operand
+
         elif isinstance(node, ast.BinOp):
             decoded_left = self.decode_node(node.left)
             decoded_right = self.decode_node(node.right)
