@@ -440,6 +440,7 @@ class ProcessingBase(ast.NodeVisitor):
             decoded_right = self.decode_node(node.right)
             # return the non definition types if we're talking about a binop
             # since we only care about the type of the return (num, str, etc)
+            # TODO: APSV: Check if literals exist and prefer that
             if not isinstance(decoded_left, Definition):
                 return decoded_left
             if not isinstance(decoded_right, Definition):
@@ -452,6 +453,8 @@ class ProcessingBase(ast.NodeVisitor):
                 if defi:
                     defis.append(defi)
             return defis
+        elif isinstance(node, ast.Constant) and isinstance(node.value, bool):
+            return [node.value]
         elif isinstance(node, ast.Num):
             return [node.n]
         elif isinstance(node, ast.Str):

@@ -14,6 +14,7 @@ class Attributes(gast.NodeVisitor):
         self.users = set()  # all users of `self`
         self.attributes = []  # attributes of current class
         self.class_name = class_name
+        self.function_scopes = {}
 
     def visit_ClassDef(self, node):
         # walk methods and fill users of `self`
@@ -22,6 +23,10 @@ class Attributes(gast.NodeVisitor):
                 if stmt.args.args:
                     self_def = self.chains.chains[stmt.args.args[0]]
                     self.users.update(use.node for use in self_def.users())
+                    self.function_scopes = self.function_scopes | {
+                        str(use.node): stmt.name for use in self_def.users()
+                    }
+
         self.generic_visit(node)
 
     def visit_Attribute(self, node):
@@ -29,7 +34,11 @@ class Attributes(gast.NodeVisitor):
         if node.value in self.users:
             if isinstance(node.ctx, gast.Store):
                 self.attributes.append(
-                    {"name": f"{self.class_name}.{node.attr}", "lineno": node.lineno}
+                    {
+                        "name": f"{self.class_name}.{node.attr}",
+                        "lineno": node.lineno,
+                        "function": self.function_scopes.get(str(node.value), ""),
+                    }
                 )
 
 

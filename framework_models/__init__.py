@@ -69,9 +69,11 @@ PHASE_GROUPS = {
     "Data Preparation": [
         "Data Preparation",
         "Data Profiling and Exploratory Data Analysis",
+        "Data Preparation and Exploration",
         "Data Cleaning Filtering",
         "Data Sub-sampling and Train-test Splitting",
         "Data Loading",
+        "Exploratory Data Analysis",
     ],
     "Feature Engineering": [
         "Feature Engineering",

@@ -18,19 +18,20 @@
 # specific language governing permissions and limitations
 # under the License.
 #
-import sys
 import ast
-import os
-import importlib
 import copy
-import dill
+import importlib
+import os
+import sys
 from pathlib import Path
+
+import dill
 
 from pycg_extended import utils
 
 SCRIPT_ROOT = Path(__file__).parent.absolute()
 
-AUTO_IMPORT_ML_MODULES = True
+AUTO_IMPORT_ML_MODULES = False
 CACHED_ML_MODULE_IMPORT = False
 ML_MODULES_TO_IMPORT = [
     "keras",

@@ -90,6 +90,31 @@ def get_clear_all_lineno(call_str):
     return re.sub(r"(?s):.*?(?=\.)|:.*?(?=$)", "", call_str)
 
 
+def dot_to_bracket_notation(code_str):
+    # find the dot notations in the string and replace them
+    return re.sub(
+        r"\b([^.\s]+(\.[^.\s]+)+)\b",
+        lambda m: m.group(1).split(".")[0]
+        + "['"
+        + "']['".join(m.group(1).split(".")[1:])
+        + "']",
+        code_str,
+    )
+
+
+def replace_dict_int_keys(dict_key):
+    return re.sub("<int([0-9].*)>$", r"\1", dict_key)
+
+
+def ends_with_dict(name):
+    match = re.search(r".*<dict([0-9]+)>$", name)
+
+    if match is not None:
+        return True
+
+    return False
+
+
 def is_dict(name, specific_dict=None):
     if specific_dict:
         pattern = f"<dict{specific_dict}>\.(.*)"

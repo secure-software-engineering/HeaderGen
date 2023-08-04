@@ -14,7 +14,7 @@ from headergen import headergen
 script_dir = os.path.abspath(os.path.dirname(__file__))
 
 # Careful, the out_path folder will be removed
-file_path = f"/mnt/Projects/PhD/Research/HeaderGen/git_sources/HeaderGen_github/.scrapy/base_class_calls_child/main.py"
+file_path = f"/mnt/Projects/PhD/Research/HeaderGen/git_sources/HeaderGen_github/.scrapy/test/test.py"
 out_path = f"{script_dir}/results/"
 
 
@@ -43,7 +43,8 @@ logging.basicConfig(
 
 start = time.time()
 
-analysis_meta = headergen.start_headergen(file_path, out_path, debug_mode=True)
+# analysis_meta = headergen.start_headergen(file_path, out_path, debug_mode=True)
+analysis_meta = headergen.get_analysis_output(file_path, out_path)
 
 print(f"Analysis took: {time.time() - start}")
 

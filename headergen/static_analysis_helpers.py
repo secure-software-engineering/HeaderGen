@@ -142,6 +142,41 @@ def get_pycg_analysis(py_ntbk_path):
 
     pycg_output = cg.output_call_sites(module_name=Path(py_ntbk_path).stem)
 
+    dict_name_map = {}
+    for _scp_name, _scp_value in cg.scope_manager.scopes.items():
+        if dict_num := utils.is_dict(_scp_name):
+            for _def_name, _def_value in cg.def_manager.defs.items():
+                local_defs = cg.def_manager.transitive_closure().get(_def_name)
+                if local_defs:
+                    for _def in local_defs:
+                        if _def == _scp_name:
+                            if _scp_name != _def_name:
+                                dict_name_map[_scp_name] = utils.get_clear_all_lineno(
+                                    _def_name
+                                )
+
+                                _key_check = ".".join(_def_name.split(".")[:-1])
+                                if _key_check in dict_name_map:
+                                    dict_name_map[_scp_name] = dict_name_map[
+                                        _scp_name
+                                    ].replace(_key_check, dict_name_map[_key_check])
+
+            # for _def in local_defs:
+            #         if _def_name.endswith(".<RETURN>"):
+            #             pass
+
+            # _dict_name = cg.def_manager.defs[_def_name].get_name()
+            # if dict_num not in dict_name_map:
+            #     dict_name_map[dict_num] = []
+
+            # dict_name_map[dict_num].append(_dict_name)
+
+            # print()
+
+            # cg.def_manager.defs[_def]
+
+        # if _def_name.endswith(".<RETURN>") and (
+
     context_func_calls = {}
     for _line, _calls in cs_json.items():
         context_func_calls[_line] = []
@@ -185,9 +220,12 @@ def get_pycg_analysis(py_ntbk_path):
             _type_fact["line_number"] = int(_class_var_fact["lineno"])
 
             if _scp != main_file_name:
-                _type_fact["function"] = _scp.split(":")[0].split(f"{main_file_name}.")[
-                    1
-                ]
+                _type_fact["function"] = ".".join(
+                    [
+                        _scp.split(":")[0].split(f"{main_file_name}.")[1],
+                        _class_var_fact["function"],
+                    ]
+                )
             _type_fact["variable"] = utils.get_clear_all_lineno(_class_var)
 
             for _def in local_defs:
@@ -271,9 +309,16 @@ def get_pycg_analysis(py_ntbk_path):
                                 cg.def_manager.defs[_def].get_lit_pointer().type
                             ):
                                 _type_fact["type"].append(lit_type)
+                        elif cg.def_manager.defs[_def].def_type == "NAMEDEF":
+                            if dict_num := utils.is_dict(
+                                cg.def_manager.defs[_def].fullns
+                            ):
+                                _type_fact["type"].append("dict")
+                            elif utils.is_list(cg.def_manager.defs[_def].fullns):
+                                _type_fact["type"].append("list")
 
-                # if not _type_fact["type"]:
-                #     _type_fact["type"].append("any")
+                if not _type_fact["type"]:
+                    _type_fact["type"].append("Nonetype")
 
                 if _type_fact["type"]:
                     types_formatted.append(_type_fact)
@@ -282,6 +327,58 @@ def get_pycg_analysis(py_ntbk_path):
     locals_defs = []
     if str(py_ntbk_path) in cg.def_manager.usedefcache:
         locals_defs = cg.def_manager.usedefcache[str(py_ntbk_path)]["locals_defs"]
+
+    def get_type_of_id(id):
+        # First find scope
+        id_name = None
+        for _scp, variables in cg.state["scopes"].items():
+            for _v in variables:
+                # TODO: replace other endswith with the following re check
+                # if _v.endswith(_local):
+                if utils.is_local_in_scope(id, _v):
+                    id_name = _v
+                    break
+                if id == _v:
+                    id_name = _v
+                    break
+            if id_name:
+                break
+
+        id_type = []
+        id_defs = cg.def_manager.transitive_closure().get(id_name)
+        if id_defs:
+            # Prepare type_fact dict
+            for _def in id_defs:
+                if _def in cg.def_manager.defs:
+                    if cg.def_manager.defs[_def].def_type in [
+                        "EXTERNALDEF",
+                        "CLASSDEF",
+                    ]:
+                        type_ns = utils.get_clear_all_lineno(
+                            cg.def_manager.defs[_def].fullns
+                        )
+                        if type_ns.startswith(f"{main_file_name}."):
+                            type_ns = type_ns.replace(f"{main_file_name}.", "")
+                        id_type.append(type_ns)
+
+                    elif cg.def_manager.defs[_def].def_type == "FUNCTIONDEF":
+                        id_type.append("callable")
+
+                    elif cg.def_manager.defs[_def].get_lit_pointer().type:
+                        for lit_type in (
+                            cg.def_manager.defs[_def].get_lit_pointer().type
+                        ):
+                            id_type.append(lit_type)
+
+                    elif cg.def_manager.defs[_def].def_type == "NAMEDEF":
+                        if dict_num := utils.is_dict(cg.def_manager.defs[_def].fullns):
+                            id_type.append("dict")
+
+                            # TODO: Add all dict keys to type list
+                        elif utils.is_list(cg.def_manager.defs[_def].fullns):
+                            id_type.append("list")
+
+        return id_type
 
     locals_types = {}
     for _local_fact in locals_defs:
@@ -356,7 +453,35 @@ def get_pycg_analysis(py_ntbk_path):
                                     x
                                     for x in cg.def_manager.defs
                                     if utils.is_dict(x, specific_dict=dict_num)
+                                    and not utils.ends_with_dict(x)
                                 ]
+                                all_dicts
+                                for k_dict in all_dicts:
+                                    _dict_type = get_type_of_id(k_dict)
+                                    if _dict_type:
+                                        k_type_fact = _type_fact.copy()
+                                        # TODO: Match dict key access
+                                        k_type_fact["type"] = _dict_type
+                                        _key_check = ".".join(k_dict.split(".")[:-1])
+                                        if _key_check in dict_name_map:
+                                            _k_tmp_name = utils.replace_dict_int_keys(
+                                                k_dict
+                                            )
+                                            _k_tmp_name = _k_tmp_name.replace(
+                                                _key_check,
+                                                dict_name_map[_key_check],
+                                            ).replace(f"{main_file_name}.", "")
+                                            _k_tmp_name = utils.dot_to_bracket_notation(
+                                                _k_tmp_name
+                                            )
+                                            if _local_fact["node_type"] == "param":
+                                                k_type_fact["parameter"] = _k_tmp_name
+
+                                            else:
+                                                k_type_fact["variable"] = _k_tmp_name
+                                        if _type_fact["type"]:
+                                            types_formatted.append(k_type_fact)
+
                                 # TODO: Add all dict keys to type list
                             elif utils.is_list(cg.def_manager.defs[_def].fullns):
                                 _type_fact["type"].append("list")
