@@ -1,12 +1,32 @@
-FROM python:3.9.13-slim-bullseye
+# Pull the Python base image
+FROM python:3.10-slim-bullseye
 
-COPY ./requirements.txt /requirements.txt
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
 
-RUN pip3 install -r requirements.txt
+# Set work directory
+WORKDIR /app
 
-COPY . /tmp
-WORKDIR /tmp
+# Install dependencies
+RUN apt-get update \
+    && apt-get -y install git gcc libgomp1
 
-RUN pip3 install -e .
+# Clone the repository
+RUN git clone --recursive https://github.com/ashwinprasadme/HeaderGen.git
+RUN cd HeaderGen \
+    && git submodule update --init --recursive \
+    && git pull --recurse-submodules \
+    && git checkout MLFunctionClassifier
 
-RUN apt-get update && apt-get install make libgomp1 -y
+WORKDIR /app/HeaderGen
+
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+RUN pip install .
+
+# Create headergen cache
+RUN python /app/HeaderGen/scripts/start_headergen_cache.py
+
+# Keep the container alive
+CMD ["bash"]
