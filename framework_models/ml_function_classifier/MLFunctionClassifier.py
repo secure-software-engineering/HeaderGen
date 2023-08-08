@@ -1,11 +1,15 @@
 import os
 import pickle
 
+import nltk
 import numpy as np
 
 from framework_models.ml_function_classifier.data_cleaning import data_cleaning
 
 script_dir = os.path.abspath(os.path.dirname(__file__))
+
+
+nltk.download("stopwords")
 
 
 class MLFunctionClassifier:

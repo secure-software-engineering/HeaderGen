@@ -1,20 +1,23 @@
 # NOTE: Type based approximation
-from pytype.pyi import parser
-from pytype import module_utils
-from pytype.pytd import pytd
-from pathlib import Path
-from framework_models import check_alias
-import pygtrie
-import pickle
-import os
-import importlib
-import re
-import inspect
-import time
-import jedi
 import ast
+import importlib
+import inspect
+import os
+import pickle
+import re
 import sys
+import time
+import types
+from pathlib import Path
+
+import jedi
+import pygtrie
 import requests
+from pytype import module_utils
+from pytype.pyi import parser
+from pytype.pytd import pytd
+
+from framework_models import check_alias
 
 DATA_SCIECE_STUBS_DIR = os.path.join(
     Path(__file__).parent.absolute().parent.parent, "typestub-database"
@@ -36,7 +39,16 @@ type_stub_dirs = {
     for k in next(os.walk(os.path.join(DATA_SCIECE_STUBS_DIR, "typeshed", "stubs")))[1]
 }
 
-ML_MODULES = ML_MODULES | type_stub_dirs
+stdlib_stub_dirs = {
+    k: os.path.join(DATA_SCIECE_STUBS_DIR, "typeshed", "stdlib", k)
+    for k in next(os.walk(os.path.join(DATA_SCIECE_STUBS_DIR, "typeshed", "stdlib")))[1]
+}
+
+stdlib_stub_dirs = stdlib_stub_dirs | {
+    "stdlib": os.path.join(DATA_SCIECE_STUBS_DIR, "typeshed", "stdlib")
+}
+
+ML_MODULES = ML_MODULES | type_stub_dirs | stdlib_stub_dirs
 # "headergen", "pyright"
 TYPE_INFERENCE_METHOD = "pyright"
 
@@ -63,7 +75,6 @@ class TypeStubManager:
     RETURN_INFO_CACHE = {}
 
     def __init__(self, cache_pytb=True):
-
         self.pytd_cache = {k: pygtrie.StringTrie(separator=".") for k in ML_MODULES}
 
         self.inspect_module_imports = {}
@@ -146,7 +157,20 @@ class TypeStubManager:
         try:
             # if isinstance(inspect.unwrap(_dynamic_name), numpy.ufunc):
             #     print("ufunc: ", func_name)
-            if getattr(inspect.unwrap(_dynamic_name), "__module__", None):
+            if isinstance(_dynamic_name, types.BuiltinFunctionType):
+                info["module_name"] = mod_name
+                info["qualified_name"] = inspect.unwrap(_dynamic_name).__qualname__
+                info["fullns"] = ".".join([info["module_name"], info["qualified_name"]])
+                info["doc_string"] = inspect.getdoc(_dynamic_name)
+                if info["module_name"] == "numpy":
+                    if getattr(inspect.unwrap(_dynamic_name), "__globals__", None):
+                        info["module_name"] = getattr(
+                            inspect.unwrap(_dynamic_name), "__globals__", None
+                        )["__name__"]
+                    info["fullns"] = ".".join(
+                        [info["module_name"], info["qualified_name"]]
+                    )
+            elif getattr(inspect.unwrap(_dynamic_name), "__module__", None):
                 info["module_name"] = inspect.unwrap(_dynamic_name).__module__
                 info["qualified_name"] = inspect.unwrap(_dynamic_name).__qualname__
                 info["fullns"] = ".".join([info["module_name"], info["qualified_name"]])
@@ -704,10 +728,21 @@ class TypeStubManager:
         return ".".join(reversed(module_string))
 
     def recursive_pytd_lookup(self, module_name, inspect_info):
-        if "." in inspect_info["qualified_name"]:
+        try:
             _pyi_match = self.pytd_cache[module_name].longest_prefix(
                 inspect_info["module_name"]
             )
+        except Exception as e:
+            # Check stdlib
+            _pyi_match = self.pytd_cache["stdlib"].longest_prefix(
+                f"stdlib.{inspect_info['module_name']}"
+            )
+            inspect_info["fullns"] = f"stdlib.{inspect_info['fullns']}"
+
+        if "." in inspect_info["qualified_name"]:
+            # _pyi_match = self.pytd_cache[module_name].longest_prefix(
+            #     inspect_info["module_name"]
+            # )
             combos = []
             difference = [
                 item
@@ -735,9 +770,6 @@ class TypeStubManager:
 
             # print()
         else:
-            _pyi_match = self.pytd_cache[module_name].longest_prefix(
-                inspect_info["module_name"]
-            )
             _res = _pyi_match.value.Lookup(inspect_info["fullns"])
             return _res
 
@@ -791,9 +823,16 @@ class TypeStubManager:
                 inspect_info = self.get_inspect_info(_combo, func_name)
                 # if "count" in inspect_info["fullns"]:
                 #     print()
-                _pyi_match = self.pytd_cache[module_name].longest_prefix(
-                    inspect_info["module_name"]
-                )
+                try:
+                    _pyi_match = self.pytd_cache[module_name].longest_prefix(
+                        inspect_info["module_name"]
+                    )
+                except Exception as e:
+                    # Check stdlib
+                    _pyi_match = self.pytd_cache["stdlib"].longest_prefix(
+                        f"stdlib.{inspect_info['module_name']}"
+                    )
+
                 _res = self.recursive_pytd_lookup(module_name, inspect_info)
                 if not _res:
                     continue
@@ -822,7 +861,8 @@ class TypeStubManager:
                         for _ret_type in _def.return_type.type_list:
                             _return_types.append(_ret_type.name)
                     elif isinstance(_def.return_type, pytd.TypeParameter):
-                        _return_types.append(_def.return_type.bound.name)
+                        if _def.return_type.bound:
+                            _return_types.append(_def.return_type.bound.name)
                     elif isinstance(_def.return_type, pytd.AnythingType):
                         # _return_types.append(_def.return_type.bound.name)
                         pass
