@@ -1,16 +1,18 @@
 # %%
-from pathlib import Path
+import errno
 import logging
-import os, errno
+import os
 import shutil
-
-import simplejson as sjson
-from headergen import headergen
 import time
 import traceback
+from pathlib import Path
+
+import simplejson as sjson
+
+from headergen import headergen
 
 # Careful, the out_path folder will be removed
-in_ipynb_path = r"/tmp/callsites-jupyternb-real-world-benchmark/notebooks"
+in_ipynb_path = r"/app/HeaderGen/callsites-jupyternb-real-world-benchmark/notebooks"
 out_path = r"/results/annotated_notebooks"
 
 # Remove results dir and recreate

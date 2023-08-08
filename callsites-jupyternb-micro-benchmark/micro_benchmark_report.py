@@ -1,9 +1,10 @@
-import sys
-import os
 import csv
-import subprocess
 import json
+import os
+import subprocess
+import sys
 from pathlib import Path
+
 from pycg_extended import pycg
 
 
@@ -13,8 +14,10 @@ def do_sorted(d):
         s[str(n)] = sorted(d[n])
     return s
 
+
 def get_subdirs(item):
     return os.listdir(item)
+
 
 def equal_sound(out, expected):
     for item in expected:
@@ -26,6 +29,7 @@ def equal_sound(out, expected):
 
     return True
 
+
 def equal_complete(out, expected):
     for item in out:
         if not item in expected:
@@ -36,8 +40,10 @@ def equal_complete(out, expected):
 
     return True
 
+
 def get_python_files(test):
-    return sorted(Path(test).rglob('*.py'))
+    return sorted(Path(test).rglob("*.py"))
+
 
 def write_csv(res_file, data):
     header = ["Category", "Num-Cases", "Complete", "Sound"]
@@ -45,7 +51,10 @@ def write_csv(res_file, data):
         writer = csv.writer(f, delimiter=",")
         writer.writerow(header)
         for cat in sorted(data.keys()):
-            writer.writerow([cat, data[cat]["all"], data[cat]["complete"], data[cat]["sound"]])
+            writer.writerow(
+                [cat, data[cat]["all"], data[cat]["complete"], data[cat]["sound"]]
+            )
+
 
 def iterate_cats(test_suite_dir, ex, results_file, do_test):
     overall_complete = 0
@@ -61,14 +70,14 @@ def iterate_cats(test_suite_dir, ex, results_file, do_test):
         # if cat not in ["returns"]:
         #     continue
 
-        print ("Iterating category {}...".format(cat))
+        print("Iterating category {}...".format(cat))
         complete_passed = 0
         sound_passed = 0
         tests = get_subdirs(os.path.join(test_suite_dir, cat))
         for test in tests:
             print(f"Running {test}...")
             test_path = os.path.join(test_suite_dir, cat, test)
-            
+
             _result_actual, _result_expected = do_test(test_path)
 
             if equal_complete(_result_actual, _result_expected):
@@ -82,12 +91,15 @@ def iterate_cats(test_suite_dir, ex, results_file, do_test):
             else:
                 pass
 
-        data[cat] = {"complete": complete_passed, "sound": sound_passed, "all": len(tests)}
+        data[cat] = {
+            "complete": complete_passed,
+            "sound": sound_passed,
+            "all": len(tests),
+        }
         overall_complete += complete_passed
         overall_sound += sound_passed
         all_tests += len(tests)
     write_csv(results_file, data)
-
 
 
 def do_test_hg(test):
@@ -106,17 +118,16 @@ def do_test_hg(test):
 
 
 def main():
-
-    test_suite_dir = "/tmp/callsites-jupyternb-micro-benchmark/snippets"
+    test_suite_dir = "/app/HeaderGen/callsites-jupyternb-micro-benchmark/snippets"
     results_dir = "/results"
 
     hg_results = os.path.join(results_dir, "headergen_micro_benchmark_eval.csv")
 
-    print ("-" * 40)
-    print ("Iterating categories for Headergen")
-    print ("-" * 40)
+    print("-" * 40)
+    print("Iterating categories for Headergen")
+    print("-" * 40)
     iterate_cats(test_suite_dir, None, hg_results, do_test_hg)
-    print ("\n")
+    print("\n")
 
 
 if __name__ == "__main__":

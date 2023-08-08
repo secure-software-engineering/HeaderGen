@@ -10,7 +10,7 @@ WORKDIR /app
 
 # Install dependencies
 RUN apt-get update \
-    && apt-get -y install git gcc libgomp1
+    && apt-get -y install git gcc libgomp1 make
 
 # Clone the repository
 RUN git clone --recursive https://github.com/ashwinprasadme/HeaderGen.git

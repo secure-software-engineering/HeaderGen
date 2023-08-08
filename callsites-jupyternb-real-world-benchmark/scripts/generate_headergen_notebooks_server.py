@@ -1,22 +1,23 @@
 # %%
-from pathlib import Path
+import errno
 import logging
-import os, errno
+import os
 import shutil
+import time
+from importlib import reload
+from pathlib import Path
 
-from pycg_extended import pycg
-from pycg_extended import formats as pycg_formats
-
+import requests
 import simplejson as sjson
 import utils
-from importlib import reload
+
 from headergen import headergen
-import time
-import requests
+from pycg_extended import formats as pycg_formats
+from pycg_extended import pycg
 
 headergen_url = "http://127.0.0.1:8080"
 # Careful, the out_path folder will be removed
-in_ipynb_path = r"/tmp/callsites-jupyternb-real-world-benchmark/notebooks"
+in_ipynb_path = r"/app/HeaderGen/callsites-jupyternb-real-world-benchmark/notebooks"
 out_path = r"/results/annotated_notebooks"
 
 # Remove results dir and recreate

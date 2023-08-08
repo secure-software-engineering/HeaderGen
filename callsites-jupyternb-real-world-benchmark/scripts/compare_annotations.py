@@ -190,7 +190,7 @@ def compare(notebooks_path, actual_path, expected_path, results_path):
 
 
 def main():
-    benchmark_path = "/tmp/callsites-jupyternb-real-world-benchmark"
+    benchmark_path = "/app/HeaderGen/callsites-jupyternb-real-world-benchmark"
     notebooks_path = f"{benchmark_path}/notebooks"
     hg_path = f"/results/annotated_notebooks"
     ground_truth_path = f"{benchmark_path}/headers_ground_truth"
