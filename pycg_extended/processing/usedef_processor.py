@@ -1,7 +1,45 @@
-from beniget import beniget
 import gast
 
+from beniget import beniget
+
 # NOTE: Flow Sensitive
+
+
+# Class to fetch all uses of self vars in a class
+class Attributes(gast.NodeVisitor):
+    def __init__(self, module_node, class_name):
+        # compute the def-use of the module
+        self.chains = beniget.DefUseChains()
+        self.chains.visit(module_node)
+        self.users = set()  # all users of `self`
+        self.attributes = []  # attributes of current class
+        self.class_name = class_name
+        self.function_scopes = {}
+
+    def visit_ClassDef(self, node):
+        # walk methods and fill users of `self`
+        for stmt in node.body:
+            if isinstance(stmt, gast.FunctionDef):
+                if stmt.args.args:
+                    self_def = self.chains.chains[stmt.args.args[0]]
+                    self.users.update(use.node for use in self_def.users())
+                    self.function_scopes = self.function_scopes | {
+                        str(use.node): stmt.name for use in self_def.users()
+                    }
+
+        self.generic_visit(node)
+
+    def visit_Attribute(self, node):
+        # any attribute of `self` is registered
+        if node.value in self.users:
+            if isinstance(node.ctx, gast.Store):
+                self.attributes.append(
+                    {
+                        "name": f"{self.class_name}.{node.attr}",
+                        "lineno": node.lineno,
+                        "function": self.function_scopes.get(str(node.value), ""),
+                    }
+                )
 
 
 class UseDefProcessor(gast.NodeVisitor):
@@ -15,19 +53,30 @@ class UseDefProcessor(gast.NodeVisitor):
         self.duc.visit(self.module_node)
 
         self.udc = beniget.UseDefChains(self.duc)
+        self.locals_defs_modules = {}
 
         if module_path not in UseDefProcessor.use_def_cache:
             self.analyze()
         else:
             self.line_uses = UseDefProcessor.use_def_cache[module_path]["line_uses"]
             self.locals_defs = UseDefProcessor.use_def_cache[module_path]["locals_defs"]
+            self.class_vars = UseDefProcessor.use_def_cache[module_path]["class_vars"]
+            self.locals_defs_modules[module_path] = UseDefProcessor.use_def_cache[
+                module_path
+            ]["locals_defs"]
 
     def analyze(self):
         self.generic_visit(self.module_node)
-        self.line_uses, self.locals_defs = self.get_all_definitions_for_use()
+        (
+            self.line_uses,
+            self.locals_defs,
+            self.class_vars,
+        ) = self.get_all_definitions_for_use()
+        self.locals_defs_modules[self.module_path] = self.locals_defs
         UseDefProcessor.use_def_cache[self.module_path] = {
             "line_uses": self.line_uses,
             "locals_defs": self.locals_defs,
+            "class_vars": self.class_vars,
         }
 
     # def visit_Call(self, node):
@@ -40,11 +89,12 @@ class UseDefProcessor(gast.NodeVisitor):
         node = self.module_node
         variable_defs = {}
         locals_defs = []
+        class_vars = []
+
         # for _chain in self.duc.chains.values():
         #     print(_chain)
         # for _use in _chain.users():
         #     _use
-
         def _visit_child_locals(inner_node):
             inner_locals = self.duc.locals[inner_node]
             # inner_locals
@@ -52,19 +102,37 @@ class UseDefProcessor(gast.NodeVisitor):
                 # for _use in self.duc.chains[_var.node].users():
                 #     _use
                 # print(_var)
-                if isinstance(_var.node, gast.ClassDef) or isinstance(
-                    _var.node, gast.FunctionDef
-                ):
+                if isinstance(_var.node, gast.ClassDef):
+                    _id = _var.node.name + ":" + str(_var.node.lineno)
+                    self.attr = Attributes(self.module_node, _id)
+                    self.attr.visit(_var.node)
+                    class_vars.extend(self.attr.attributes)
+                    _visit_child_locals(_var.node)
+                elif isinstance(_var.node, gast.FunctionDef):
                     _id = _var.node.name + ":" + str(_var.node.lineno)
                     _visit_child_locals(_var.node)
                 elif isinstance(_var.node, gast.Name):
                     _id = _var.node.id + ":" + str(_var.node.lineno)
-                    locals_defs.append(_id)
+                    if isinstance(_var.node.ctx, gast.Param):
+                        _node_type = "param"
+                    else:
+                        _node_type = "local_variable"
+
+                    _def_info = {
+                        "name": _id,
+                        "id": _var.node.id,
+                        "lineno": _var.node.lineno,
+                        "node_type": _node_type,
+                    }
+                    locals_defs.append(_def_info)
                 elif isinstance(_var.node, gast.alias):
                     if _var.node.asname:
                         _id = _var.node.asname
                     else:
                         _id = _var.node.name
+                # elif isinstance(_var.node, gast.Attribute):
+                #     _id = _var.node.name + ":" + str(_var.node.lineno)
+                #     _visit_child_locals(_var.node)
 
                 for _use in _var.users():
                     if not _use.node.lineno in variable_defs:
@@ -74,15 +142,23 @@ class UseDefProcessor(gast.NodeVisitor):
                     else:
                         variable_defs[_use.node.lineno].append(_id)
 
+                # TODO: Revisit collection of uses
+
         _visit_child_locals(node)
 
-        return variable_defs, locals_defs
+        return variable_defs, locals_defs, class_vars
 
     # def visit_ClassDef(self, node):
     #     for stmt in node.body:
     #         if isinstance(stmt, gast.FunctionDef):
     #             self_def = self.chains.chains[stmt.args.args[0]]
     #             self.users.update(use.node for use in self_def.users())
+    #     self.generic_visit(node)
+
+    # def visit_FunctionDef(self, node):
+    #     # initialize the set of node using a local variable
+    #     for def_ in self.duc.locals[node]:
+    #         l = [use.node for use in def_.users()]
     #     self.generic_visit(node)
 
     # def visit_Attribute(self, node):

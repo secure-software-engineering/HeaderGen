@@ -1,26 +1,27 @@
 # Read line-by-line, check type of node, get function information based on node
 # %%
-import gast as ast
-from pprint import pprint
-import jupytext
-from collections import deque
 import collections
+import glob
+import logging
+import os
+import shutil
+import time
+from collections import deque
+from pathlib import Path
+from pprint import pprint
+
+import gast as ast
+import jupytext
+import simplejson as json
 from intervaltree import Interval, IntervalTree
 
 import headergen.static_analysis_helpers as sa_helpers
-from framework_models import PHASES as PIPELINE_PHASES
-from framework_models import PHASE_GROUPS, get_high_level_phase, lookup_pipeline_tag
-
-import shutil
-import os
-import glob
-from pathlib import Path
-import logging
-import time
-import simplejson as json
-
-from headergen.node_visitor import HeaderGenVisitor
 import headergen.utils as utils
+from framework_models import PHASE_GROUPS
+from framework_models import PHASES as PIPELINE_PHASES
+from framework_models import get_high_level_phase, lookup_pipeline_tag
+from headergen.node_visitor import HeaderGenVisitor
+
 
 # %%
 def find_first_block_start(py_source):
@@ -502,7 +503,6 @@ def get_cell_summaries(py_ntbk, hg_visitor):
                                     )
 
                     else:
-
                         if _lineno in hg_visitor.context_library_calls:
                             for _func in hg_visitor.context_library_calls[_lineno]:
                                 cell_callsites_mapping[_block_key].add(
@@ -591,6 +591,31 @@ def get_cell_summaries(py_ntbk, hg_visitor):
         )
 
     return block_mapping, cell_callsites_mapping
+
+
+def get_analysis_output(nb_path, out_path="."):
+    # Read ipynb and convert to python for analysis
+    file_name = Path(nb_path).stem
+    if Path(nb_path).suffix == ".py":
+        py_ntbk_path = nb_path
+        py_ntbk = open(py_ntbk_path).read()
+    elif Path(nb_path).suffix == ".ipynb":
+        ntbk = jupytext.read(nb_path)
+        py_ntbk = jupytext.writes(ntbk, fmt="py:percent")
+        py_ntbk_path = "{}/{}-hg-analysis.py".format(Path(nb_path).parent, file_name)
+        # write to python file for analysis
+        # TODO: what about other files in the same directory?
+        jupytext.write(ntbk, py_ntbk_path, fmt="py:percent")
+
+    else:
+        return "File not supported!"
+
+    # Read Source, gen AST and get analysis
+    # TODO: Replace this analysis with PyCG
+    tree = ast.parse(py_ntbk)
+    analysis_info = sa_helpers.get_analysis_output(tree, py_ntbk_path)
+
+    return analysis_info
 
 
 def start_headergen(nb_path, out_path=".", debug_mode=False, create_linted_file=True):

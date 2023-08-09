@@ -18,14 +18,17 @@
 # specific language governing permissions and limitations
 # under the License.
 #
-from pycg_extended.machinery.pointers import NamePointer, LiteralPointer
 from pycg_extended import utils
+from pycg_extended.machinery.pointers import LiteralPointer, NamePointer
 
 
 class DefinitionManager(object):
     def __init__(self):
         self.defs = {}
         self.line_uses = {}
+        self.class_vars = {}
+        self.locals_defs = {}
+        self.usedefcache = {}
 
     def create(self, ns, def_type, class_ref=None, ext_def_type=None):
         if not ns or not isinstance(ns, str):

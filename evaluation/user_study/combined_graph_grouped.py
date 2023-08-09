@@ -1,12 +1,13 @@
 # %%
-import pandas as pd
-import matplotlib.pyplot as plt  # doesn't have color by hue
-import seaborn as sns
-import numpy as np  # for generating random data
 import random  # for random gender selection
 import statistics
 
-user_study_folder = "/tmp/evaluation/user_study"
+import matplotlib.pyplot as plt  # doesn't have color by hue
+import numpy as np  # for generating random data
+import pandas as pd
+import seaborn as sns
+
+user_study_folder = "/app/HeaderGen/evaluation/user_study"
 
 response_file = f"{user_study_folder}/individual_responses/questions_results.csv"
 response_file_likert = f"{user_study_folder}/likert/Responses.csv"

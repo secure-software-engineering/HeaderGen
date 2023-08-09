@@ -20,12 +20,11 @@
 #
 import ast
 import os
+import re
 
 from pycg_extended import utils
 from pycg_extended.machinery.definitions import Definition
-
 from pycg_extended.processing.usedef_processor import UseDefProcessor
-import re
 
 disable_for_testing_other_implementaions = False
 
@@ -227,8 +226,9 @@ class ProcessingBase(ast.NodeVisitor):
             self.visit(target)
             if isinstance(target, ast.Tuple):
                 for pos, elt in enumerate(target.elts):
-                    if pos < len(decoded):
-                        do_assign(decoded[pos], elt)
+                    if decoded:
+                        if not isinstance(decoded, Definition) and pos < len(decoded):
+                            do_assign(decoded[pos], elt)
             else:
                 targetns = self._get_target_ns(target)
                 for tns in targetns:
@@ -394,6 +394,26 @@ class ProcessingBase(ast.NodeVisitor):
                                 defi = self.def_manager.get(return_ns)
                                 if defi:
                                     return_defs.append(defi)
+                elif called_def.get_type() == utils.constants.NAME_DEF:
+                    if getattr(self, "closured", None) and self.closured.get(
+                        called_def.get_ns(), None
+                    ):
+                        for name in self.closured.get(called_def.get_ns(), []):
+                            called_name_defi = self.def_manager.get(name)
+                            name_return_ns = utils.constants.INVALID_NAME
+
+                            if called_name_defi.get_type() == utils.constants.FUN_DEF:
+                                name_return_ns = utils.join_ns(
+                                    called_name_defi.get_ns(),
+                                    utils.constants.RETURN_NAME,
+                                )
+                            elif called_name_defi.get_type() == utils.constants.CLS_DEF:
+                                name_return_ns = called_name_defi.get_ns()
+
+                            name_defi = self.def_manager.get(name_return_ns)
+                            if name_defi:
+                                return_defs.append(name_defi)
+
                 else:
                     defi = self.def_manager.get(return_ns)
                     if defi:
@@ -411,11 +431,16 @@ class ProcessingBase(ast.NodeVisitor):
             for elt in node.elts:
                 decoded.append(self.decode_node(elt))
             return decoded
+        elif isinstance(node, ast.UnaryOp):
+            decoded_operand = self.decode_node(node.operand)
+            return decoded_operand
+
         elif isinstance(node, ast.BinOp):
             decoded_left = self.decode_node(node.left)
             decoded_right = self.decode_node(node.right)
             # return the non definition types if we're talking about a binop
             # since we only care about the type of the return (num, str, etc)
+            # TODO: APSV: Check if literals exist and prefer that
             if not isinstance(decoded_left, Definition):
                 return decoded_left
             if not isinstance(decoded_right, Definition):
@@ -428,6 +453,8 @@ class ProcessingBase(ast.NodeVisitor):
                 if defi:
                     defis.append(defi)
             return defis
+        elif isinstance(node, ast.Constant) and isinstance(node.value, bool):
+            return [node.value]
         elif isinstance(node, ast.Num):
             return [node.n]
         elif isinstance(node, ast.Str):
@@ -474,7 +501,12 @@ class ProcessingBase(ast.NodeVisitor):
         return []
 
     def _is_literal(self, item):
-        return isinstance(item, int) or isinstance(item, str) or isinstance(item, float)
+        return (
+            isinstance(item, int)
+            or isinstance(item, str)
+            or isinstance(item, float)
+            or isinstance(item, bool)
+        )
 
     def _retrieve_base_names(self, node):
         if not isinstance(node, ast.Attribute):

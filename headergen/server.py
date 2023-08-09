@@ -1,20 +1,22 @@
+import errno
+import logging
+import os
+import shutil
+import time
+from pathlib import Path
+
+import uvicorn
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
+
+from framework_models import get_high_level_phase
 from headergen import headergen
-from pathlib import Path
-import uvicorn
-
-import logging
-import os, errno
-import shutil
-
-import time
 
 out_path = r"/tmp"
 
 app = FastAPI()
 RETRY_SLEEP = 0.25
-DEBUG_MODE = True
+DEBUG_MODE = False
 
 
 def is_path_safe(file_path):
@@ -32,7 +34,7 @@ def is_path_safe(file_path):
 
 @app.get("/")
 def read_root():
-    return {"Hello": "HeaderGen Server"}
+    return "HeaderGen"
 
 
 @app.get("/get_analysis_notebook")
@@ -45,7 +47,25 @@ def get_analysis(file_path: str = ""):
             str(file_path), out_path, debug_mode=DEBUG_MODE
         )
 
-    return analysis_meta
+    analysis_output = {
+        "cell_callsites": analysis_meta["cell_callsites"],
+        "block_mapping": {},
+    }
+
+    if "block_mapping" in analysis_meta:
+        for _cell, _cell_results in analysis_meta["block_mapping"].items():
+            analysis_output["block_mapping"][_cell] = list(
+                set(
+                    [
+                        get_high_level_phase(x)
+                        for x in _cell_results["dl_pipeline_tag_counter"]
+                        if x
+                        not in ["Unknown", "Function Definition", "Builtin Function"]
+                    ]
+                )
+            )
+
+    return analysis_output
 
 
 @app.get("/generate_annotated_notebook")
@@ -65,6 +85,6 @@ def generate_annotated_notebook(file_path: str = ""):
 
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8080)
+    uvicorn.run(app, host="0.0.0.0", port=54068)
 
 # uvicorn --reload --host 0.0.0.0 --port 8080 main:app
