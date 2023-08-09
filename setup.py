@@ -45,8 +45,9 @@ setuptools.setup(
         "typestub-database": stub_files,
     },
     install_requires=[requirements],
-    entry_points="""
-        [console_scripts]
-        headergen=cli:generate
-    """,
+    entry_points={
+        "console_scripts": [
+            "headergen = headergen.cli:cli",
+        ],
+    },
 )
