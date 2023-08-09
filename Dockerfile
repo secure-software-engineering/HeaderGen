@@ -16,8 +16,7 @@ RUN apt-get update \
 RUN git clone --recursive https://github.com/ashwinprasadme/HeaderGen.git
 RUN cd HeaderGen \
     && git submodule update --init --recursive \
-    && git pull --recurse-submodules \
-    && git checkout MLFunctionClassifier
+    && git pull --recurse-submodules
 
 WORKDIR /app/HeaderGen
 
