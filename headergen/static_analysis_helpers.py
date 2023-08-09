@@ -25,15 +25,6 @@ from pycg_extended import pycg
 BUILTIN_FUNC_LIST = dir(builtins)
 MAX_ITER = 500
 
-ML_PIPELINE_MODEL = True
-
-
-def get_dl_pipeline_tag(function_call, doc_string=None):
-    if ML_PIPELINE_MODEL:
-        return lookup_pipeline_tag_ml(function_call, doc_string)
-    else:
-        return lookup_pipeline_tag(function_call)
-
 
 def sort_pycg_calls(analysis_info, main_file_name):
     imports_info = analysis_info["imports_info"]
@@ -63,18 +54,29 @@ def sort_pycg_calls(analysis_info, main_file_name):
 
         # Sort library calls
         else:
-            if ML_PIPELINE_MODEL:
-                if func in analysis_info["function_doc_strings"]:
-                    _tags = get_dl_pipeline_tag(
-                        func, analysis_info["function_doc_strings"][func]
-                    )
-                else:
-                    print(f"No doc string for: {func}")
-                    _tags = []
-
-                _tag = {"func_call": func, "dl_pipeline_tag": _tags}
+            if func in analysis_info["function_doc_strings"]:
+                _doc_string = analysis_info["function_doc_strings"][func]
             else:
-                _tag = {"func_call": func, "dl_pipeline_tag": get_dl_pipeline_tag(func)}
+                print(f"No doc string for: {func}")
+                _doc_string = ""
+
+            _tag = {
+                "func_call": func,
+                "dl_pipeline_tag": lookup_pipeline_tag(func, _doc_string),
+            }
+
+            # if ML_PIPELINE_MODEL:
+            #     if func in analysis_info["function_doc_strings"]:
+            #         _tags = get_dl_pipeline_tag(
+            #             func, analysis_info["function_doc_strings"][func]
+            #         )
+            #     else:
+            #         print(f"No doc string for: {func}")
+            #         _tags = []
+
+            #     _tag = {"func_call": func, "dl_pipeline_tag": _tags}
+            # else:
+            #     _tag = {"func_call": func, "dl_pipeline_tag": get_dl_pipeline_tag(func)}
 
         if func in analysis_info["function_doc_strings"]:
             _tag["doc_string"] = analysis_info["function_doc_strings"][func]

@@ -10,6 +10,8 @@ import pygtrie
 from framework_models.ml_function_classifier import MLFunctionClassifier
 
 ml_function_classifier = MLFunctionClassifier.MLFunctionClassifier()
+ML_PIPELINE_MODEL = True
+CACHE_PREDICTIONS = {}
 
 SCRIPT_ROOT = pathlib.Path(__file__).parent.absolute()
 cache_models = True
@@ -185,7 +187,21 @@ def check_alias(func_call):
     return func_call
 
 
-def lookup_pipeline_tag(func_call):
+def lookup_pipeline_tag(func_call, doc_string=""):
+    if ML_PIPELINE_MODEL:
+        # Check if its available from cache, else try ml
+        if func_call in CACHE_PREDICTIONS:
+            return CACHE_PREDICTIONS[func_call]
+        else:
+            _res = lookup_pipeline_tag_ml(func_call, doc_string)
+            CACHE_PREDICTIONS[func_call] = _res
+            return _res
+
+    else:
+        return lookup_pipeline_tag_hg(func_call)
+
+
+def lookup_pipeline_tag_hg(func_call):
     root_module = func_call.split(".")[0]
     if root_module not in MODELS:
         return [PHASES["UNKNOWN"]]
@@ -197,9 +213,12 @@ def lookup_pipeline_tag(func_call):
     try:
         model_match = MODELS[root_module].longest_prefix(func_call)
         _res = [PHASES[k] for k in model_match.value[func_call]]
-        return _res
+        if _res:
+            return _res
+        else:
+            return [PHASES["UNKNOWN"]]
     except:
-        print("ML tag missing for:", func_call)
+        # print("ML tag missing for:", func_call)
         return [PHASES["UNKNOWN"]]
 
 

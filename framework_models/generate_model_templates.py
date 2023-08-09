@@ -11,12 +11,12 @@ from framework_models.ml_function_classifier import MLFunctionClassifier
 
 ml_function_classifier = MLFunctionClassifier.MLFunctionClassifier()
 
+script_dir = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 
-DATA_SCIECE_LIBRARY_DIR = (
-    "/home/moulik/Master_thesis/HeaderGen/.env/lib/python3.10/site-packages"
-)
+DATA_SCIECE_LIBRARY_DIR = f"{script_dir}/.env/lib/python3.10/site-packages"
+
 LIBRARY_FUNTIONS = {}
-out_path = "/home/moulik/Master_thesis/HeaderGen/framework_models/_model"
+out_path = f"{script_dir}/framework_models/_model"
 
 try:
     shutil.rmtree(out_path)
@@ -68,6 +68,7 @@ def get_relative_module_name(filepath, module_name, module_path):
 
 
 for _library, _module_path in ML_MODULES.items():
+    print(f"Processing: {_library}")
     for _file in Path(_module_path).rglob("*.py"):
         module_name = get_relative_module_name(_file, _library, _module_path)
         source = open(_file).read()
@@ -114,7 +115,7 @@ for _library, _module_path in ML_MODULES.items():
 
             functions_def = functions_def | class_function_defs
 
-        if module_name == "core.generic":
+        if module_name == "io.parsers.readers":
             print()
 
         LIBRARY_FUNTIONS[_library][module_name] = {
