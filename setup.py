@@ -34,11 +34,13 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="headergen",
-    version="0.1.0",
+    version="1.0.1",
     description="HeaderGen: Automated cell header generator",
-    url="",
-    author="",
-    author_email="",
+    long_description=open("README.md").read(),
+    long_description_content_type="text/markdown",
+    url="https://github.com/ashwinprasadme/headergen",
+    author="Ashwin Prasad SV",
+    author_email="ashwinprasad.me@gmail.com",
     packages=setuptools.find_packages(),
     package_data={
         "framework_models": framework_models_paths,  # Include any JSON files in the package directory

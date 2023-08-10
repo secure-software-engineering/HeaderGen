@@ -45,6 +45,7 @@ def generate(input, output, json_output, debug_mode):
         analysis_output = {
             "cell_callsites": analysis_meta["cell_callsites"],
             "block_mapping": {},
+            "analysis_info": analysis_meta["analysis_info"],
         }
 
         if "block_mapping" in analysis_meta:

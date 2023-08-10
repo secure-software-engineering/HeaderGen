@@ -43,8 +43,8 @@ logging.basicConfig(
 
 start = time.time()
 
-# analysis_meta = headergen.start_headergen(file_path, out_path, debug_mode=True)
-analysis_meta = headergen.get_analysis_output(file_path, out_path)
+analysis_meta = headergen.start_headergen(file_path, out_path, debug_mode=True)
+# analysis_meta = headergen.get_analysis_output(file_path, out_path)
 
 print(f"Analysis took: {time.time() - start}")
 
