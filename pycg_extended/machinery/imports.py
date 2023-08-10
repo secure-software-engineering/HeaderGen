@@ -31,7 +31,7 @@ from pycg_extended import utils
 
 SCRIPT_ROOT = Path(__file__).parent.absolute()
 
-AUTO_IMPORT_ML_MODULES = False
+AUTO_IMPORT_ML_MODULES = True
 CACHED_ML_MODULE_IMPORT = False
 ML_MODULES_TO_IMPORT = [
     "keras",
