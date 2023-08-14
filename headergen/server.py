@@ -4,12 +4,13 @@ import os
 import shutil
 import time
 from pathlib import Path
+from typing import Any, Dict
 
 import uvicorn
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
 
-from framework_models import get_high_level_phase
+from framework_models import PHASES, get_high_level_phase, lookup_pipeline_tag
 from headergen import headergen
 
 out_path = r"/tmp"
@@ -66,6 +67,21 @@ def get_analysis(file_path: str = ""):
             )
 
     return analysis_output
+
+
+@app.post("/get_ml_labels")
+def get_ml_labels(payload: Dict[Any, Any]):
+    result = {}
+    for func, doc_string in payload.items():
+        if "docstring" in doc_string:
+            result[func] = [
+                get_high_level_phase(x)
+                for x in lookup_pipeline_tag(func, doc_string["docstring"])
+            ]
+        else:
+            result[func] = [PHASES["UNKNOWN"]]
+
+    return result
 
 
 @app.get("/generate_annotated_notebook")
