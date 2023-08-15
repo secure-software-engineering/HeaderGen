@@ -505,7 +505,7 @@ def get_pycg_analysis(py_ntbk_path):
 
     # Remove duplicates in type list
     for _type in types_formatted:
-        _type["type"] = list(set(_type["type"]))
+        _type["type"] = [utils.get_clear_lineno(x) for x in set(_type["type"])]
 
     return {
         "func_calls": sorted(cg_json[main_file_name]) if cg_json else {},

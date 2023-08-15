@@ -75,6 +75,43 @@ def generate(input, output, json_output, debug_mode):
 
 
 @cli.command()
+@click.option(
+    "-i", "--input", required=True, help="Path of the input Notebook/Python script"
+)
+@click.option("-o", "--output", default=".", help="Output path")
+@click.option(
+    "-j", "--json_output", is_flag=True, default=False, help="Output JSON metadata"
+)
+def types(input, output, json_output):
+    """Generate Type information"""
+    input = Path(input)
+    output = Path(output)
+
+    if not output.is_dir():
+        print(f"{output} is not a directory.")
+        return
+
+    analysis_meta = headergen.get_analysis_output(input, output)
+
+    print(
+        sjson.dumps(
+            analysis_meta["types_formatted"],
+            indent=4,
+            iterable_as_array=True,
+        )
+    )
+
+    if json_output:
+        with open(output / (input.stem + "_types.json"), "w") as f:
+            sjson.dump(
+                analysis_meta["types_formatted"],
+                f,
+                indent=4,
+                iterable_as_array=True,
+            )
+
+
+@cli.command()
 def server():
     """Start Server"""
     uvicorn.run(app, host="0.0.0.0", port=54068)

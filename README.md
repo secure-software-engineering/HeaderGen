@@ -38,6 +38,19 @@ Generate a JSON metadata file that includes various analysis information, use th
 headergen generate -i /path/to/input.ipynb -o /path/to/output/ -j
 ```
 
+### `types` Command:
+
+Run type inference on the file and fetch type information.
+```bash
+headergen types -i /path/to/input.ipynb
+```
+Generate a JSON file with type information, use the --json_output or -j flag.
+
+```bash
+headergen types -i /path/to/input.ipynb -o /path/to/output/ -j
+```
+
+
 ### `server` Command:
 
 Starting the server is straightforward:
@@ -56,6 +69,16 @@ Example using curl:
 
 ```
 curl "http://0.0.0.0:54068/get_analysis_notebook?file_path=/absolute/path/to/your/file.ipynb"
+```
+
+#### get_types Endpoint:
+
+This endpoint returns type information of the specified notebook or python script as a JSON response.
+
+Example using curl:
+
+```
+curl "http://0.0.0.0:54068/get_types?file_path=/absolute/path/to/your/file.ipynb"
 ```
 
 #### generate_annotated_notebook Endpoint:

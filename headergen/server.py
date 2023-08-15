@@ -38,6 +38,17 @@ def read_root():
     return "HeaderGen"
 
 
+@app.get("/get_types")
+def get_types(file_path: str = ""):
+    is_safe = is_path_safe(file_path)
+    if not is_safe[0]:
+        return is_safe[1]
+    else:
+        analysis_meta = headergen.get_analysis_output(str(file_path), out_path)
+
+    return analysis_meta["types_formatted"]
+
+
 @app.get("/get_analysis_notebook")
 def get_analysis(file_path: str = ""):
     is_safe = is_path_safe(file_path)

@@ -52,6 +52,62 @@ ML_MODULES = ML_MODULES | type_stub_dirs | stdlib_stub_dirs
 # "headergen", "pyright"
 TYPE_INFERENCE_METHOD = "pyright"
 
+SCRIPT_DIR = Path(__file__).parent.absolute()
+
+
+def get_relative_module_name(filepath, module_name, module_path):
+    module_string = []
+    for i in range(1, len(filepath.parts) + 1):
+        if filepath.parts[-i].startswith("__init__"):
+            if str(filepath.parent) == module_path:
+                module_string.append(module_name)
+                break
+        elif filepath.parts[-i] == Path(module_path).stem:
+            module_string.append(module_name)
+            break
+        else:
+            if filepath.parts[-i].endswith(".pyi"):
+                module_string.append(filepath.stem)
+            else:
+                module_string.append(filepath.parts[-i])
+
+    return ".".join(reversed(module_string))
+
+
+def parse_pyi_file(self, filename, module_name, version=(3, 6)):
+    with open(filename, "r") as f:
+        src = f.read()
+
+    out = parser.parse_pyi(src, filename, module_name, None)
+    return out
+
+
+PYTD_CACHE = {k: pygtrie.StringTrie(separator=".") for k in ML_MODULES}
+if os.path.exists(os.path.join(SCRIPT_DIR, "pytd_cache.pickle")):
+    PYTD_CACHE = pickle.load(open(os.path.join(SCRIPT_DIR, "pytd_cache.pickle"), "rb"))
+else:
+    for _module_name, _module_path in ML_MODULES.items():
+        counter = 0
+        for _file in Path(_module_path).rglob("*.pyi"):
+            try:
+                print(counter, _file)
+                module_name = get_relative_module_name(
+                    _file, _module_name, _module_path
+                )
+                PYTD_CACHE[_module_name][module_name] = parse_pyi_file(
+                    _file, module_name
+                )
+            except Exception as e:
+                print(f"Failed to read typestubs for: {_module_name}")
+                print(e)
+
+            counter += 1
+
+    pickle.dump(
+        PYTD_CACHE,
+        open(os.path.join(SCRIPT_DIR, "pytd_cache.pickle"), "wb"),
+    )
+
 
 def get_qualname_from_text(input_dynamic_name):
     res = {"class": None, "func": None}
@@ -85,33 +141,7 @@ class TypeStubManager:
         self.functions_inspected = {}
         self.functions_info = {}
 
-        if cache_pytb and os.path.exists(os.path.join(script_dir, "pytd_cache.pickle")):
-            self.pytd_cache = pickle.load(
-                open(os.path.join(script_dir, "pytd_cache.pickle"), "rb")
-            )
-        else:
-            for _module_name, _module_path in ML_MODULES.items():
-                counter = 0
-                for _file in Path(_module_path).rglob("*.pyi"):
-                    try:
-                        print(counter, _file)
-                        module_name = self.get_relative_module_name(
-                            _file, _module_name, _module_path
-                        )
-                        self.pytd_cache[_module_name][
-                            module_name
-                        ] = self.parse_pyi_file(_file, module_name)
-                    except Exception as e:
-                        print(f"Failed to read typestubs for: {_module_name}")
-                        print(e)
-
-                    counter += 1
-
-            if cache_pytb:
-                pickle.dump(
-                    self.pytd_cache,
-                    open(os.path.join(script_dir, "pytd_cache.pickle"), "wb"),
-                )
+        self.pytd_cache = PYTD_CACHE
 
     def load_library_into_memory(self, library):
         try:

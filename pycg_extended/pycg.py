@@ -18,25 +18,25 @@
 # specific language governing permissions and limitations
 # under the License.
 #
-import os
 import ast
+import os
 
-from pycg_extended.processing.preprocessor import PreProcessor
-from pycg_extended.processing.postprocessor import PostProcessor
-from pycg_extended.processing.cgprocessor import CallGraphProcessor
-from pycg_extended.processing.keyerrprocessor import KeyErrProcessor
-from pycg_extended.processing.csprocessor import CallSiteProcessor
-
-from pycg_extended.machinery.scopes import ScopeManager
-from pycg_extended.machinery.definitions import DefinitionManager
-from pycg_extended.machinery.imports import ImportManager
-from pycg_extended.machinery.classes import ClassManager
+from pycg_extended import utils
 from pycg_extended.machinery.callgraph import CallGraph
 from pycg_extended.machinery.callsites import CallSites
+from pycg_extended.machinery.classes import ClassManager
+from pycg_extended.machinery.definitions import DefinitionManager
+from pycg_extended.machinery.imports import ImportManager
 from pycg_extended.machinery.key_err import KeyErrors
 from pycg_extended.machinery.modules import ModuleManager
+from pycg_extended.machinery.scopes import ScopeManager
 from pycg_extended.machinery.typestubs import TypeStubManager
-from pycg_extended import utils
+from pycg_extended.processing.cgprocessor import CallGraphProcessor
+from pycg_extended.processing.csprocessor import CallSiteProcessor
+from pycg_extended.processing.keyerrprocessor import KeyErrProcessor
+from pycg_extended.processing.postprocessor import PostProcessor
+from pycg_extended.processing.preprocessor import PreProcessor
+
 
 # TODO: Make separate for CallSiteGenerator instead
 class CallGraphGenerator(object):
@@ -199,7 +199,7 @@ class CallGraphGenerator(object):
 
             self.def_manager.complete_definitions()
             iter_cnt += 1
-            print("iter_cnt: ", iter_cnt)
+            # print("iter_cnt: ", iter_cnt)
 
         self.reset_counters()
         if self.operation == utils.constants.CALL_GRAPH_OP:
