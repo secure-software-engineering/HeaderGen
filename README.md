@@ -115,12 +115,12 @@ curl "http://0.0.0.0:54068/generate_annotated_notebook?file_path=/absolute/path/
 + Linux
 
       docker build -t headergen .
-      docker run -v {$PWD}/headergen_output:/results -it headergen bash
+      docker run -v {$PWD}/headergen_output:/headergen_output -it headergen bash
 
 + Windows
 
       docker build -t headergen .
-      docker run -v "%cd%"/headergen_output:/results -it headergen bash
+      docker run -v "%cd%"/headergen_output:/headergen_output -it headergen bash
 
 
 ## 2. Run HeaderGen benchmarks from inside contatiner
@@ -129,15 +129,15 @@ Output generated from the following commands, such as annotated notebooks, repor
 
 + Micro Benchmark (generates a csv file with results)
 
-      make microbench
+      make ROOT_PATH=/app/HeaderGen microbench
 
 + Real-world Benchmark (generates annotated notebooks and csv file that reproduce table 2)
 
-      make realworldbench
+      make ROOT_PATH=/app/HeaderGen realworldbench
 
 + Both Benchmarks
 
-      make all
+      make ROOT_PATH=/app/HeaderGen all
 
 + Clean generated output
 

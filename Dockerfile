@@ -22,7 +22,7 @@ WORKDIR /app/HeaderGen
 
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
-RUN pip install .
+RUN pip install -e .
 
 # Create headergen cache
 RUN python /app/HeaderGen/scripts/start_headergen_cache.py

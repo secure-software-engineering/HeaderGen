@@ -1,3 +1,4 @@
+import argparse
 import csv
 import json
 import os
@@ -189,20 +190,33 @@ def compare(notebooks_path, actual_path, expected_path, results_path):
     write_results(data, results_path)
 
 
-def main():
-    benchmark_path = "/app/HeaderGen/callsites-jupyternb-real-world-benchmark"
+def main(test_suite_dir, results_dir):
+    benchmark_path = test_suite_dir
+    results_path = results_dir
+
     notebooks_path = f"{benchmark_path}/notebooks"
-    hg_path = f"/results/annotated_notebooks"
+    hg_path = f"{results_path}/annotated_notebooks"
     ground_truth_path = f"{benchmark_path}/headers_ground_truth"
-    results_path = f"/results"
 
     hg_results = os.path.join(results_path, "headergen_headers_eval.csv")
 
     print("\nComparing Headers for Real-world Benchmark...")
     compare(notebooks_path, hg_path, ground_truth_path, hg_results)
-    # print ("\n")
-    # print(Counter(not_found_counter))
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Run Annotation Comparison")
+    parser.add_argument(
+        "--test_suite_dir",
+        type=str,
+        default="/app/HeaderGen/callsites-jupyternb-real-world-benchmark",
+    )
+    parser.add_argument(
+        "--results_dir",
+        type=str,
+        default="/results",
+    )
+
+    args = parser.parse_args()
+
+    main(args.test_suite_dir, args.results_dir)

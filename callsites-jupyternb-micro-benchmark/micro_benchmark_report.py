@@ -1,3 +1,4 @@
+import argparse
 import csv
 import json
 import os
@@ -117,10 +118,7 @@ def do_test_hg(test):
     return do_sorted(out_cg), do_sorted(expected_cg)
 
 
-def main():
-    test_suite_dir = "/app/HeaderGen/callsites-jupyternb-micro-benchmark/snippets"
-    results_dir = "/results"
-
+def main(test_suite_dir, results_dir):
     hg_results = os.path.join(results_dir, "headergen_micro_benchmark_eval.csv")
 
     print("-" * 40)
@@ -131,4 +129,18 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Run Microbenchmark")
+    parser.add_argument(
+        "--test_suite_dir",
+        type=str,
+        default="/app/HeaderGen/callsites-jupyternb-micro-benchmark/snippets",
+    )
+    parser.add_argument(
+        "--results_dir",
+        type=str,
+        default="/results",
+    )
+
+    args = parser.parse_args()
+
+    main(args.test_suite_dir, args.results_dir)

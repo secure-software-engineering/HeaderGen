@@ -1,4 +1,5 @@
 # %%
+import argparse
 import errno
 import logging
 import os
@@ -11,9 +12,23 @@ import simplejson as sjson
 
 from headergen import headergen
 
+parser = argparse.ArgumentParser(description="Run Realworld benchmark")
+parser.add_argument(
+    "--test_suite_dir",
+    type=str,
+    default=r"/app/HeaderGen/callsites-jupyternb-real-world-benchmark/notebooks",
+)
+parser.add_argument(
+    "--results_dir",
+    type=str,
+    default=r"/results/annotated_notebooks",
+)
+
+args = parser.parse_args()
+
 # Careful, the out_path folder will be removed
-in_ipynb_path = r"/app/HeaderGen/callsites-jupyternb-real-world-benchmark/notebooks"
-out_path = r"/results/annotated_notebooks"
+in_ipynb_path = args.test_suite_dir
+out_path = args.results_dir
 
 # Remove results dir and recreate
 try:
