@@ -72,15 +72,15 @@
         "05-mytitanic.categorize_:2"
     ],
     "4": [
-        "keras.engine.sequential.Sequential",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.core.dense.Dense",
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.core.dense.Dense",
         "keras.optimizer_v2.gradient_descent.SGD",
-        "keras.engine.training.Model.compile",
-        "keras.engine.training.Model.fit"
+        "keras.src.engine.training.Model.compile",
+        "keras.src.engine.training.Model.fit"
     ],
     "5": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "pandas.core.frame.DataFrame",
         "numpy.rint",
         "numpy.ndarray.astype"

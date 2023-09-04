@@ -80,12 +80,12 @@
         "pandas.core.base.IndexOpsMixin.transpose"
     ],
     "47": [
-        "keras.engine.sequential.Sequential",
-        "keras.engine.training.Model.compile",
-        "keras.layers.core.dense.Dense",
-        "keras.callbacks.ModelCheckpoint",
-        "keras.callbacks.EarlyStopping",
-        "keras.backend.clear_session"
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.engine.training.Model.compile",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.callbacks.ModelCheckpoint",
+        "keras.src.callbacks.EarlyStopping",
+        "keras.src.backend.clear_session"
     ],
     "48": [
         "pandas.core.generic.NDFrame.head"
@@ -97,7 +97,7 @@
         "pandas.core.generic.NDFrame.head"
     ],
     "51": [
-        "keras.engine.training.Model.fit"
+        "keras.src.engine.training.Model.fit"
     ],
     "52": [
         "pandas.io.parsers.readers.read_csv"
@@ -109,7 +109,7 @@
         "pandas.core.frame.DataFrame.drop"
     ],
     "59": [
-        "keras.engine.training.Model.predict"
+        "keras.src.engine.training.Model.predict"
     ],
     "60": [
         "pandas.core.frame.DataFrame"

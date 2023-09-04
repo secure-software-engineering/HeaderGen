@@ -15,34 +15,34 @@
     ],
     "6": [
         "numpy.core.shape_base.hstack",
-        "tensorflow.python.framework.ops.convert_to_tensor_v2_with_dispatch",
+        "tensorflow.python.framework.tensor_conversion.convert_to_tensor_v2_with_dispatch",
         "numpy.ndarray.astype"
     ],
     "7": [
-        "keras.engine.sequential.Sequential",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.core.dense.Dense",
-        "keras.layers.core.dropout.Dropout",
-        "keras.engine.training.Model.compile",
-        "keras.optimizer_v2.adam.Adam"
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.layers.regularization.dropout.Dropout",
+        "keras.src.engine.training.Model.compile",
+        "keras.optimizers.Adam"
     ],
     "8": [
-        "keras.engine.training.Model.fit"
+        "keras.src.engine.training.Model.fit"
     ],
     "9": [
-        "keras.engine.training.Model.evaluate",
+        "keras.src.engine.training.Model.evaluate",
         "<builtin>.print",
         "matplotlib.pyplot.plot",
         "matplotlib.pyplot.legend",
         "matplotlib.pyplot.show"
     ],
     "10": [
-        "keras.engine.training.Model.save",
+        "keras.src.engine.training.Model.save",
         "<builtin>.str"
     ],
     "11": [
-        "keras.saving.save.load_model",
-        "keras.engine.training.Model.summary"
+        "keras.src.saving.saving_api.load_model",
+        "keras.src.engine.training.Model.summary"
     ],
     "12": [
         "numpy.ndarray.reshape",
@@ -50,7 +50,7 @@
         "numpy.ndarray.astype"
     ],
     "13": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "numpy.ndarray.ravel",
         "numpy.ndarray.tolist"
     ],

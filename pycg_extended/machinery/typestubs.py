@@ -74,7 +74,7 @@ def get_relative_module_name(filepath, module_name, module_path):
     return ".".join(reversed(module_string))
 
 
-def parse_pyi_file(self, filename, module_name, version=(3, 6)):
+def parse_pyi_file(filename, module_name, version=(3, 6)):
     with open(filename, "r") as f:
         src = f.read()
 
@@ -131,8 +131,6 @@ class TypeStubManager:
     RETURN_INFO_CACHE = {}
 
     def __init__(self, cache_pytb=True):
-        self.pytd_cache = {k: pygtrie.StringTrie(separator=".") for k in ML_MODULES}
-
         self.inspect_module_imports = {}
         self.function_doc_strings = {}
 
@@ -169,6 +167,8 @@ class TypeStubManager:
             _dynamic_name = eval(
                 re.sub(regex, f"self.inspect_module_imports['{mod_name}']", func_name)
             )
+            unwrapped = inspect.unwrap(_dynamic_name)
+
         except Exception as e:
             for _inspected in self.functions_inspected:
                 if _inspected in func_name:
@@ -182,6 +182,7 @@ class TypeStubManager:
                             _func_name,
                         )
                     )
+                    unwrapped = inspect.unwrap(_dynamic_name)
                     break
 
         try:
@@ -189,48 +190,46 @@ class TypeStubManager:
             #     print("ufunc: ", func_name)
             if isinstance(_dynamic_name, types.BuiltinFunctionType):
                 info["module_name"] = mod_name
-                info["qualified_name"] = inspect.unwrap(_dynamic_name).__qualname__
+                info["qualified_name"] = unwrapped.__qualname__
                 info["fullns"] = ".".join([info["module_name"], info["qualified_name"]])
                 info["doc_string"] = inspect.getdoc(_dynamic_name)
                 if info["module_name"] == "numpy":
-                    if getattr(inspect.unwrap(_dynamic_name), "__globals__", None):
-                        info["module_name"] = getattr(
-                            inspect.unwrap(_dynamic_name), "__globals__", None
-                        )["__name__"]
+                    if getattr(unwrapped, "__globals__", None):
+                        info["module_name"] = getattr(unwrapped, "__globals__", None)[
+                            "__name__"
+                        ]
                     info["fullns"] = ".".join(
                         [info["module_name"], info["qualified_name"]]
                     )
-            elif getattr(inspect.unwrap(_dynamic_name), "__module__", None):
-                info["module_name"] = inspect.unwrap(_dynamic_name).__module__
-                info["qualified_name"] = inspect.unwrap(_dynamic_name).__qualname__
+            elif getattr(unwrapped, "__module__", None):
+                info["module_name"] = unwrapped.__module__
+                info["qualified_name"] = unwrapped.__qualname__
                 info["fullns"] = ".".join([info["module_name"], info["qualified_name"]])
                 info["doc_string"] = inspect.getdoc(_dynamic_name)
                 if info["module_name"] == "numpy":
-                    if getattr(inspect.unwrap(_dynamic_name), "__globals__", None):
-                        info["module_name"] = getattr(
-                            inspect.unwrap(_dynamic_name), "__globals__", None
-                        )["__name__"]
+                    if getattr(unwrapped, "__globals__", None):
+                        info["module_name"] = getattr(unwrapped, "__globals__", None)[
+                            "__name__"
+                        ]
                     info["fullns"] = ".".join(
                         [info["module_name"], info["qualified_name"]]
                     )
 
-            elif getattr(inspect.unwrap(_dynamic_name), "__objclass__", None):
-                info["module_name"] = inspect.unwrap(
-                    _dynamic_name
-                ).__objclass__.__module__
-                info["qualified_name"] = inspect.unwrap(_dynamic_name).__qualname__
+            elif getattr(unwrapped, "__objclass__", None):
+                info["module_name"] = unwrapped.__objclass__.__module__
+                info["qualified_name"] = unwrapped.__qualname__
                 info["fullns"] = ".".join([info["module_name"], info["qualified_name"]])
                 info["doc_string"] = inspect.getdoc(_dynamic_name)
-            elif getattr(inspect.unwrap(_dynamic_name), "__package__", None):
-                info["module_name"] = inspect.unwrap(_dynamic_name).__name__
-                info["qualified_name"] = inspect.unwrap(_dynamic_name).__name__
-                info["fullns"] = inspect.unwrap(_dynamic_name).__name__
+            elif getattr(unwrapped, "__package__", None):
+                info["module_name"] = unwrapped.__name__
+                info["qualified_name"] = unwrapped.__name__
+                info["fullns"] = unwrapped.__name__
                 info["doc_string"] = inspect.getdoc(_dynamic_name)
-            # elif isinstance(inspect.unwrap(_dynamic_name), property):
+            # elif isinstance(unwrapped, property):
             #     info["is_property"] = True
             else:
-                info["module_name"] = inspect.unwrap(_dynamic_name).__module__
-                info["qualified_name"] = inspect.unwrap(_dynamic_name).__qualname__
+                info["module_name"] = unwrapped.__module__
+                info["qualified_name"] = unwrapped.__qualname__
                 info["doc_string"] = inspect.getdoc(_dynamic_name)
 
                 full_name = get_qualname_from_text(_dynamic_name)
@@ -762,12 +761,13 @@ class TypeStubManager:
             _pyi_match = self.pytd_cache[module_name].longest_prefix(
                 inspect_info["module_name"]
             )
+            _full_ns = inspect_info["fullns"]
         except Exception as e:
             # Check stdlib
             _pyi_match = self.pytd_cache["stdlib"].longest_prefix(
                 f"stdlib.{inspect_info['module_name']}"
             )
-            inspect_info["fullns"] = f"stdlib.{inspect_info['fullns']}"
+            _full_ns = f"stdlib.{inspect_info['fullns']}"
 
         if "." in inspect_info["qualified_name"]:
             # _pyi_match = self.pytd_cache[module_name].longest_prefix(
@@ -776,11 +776,11 @@ class TypeStubManager:
             combos = []
             difference = [
                 item
-                for item in inspect_info["fullns"].split(".")
+                for item in _full_ns.split(".")
                 if item not in _pyi_match.key.split(".")
             ][:-1]
             if difference:
-                split_func_name = inspect_info["fullns"].split(".")[-1]
+                split_func_name = _full_ns.split(".")[-1]
                 _suffix = []
                 for i in range(1, len(difference) + 1):
                     _suffix.append(".".join(difference[:i]))
@@ -800,7 +800,7 @@ class TypeStubManager:
 
             # print()
         else:
-            _res = _pyi_match.value.Lookup(inspect_info["fullns"])
+            _res = _pyi_match.value.Lookup(_full_ns)
             return _res
 
     def lookup_return_type_hg(self, func_name, module_imports, **kwargs):

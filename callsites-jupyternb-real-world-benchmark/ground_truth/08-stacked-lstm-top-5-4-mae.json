@@ -34,28 +34,28 @@
         "numpy.lib.shape_base.expand_dims"
     ],
     "16": [
-        "keras.layers.core.dropout.Dropout",
-        "keras.engine.training.Model.compile",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.recurrent_v2.LSTM",
-        "keras.engine.training.Model.summary",
-        "keras.layers.core.dense.Dense",
-        "keras.engine.sequential.Sequential"
+        "keras.src.layers.regularization.dropout.Dropout",
+        "keras.src.engine.training.Model.compile",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.rnn.lstm.LSTM",
+        "keras.src.engine.training.Model.summary",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.engine.sequential.Sequential"
     ],
     "19": [
-        "keras.layers.core.dropout.Dropout",
-        "keras.engine.training.Model.compile",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.recurrent_v2.LSTM",
-        "keras.engine.training.Model.summary",
-        "keras.layers.core.dense.Dense",
-        "keras.engine.sequential.Sequential"
+        "keras.src.layers.regularization.dropout.Dropout",
+        "keras.src.engine.training.Model.compile",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.rnn.lstm.LSTM",
+        "keras.src.engine.training.Model.summary",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.engine.sequential.Sequential"
     ],
     "20": [
-        "keras.engine.training.Model.fit"
+        "keras.src.engine.training.Model.fit"
     ],
     "21": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "numpy.ndarray.clip",
         "numpy.ndarray.ravel",
         "pandas.core.frame.DataFrame",

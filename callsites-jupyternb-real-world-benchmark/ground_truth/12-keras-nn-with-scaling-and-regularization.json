@@ -19,28 +19,28 @@
     ],
     "9": [
         "tensorflow.python.ops.variables.local_variables_initializer",
-        "keras.metrics.AUC",
-        "keras.backend.get_session"
+        "keras.src.metrics.confusion_metrics.AUC",
+        "keras.src.backend.get_session"
     ],
     "12": [
-        "keras.engine.sequential.Sequential",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.core.dense.Dense",
-        "keras.layers.core.dropout.Dropout",
-        "keras.engine.training.Model.compile",
-        "keras.engine.training.Model.summary",
-        "keras.constraints.MaxNorm",
-        "keras.regularizers.L2"
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.layers.regularization.dropout.Dropout",
+        "keras.src.engine.training.Model.compile",
+        "keras.src.engine.training.Model.summary",
+        "keras.src.constraints.MaxNorm",
+        "keras.src.regularizers.L2"
     ],
     "13": [
-        "keras.engine.training.Model.fit"
+        "keras.src.engine.training.Model.fit"
     ],
     "14": [
         "sklearn.metrics._ranking.roc_auc_score",
-        "keras.engine.training.Model.predict"
+        "keras.src.engine.training.Model.predict"
     ],
     "15": [
-        "keras.engine.training.Model.predict"
+        "keras.src.engine.training.Model.predict"
     ],
     "17": [
         "pandas.core.frame.DataFrame"

@@ -64,7 +64,7 @@
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum"
     ],
     "23": [
-        "pandas.core.series.Series.isin"        
+        "pandas.core.series.Series.isin"
     ],
     "25": [
         "pandas.core.frame.DataFrame.isnull",
@@ -117,25 +117,25 @@
         "sklearn.base.TransformerMixin.fit_transform"
     ],
     "44": [
-        "keras.engine.sequential.Sequential",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.core.dense.Dense",
-        "keras.engine.training.Model.summary"
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.engine.training.Model.summary"
     ],
     "45": [
-        "keras.engine.training.Model.compile"
+        "keras.src.engine.training.Model.compile"
     ],
     "46": [
-        "keras.engine.training.Model.fit"
+        "keras.src.engine.training.Model.fit"
     ],
     "47": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "sklearn.metrics._regression.mean_squared_error",
         "<builtin>.print",
         "numpy.sqrt"
     ],
     "48": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "numpy.ndarray.flatten"
     ],
     "49": [

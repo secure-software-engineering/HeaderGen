@@ -5,7 +5,7 @@ export REALWORLD_BENCH_PATH ?= $(ROOT_PATH)/callsites-jupyternb-real-world-bench
 export REALWORLD_SUITE_DIR ?= $(ROOT_PATH)/callsites-jupyternb-real-world-benchmark
 export RESULTS_PATH ?= $(ROOT_PATH)/headergen_output
 
-all: prepare clean microbench realworldbench
+all: prepare microbench realworldbench
 
 prepare:
 	@echo "#########################################"

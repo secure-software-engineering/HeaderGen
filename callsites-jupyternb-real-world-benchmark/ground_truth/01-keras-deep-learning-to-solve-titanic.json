@@ -49,15 +49,15 @@
         "matplotlib.pyplot.title"
     ],
     "10": [
-        "keras.engine.sequential.Sequential",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.core.dense.Dense",
-        "keras.layers.normalization.batch_normalization.BatchNormalization",
-        "keras.layers.core.dropout.Dropout",
-        "keras.optimizer_v2.adam.Adam",
-        "keras.engine.training.Model.compile",
-        "keras.engine.training.Model.fit",
-        "keras.engine.training.Model.evaluate",
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.layers.normalization.batch_normalization.BatchNormalization",
+        "keras.src.layers.regularization.dropout.Dropout",
+        "keras.optimizers.Adam",
+        "keras.src.engine.training.Model.compile",
+        "keras.src.engine.training.Model.fit",
+        "keras.src.engine.training.Model.evaluate",
         "<builtin>.print"
     ],
     "11": [
@@ -68,7 +68,7 @@
         "matplotlib.pyplot.show"
     ],
     "12": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "numpy.ndarray.astype",
         "numpy.ndarray.reshape",
         "sklearn.metrics._classification.confusion_matrix",
@@ -98,7 +98,7 @@
         "seaborn.categorical.countplot"
     ],
     "16": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "numpy.ndarray.astype",
         "numpy.ndarray.reshape",
         "pandas.core.frame.DataFrame",

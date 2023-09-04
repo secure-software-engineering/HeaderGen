@@ -33,44 +33,44 @@
         "numpy.exp",
         "15-nn-embedding.CyclicLR:8._reset:8",
         "15-nn-embedding.CyclicLR:8.clr:8",
-        "keras.backend.set_value",
+        "keras.src.backend.set_value",
         "<builtin>.super",
-        "keras.backend.get_value"        
+        "keras.src.backend.get_value"
     ],
     "11": [
-        "keras.backend.sigmoid",
+        "keras.src.backend.sigmoid",
         "tensorflow.python.ops.math_ops.reduce_sum",
         "tensorflow.python.ops.gen_math_ops.square",
         "tensorflow.python.ops.math_ops.subtract",
         "tensorflow.python.ops.math_ops.divide",
-        "keras.backend.tf.log"
+        "keras.src.backend.tf.log"
     ],
     "12": [
-        "keras.engine.input_layer.Input",
-        "keras.layers.noise.GaussianNoise",
-        "keras.layers.core.dense.Dense",
-        "keras.layers.normalization.batch_normalization.BatchNormalization",
-        "keras.layers.core.activation.Activation",
-        "keras.engine.training.Model"
+        "keras.src.engine.input_layer.Input",
+        "keras.src.layers.regularization.gaussian_noise.GaussianNoise",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.layers.normalization.batch_normalization.BatchNormalization",
+        "keras.src.layers.core.activation.Activation",
+        "keras.src.engine.training.Model"
     ],
     "13": [
         "15-nn-embedding.get_model:12",
-        "keras.engine.input_layer.Input",
-        "keras.layers.noise.GaussianNoise",
-        "keras.layers.core.dense.Dense",
-        "keras.layers.normalization.batch_normalization.BatchNormalization",
-        "keras.layers.core.activation.Activation",
-        "keras.engine.training.Model"
+        "keras.src.engine.input_layer.Input",
+        "keras.src.layers.regularization.gaussian_noise.GaussianNoise",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.layers.normalization.batch_normalization.BatchNormalization",
+        "keras.src.layers.core.activation.Activation",
+        "keras.src.engine.training.Model"
     ],
     "14": [
-        "keras.engine.input_layer.Input",
-        "keras.layers.merge.Concatenate",
-        "keras.engine.training.Model",
-        "keras.engine.training.Model.compile",
-        "keras.optimizer_v2.nadam.Nadam"
+        "keras.src.engine.input_layer.Input",
+        "keras.src.layers.merging.concatenate.concatenate",
+        "keras.src.engine.training.Model",
+        "keras.src.engine.training.Model.compile",
+        "keras.optimizers.Nadam"
     ],
     "16": [
-        "keras.engine.training.Model.fit_generator",
+        "keras.src.engine.training.Model.fit_generator",
         "15-nn-embedding.DataGenerator:7.__init__:7",
         "15-nn-embedding.CyclicLR:8.__init__:8",
         "<builtin>.range",
@@ -78,7 +78,7 @@
         "<builtin>.len"
     ],
     "17": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "numpy.lib.npyio.savez"
     ],
     "20": [

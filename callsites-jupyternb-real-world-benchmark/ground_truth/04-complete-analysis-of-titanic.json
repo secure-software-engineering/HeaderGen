@@ -104,16 +104,16 @@
         "sklearn.preprocessing._data.StandardScaler.transform"
     ],
     "38": [
-        "keras.engine.sequential.Sequential",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.core.dense.Dense",
-        "keras.engine.training.Model.compile"
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.engine.training.Model.compile"
     ],
     "39": [
-        "keras.engine.training.Model.fit"
+        "keras.src.engine.training.Model.fit"
     ],
     "40": [
-        "keras.engine.training.Model.predict",
+        "keras.src.engine.training.Model.predict",
         "numpy.ndarray.astype",
         "numpy.asarray"
     ],

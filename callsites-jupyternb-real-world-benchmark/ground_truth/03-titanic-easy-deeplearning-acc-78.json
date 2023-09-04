@@ -10,13 +10,13 @@
         "pandas.core.tools.numeric.to_numeric"
     ],
     "2": [
-        "keras.callbacks.Callback.__init__"
+        "keras.src.callbacks.Callback.__init__"
     ],
     "3": [
-        "keras.engine.sequential.Sequential",
-        "keras.layers.core.dense.Dense",
-        "keras.engine.training.Model.fit",
-        "keras.engine.training.Model.compile"
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.engine.training.Model.fit",
+        "keras.src.engine.training.Model.compile"
     ],
     "4": [
         "pandas.io.parsers.readers.read_csv",
@@ -32,4 +32,3 @@
         "pandas.core.generic.NDFrame.to_csv"
     ]
 }
-

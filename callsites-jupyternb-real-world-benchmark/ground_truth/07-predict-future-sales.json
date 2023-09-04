@@ -74,7 +74,7 @@
         "statsmodels.base.model.Model.fit"
     ],
     "15": [
-        "pandas.core.frame.DataFrame.drop"  
+        "pandas.core.frame.DataFrame.drop"
     ],
     "17": [
         "sklearn.preprocessing._data.MinMaxScaler",
@@ -86,15 +86,15 @@
         "numpy.ndarray.reshape"
     ],
     "19": [
-        "keras.engine.sequential.Sequential",
-        "keras.layers.recurrent_v2.LSTM",
-        "keras.engine.sequential.Sequential.add",
-        "keras.layers.core.dense.Dense",
-        "keras.engine.training.Model.compile",
-        "keras.engine.training.Model.fit"
+        "keras.src.engine.sequential.Sequential",
+        "keras.src.layers.rnn.lstm.LSTM",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.core.dense.Dense",
+        "keras.src.engine.training.Model.compile",
+        "keras.src.engine.training.Model.fit"
     ],
     "20": [
-        "keras.engine.training.Model.predict"
+        "keras.src.engine.training.Model.predict"
     ],
     "21": [
         "numpy.ndarray.reshape",
