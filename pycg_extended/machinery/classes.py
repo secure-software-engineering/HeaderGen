@@ -46,7 +46,8 @@ class ClassNode:
         if isinstance(parent, str):
             self.mro.append(parent)
         elif isinstance(parent, list):
-            for item in parent:
+            _parent = parent.copy()
+            for item in _parent:
                 self.mro.append(item)
         self.fix_mro()
 
