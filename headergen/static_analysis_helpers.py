@@ -330,6 +330,43 @@ def get_pycg_analysis(py_ntbk_path):
     if str(py_ntbk_path) in cg.def_manager.usedefcache:
         locals_defs = cg.def_manager.usedefcache[str(py_ntbk_path)]["locals_defs"]
 
+    def get_type_of_list_element(id):
+        id_type = []
+        id_defs = cg.def_manager.transitive_closure().get(id.fullns)
+        if id_defs:
+            # Prepare type_fact dict
+            for _def in id_defs:
+                if _def in cg.def_manager.defs:
+                    if cg.def_manager.defs[_def].def_type in [
+                        "EXTERNALDEF",
+                        "CLASSDEF",
+                    ]:
+                        type_ns = utils.get_clear_all_lineno(
+                            cg.def_manager.defs[_def].fullns
+                        )
+                        if type_ns.startswith(f"{main_file_name}."):
+                            type_ns = type_ns.replace(f"{main_file_name}.", "")
+                        id_type.append(type_ns)
+
+                    elif cg.def_manager.defs[_def].def_type == "FUNCTIONDEF":
+                        id_type.append("callable")
+
+                    elif cg.def_manager.defs[_def].get_lit_pointer().type:
+                        for lit_type in (
+                            cg.def_manager.defs[_def].get_lit_pointer().type
+                        ):
+                            id_type.append(lit_type)
+
+                    elif cg.def_manager.defs[_def].def_type == "NAMEDEF":
+                        if dict_num := utils.is_dict(cg.def_manager.defs[_def].fullns):
+                            id_type.append("dict")
+
+                            # TODO: Add all dict keys to type list
+                        elif utils.is_list(cg.def_manager.defs[_def].fullns):
+                            id_type.append("list")
+
+        return id_type
+
     def get_type_of_id(id):
         # First find scope
         id_name = None
@@ -488,6 +525,24 @@ def get_pycg_analysis(py_ntbk_path):
                             elif utils.is_list(cg.def_manager.defs[_def].fullns):
                                 _type_fact["type"].append("list")
                                 locals_types[local_name].append("list")
+                                all_lists = [
+                                    cg.def_manager.defs[x]
+                                    for x in cg.def_manager.defs
+                                    if x.startswith(
+                                        f"{cg.def_manager.defs[_def].fullns}.<int"
+                                    )
+                                ]
+                                for _list in all_lists:
+                                    _list_type = get_type_of_list_element(_list)
+                                    if _list_type:
+                                        l_type_fact = _type_fact.copy()
+                                        l_type_fact["type"] = _list_type
+                                        l_type_fact[
+                                            "variable"
+                                        ] = f"{_local_fact['id']}[{utils.get_list_int(_list.fullns)}]"
+
+                                        if l_type_fact["type"]:
+                                            types_formatted.append(l_type_fact)
 
                             # else:
                             #     _type_fact["type"].append("any")

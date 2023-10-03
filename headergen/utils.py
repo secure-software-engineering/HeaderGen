@@ -106,6 +106,13 @@ def replace_dict_int_keys(dict_key):
     return re.sub("<int([0-9].*)>$", r"\1", dict_key)
 
 
+def get_list_int(s):
+    match = re.search(r"(\d+)[^0-9]*$", s)
+    if match:
+        return int(match.group(1))
+    return None
+
+
 def ends_with_dict(name):
     match = re.search(r".*<dict([0-9]+)>$", name)
 

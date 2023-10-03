@@ -250,6 +250,19 @@ class ProcessingBase(ast.NodeVisitor):
                 a = True
 
         if isinstance(node, ast.Name):
+            if self.is_builtin(node.id):
+                _decoded = []
+                _obj_sensitive_name = f"{node.id}<{node.lineno}>"
+                obj_defi = self.def_manager.get(_obj_sensitive_name)
+                if not obj_defi:
+                    obj_defi = self.def_manager.create(
+                        _obj_sensitive_name,
+                        utils.constants.EXT_DEF,
+                        "builtins",
+                    )
+                _decoded.append(obj_defi)
+                return _decoded
+
             # NOTE: Flow Sensitive
             # if _call not in _call_sites_lineno[_line]:
             if node.lineno in self.usedefprocessor.line_uses:

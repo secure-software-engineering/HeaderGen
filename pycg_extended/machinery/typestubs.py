@@ -45,7 +45,7 @@ stdlib_stub_dirs = {
 }
 
 stdlib_stub_dirs = stdlib_stub_dirs | {
-    "stdlib": os.path.join(DATA_SCIECE_STUBS_DIR, "typeshed", "stdlib")
+    "stdlib": os.path.join(DATA_SCIECE_STUBS_DIR, "stdlib")
 }
 
 ML_MODULES = ML_MODULES | type_stub_dirs | stdlib_stub_dirs
@@ -74,7 +74,7 @@ def get_relative_module_name(filepath, module_name, module_path):
     return ".".join(reversed(module_string))
 
 
-def parse_pyi_file(filename, module_name, version=(3, 6)):
+def parse_pyi_file(filename, module_name, version=(3, 10)):
     with open(filename, "r") as f:
         src = f.read()
 
@@ -155,18 +155,28 @@ class TypeStubManager:
     def get_inspect_info(self, mod_name, func_name):
         info = {}
         lib_name = func_name.split(".")[0]
+        is_builtin = False
 
-        if not mod_name in self.inspect_module_imports:
+        if not mod_name in (self.inspect_module_imports, "builtins"):
             return
+
+        if mod_name == "builtins":
+            is_builtin = True
 
         func_name = check_alias(func_name)
         mod_name = func_name.split(".")[0]
         regex = f"^({mod_name}?)"
 
         try:
-            _dynamic_name = eval(
-                re.sub(regex, f"self.inspect_module_imports['{mod_name}']", func_name)
-            )
+            if is_builtin:
+                _dynamic_name = eval(func_name)
+            else:
+                _dynamic_name = eval(
+                    re.sub(
+                        regex, f"self.inspect_module_imports['{mod_name}']", func_name
+                    )
+                )
+
             unwrapped = inspect.unwrap(_dynamic_name)
 
         except Exception as e:
@@ -803,6 +813,9 @@ class TypeStubManager:
             _res = _pyi_match.value.Lookup(_full_ns)
             return _res
 
+    def is_builtin(self, name):
+        return name in __builtins__
+
     def lookup_return_type_hg(self, func_name, module_imports, **kwargs):
         def get_pandas_namedtypes(named_type):
             _pyi = self.pytd_cache["pandas"].longest_prefix("pandas._typing")
@@ -843,33 +856,46 @@ class TypeStubManager:
 
         _res = None
         inspect_info = None
-        for _combo in combos:
+
+        if self.is_builtin(func_name):
+            inspect_info = self.get_inspect_info("builtins", func_name)
             try:
-                if _combo not in self.inspect_module_imports:
-                    # HACK: find how to handle importing main lib
-                    # self.load_library_into_memory(_combo)
-                    continue
+                _res = (
+                    self.pytd_cache["stdlib"]
+                    .longest_prefix(f"stdlib.builtins.{func_name}")
+                    .value.Lookup(f"stdlib.builtins.{func_name}")
+                )
+            except:
+                pass
 
-                inspect_info = self.get_inspect_info(_combo, func_name)
-                # if "count" in inspect_info["fullns"]:
-                #     print()
+        else:
+            for _combo in combos:
                 try:
-                    _pyi_match = self.pytd_cache[module_name].longest_prefix(
-                        inspect_info["module_name"]
-                    )
-                except Exception as e:
-                    # Check stdlib
-                    _pyi_match = self.pytd_cache["stdlib"].longest_prefix(
-                        f"stdlib.{inspect_info['module_name']}"
-                    )
+                    if _combo not in self.inspect_module_imports:
+                        # HACK: find how to handle importing main lib
+                        # self.load_library_into_memory(_combo)
+                        continue
 
-                _res = self.recursive_pytd_lookup(module_name, inspect_info)
-                if not _res:
+                    inspect_info = self.get_inspect_info(_combo, func_name)
+                    # if "count" in inspect_info["fullns"]:
+                    #     print()
+                    try:
+                        _pyi_match = self.pytd_cache[module_name].longest_prefix(
+                            inspect_info["module_name"]
+                        )
+                    except Exception as e:
+                        # Check stdlib
+                        _pyi_match = self.pytd_cache["stdlib"].longest_prefix(
+                            f"stdlib.{inspect_info['module_name']}"
+                        )
+
+                    _res = self.recursive_pytd_lookup(module_name, inspect_info)
+                    if not _res:
+                        continue
+                    # _res = _pyi_match.value.Lookup(inspect_info['fullns'])
+                    break
+                except Exception as e:
                     continue
-                # _res = _pyi_match.value.Lookup(inspect_info['fullns'])
-                break
-            except Exception as e:
-                continue
 
         if _res:
             if isinstance(_res, pytd.Function):
@@ -886,7 +912,14 @@ class TypeStubManager:
                                     _return_types.append(_ret_type.name)
                         else:
                             if not _def.return_type.name == "NoneType":
-                                _return_types.append(_def.return_type.name)
+                                if _def.return_type.name.startswith("stdlib.builtins."):
+                                    _return_types.append(
+                                        _def.return_type.name.split("stdlib.builtins.")[
+                                            1
+                                        ]
+                                    )
+                                else:
+                                    _return_types.append(_def.return_type.name)
                     elif isinstance(_def.return_type, pytd.UnionType):
                         for _ret_type in _def.return_type.type_list:
                             _return_types.append(_ret_type.name)
