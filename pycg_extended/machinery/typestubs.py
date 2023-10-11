@@ -157,7 +157,7 @@ class TypeStubManager:
         lib_name = func_name.split(".")[0]
         is_builtin = False
 
-        if not mod_name in (self.inspect_module_imports, "builtins"):
+        if not (mod_name in self.inspect_module_imports or mod_name == "builtins"):
             return
 
         if mod_name == "builtins":
