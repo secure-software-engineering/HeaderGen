@@ -6,6 +6,7 @@
         "numpy.core.numeric.full",
         "<builtin>.len",
         "<builtin>.range",
+        "<list>.append",
         "pandas.core.frame.DataFrame.reset_index",
         "pandas.core.generic.NDFrame.copy",
         "pandas.core.frame.DataFrame.pop",

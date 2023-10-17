@@ -31,6 +31,9 @@
     "12": [
         "pandas.core.generic.NDFrame.head"
     ],
+    "14": [
+        "<list>.append"
+    ],
     "15": [
         "<builtin>.print"
     ],
@@ -53,6 +56,9 @@
     ],
     "30": [
         "pandas.core.frame.DataFrame.drop"
+    ],
+    "31": [
+        "<list>.append"
     ],
     "33": [
         "pandas.core.series.Series.unique"
@@ -102,6 +108,9 @@
     "52": [
         "pandas.io.parsers.readers.read_csv"
     ],
+    "53": [
+        "<list>.append"
+    ],
     "55": [
         "pandas.core.generic.NDFrame.head"
     ],
@@ -118,6 +127,7 @@
         "pandas.core.generic.NDFrame.head"
     ],
     "62": [
+        "<list>.append",
         "<builtin>.round"
     ],
     "64": [

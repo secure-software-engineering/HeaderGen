@@ -21,7 +21,8 @@
         "<builtin>.range",
         "<builtin>.int",
         "<builtin>.list",
-        "<builtin>.len"
+        "<builtin>.len",
+        "<list>.append"
     ],
     "8": [
         "15-nn-embedding.CyclicLR:8.__init__:8.<lambda1>:8",
@@ -64,7 +65,7 @@
     ],
     "14": [
         "keras.src.engine.input_layer.Input",
-        "keras.src.layers.merging.concatenate.concatenate",
+        "keras.src.layers.merging.concatenate.Concatenate",
         "keras.src.engine.training.Model",
         "keras.src.engine.training.Model.compile",
         "keras.optimizers.Nadam"
@@ -73,9 +74,11 @@
         "keras.src.engine.training.Model.fit_generator",
         "15-nn-embedding.DataGenerator:7.__init__:7",
         "15-nn-embedding.CyclicLR:8.__init__:8",
+        "15-nn-embedding.CyclicLR:8._reset:8",
         "<builtin>.range",
         "<builtin>.list",
-        "<builtin>.len"
+        "<builtin>.len",
+        "<builtin>.super"
     ],
     "17": [
         "keras.src.engine.training.Model.predict",

@@ -18,14 +18,14 @@
 # specific language governing permissions and limitations
 # under the License.
 #
-import os
 import ast
+import os
 
 from pycg_extended import utils
-from pycg_extended.processing.base import ProcessingBase
 from pycg_extended.machinery.callgraph import CallGraph
 from pycg_extended.machinery.callsites import CallSites
 from pycg_extended.machinery.definitions import Definition
+from pycg_extended.processing.base import ProcessingBase
 
 
 class CallSiteProcessor(ProcessingBase):
@@ -194,6 +194,11 @@ class CallSiteProcessor(ProcessingBase):
                     ext_modname = name.split(".")[0]
                     create_ext_edge(name, ext_modname)
                     # Investigate: should add edge to external here?
+            elif isinstance(node.func, ast.Attribute):
+                for name in self.get_builtin_type_method_calls(node.func):
+                    ext_modname = name.split(".")[0]
+                    create_ext_edge(name, utils.constants.BUILTIN_NAME)
+
             elif getattr(node.func, "id", None) and self.is_builtin(node.func.id):
                 name = utils.join_ns(utils.constants.BUILTIN_NAME, node.func.id)
                 create_ext_edge(name, utils.constants.BUILTIN_NAME)
@@ -322,3 +327,35 @@ class CallSiteProcessor(ProcessingBase):
 
     def is_builtin(self, name):
         return name in __builtins__
+
+    def get_builtin_type_method_calls(self, node):
+        name = ""
+        while isinstance(node, ast.Attribute):
+            if not name:
+                name = node.attr
+            else:
+                name = node.attr + "." + name
+            node = node.value
+
+        names = []
+        if getattr(node, "id", None) == None:
+            return names
+
+        if node.lineno in self.usedefprocessor.line_uses:
+            for _use in self.usedefprocessor.line_uses[node.lineno]:
+                if utils.get_ns_without_last_lineno(_use) == node.id:
+                    defi = self.scope_manager.get_def(self.current_ns, _use)
+                    if defi and self.closured.get(defi.get_ns()):
+                        id_defs = self.def_manager.transitive_closure().get(defi.fullns)
+                        if id_defs:
+                            # Prepare type_fact dict
+                            for _def in id_defs:
+                                if utils.is_dict(_def):
+                                    names.append("<dict>" + "." + name)
+                                elif utils.is_list(_def):
+                                    names.append("<list>" + "." + name)
+
+        return names
+
+        # for id in self.closured.get(defi.get_ns()):
+        #     names.append(id + "." + name)

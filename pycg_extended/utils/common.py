@@ -20,8 +20,9 @@
 #
 import os
 import re
-import jupytext
 from pathlib import Path
+
+import jupytext
 
 
 def get_lambda_name(counter):
@@ -200,3 +201,35 @@ def get_cell_numbers(call_sites, filename, module_name):
         cell_call_sites[_cell_id] = cell_call_sites[_cell_id].union(cell_calls)
 
     return cell_call_sites
+
+
+def is_dict(name, specific_dict=None):
+    if specific_dict:
+        pattern = f"<dict{specific_dict}>\.(.*)"
+        match = re.search(pattern, name)
+        if match is not None:
+            return True
+    else:
+        match = re.search(r".*<dict([0-9]+)>$", name)
+
+        if match is not None:
+            number = match.group(1)
+            return number
+
+    return False
+
+
+def is_list(name, specific_list=None):
+    if specific_list:
+        pattern = f"<list{specific_list}>\.(.*)"
+        match = re.search(pattern, name)
+        if match is not None:
+            return True
+    else:
+        match = re.search(r".*<list([0-9]+)>$", name)
+
+        if match is not None:
+            number = match.group(1)
+            return number
+
+    return False

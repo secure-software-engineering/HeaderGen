@@ -6,5 +6,8 @@
     "keras.optimizers.RMSprop": "keras.optimizer_v2.rmsprop.RMSprop",
     "keras.engine.sequential.Sequential.predict_proba": "keras.engine.sequential.Sequential.predict",
     "keras.engine.training.Model.predict_proba": "keras.engine.training.Model.predict",
-    "keras.layers.normalization.BatchNormalization": "keras.layers.normalization.batch_normalization.BatchNormalization"
+    "keras.src.engine.training.Model.predict_proba": "keras.src.engine.training.Model.predict",
+    "keras.src.engine.sequential.Sequential.predict_proba": "keras.src.engine.sequential.Sequential.predict",
+    "keras.layers.normalization.BatchNormalization": "keras.layers.normalization.batch_normalization.BatchNormalization",
+    "keras.layers.core.Dense": "keras.layers.Dense"
 }

@@ -101,6 +101,7 @@
         "<builtin>.range",
         "sklearn.preprocessing._data.MinMaxScaler.inverse_transform",
         "numpy.core._multiarray_umath.concatenate",
+        "<list>.append",
         "<builtin>.len",
         "<builtin>.print",
         "numpy.array"
@@ -110,7 +111,8 @@
         "<builtin>.range",
         "pandas.core.frame.DataFrame",
         "<builtin>.list",
-        "<builtin>.len"
+        "<builtin>.len",
+        "<list>.append"
     ],
     "23": [
         "pandas.core.generic.NDFrame.to_csv"

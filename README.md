@@ -1,6 +1,6 @@
 # HeaderGen
 
-![HeaderGen](headergen.jpg)
+![HeaderGen](headergen.png)
 
 HeaderGen is a tool-based approach to enhance the comprehension and navigation of undocumented Python based Jupyter notebooks by automatically creating a narrative structure in the notebook.
 
