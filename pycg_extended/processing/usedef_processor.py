@@ -112,6 +112,8 @@ class UseDefProcessor(gast.NodeVisitor):
                     _id = _var.node.name + ":" + str(_var.node.lineno)
                     _visit_child_locals(_var.node)
                 elif isinstance(_var.node, gast.Name):
+                    if not hasattr(_var.node, "lineno"):
+                        continue
                     _id = _var.node.id + ":" + str(_var.node.lineno)
                     if isinstance(_var.node.ctx, gast.Param):
                         _node_type = "param"

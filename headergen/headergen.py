@@ -144,6 +144,8 @@ def add_markdown_cell_to_source(
 
     new_mapping = find_block_numbers(py_ntbk)
     for _block_key, _block_value in block_mapping.items():
+        if "dl_pipeline_tag" not in block_mapping[_block_key]:
+            continue
         new_mapping[_block_key]["dl_pipeline_tag"] = block_mapping[_block_key][
             "dl_pipeline_tag"
         ]
@@ -220,6 +222,8 @@ def add_phase_info_to_source(
 
     phase_cell_mapping = {k: [] for k in selected_phases}
     for _block_key, _block_value in block_mapping.items():
+        if "dl_pipeline_tag" not in block_mapping[_block_key]:
+            continue
         if GROUP_PHASES:
             phases = [
                 get_high_level_phase(_p)
