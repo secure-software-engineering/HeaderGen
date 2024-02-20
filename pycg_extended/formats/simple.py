@@ -18,6 +18,8 @@
 # specific language governing permissions and limitations
 # under the License.
 #
+from pycg_extended import utils
+
 from .base import BaseFormatter
 
 
@@ -27,6 +29,7 @@ class Simple(BaseFormatter):
 
     def generate(self):
         output = self.cg_generator.output()
+        output = utils.remove_obj_lineno(output)
         output_cg = {}
         for node in output:
             output_cg[node] = list(output[node])

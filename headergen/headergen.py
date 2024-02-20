@@ -77,6 +77,48 @@ def find_block_numbers(py_source):
     return mapping
 
 
+def find_code_block_numbers(py_source):
+    py_source_split = py_source.split("\n")
+    _start, _end = None, None
+    lineno = 1
+    block = 1
+    code_block = 1
+    mapping = {}
+
+    _current_md = False
+    for _line in py_source_split:
+        if _line.startswith("# %%"):
+            if _start is None:
+                _start = lineno
+                if _line.startswith("# %% [markdown]"):
+                    _current_md = True
+                else:
+                    _current_md = False
+            else:
+                _end = lineno
+                if _end == (_start + 1):
+                    _start = lineno
+                    continue
+
+                if not _current_md:
+                    mapping[code_block] = block
+                    code_block += 1
+
+                block += 1
+
+                _start = _end
+                if _line.startswith("# %% [markdown]"):
+                    _current_md = True
+                else:
+                    _current_md = False
+
+        lineno += 1
+
+    if not _current_md:
+        mapping[code_block] = block
+    return mapping
+
+
 def get_block_of_lineno(lineno, block_mapping):
     for map_key, map_value in block_mapping.items():
         if map_value["start"] <= lineno <= map_value["end"]:
@@ -655,6 +697,7 @@ def start_headergen(nb_path, out_path=".", debug_mode=False, create_linted_file=
     # %%
     if Path(nb_path).suffix == ".ipynb":
         block_mapping, cell_callsites_mapping = get_cell_summaries(py_ntbk, hg_visitor)
+        code_block_mapping = find_code_block_numbers(py_ntbk)
 
         if create_linted_file:
             py_ntbk_linted, block_mapping_linted = py_ntbk, block_mapping
@@ -734,6 +777,13 @@ def start_headergen(nb_path, out_path=".", debug_mode=False, create_linted_file=
             # remove interm file
             Path(py_ntbk_path).unlink(missing_ok=True)
 
+        # Map block numbers to actual code blocks
+        new_code_block_mapping = {}
+        for block_no in block_mapping:
+            new_code_block_mapping[code_block_mapping[block_no]] = block_mapping[
+                block_no
+            ]
+
         return_info = {
             "out_file": "{}/{}-linted.ipynb".format(out_path, file_name),
             "analysis_info": analysis_info,
@@ -742,6 +792,7 @@ def start_headergen(nb_path, out_path=".", debug_mode=False, create_linted_file=
                 analysis_info["pycg_output"], str(nb_path), file_name
             ),
             "block_mapping": block_mapping_linted,
+            "code_block_mapping": new_code_block_mapping,
         }
 
     elif Path(nb_path).suffix == ".py":

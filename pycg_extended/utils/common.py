@@ -93,11 +93,21 @@ def remove_obj_lineno_cg(call_graph):
     output = {}
     for _cs_line, _cs_calls in call_graph.items():
         if _cs_line not in output:
-            output[re.sub(r"<\d+>$", "", _cs_line)] = set()
+            output[re.sub(r":\d+", "", _cs_line)] = set()
         for i in range(len(_cs_calls)):
-            output[re.sub(r"<\d+>$", "", _cs_line)].add(
-                re.sub(r"<\d+>$", "", _cs_calls[i])
-            )
+            output[re.sub(r":\d+", "", _cs_line)].add(re.sub(r":\d+", "", _cs_calls[i]))
+
+    return output
+
+
+def remove_all_lineno(call_graph):
+    pattern = re.compile(r":\d+")
+    output = {}
+    for _cs_line, _cs_calls in call_graph.items():
+        if _cs_line not in output:
+            output[pattern.sub("", _cs_line)] = set()
+        for i in range(len(_cs_calls)):
+            output[pattern.sub("", _cs_line)].add(pattern.sub("", _cs_calls[i]))
 
     return output
 
