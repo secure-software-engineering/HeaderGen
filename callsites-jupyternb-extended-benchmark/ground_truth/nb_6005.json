@@ -1,0 +1,104 @@
+{
+    "2": [
+        "<builtin>.open"
+    ],
+    "3": [
+        "<builtin>.open",
+        "<list>.append"
+    ],
+    "4": [
+        "<builtin>.len"
+    ],
+    "5": [
+        "<builtin>.len"
+    ],
+    "6": [
+        "<builtin>.len"
+    ],
+    "7": [
+        "sklearn.linear_model._logistic.LogisticRegression",
+        "sklearn.pipeline.make_pipeline",
+        "sklearn.feature_extraction.text.CountVectorizer"
+    ],
+    "8": [
+        "sklearn.cross_validation.cross_val_score",
+        "sklearn.cross_validation.StratifiedKFold"
+    ],
+    "9": [
+        "<builtin>.open",
+        "nb_6005.write_answer:2"
+    ],
+    "10": [
+        "sklearn.pipeline.make_pipeline",
+        "nb_6005.<list7>.fit",
+        "sklearn.linear_model._logistic.LogisticRegression",
+        "sklearn.feature_extraction.text.CountVectorizer",
+        "nb_6005.<list6>.fit"
+    ],
+    "12": [
+        "nb_6005.<list6>.predict",
+        "nb_6005.<list7>.predict"
+    ],
+    "13": [
+        "<builtin>.open",
+        "nb_6005.write_answer:2"
+    ],
+    "14": [
+        "sklearn.linear_model._logistic.LogisticRegression",
+        "sklearn.pipeline.make_pipeline",
+        "sklearn.feature_extraction.text.CountVectorizer"
+    ],
+    "15": [
+        "sklearn.cross_validation.cross_val_score",
+        "<builtin>.print",
+        "sklearn.cross_validation.StratifiedKFold"
+    ],
+    "16": [
+        "<builtin>.open",
+        "nb_6005.write_answer:2"
+    ],
+    "18": [
+        "sklearn.naive_bayes.MultinomialNB",
+        "sklearn.pipeline.make_pipeline",
+        "sklearn.feature_extraction.text.CountVectorizer"
+    ],
+    "19": [
+        "sklearn.cross_validation.cross_val_score",
+        "<builtin>.print",
+        "sklearn.cross_validation.StratifiedKFold"
+    ],
+    "20": [
+        "<builtin>.open",
+        "nb_6005.write_answer:2"
+    ],
+    "21": [
+        "sklearn.pipeline.make_pipeline",
+        "sklearn.linear_model._logistic.LogisticRegression",
+        "sklearn.cross_validation.StratifiedKFold",
+        "sklearn.cross_validation.cross_val_score",
+        "sklearn.feature_extraction.text.TfidfVectorizer"
+    ],
+    "22": [
+        "<builtin>.open",
+        "nb_6005.write_answer:2"
+    ],
+    "24": [
+        "sklearn.cross_validation.cross_val_score",
+        "sklearn.feature_extraction.text.CountVectorizer.fit_transform",
+        "sklearn.cross_validation.StratifiedKFold",
+        "sklearn.feature_extraction.text.CountVectorizer"
+    ],
+    "25": [
+        "nb_6005.get_score:24",
+        "sklearn.feature_extraction.text.CountVectorizer.fit_transform",
+        "sklearn.cross_validation.cross_val_score",
+        "sklearn.naive_bayes.MultinomialNB",
+        "<builtin>.print",
+        "sklearn.cross_validation.StratifiedKFold",
+        "sklearn.feature_extraction.text.CountVectorizer"
+    ],
+    "26": [
+        "<builtin>.open",
+        "nb_6005.write_answer:2"
+    ]
+}

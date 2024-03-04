@@ -1,0 +1,76 @@
+{
+    "2": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "3": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "4": [
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.mean"
+    ],
+    "5": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "6": [
+        "pandas.core.dtypes.missing.isna"
+    ],
+    "8": [
+        "pandas.core.reshape.merge.merge"
+    ],
+    "9": [
+        "<builtin>.list"
+    ],
+    "11": [
+        "pandas.core.series.Series",
+        "pandas.core.reshape.reshape.get_dummies",
+        "pandas.core.reshape.concat.concat"
+    ],
+    "12": [
+        "sklearn.preprocessing.Imputer"
+    ],
+    "13": [
+        "numpy.core._multiarray_umath.concatenate"
+    ],
+    "15": [
+        "sklearn.cross_validation.train_test_split"
+    ],
+    "18": [
+        "matplotlib.pyplot.hist",
+        "sklearn.linear_model._base.LinearRegression",
+        "numpy.core.fromnumeric.mean",
+        "matplotlib.pyplot.show",
+        "<builtin>.print"
+    ],
+    "19": [
+        "sklearn.base.TransformerMixin.fit_transform",
+        "sklearn.preprocessing._polynomial.PolynomialFeatures"
+    ],
+    "20": [
+        "sklearn.cross_validation.train_test_split"
+    ],
+    "21": [
+        "matplotlib.pyplot.show",
+        "<builtin>.print",
+        "matplotlib.pyplot.hist",
+        "sklearn.linear_model._base.LinearRegression",
+        "numpy.core.fromnumeric.mean"
+    ],
+    "22": [
+        "matplotlib.pyplot.hist",
+        "numpy.core.fromnumeric.mean",
+        "sklearn.cross_validation.train_test_split",
+        "matplotlib.pyplot.show",
+        "sklearn.linear_model._ridge.Ridge",
+        "<builtin>.print"
+    ],
+    "23": [
+        "<dict>.values",
+        "<builtin>.len",
+        "matplotlib.pyplot.bar",
+        "<dict>.keys",
+        "<builtin>.range",
+        "matplotlib.pyplot.show",
+        "matplotlib.pyplot.xticks"
+    ]
+}

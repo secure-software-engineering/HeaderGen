@@ -1,0 +1,92 @@
+{
+    "2": [
+        "<builtin>.len",
+        "<list>.append",
+        "<builtin>.str",
+        "<builtin>.range"
+    ],
+    "3": [
+        "pandas.core.reshape.concat.concat",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "4": [
+        "<builtin>.map",
+        "<builtin>.list"
+    ],
+    "6": [
+        "pandas.core.series.Series.isin"
+    ],
+    "8": [
+        "pandas.core.tools.datetimes.to_datetime"
+    ],
+    "9": [
+        "<builtin>.map",
+        "<builtin>.list"
+    ],
+    "11": [
+        "<builtin>.len",
+        "<list>.append",
+        "<builtin>.range"
+    ],
+    "12": [
+        "<builtin>.len",
+        "<builtin>.float",
+        "<list>.append",
+        "<builtin>.range"
+    ],
+    "22": [
+        "<builtin>.map",
+        "<builtin>.list"
+    ],
+    "23": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "24": [
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.generic.SeriesGroupBy.nunique"
+    ],
+    "25": [
+        "pandas.core.series.Series.reset_index"
+    ],
+    "30": [
+        "pandas.core.series.Series.sort_values",
+        "pandas.core.groupby.groupby.GroupBy.sum",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame.sort_values"
+    ],
+    "32": [
+        "pandas.core.reshape.merge.merge"
+    ],
+    "35": [
+        "pandas.core.series.Series"
+    ],
+    "36": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "37": [
+        "matplotlib.pyplot.ylabel",
+        "matplotlib.pyplot.title",
+        "matplotlib.pyplot.xlabel",
+        "matplotlib.pyplot.xticks",
+        "seaborn.categorical.factorplot"
+    ],
+    "38": [
+        "matplotlib.pyplot.xlabel"
+    ],
+    "39": [
+        "pandas.core.series.Series.sort_values",
+        "pandas.core.groupby.groupby.GroupBy.sum",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame.sort_values"
+    ],
+    "46": [
+        "pandas.core.series.Series.sort_values",
+        "pandas.core.groupby.groupby.GroupBy.sum",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame.sort_values"
+    ],
+    "48": [
+        "matplotlib.pyplot.xlabel",
+        "matplotlib.pyplot.title"
+    ]
+}

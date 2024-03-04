@@ -1,0 +1,80 @@
+{
+    "2": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "3": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "4": [
+        "<builtin>.print"
+    ],
+    "5": [
+        "pandas.core.frame.DataFrame.dropna"
+    ],
+    "6": [
+        "<builtin>.print"
+    ],
+    "7": [
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "8": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "9": [
+        "pandas.core.base.IndexOpsMixin.value_counts"
+    ],
+    "10": [
+        "sklearn.model_selection._split.train_test_split"
+    ],
+    "11": [
+        "sklearn.model_selection._split.train_test_split"
+    ],
+    "12": [
+        "sklearn.model_selection._split.train_test_split"
+    ],
+    "13": [
+        "pandas.core.reshape.concat.concat",
+        "sklearn.utils.shuffle"
+    ],
+    "14": [
+        "pandas.core.reshape.concat.concat"
+    ],
+    "15": [
+        "re.sub",
+        "nltk.tokenize.word_tokenize",
+        "nltk.stem.snowball.SnowballStemmer.stem",
+        "nltk.stem.snowball.SnowballStemmer"
+    ],
+    "16": [
+        "sklearn.svm._classes.LinearSVC",
+        "sklearn.pipeline.Pipeline",
+        "sklearn.feature_extraction.text.TfidfVectorizer"
+    ],
+    "17": [
+        "sklearn.pipeline.Pipeline.fit"
+    ],
+    "18": [
+        "<builtin>.print",
+        "sklearn.metrics._classification.accuracy_score",
+        "sklearn.metrics._classification.classification_report"
+    ],
+    "19": [
+        "<builtin>.print",
+        "sklearn.metrics._classification.accuracy_score",
+        "sklearn.metrics._classification.classification_report"
+    ],
+    "20": [
+        "<builtin>.print",
+        "sklearn.metrics._classification.accuracy_score",
+        "sklearn.metrics._classification.classification_report"
+    ],
+    "21": [
+        "<builtin>.print",
+        "sklearn.metrics._classification.accuracy_score",
+        "sklearn.metrics._classification.classification_report"
+    ],
+    "22": [
+        "<builtin>.open",
+        "pickle.dump"
+    ]
+}

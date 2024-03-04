@@ -1,0 +1,115 @@
+{
+    "2": [
+        "posixpath.join",
+        "os.listdir",
+        "genericpath.isfile"
+    ],
+    "3": [
+        "<builtin>.len"
+    ],
+    "5": [
+        "nb_111547.filterEmptyLines:4",
+        "<builtin>.open",
+        "<builtin>.len",
+        "nb_111547.normalizedFields:3"
+    ],
+    "8": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "9": [
+        "<builtin>.max",
+        "pandas.core.groupby.generic.SeriesGroupBy.apply",
+        "<builtin>.len",
+        "pandas.core.series.Series.apply",
+        "pandas.core.frame.DataFrame",
+        "datetime.datetime",
+        "<builtin>.min",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame.apply"
+    ],
+    "10": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "11": [
+        "pandas.core.frame.DataFrame",
+        "pandas.core.strings.accessor.StringMethods.strip"
+    ],
+    "12": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "13": [
+        "pandas.core.groupby.generic.SeriesGroupBy.apply",
+        "pandas.core.tools.datetimes.to_datetime",
+        "pandas.core.series.Series.map",
+        "pandas.core.indexes.extension.ExtensionIndex.map",
+        "pandas.core.series.Series.apply",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame",
+        "pandas.core.frame.DataFrame.apply"
+    ],
+    "14": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "15": [
+        "pandas.core.groupby.groupby.GroupBy.first",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame"
+    ],
+    "16": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "17": [
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame",
+        "pandas.core.groupby.groupby.GroupBy.last"
+    ],
+    "18": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "19": [
+        "pandas.core.frame.DataFrame",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.groupby.GroupBy.apply"
+    ],
+    "20": [
+        "pandas.core.frame.DataFrame",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.groupby.GroupBy.apply",
+        "pandas.core.generic.NDFrame.astype"
+    ],
+    "21": [
+        "pandas.core.frame.DataFrame.join"
+    ],
+    "22": [
+        "pandas.core.frame.DataFrame.fillna"
+    ],
+    "23": [
+        "pandas.core.arrays.categorical.Categorical"
+    ],
+    "24": [
+        "sklearn.model_selection._split.train_test_split"
+    ],
+    "25": [
+        "sklearn.model_selection._split.train_test_split",
+        "nb_111547.getTrainPlusTestSets:24"
+    ],
+    "26": [
+        "pandas.core.frame.DataFrame.merge",
+        "pandas.core.frame.DataFrame"
+    ],
+    "27": [
+        "pandas.core.reshape.reshape.get_dummies",
+        "pandas.core.frame.DataFrame.merge",
+        "pandas.core.frame.DataFrame",
+        "nb_111547.getProportion:26"
+    ],
+    "29": [
+        "pandas.core.reshape.reshape.get_dummies",
+        "pandas.core.frame.DataFrame.merge",
+        "pandas.core.frame.DataFrame",
+        "nb_111547.getProportion:26"
+    ],
+    "31": [
+        "sklearn.linear_model._logistic.LogisticRegression"
+    ]
+}

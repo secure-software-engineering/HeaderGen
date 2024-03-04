@@ -1,0 +1,195 @@
+{
+    "2": [
+        "psycopg2.connect",
+        "pandas.core.frame.DataFrame.reset_index",
+        "pandas.core.frame.DataFrame"
+    ],
+    "3": [
+        "pandas.core.series.Series.apply",
+        "pandas.core.tools.datetimes.to_datetime",
+        "pandas.core.frame.DataFrame.apply"
+    ],
+    "4": [
+        "pandas.core.strings.accessor.StringMethods.contains"
+    ],
+    "5": [
+        "matplotlib.pyplot.figure",
+        "<builtin>.set",
+        "wordcloud.WordCloud",
+        "matplotlib.pyplot.axis",
+        "matplotlib.pyplot.imshow",
+        "matplotlib.pyplot.show"
+    ],
+    "6": [
+        "<builtin>.set",
+        "matplotlib.pyplot.imshow",
+        "matplotlib.pyplot.show",
+        "nb_96079.word_cloud:5",
+        "wordcloud.WordCloud",
+        "matplotlib.pyplot.axis",
+        "matplotlib.pyplot.figure"
+    ],
+    "7": [
+        "<builtin>.set",
+        "matplotlib.pyplot.imshow",
+        "matplotlib.pyplot.show",
+        "nb_96079.word_cloud:5",
+        "wordcloud.WordCloud",
+        "matplotlib.pyplot.axis",
+        "matplotlib.pyplot.figure"
+    ],
+    "8": [
+        "<builtin>.set",
+        "matplotlib.pyplot.imshow",
+        "matplotlib.pyplot.show",
+        "nb_96079.word_cloud:5",
+        "wordcloud.WordCloud",
+        "matplotlib.pyplot.axis",
+        "matplotlib.pyplot.figure"
+    ],
+    "9": [
+        "redis.StrictRedis"
+    ],
+    "10": [
+        "<builtin>.len"
+    ],
+    "12": [
+        "sklearn.feature_extraction.text.CountVectorizer.fit",
+        "sklearn.feature_extraction.text.CountVectorizer",
+        "pickle.dumps"
+    ],
+    "13": [
+        "pickle.loads"
+    ],
+    "15": [
+        "<builtin>.max",
+        "<builtin>.round",
+        "datetime.timedelta",
+        "<builtin>.min",
+        "<builtin>.print",
+        "<builtin>.int"
+    ],
+    "16": [
+        "<builtin>.max",
+        "<builtin>.round",
+        "dateutil.tz.tz.tzutc",
+        "matplotlib.pyplot.axvline",
+        "numpy.ndarray.reshape",
+        "<builtin>.range",
+        "datetime.timedelta",
+        "numpy.core.numeric.argwhere",
+        "<builtin>.enumerate",
+        "matplotlib.pyplot.title",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.figure",
+        "numpy.lib.function_base.gradient",
+        "numpy.array",
+        "matplotlib.pyplot.plot",
+        "matplotlib.pyplot.show",
+        "<list>.append",
+        "<builtin>.int",
+        "<builtin>.min"
+    ],
+    "17": [
+        "numpy.lib.function_base.gradient",
+        "numpy.array",
+        "numpy.core.numeric.argwhere",
+        "<builtin>.range",
+        "numpy.ndarray.reshape",
+        "matplotlib.pyplot.plot",
+        "<builtin>.enumerate",
+        "matplotlib.pyplot.title",
+        "<list>.append",
+        "matplotlib.pyplot.show",
+        "<builtin>.min",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.axvline",
+        "matplotlib.pyplot.figure",
+        "nb_96079.hashtag_trend:16"
+    ],
+    "18": [
+        "numpy.lib.function_base.gradient",
+        "numpy.array",
+        "numpy.core.numeric.argwhere",
+        "<builtin>.range",
+        "numpy.ndarray.reshape",
+        "matplotlib.pyplot.plot",
+        "<builtin>.enumerate",
+        "matplotlib.pyplot.title",
+        "<list>.append",
+        "matplotlib.pyplot.show",
+        "<builtin>.min",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.axvline",
+        "matplotlib.pyplot.figure",
+        "nb_96079.hashtag_trend:16"
+    ],
+    "19": [
+        "numpy.lib.function_base.gradient",
+        "numpy.array",
+        "numpy.core.numeric.argwhere",
+        "<builtin>.range",
+        "numpy.ndarray.reshape",
+        "matplotlib.pyplot.plot",
+        "<builtin>.enumerate",
+        "matplotlib.pyplot.title",
+        "<list>.append",
+        "matplotlib.pyplot.show",
+        "<builtin>.min",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.axvline",
+        "matplotlib.pyplot.figure",
+        "nb_96079.hashtag_trend:16"
+    ],
+    "20": [
+        "numpy.lib.function_base.gradient",
+        "numpy.array",
+        "numpy.core.numeric.argwhere",
+        "<builtin>.range",
+        "numpy.ndarray.reshape",
+        "matplotlib.pyplot.plot",
+        "<builtin>.enumerate",
+        "matplotlib.pyplot.title",
+        "<list>.append",
+        "matplotlib.pyplot.show",
+        "<builtin>.min",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.axvline",
+        "matplotlib.pyplot.figure",
+        "nb_96079.hashtag_trend:16"
+    ],
+    "21": [
+        "numpy.lib.function_base.gradient",
+        "numpy.array",
+        "numpy.core.numeric.argwhere",
+        "<builtin>.range",
+        "numpy.ndarray.reshape",
+        "matplotlib.pyplot.plot",
+        "<builtin>.enumerate",
+        "matplotlib.pyplot.title",
+        "<list>.append",
+        "matplotlib.pyplot.show",
+        "<builtin>.min",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.axvline",
+        "matplotlib.pyplot.figure",
+        "nb_96079.hashtag_trend:16"
+    ],
+    "22": [
+        "numpy.lib.function_base.gradient",
+        "numpy.array",
+        "numpy.core.numeric.argwhere",
+        "<builtin>.range",
+        "numpy.ndarray.reshape",
+        "matplotlib.pyplot.plot",
+        "<builtin>.enumerate",
+        "matplotlib.pyplot.title",
+        "<list>.append",
+        "matplotlib.pyplot.show",
+        "<builtin>.min",
+        "matplotlib.pyplot.legend",
+        "matplotlib.pyplot.axvline",
+        "matplotlib.pyplot.figure",
+        "nb_96079.hashtag_trend:16"
+    ]
+}

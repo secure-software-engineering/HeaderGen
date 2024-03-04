@@ -1,0 +1,55 @@
+{
+    "3": [
+        "numpy.lib.npyio.load",
+        "nibabel.load"
+    ],
+    "5": [
+        "nibabel.save",
+        "numpy.core.numeric.zeros_like",
+        "nibabel.Nifti1Image"
+    ],
+    "7": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "8": [
+        "pandas.core.series.Series"
+    ],
+    "11": [
+        "numpy.lib.function_base.corrcoef"
+    ],
+    "14": [
+        "scipy.io.matlab._mio.loadmat"
+    ],
+    "17": [
+        "numpy.lib.function_base.corrcoef"
+    ],
+    "20": [
+        "scipy.cluster.hierarchy.linkage"
+    ],
+    "21": [
+        "scipy.cluster.hierarchy.dendrogram",
+        "numpy.array"
+    ],
+    "23": [
+        "scipy.cluster.hierarchy.fcluster"
+    ],
+    "24": [
+        "numpy.core._multiarray_umath.where"
+    ],
+    "25": [
+        "numpy.core.fromnumeric.around"
+    ],
+    "26": [
+        "scipy.cluster.hierarchy.linkage"
+    ],
+    "27": [
+        "scipy.cluster.hierarchy.dendrogram",
+        "numpy.array"
+    ],
+    "28": [
+        "scipy.cluster.hierarchy.fcluster"
+    ],
+    "30": [
+        "numpy.core._multiarray_umath.where"
+    ]
+}

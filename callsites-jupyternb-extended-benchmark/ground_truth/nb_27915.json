@@ -1,0 +1,51 @@
+{
+    "1": [
+        "os.listdir"
+    ],
+    "3": [
+        "pandas.core.frame.DataFrame.set_index",
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "4": [
+        "pandas.io.json._json.read_json"
+    ],
+    "5": [
+        "pandas.io.excel._base.read_excel"
+    ],
+    "6": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "8": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "9": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "10": [
+        "pandas.io.json._json.read_json"
+    ],
+    "16": [
+        "<builtin>.list"
+    ],
+    "24": [
+        "<builtin>.len"
+    ],
+    "30": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "31": [
+        "geopy.geocoders.Nominatim",
+        "<builtin>.print"
+    ],
+    "32": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "34": [
+        "pandas.core.series.Series.apply",
+        "pandas.core.frame.DataFrame.apply"
+    ],
+    "37": [
+        "pandas.core.series.Series.apply",
+        "pandas.core.frame.DataFrame.apply"
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "2": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "3": [
+        "pandas.core.generic.NDFrame.head",
+        "<builtin>.print",
+        "pandas.core.frame.DataFrame.info",
+        "pandas.core.frame.DataFrame.fillna",
+        "pandas.core.series.Series.isnull"
+    ],
+    "4": [
+        "sklearn.preprocessing._label.LabelEncoder"
+    ],
+    "5": [
+        "<builtin>.set",
+        "nltk.tokenize.word_tokenize",
+        "<builtin>.list",
+        "nltk.corpus.reader.wordlist.WordListCorpusReader.words"
+    ],
+    "6": [
+        "<builtin>.set",
+        "<builtin>.list"
+    ],
+    "7": [
+        "pandas.core.generic.NDFrame.head",
+        "<builtin>.print"
+    ],
+    "8": [
+        "<builtin>.set",
+        "nb_87231.bag_of_words:5",
+        "<builtin>.enumerate",
+        "nltk.tokenize.word_tokenize",
+        "nb_87231.remove_punct:6",
+        "<builtin>.list"
+    ],
+    "9": [
+        "<builtin>.print",
+        "<builtin>.set",
+        "<builtin>.list",
+        "nb_87231.remove_punct:6"
+    ],
+    "10": [
+        "<dict>.items",
+        "<builtin>.len",
+        "<builtin>.print",
+        "<builtin>.sorted"
+    ],
+    "11": [
+        "<list>.append"
+    ],
+    "12": [
+        "<builtin>.len",
+        "<builtin>.print"
+    ],
+    "13": [
+        "<dict>.items",
+        "<builtin>.len",
+        "<builtin>.round",
+        "<builtin>.set",
+        "<builtin>.enumerate",
+        "math.log",
+        "<builtin>.sorted",
+        "textblob.TextBlob",
+        "<list>.append",
+        "<builtin>.dict",
+        "<builtin>.list",
+        "<builtin>.str",
+        "<builtin>.type",
+        "nb_87231.remove_punct:6"
+    ],
+    "14": [
+        "<builtin>.print"
+    ],
+    "15": [
+        "<builtin>.len",
+        "<builtin>.print",
+        "<dict>.keys"
+    ],
+    "16": [
+        "<builtin>.len",
+        "<builtin>.print",
+        "<builtin>.enumerate",
+        "<builtin>.list"
+    ],
+    "17": [
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "18": [
+        "pandas.core.generic.NDFrame.head",
+        "<builtin>.print"
+    ],
+    "19": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "20": [
+        "pandas.core.generic.NDFrame.to_csv"
+    ],
+    "21": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "22": [
+        "pandas.core.frame.DataFrame.drop"
+    ],
+    "23": [
+        "<builtin>.print",
+        "<list>.append",
+        "pandas.core.base.IndexOpsMixin.value_counts"
+    ],
+    "24": [
+        "<builtin>.print",
+        "<builtin>.set"
+    ],
+    "25": [
+        "pandas.core.generic.NDFrame.head",
+        "<builtin>.print",
+        "pandas.core.frame.DataFrame.drop",
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "26": [
+        "<builtin>.print",
+        "sklearn.ensemble._forest.BaseForest.fit",
+        "sklearn.cross_validation.train_test_split",
+        "sklearn.preprocessing._label.LabelEncoder",
+        "sklearn.ensemble._forest.RandomForestClassifier"
+    ],
+    "27": [
+        "pandas.core.base.IndexOpsMixin.value_counts",
+        "<builtin>.print",
+        "pandas.core.series.Series"
+    ],
+    "28": [
+        "numpy.core.fromnumeric.argsort",
+        "matplotlib.pyplot.bar",
+        "matplotlib.pyplot.xlim",
+        "matplotlib.pyplot.title",
+        "<builtin>.range",
+        "matplotlib.pyplot.show",
+        "<builtin>.print",
+        "numpy.core.fromnumeric.std",
+        "matplotlib.pyplot.figure",
+        "matplotlib.pyplot.xticks"
+    ],
+    "29": [
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "30": [
+        "<builtin>.print",
+        "<list>.append",
+        "pandas.core.base.IndexOpsMixin.value_counts"
+    ],
+    "31": [
+        "<builtin>.len",
+        "<builtin>.print"
+    ],
+    "32": [
+        "pandas.core.generic.NDFrame.to_csv",
+        "pandas.core.generic.NDFrame.head",
+        "pandas.core.reshape.concat.concat",
+        "<builtin>.print",
+        "pandas.core.frame.DataFrame",
+        "pandas.core.series.Series.info",
+        "pandas.core.frame.DataFrame.info"
+    ],
+    "33": [
+        "<builtin>.open",
+        "pickle.dump"
+    ],
+    "34": [
+        "<builtin>.dict",
+        "<builtin>.list"
+    ],
+    "35": [
+        "<builtin>.open",
+        "pickle.dump"
+    ]
+}

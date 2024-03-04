@@ -1,0 +1,14 @@
+{
+    "2": [
+        "IPython.core.display.HTML",
+        "<builtin>.open"
+    ],
+    "3": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.core.series.Series"
+    ],
+    "4": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.core.series.Series"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "2": [
+        "graphlab.SFrame"
+    ],
+    "3": [
+        "graphlab.classifier.svm_classifier.create"
+    ],
+    "5": [
+        "graphlab.classifier.svm_classifier.create"
+    ],
+    "6": [
+        "graphlab.classifier.random_forest_classifier"
+    ],
+    "7": [
+        "graphlab.classifier.random_forest_classifier.create"
+    ],
+    "8": [
+        "graphlab.classifier.decision_tree_classifier.create"
+    ],
+    "9": [
+        "graphlab.classifier.boosted_trees_classifier.create"
+    ],
+    "10": [
+        "graphlab.classifier.logistic_classifier.create"
+    ],
+    "11": [
+        "graphlab.classifier.neuralnet_classifier.create"
+    ],
+    "12": [
+        "graphlab.classifier.nearest_neighbor_classifier.create"
+    ],
+    "13": [
+        "graphlab.classifier.nearest_neighbor_classifier.create"
+    ],
+    "14": [
+        "graphlab.classifier.svm_classifier.create"
+    ],
+    "16": [
+        "graphlab.SFrame"
+    ],
+    "17": [
+        "graphlab.classifier.svm_classifier.create"
+    ],
+    "19": [
+        "graphlab.classifier.svm_classifier.create"
+    ],
+    "21": [
+        "graphlab.classifier.decision_tree_classifier.create"
+    ],
+    "23": [
+        "graphlab.classifier.random_forest_classifier.create"
+    ],
+    "25": [
+        "graphlab.classifier.boosted_trees_classifier.create"
+    ],
+    "27": [
+        "graphlab.classifier.logistic_classifier.create"
+    ],
+    "29": [
+        "graphlab.classifier.neuralnet_classifier.create"
+    ],
+    "30": [
+        "graphlab.classifier.nearest_neighbor_classifier.create"
+    ]
+}
