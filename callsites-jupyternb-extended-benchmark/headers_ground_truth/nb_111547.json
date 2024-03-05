@@ -1,7 +1,6 @@
 {
     "1": [
-        "Data Preparation",
-        "Others (helper_functions)"
+        "Library Loading"
     ],
     "2": [
         "Data Preparation"
@@ -16,16 +15,17 @@
         "Data Preparation"
     ],
     "6": [
-        "Others (comment_only)"
+        ""
     ],
     "7": [
-        "Others (comment_only)"
+        ""
     ],
     "8": [
         "Data Preparation"
     ],
     "9": [
-        "Data Preparation"
+        "Data Preparation",
+        "Feature Engineering"
     ],
     "10": [
         "Data Preparation"
@@ -37,7 +37,8 @@
         "Data Preparation"
     ],
     "13": [
-        "Data Preparation"
+        "Data Preparation",
+        "Feature Engineering"
     ],
     "14": [
         "Data Preparation"
@@ -49,16 +50,19 @@
         "Data Preparation"
     ],
     "17": [
-        "Data Preparation"
+        "Data Preparation",
+        "Feature Engineering"
     ],
     "18": [
         "Data Preparation"
     ],
     "19": [
-        "Data Preparation"
+        "Data Preparation",
+        "Feature Engineering"
     ],
     "20": [
-        "Data Preparation"
+        "Data Preparation",
+        "Feature Engineering"
     ],
     "21": [
         "Data Preparation"
@@ -70,7 +74,8 @@
         "Data Preparation"
     ],
     "24": [
-        "Data Preparation"
+        "Data Preparation",
+        "Library Loading"
     ],
     "25": [
         "Data Preparation"
@@ -91,7 +96,7 @@
         "Data Preparation"
     ],
     "31": [
-        "Model Building and Training",
-        "Others (helper_functions)"
+        "Data Preparation",
+        "Model Building and Training"
     ]
 }
