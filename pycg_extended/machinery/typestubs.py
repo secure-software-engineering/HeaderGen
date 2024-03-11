@@ -590,6 +590,7 @@ class TypeStubManager:
             "first_valid_index",
             "flags",
             "floordiv",
+            "from_csv",
             "from_dict",
             "from_records",
             "ge",

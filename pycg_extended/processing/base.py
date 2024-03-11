@@ -899,7 +899,7 @@ class ProcessingBase(ast.NodeVisitor):
 
                 elif isinstance(node.slice, ast.Compare):
                     # handle statements of the form: survived = train[train['Survived']==1]['Survived'].value_counts()
-                    if isinstance(node.slice.left, ast.Subscript):
+                    if isinstance(node.slice.left, (ast.Subscript, ast.Attribute)):
                         nested_sub_decode = self.decode_node(node.slice.left.value)
                         for _nd in nested_sub_decode:
                             if self.closured.get(_nd.get_ns(), None):

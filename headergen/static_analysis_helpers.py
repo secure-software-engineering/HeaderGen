@@ -15,7 +15,7 @@ import simplejson as sjson
 import headergen.utils as utils
 from framework_models import MODELS as PIPELINE_LIBRARY_MODEL
 from framework_models import PHASES as PIPELINE_PHASES
-from framework_models import lookup_pipeline_tag, lookup_pipeline_tag_ml
+from framework_models import lookup_pipeline_tag, lookup_pipeline_tag_builtin
 from pycg_extended import formats as pycg_formats
 from pycg_extended import pycg
 
@@ -40,6 +40,12 @@ def sort_pycg_calls(analysis_info, main_file_name):
 
     def get_tag_info(func):
         if func.startswith("<builtin>."):
+            _tag = {
+                "func_call": func,
+                "dl_pipeline_tag": lookup_pipeline_tag_builtin(func),
+            }
+
+        elif func.startswith("<"):
             _tag = {
                 "func_call": func,
                 "dl_pipeline_tag": [PIPELINE_PHASES["BUILTIN_FUNCTION"]],

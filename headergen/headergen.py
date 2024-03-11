@@ -625,6 +625,8 @@ def get_cell_summaries(py_ntbk, hg_visitor):
         tag_list = list(set(block_mapping[_block_key]["dl_pipeline_tag"]))
         if "Builtin Function" in tag_list:
             tag_list.remove("Builtin Function")
+        if "Unknown" in tag_list:
+            tag_list.remove("Unknown")
         if not tag_list:
             for _l in range(_block_value["start"], _block_value["end"] + 1):
                 if _l in hg_visitor.pattern_matches:
@@ -802,6 +804,8 @@ def start_headergen(nb_path, out_path=".", debug_mode=False, create_linted_file=
             )
             if "Builtin Function" in tag_list:
                 tag_list.remove("Builtin Function")
+            if "Unknown" in tag_list:
+                tag_list.remove("Unknown")
             if not tag_list:
                 if _line_no in hg_visitor.pattern_matches:
                     hg_visitor.source_code_tags[_line_no]["dl_pipeline_tag"].extend(

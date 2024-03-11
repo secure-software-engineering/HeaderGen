@@ -33,6 +33,7 @@ phase_groups = {
     "Data Preparation": [
         "Data Preparation",
         "Data Profiling and Exploratory Data Analysis",
+        "Data Preparation and Exploration",
         "Data Cleaning Filtering",
         "Data Sub-sampling and Train-test Splitting",
         "Data Loading",
@@ -109,7 +110,7 @@ def measure_precision(actual, expected):
 def measure_recall(actual, expected):
     num_all = 0
     num_caught = 0
-    # print("Recall...")
+    print("Recall...")
     for node in expected:
         num_all += len(expected[node])
         for item in expected[node]:
@@ -119,7 +120,7 @@ def measure_recall(actual, expected):
                 num_caught += 1
             else:
                 not_found_counter.append(item)
-                # print(node, ": ", item)
+                print(node, ": ", item)
 
     if num_all == 0:
         num_all = 1
@@ -166,7 +167,7 @@ def compare(notebooks_path, actual_path, expected_path, results_path):
     cnt = 0
     data = {}
     for project in projects:
-        # print("\n# Project: ", project)
+        print("\n# Project: ", project)
 
         actual = read_json(os.path.join(actual_path, project + "-headers.json"))
         expected = read_json(os.path.join(expected_path, project + ".json"))

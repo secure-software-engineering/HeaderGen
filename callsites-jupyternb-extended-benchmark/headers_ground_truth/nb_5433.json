@@ -1,0 +1,86 @@
+{
+    "1": [
+        "Library Loading"
+    ],
+    "2": [
+        "Data Preparation"
+    ],
+    "3": [
+        "Data Preparation"
+    ],
+    "4": [
+        "Data Preparation"
+    ],
+    "5": [
+        "Data Preparation"
+    ],
+    "6": [
+        "Data Preparation"
+    ],
+    "7": [
+        "Data Preparation"
+    ],
+    "8": [
+        "Data Preparation"
+    ],
+    "9": [
+        "Data Preparation"
+    ],
+    "10": [
+        "Data Preparation",
+        "Feature Engineering"
+    ],
+    "11": [
+        "Data Preparation",
+        "Feature Engineering"
+    ],
+    "12": [
+        "Library Loading",
+        "Data Preparation"
+    ],
+    "13": [
+        "Data Preparation",
+        "Feature Engineering"
+    ],
+    "14": [
+        "Data Preparation",
+        "Feature Engineering"
+    ],
+    "15": [
+        "Data Preparation",
+        "Library Loading"
+    ],
+    "16": [
+        ""
+    ],
+    "17": [
+        "Library Loading"
+    ],
+    "18": [
+        "Data Preparation",
+        "Visualization",
+        "Model Building and Training"
+    ],
+    "19": [
+        "Library Loading",
+        "Data Preparation",
+        "Feature Engineering"
+    ],
+    "20": [
+        "Data Preparation",
+        "Library Loading"
+    ],
+    "21": [
+        "Model Building and Training",
+        "Data Preparation",
+        "Visualization"
+    ],
+    "22": [
+        "Model Building and Training",
+        "Data Preparation",
+        "Visualization"
+    ],
+    "23": [
+        "Visualization"
+    ]
+}
