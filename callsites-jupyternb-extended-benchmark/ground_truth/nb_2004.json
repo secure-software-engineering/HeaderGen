@@ -6,41 +6,41 @@
         "matplotlib.pyplot.imshow"
     ],
     "5": [
-        "matplotlib.pyplot.imshow"
+        "matplotlib.pyplot.imshow",
+        "scipy.ndimage._filters.median_filter"
     ],
     "6": [
-        "scipy.ndimage._filters.gaussian_filter",
-        "matplotlib.pyplot.imshow"
+        "matplotlib.pyplot.imshow",
+        "scipy.ndimage._filters.gaussian_filter"
     ],
-    "7": [
-        "pbn.operations.unravel"
-    ],
+    "7": [],
     "8": [
         "<builtin>.len",
-        "pbn.operations.cluster_color_space",
         "<builtin>.print"
     ],
     "9": [
-        "pandas.core.series.Series.rename",
-        "pandas.core.series.Series.groupby",
-        "numpy.core.fromnumeric.round_",
-        "pandas.core.reshape.concat.concat",
+        "pandas.core.frame.DataFrame.groupby",
         "pandas.core.frame.DataFrame.rename",
-        "pandas.core.groupby.groupby.GroupBy.mean",
+        "pandas.core.series.Series.groupby",
+        "pandas.core.frame.DataFrame.applymap",
+        "pandas.core.reshape.concat.concat",
         "<builtin>.int",
-        "pandas.core.frame.DataFrame.groupby"
+        "pandas.core.groupby.groupby.GroupBy.mean",
+        "numpy.core.fromnumeric.round_",
+        "pandas.core.series.Series.rename",
+        "pandas.core.generic.NDFrame.head"
     ],
     "10": [
-        "<builtin>.len",
         "matplotlib.pyplot.xlim",
-        "matplotlib.figure.FigureBase.add_subplot",
-        "matplotlib.patches.Rectangle",
         "<builtin>.int",
-        "matplotlib.pyplot.figure",
         "matplotlib.figure.Figure.set_size_inches",
         "<builtin>.float",
+        "matplotlib.pyplot.ylim",
+        "matplotlib.figure.FigureBase.add_subplot",
+        "<builtin>.len",
+        "matplotlib.patches.Rectangle",
         "matplotlib.axes._base._AxesBase.add_patch",
-        "matplotlib.pyplot.ylim"
+        "matplotlib.pyplot.figure"
     ],
     "11": [
         "pandas.core.generic.NDFrame.head",
@@ -48,22 +48,20 @@
     ],
     "12": [
         "matplotlib.pyplot.imsave",
-        "<builtin>.float",
-        "pbn.operations.reravel",
-        "matplotlib.pyplot.imshow"
+        "matplotlib.pyplot.imshow",
+        "<builtin>.float"
     ],
     "13": [
         "matplotlib.pyplot.imsave",
         "scipy.ndimage._filters.median_filter"
     ],
     "14": [
-        "numpy.int64",
         "numpy.core.fromnumeric.reshape",
-        "pbn.operations.reravel"
+        "numpy.int64"
     ],
     "15": [
-        "<builtin>.len",
-        "pbn.operations.cluster_by_proximity"
+        "pbn.operations.cluster_by_proximity",
+        "<builtin>.len"
     ],
     "16": [
         "<builtin>.len"
@@ -72,12 +70,9 @@
         "imp.reload"
     ],
     "18": [
-        "matplotlib.pyplot.imsave",
         "pbn.operations.image_from_clusters",
-        "matplotlib.pyplot.imshow"
-    ],
-    "19": [
-        "pbn.operations.get_cluster_props"
+        "matplotlib.pyplot.imshow",
+        "matplotlib.pyplot.imsave"
     ],
     "20": [
         "<builtin>.len"
@@ -85,16 +80,13 @@
     "21": [
         "<builtin>.len"
     ],
-    "22": [
-        "pbn.operations.render_pbn"
-    ],
     "23": [
         "matplotlib.image.imsave",
         "matplotlib.pyplot.imshow"
     ],
     "24": [
-        "scipy.ndimage._filters.median_filter",
         "matplotlib.image.imsave",
-        "matplotlib.pyplot.imshow"
+        "matplotlib.pyplot.imshow",
+        "scipy.ndimage._filters.median_filter"
     ]
 }

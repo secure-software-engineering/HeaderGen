@@ -4,13 +4,13 @@
     ],
     "2": [
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum",
-        "<builtin>.print",
-        "pandas.core.frame.DataFrame.isnull"
+        "pandas.core.frame.DataFrame.isnull",
+        "<builtin>.print"
     ],
     "3": [
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum",
-        "<builtin>.print",
-        "pandas.core.frame.DataFrame.isnull"
+        "pandas.core.frame.DataFrame.isnull",
+        "<builtin>.print"
     ],
     "4": [
         "pandas.core.generic.NDFrame.head"
@@ -43,16 +43,15 @@
         "pandas.core.tools.datetimes.to_datetime"
     ],
     "16": [
-        "pandas.core.series.Series.apply",
-        "pandas.core.frame.DataFrame.apply"
+        "datetime.time",
+        "pandas.core.series.Series.apply"
     ],
     "17": [
         "pandas.core.generic.NDFrame.head"
     ],
     "18": [
-        "pandas.core.series.Series.apply",
         "datetime.time",
-        "pandas.core.frame.DataFrame.apply"
+        "pandas.core.series.Series.apply"
     ],
     "19": [
         "pandas.core.generic.NDFrame.head"
@@ -61,6 +60,8 @@
         "pandas.core.generic.NDFrame.head"
     ],
     "25": [
-        "pandas.core.tools.datetimes.to_datetime"
+        "pandas.core.tools.datetimes.to_datetime",
+        "pandas.core.series.Series.apply",
+        "datetime.time"
     ]
 }

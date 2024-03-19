@@ -44,6 +44,7 @@ ML_MODULES_TO_IMPORT = [
     "seaborn",
     "sklearn",
     "xgboost",
+    "nibabel",
 ]
 
 

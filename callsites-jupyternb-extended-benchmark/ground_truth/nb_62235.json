@@ -6,61 +6,68 @@
         "pandas.io.parsers.readers.read_csv"
     ],
     "4": [
-        "<builtin>.len",
-        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.min",
+        "numpy.core.fromnumeric.mean",
+        "numpy.core.fromnumeric.sum",
         "pandas.core.series.Series.sort_values",
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.max",
-        "numpy.core.fromnumeric.mean",
-        "pandas.core.series.Series.isin",
-        "pandas.core.frame.DataFrame.sort_values",
         "numpy.zeros",
-        "numpy.lib.function_base.median",
-        "numpy.core.fromnumeric.sum"
+        "numpy.median",
+        "<builtin>.len",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.min",
+        "pandas.core.frame.DataFrame.drop_duplicates",
+        "pandas.core.frame.DataFrame.sort_values",
+        "pandas.core.series.Series.isin",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum"
     ],
     "5": [
-        "pandas.core.groupby.generic.SeriesGroupBy",
         "pandas.core.series.Series.groupby",
-        "pandas.core.series.Series.isin",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.generic.SeriesGroupBy",
         "pandas.core.groupby.groupby.BaseGroupBy.get_group",
-        "pandas.core.frame.DataFrame.groupby"
+        "pandas.core.series.Series.isin"
     ],
     "6": [
-        "<builtin>.len",
-        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.min",
         "nb_62235.f:4",
+        "numpy.core.fromnumeric.mean",
+        "numpy.core.fromnumeric.sum",
         "pandas.core.series.Series.sort_values",
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.max",
-        "pandas.core.series.Series.isin",
-        "numpy.core.fromnumeric.mean",
         "numpy.zeros",
+        "numpy.median",
+        "<builtin>.len",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.min",
+        "pandas.core.frame.DataFrame.drop_duplicates",
         "pandas.core.frame.DataFrame.sort_values",
-        "numpy.lib.function_base.median",
-        "numpy.core.fromnumeric.sum"
+        "pandas.core.series.Series.isin",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum"
     ],
     "7": [
         "line_profiler.LineProfiler",
-        "<builtin>.globals",
-        "<builtin>.locals"
+        "line_profiler.line_profiler.LineProfiler.add_function",
+        "line_profiler.line_profiler.LineProfiler.runctx",
+        "<builtin>.locals",
+        "<builtin>.globals"
     ],
     "8": [
-        "pandas.core.groupby.generic.SeriesGroupBy",
-        "pandas.core.frame.DataFrame.groupby",
         "pandas.core.series.Series.isin",
-        "pandas.core.series.Series.groupby"
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.generic.SeriesGroupBy"
     ],
     "10": [
-        "pandas.core.groupby.generic.SeriesGroupBy",
         "pandas.core.frame.DataFrame.groupby",
-        "numpy.ndarray.reshape",
-        "numpy.array"
+        "numpy.array",
+        "pandas.core.groupby.generic.SeriesGroupBy",
+        "numpy.ndarray.reshape"
     ],
     "11": [
-        "numpy.ndarray.reshape",
         "pandas.core.series.Series.ravel",
-        "numpy.array"
+        "numpy.array",
+        "numpy.ndarray.reshape"
     ],
     "12": [
-        "sklearn.model_selection._split.train_test_split"
+        "sklearn.model_selection._split.train_test_split",
+        "sklearn.linear_model._stochastic_gradient.BaseSGDClassifier.fit",
+        "sklearn.linear_model._base.LinearClassifierMixin.predict"
     ],
     "13": [
         "sklearn.metrics._classification.f1_score"
@@ -69,27 +76,28 @@
         "sklearn.linear_model._stochastic_gradient.SGDClassifier"
     ],
     "15": [
-        "<builtin>.max",
-        "sklearn.model_selection._split.train_test_split",
-        "<builtin>.range",
-        "sklearn.metrics._classification.f1_score",
-        "sklearn.linear_model._base.LinearClassifierMixin.predict",
         "sklearn.linear_model._stochastic_gradient.BaseSGDClassifier.fit",
+        "<list>.append",
         "tqdm.tqdm_notebook",
-        "<list>.append"
+        "sklearn.linear_model._base.LinearClassifierMixin.predict",
+        "<builtin>.range",
+        "<builtin>.max",
+        "numpy.core.fromnumeric.sum",
+        "sklearn.model_selection._split.train_test_split",
+        "sklearn.metrics._classification.f1_score"
     ],
     "16": [
-        "numpy.lib.function_base.median",
+        "numpy.core.fromnumeric.mean",
         "<builtin>.print",
-        "numpy.core.fromnumeric.mean"
+        "numpy.median"
     ],
     "17": [
-        "pandas.core.groupby.generic.SeriesGroupBy",
-        "nb_62235.prepare:10",
-        "numpy.ndarray.reshape",
         "numpy.array",
         "pandas.core.frame.DataFrame.groupby",
-        "pandas.io.parsers.readers.read_csv"
+        "pandas.core.groupby.generic.SeriesGroupBy",
+        "nb_62235.prepare:10",
+        "pandas.io.parsers.readers.read_csv",
+        "numpy.ndarray.reshape"
     ],
     "19": [
         "sklearn.linear_model._base.LinearClassifierMixin.predict"
@@ -97,5 +105,11 @@
     "20": [
         "pandas.core.frame.DataFrame.set_index",
         "pandas.core.frame.DataFrame"
+    ],
+    "21": [
+        "pandas.core.base.IndexOpsMixin.value_counts"
+    ],
+    "22": [
+        "pandas.core.generic.NDFrame.to_csv"
     ]
 }

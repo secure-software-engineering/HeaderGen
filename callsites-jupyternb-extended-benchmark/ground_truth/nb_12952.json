@@ -15,8 +15,7 @@
     "4": [
         "pandas.core.series.Series.apply",
         "pandas.core.generic.NDFrame.head",
-        "pandas.core.tools.datetimes.to_datetime",
-        "pandas.core.frame.DataFrame.apply"
+        "pandas.core.tools.datetimes.to_datetime"
     ],
     "5": [
         "pandas.core.strings.accessor.StringMethods.replace"
@@ -25,7 +24,9 @@
         "pandas.core.series.Series.sort_values",
         "pandas.core.groupby.groupby.GroupBy.count",
         "pandas.core.frame.DataFrame.groupby",
-        "pandas.core.frame.DataFrame.sort_values"
+        "pandas.core.frame.DataFrame.sort_values",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum",
+        "pandas.core.generic.NDFrame.head"
     ],
     "8": [
         "matplotlib.pyplot.show",
@@ -35,21 +36,23 @@
     "9": [
         "pandas.core.series.Series.sort_values",
         "pandas.core.groupby.groupby.GroupBy.count",
-        "matplotlib.pyplot.xlabel",
         "pandas.core.frame.DataFrame.sort_values",
+        "pandas.core.frame.DataFrame.set_index",
+        "pandas.plotting._core.PlotAccessor",
+        "matplotlib.pyplot.xlabel",
         "matplotlib.pyplot.title",
         "matplotlib.pyplot.show",
         "pandas.core.frame.DataFrame.groupby"
     ],
     "10": [
-        "matplotlib.pyplot.ylabel",
-        "pandas.core.groupby.groupby.GroupBy.count",
-        "matplotlib.pyplot.xlabel",
-        "matplotlib.pyplot.title",
-        "matplotlib.pyplot.show",
-        "seaborn.categorical.barplot",
         "pandas.core.frame.DataFrame.groupby",
-        "matplotlib.pyplot.xticks"
+        "pandas.core.groupby.groupby.GroupBy.count",
+        "seaborn.categorical.barplot",
+        "matplotlib.pyplot.title",
+        "matplotlib.pyplot.xlabel",
+        "matplotlib.pyplot.ylabel",
+        "matplotlib.pyplot.xticks",
+        "matplotlib.pyplot.show"
     ],
     "11": [
         "matplotlib.pyplot.ylabel",
@@ -82,7 +85,8 @@
         "pandas.core.series.Series.sort_values",
         "pandas.core.groupby.groupby.GroupBy.count",
         "pandas.core.frame.DataFrame.groupby",
-        "pandas.core.frame.DataFrame.sort_values"
+        "pandas.core.frame.DataFrame.sort_values",
+        "pandas.core.generic.NDFrame.head"
     ],
     "17": [
         "seaborn.plt.title",
@@ -121,16 +125,16 @@
         "seaborn.categorical.countplot"
     ],
     "23": [
-        "pandas.core.series.Series.sort_values",
         "pandas.core.groupby.groupby.GroupBy.count",
         "pandas.core.frame.DataFrame.groupby",
-        "pandas.core.frame.DataFrame.sort_values"
+        "pandas.core.frame.DataFrame.sort_values",
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum",
+        "pandas.core.generic.NDFrame.head"
     ],
     "24": [
         "pandas.core.groupby.groupby.GroupBy.size",
         "pandas.core.frame.DataFrame.groupby",
-        "pandas.core.series.Series.reset_index",
-        "pandas.core.frame.DataFrame.reset_index"
+        "pandas.core.series.Series.reset_index"
     ],
     "25": [
         "matplotlib.pyplot.ylabel",
@@ -203,6 +207,8 @@
         "matplotlib.pyplot.xticks"
     ],
     "32": [
+        "pandas.core.groupby.groupby.GroupBy.count",
+        "pandas.core.frame.DataFrame.groupby",
         "matplotlib.pyplot.ylabel",
         "matplotlib.pyplot.xlabel",
         "matplotlib.pyplot.title",

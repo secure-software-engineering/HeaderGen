@@ -131,7 +131,12 @@ ML_MODULES_ALIAS = {
     "tensorflow": json.loads(
         open(os.path.join(SCRIPT_ROOT, "aliases", "tensorflow.json")).read()
     ),
-    # "tensorflow": os.path.SCRIPT_ROOT, "tensorflow"),
+    "sklearn": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "sklearn.json")).read()
+    ),
+    "nibabel": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "nibabel.json")).read()
+    ),  # "tensorflow": os.path.SCRIPT_ROOT, "tensorflow"),
 }
 
 MODELS = {k: pygtrie.StringTrie(separator=".") for k in ML_MODULES}
@@ -177,8 +182,6 @@ else:
 
 def check_alias(func_call):
     root_module = func_call.split(".")[0]
-    if root_module not in MODELS:
-        return func_call
 
     if root_module in ML_MODULES_ALIAS:
         if func_call in ML_MODULES_ALIAS[root_module]:

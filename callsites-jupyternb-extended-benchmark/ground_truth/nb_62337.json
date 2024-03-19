@@ -1,220 +1,220 @@
 {
     "3": [
-        "matplotlib.pyplot.ylabel",
-        "nb_62337.test_func_1:3",
         "matplotlib.pyplot.xlabel",
+        "<list>.append",
+        "matplotlib.pyplot.ylabel",
         "matplotlib.pyplot.plot",
-        "numpy.core.function_base.linspace",
-        "<list>.append"
+        "nb_62337.test_func_1:3",
+        "numpy.core.function_base.linspace"
     ],
     "4": [
-        "<builtin>.len",
-        "<builtin>.print",
+        "nb_62337.peak_finder:4",
         "<list>.append",
-        "nb_62337.peak_finder:4"
+        "<builtin>.len",
+        "<builtin>.print"
     ],
     "5": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
-        "matplotlib.pyplot.plot",
-        "<builtin>.print",
+        "matplotlib.pyplot.xlabel",
         "<list>.append",
-        "nb_62337.plotting_max:5",
+        "<builtin>.print",
         "matplotlib.pyplot.axis",
-        "matplotlib.pyplot.xlabel"
+        "matplotlib.pyplot.plot",
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel"
     ],
     "6": [
-        "matplotlib.pyplot.ylabel",
-        "numpy.RandomState.randint",
         "matplotlib.pyplot.xlabel",
-        "matplotlib.pyplot.plot"
+        "matplotlib.pyplot.plot",
+        "numpy.RandomState.randint",
+        "matplotlib.pyplot.ylabel"
     ],
     "7": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "8": [
-        "matplotlib.pyplot.ylabel",
-        "matplotlib.pyplot.plot",
-        "numpy.core.function_base.linspace",
         "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "matplotlib.pyplot.plot",
+        "numpy.RandomState.randint",
+        "matplotlib.pyplot.ylabel",
+        "numpy.core.function_base.linspace"
     ],
     "9": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "10": [
-        "matplotlib.pyplot.ylabel",
-        "matplotlib.pyplot.plot",
-        "numpy.core.function_base.linspace",
         "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "matplotlib.pyplot.plot",
+        "numpy.RandomState.randint",
+        "matplotlib.pyplot.ylabel",
+        "numpy.core.function_base.linspace"
     ],
     "11": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "12": [
-        "matplotlib.pyplot.ylabel",
-        "matplotlib.pyplot.plot",
-        "numpy.core.function_base.linspace",
         "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "matplotlib.pyplot.plot",
+        "numpy.RandomState.randint",
+        "matplotlib.pyplot.ylabel",
+        "numpy.core.function_base.linspace"
     ],
     "13": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "14": [
-        "matplotlib.pyplot.ylabel",
-        "matplotlib.pyplot.plot",
-        "numpy.core.function_base.linspace",
         "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "matplotlib.pyplot.plot",
+        "numpy.RandomState.randint",
+        "matplotlib.pyplot.ylabel",
+        "numpy.core.function_base.linspace"
     ],
     "15": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "16": [
-        "matplotlib.pyplot.ylabel",
-        "matplotlib.pyplot.plot",
-        "numpy.core.function_base.linspace",
         "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "matplotlib.pyplot.plot",
+        "numpy.RandomState.randint",
+        "matplotlib.pyplot.ylabel",
+        "numpy.core.function_base.linspace"
     ],
     "17": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "18": [
-        "numpy.RandomState.randint",
-        "<list>.append"
+        "<list>.append",
+        "numpy.RandomState.randint"
     ],
     "19": [
+        "matplotlib.pyplot.xlabel",
+        "<list>.append",
+        "numpy.RandomState.randint",
         "matplotlib.pyplot.ylabel",
         "matplotlib.pyplot.plot",
         "numpy.core.function_base.linspace",
-        "<list>.append",
-        "nb_62337.random_spectra_generator:18",
-        "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "nb_62337.random_spectra_generator:18"
     ],
     "20": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "22": [
+        "matplotlib.pyplot.xlabel",
+        "<list>.append",
+        "numpy.RandomState.randint",
         "matplotlib.pyplot.ylabel",
         "matplotlib.pyplot.plot",
         "numpy.core.function_base.linspace",
-        "<list>.append",
-        "nb_62337.random_spectra_generator:18",
-        "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "nb_62337.random_spectra_generator:18"
     ],
     "23": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "24": [
+        "matplotlib.pyplot.xlabel",
+        "<list>.append",
+        "numpy.RandomState.randint",
         "matplotlib.pyplot.ylabel",
         "matplotlib.pyplot.plot",
         "numpy.core.function_base.linspace",
-        "<list>.append",
-        "nb_62337.random_spectra_generator:18",
-        "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "nb_62337.random_spectra_generator:18"
     ],
     "25": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "26": [
+        "matplotlib.pyplot.xlabel",
+        "<list>.append",
+        "numpy.RandomState.randint",
         "matplotlib.pyplot.ylabel",
         "matplotlib.pyplot.plot",
         "numpy.core.function_base.linspace",
-        "<list>.append",
-        "nb_62337.random_spectra_generator:18",
-        "matplotlib.pyplot.xlabel",
-        "numpy.RandomState.randint"
+        "nb_62337.random_spectra_generator:18"
     ],
     "27": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "nb_62337.peak_finder:4",
-        "matplotlib.pyplot.plot",
         "<list>.append",
-        "nb_62337.plotting_max:5"
+        "<builtin>.len",
+        "nb_62337.plotting_max:5",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.peak_finder:4",
+        "matplotlib.pyplot.plot"
     ],
     "28": [
+        "<list>.append",
         "<builtin>.len",
-        "numpy.RandomState.randint",
-        "<list>.append"
+        "numpy.RandomState.randint"
     ],
     "29": [
-        "matplotlib.pyplot.ylabel",
         "matplotlib.pyplot.xlabel",
-        "matplotlib.pyplot.plot",
-        "numpy.core.function_base.linspace",
-        "numpy.RandomState.randint",
         "<list>.append",
-        "nb_62337.random_spectra_generator:28"
+        "numpy.RandomState.randint",
+        "matplotlib.pyplot.ylabel",
+        "nb_62337.random_spectra_generator:28",
+        "matplotlib.pyplot.plot",
+        "numpy.core.function_base.linspace"
     ],
     "30": [
-        "matplotlib.pyplot.ylabel",
-        "<builtin>.len",
         "matplotlib.pyplot.xlabel",
-        "matplotlib.pyplot.plot",
+        "<list>.append",
+        "<builtin>.len",
+        "matplotlib.pyplot.ylabel",
         "nb_62337.peak_finder:28",
         "nb_62337.plotting_max:28",
-        "<list>.append"
+        "matplotlib.pyplot.plot"
     ]
 }

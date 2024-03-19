@@ -16,42 +16,43 @@
         "<builtin>.len"
     ],
     "7": [
-        "sklearn.linear_model._logistic.LogisticRegression",
         "sklearn.pipeline.make_pipeline",
-        "sklearn.feature_extraction.text.CountVectorizer"
+        "sklearn.feature_extraction.text.CountVectorizer",
+        "sklearn.linear_model._logistic.LogisticRegression"
     ],
     "8": [
-        "sklearn.cross_validation.cross_val_score",
-        "sklearn.cross_validation.StratifiedKFold"
+        "sklearn.cross_validation.StratifiedKFold",
+        "sklearn.model_selection.cross_val_score",
+        "numpy.core.fromnumeric.mean"
     ],
     "9": [
         "<builtin>.open",
         "nb_6005.write_answer:2"
     ],
     "10": [
-        "sklearn.pipeline.make_pipeline",
-        "nb_6005.<list7>.fit",
-        "sklearn.linear_model._logistic.LogisticRegression",
         "sklearn.feature_extraction.text.CountVectorizer",
-        "nb_6005.<list6>.fit"
+        "sklearn.linear_model._logistic.LogisticRegression",
+        "sklearn.pipeline.make_pipeline",
+        "sklearn.pipeline.fit"
     ],
     "12": [
-        "nb_6005.<list6>.predict",
-        "nb_6005.<list7>.predict"
+        "sklearn.pipeline.predict",
+        "sklearn.pipeline.predict"
     ],
     "13": [
         "<builtin>.open",
         "nb_6005.write_answer:2"
     ],
     "14": [
-        "sklearn.linear_model._logistic.LogisticRegression",
         "sklearn.pipeline.make_pipeline",
-        "sklearn.feature_extraction.text.CountVectorizer"
+        "sklearn.feature_extraction.text.CountVectorizer",
+        "sklearn.linear_model._logistic.LogisticRegression"
     ],
     "15": [
-        "sklearn.cross_validation.cross_val_score",
+        "sklearn.cross_validation.StratifiedKFold",
         "<builtin>.print",
-        "sklearn.cross_validation.StratifiedKFold"
+        "sklearn.model_selection.cross_val_score",
+        "numpy.core.fromnumeric.mean"
     ],
     "16": [
         "<builtin>.open",
@@ -59,43 +60,47 @@
     ],
     "18": [
         "sklearn.naive_bayes.MultinomialNB",
-        "sklearn.pipeline.make_pipeline",
-        "sklearn.feature_extraction.text.CountVectorizer"
+        "sklearn.feature_extraction.text.CountVectorizer",
+        "sklearn.pipeline.make_pipeline"
     ],
     "19": [
-        "sklearn.cross_validation.cross_val_score",
+        "sklearn.cross_validation.StratifiedKFold",
         "<builtin>.print",
-        "sklearn.cross_validation.StratifiedKFold"
+        "sklearn.model_selection.cross_val_score",
+        "numpy.core.fromnumeric.mean"
     ],
     "20": [
         "<builtin>.open",
         "nb_6005.write_answer:2"
     ],
     "21": [
-        "sklearn.pipeline.make_pipeline",
-        "sklearn.linear_model._logistic.LogisticRegression",
         "sklearn.cross_validation.StratifiedKFold",
-        "sklearn.cross_validation.cross_val_score",
-        "sklearn.feature_extraction.text.TfidfVectorizer"
+        "sklearn.feature_extraction.text.TfidfVectorizer",
+        "sklearn.linear_model._logistic.LogisticRegression",
+        "sklearn.pipeline.make_pipeline",
+        "sklearn.model_selection.cross_val_score",
+        "numpy.core.fromnumeric.mean"
     ],
     "22": [
         "<builtin>.open",
         "nb_6005.write_answer:2"
     ],
     "24": [
-        "sklearn.cross_validation.cross_val_score",
-        "sklearn.feature_extraction.text.CountVectorizer.fit_transform",
         "sklearn.cross_validation.StratifiedKFold",
-        "sklearn.feature_extraction.text.CountVectorizer"
+        "sklearn.feature_extraction.text.CountVectorizer",
+        "sklearn.feature_extraction.text.CountVectorizer.fit_transform",
+        "sklearn.model_selection.cross_val_score",
+        "numpy.core.fromnumeric.mean"
     ],
     "25": [
+        "sklearn.feature_extraction.text.CountVectorizer",
+        "<builtin>.print",
+        "sklearn.model_selection.cross_val_score",
+        "numpy.core.fromnumeric.mean",
+        "sklearn.cross_validation.StratifiedKFold",
         "nb_6005.get_score:24",
         "sklearn.feature_extraction.text.CountVectorizer.fit_transform",
-        "sklearn.cross_validation.cross_val_score",
-        "sklearn.naive_bayes.MultinomialNB",
-        "<builtin>.print",
-        "sklearn.cross_validation.StratifiedKFold",
-        "sklearn.feature_extraction.text.CountVectorizer"
+        "sklearn.naive_bayes.MultinomialNB"
     ],
     "26": [
         "<builtin>.open",

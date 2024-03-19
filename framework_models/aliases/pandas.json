@@ -6,5 +6,6 @@
     "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum": "pandas.core.generic.NDFrame._add_numeric_operations",
     "pandas.core.generic.NDFrame.as_matrix": "pandas.core.frame.DataFrame.to_numpy",
     "pandas.core.frame.DataFrame.from_csv": "pandas.read_csv",
+    "pandas.core.frame.DataFrame.as_matrix": "pandas.core.frame.DataFrame.to_numpy",
     "pandas.core.frame.DataFrame.T": "pandas.core.frame.DataFrame"
 }

@@ -40,38 +40,41 @@
         "pandas.core.reshape.concat.concat"
     ],
     "15": [
-        "re.sub",
         "nltk.tokenize.word_tokenize",
-        "nltk.stem.snowball.SnowballStemmer.stem",
+        "re.sub",
         "nltk.stem.snowball.SnowballStemmer"
     ],
     "16": [
         "sklearn.svm._classes.LinearSVC",
-        "sklearn.pipeline.Pipeline",
-        "sklearn.feature_extraction.text.TfidfVectorizer"
+        "sklearn.feature_extraction.text.TfidfVectorizer",
+        "sklearn.pipeline.Pipeline"
     ],
     "17": [
         "sklearn.pipeline.Pipeline.fit"
     ],
     "18": [
-        "<builtin>.print",
+        "sklearn.pipeline.Pipeline.predict",
         "sklearn.metrics._classification.accuracy_score",
-        "sklearn.metrics._classification.classification_report"
+        "sklearn.metrics._classification.classification_report",
+        "<builtin>.print"
     ],
     "19": [
-        "<builtin>.print",
+        "sklearn.pipeline.Pipeline.predict",
         "sklearn.metrics._classification.accuracy_score",
-        "sklearn.metrics._classification.classification_report"
+        "sklearn.metrics._classification.classification_report",
+        "<builtin>.print"
     ],
     "20": [
-        "<builtin>.print",
+        "sklearn.pipeline.Pipeline.predict",
         "sklearn.metrics._classification.accuracy_score",
-        "sklearn.metrics._classification.classification_report"
+        "sklearn.metrics._classification.classification_report",
+        "<builtin>.print"
     ],
     "21": [
-        "<builtin>.print",
+        "sklearn.pipeline.Pipeline.predict",
         "sklearn.metrics._classification.accuracy_score",
-        "sklearn.metrics._classification.classification_report"
+        "sklearn.metrics._classification.classification_report",
+        "<builtin>.print"
     ],
     "22": [
         "<builtin>.open",

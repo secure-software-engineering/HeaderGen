@@ -1,8 +1,8 @@
 {
     "2": [
-        "<builtin>.len",
-        "<list>.append",
         "<builtin>.str",
+        "<list>.append",
+        "<builtin>.len",
         "<builtin>.range"
     ],
     "3": [
@@ -11,7 +11,9 @@
     ],
     "4": [
         "<builtin>.map",
-        "<builtin>.list"
+        "<builtin>.list",
+        "<builtin>.str.strip",
+        "<builtin>.str.lower"
     ],
     "6": [
         "pandas.core.series.Series.isin"
@@ -21,22 +23,31 @@
     ],
     "9": [
         "<builtin>.map",
-        "<builtin>.list"
+        "<builtin>.list",
+        "datetime.date",
+        "datetime.time"
+    ],
+    "10": [
+        "datetime.datetime.weekday"
     ],
     "11": [
-        "<builtin>.len",
         "<list>.append",
+        "<builtin>.len",
         "<builtin>.range"
     ],
     "12": [
+        "<list>.append",
         "<builtin>.len",
         "<builtin>.float",
-        "<list>.append",
         "<builtin>.range"
+    ],
+    "17": [
+        "datetime.timedelta.total_seconds"
     ],
     "22": [
         "<builtin>.map",
-        "<builtin>.list"
+        "<builtin>.list",
+        "datetime.date"
     ],
     "23": [
         "pandas.core.generic.NDFrame.head"
@@ -48,11 +59,21 @@
     "25": [
         "pandas.core.series.Series.reset_index"
     ],
-    "30": [
-        "pandas.core.series.Series.sort_values",
-        "pandas.core.groupby.groupby.GroupBy.sum",
+    "28": [
+        "pandas.core.frame.DataFrame.sort_values",
         "pandas.core.frame.DataFrame.groupby",
-        "pandas.core.frame.DataFrame.sort_values"
+        "pandas.core.groupby.groupby.GroupBy.sum"
+    ],
+    "29": [
+        "pandas.core.frame.DataFrame.reset_index"
+    ],
+    "30": [
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.groupby.GroupBy.sum",
+        "pandas.core.series.Series.sort_values"
+    ],
+    "31": [
+        "pandas.core.frame.DataFrame.reset_index"
     ],
     "32": [
         "pandas.core.reshape.merge.merge"
@@ -64,29 +85,46 @@
         "pandas.core.generic.NDFrame.head"
     ],
     "37": [
-        "matplotlib.pyplot.ylabel",
-        "matplotlib.pyplot.title",
         "matplotlib.pyplot.xlabel",
         "matplotlib.pyplot.xticks",
-        "seaborn.categorical.factorplot"
+        "seaborn.categorical.factorplot",
+        "matplotlib.pyplot.title",
+        "matplotlib.pyplot.ylabel"
     ],
     "38": [
-        "matplotlib.pyplot.xlabel"
+        "matplotlib.pyplot.xlabel",
+        "pandas.plotting._core.PlotAccessor"
     ],
     "39": [
-        "pandas.core.series.Series.sort_values",
-        "pandas.core.groupby.groupby.GroupBy.sum",
+        "pandas.core.frame.DataFrame.sort_values",
         "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.groupby.GroupBy.sum"
+    ],
+    "40": [
+        "pandas.core.frame.DataFrame.reset_index"
+    ],
+    "41": [
         "pandas.core.frame.DataFrame.sort_values"
     ],
-    "46": [
-        "pandas.core.series.Series.sort_values",
-        "pandas.core.groupby.groupby.GroupBy.sum",
+    "42": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "43": [
+        "pandas.core.frame.DataFrame.sort_values",
         "pandas.core.frame.DataFrame.groupby",
-        "pandas.core.frame.DataFrame.sort_values"
+        "pandas.core.groupby.groupby.GroupBy.sum"
+    ],
+    "44": [
+        "pandas.core.generic.NDFrame.to_csv"
+    ],
+    "46": [
+        "pandas.core.frame.DataFrame.sort_values",
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.groupby.groupby.GroupBy.sum"
     ],
     "48": [
         "matplotlib.pyplot.xlabel",
-        "matplotlib.pyplot.title"
+        "matplotlib.pyplot.title",
+        "pandas.plotting._core.PlotAccessor"
     ]
 }

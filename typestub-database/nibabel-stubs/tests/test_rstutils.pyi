@@ -1,0 +1,3 @@
+from ..rstutils import rst_table as rst_table
+
+def test_rst_table() -> None: ...

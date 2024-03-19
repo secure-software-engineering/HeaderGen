@@ -32,6 +32,7 @@ ML_MODULES = {
     "sklearn": os.path.join(DATA_SCIECE_STUBS_DIR, "sklearn-stubs"),
     "statsmodels": os.path.join(DATA_SCIECE_STUBS_DIR, "statsmodels-stubs"),
     "seaborn": os.path.join(DATA_SCIECE_STUBS_DIR, "seaborn-stubs"),
+    "nibabel": os.path.join(DATA_SCIECE_STUBS_DIR, "nibabel-stubs"),
 }
 
 type_stub_dirs = {
@@ -140,6 +141,8 @@ class TypeStubManager:
         self.functions_info = {}
 
         self.pytd_cache = PYTD_CACHE
+
+        self.already_tried_importing = []
 
     def load_library_into_memory(self, library):
         try:
@@ -541,6 +544,7 @@ class TypeStubManager:
             "asof",
             "assign",
             "astype",
+            "as_matrix",
             "at",
             "at_time",
             "attrs",
@@ -833,6 +837,8 @@ class TypeStubManager:
             _type = _pyi.value.Lookup(named_type).type
             return _type
 
+        func_name = check_alias(func_name)
+
         hashed_ref = f"{func_name}"
         # if hashed_ref in TypeStubManager.RETURN_INFO_CACHE:
         #     return TypeStubManager.RETURN_INFO_CACHE[hashed_ref]
@@ -875,7 +881,18 @@ class TypeStubManager:
                     if _combo not in self.inspect_module_imports:
                         # HACK: find how to handle importing main lib
                         # self.load_library_into_memory(_combo)
-                        continue
+                        try:
+                            if _combo not in self.inspect_module_imports:
+                                if _combo not in self.already_tried_importing:
+                                    self.inspect_module_imports[
+                                        _combo
+                                    ] = importlib.import_module(_combo)
+                                    importlib.invalidate_caches()
+                        except Exception as e:
+                            if _combo not in self.already_tried_importing:
+                                self.already_tried_importing.append(_combo)
+                                print(e)
+                            continue
 
                     inspect_info = self.get_inspect_info(_combo, func_name)
                     # if "count" in inspect_info["fullns"]:
@@ -971,6 +988,14 @@ class TypeStubManager:
                 res_dict = None
 
         else:
+            for _combo in combos:
+                try:
+                    inspect_info = self.get_inspect_info(_combo, func_name)
+                except Exception as e:
+                    pass
+                    # ignore
+                if inspect_info:
+                    break
             if inspect_info:
                 res_dict = {
                     "return_type": None,

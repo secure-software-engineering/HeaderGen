@@ -45,13 +45,13 @@ def measure_recall(actual, expected):
         for item in expected[node]:
             if actual.get(node, None) == None:
                 not_found_counter.append(item)
-                # print(node, ": ", item)
+                print(node, ": ", item)
                 continue
             if item in actual[node]:
                 num_caught += 1
             else:
                 not_found_counter.append(item)
-                # print(node, ": ", item)
+                print(node, ": ", item)
     if num_all == 0:
         num_all = 1
     return float(num_caught) / float(num_all)
@@ -98,7 +98,7 @@ def compare(notebooks_path, actual_path, expected_path, results_path):
     cnt = 0
     data = {}
     for project in projects:
-        # print("\n# Project: ", project)
+        print("\n# Project: ", project)
         actual = read_json(os.path.join(actual_path, project + "-cs.json"))
         expected = read_json(os.path.join(expected_path, project + ".json"))
 
@@ -113,7 +113,7 @@ def compare(notebooks_path, actual_path, expected_path, results_path):
             "recall": round(recall * 100, 1),
         }
 
-        # print("\n")
+        print("\n")
     write_results(data, results_path)
 
 
