@@ -644,7 +644,7 @@ class DataFrame(NDFrame, OpsMixin):
         na_position: str = ...,
         ignore_index: bool = ...,
         key: ValueKeyFunc = ...,
-    ): ...
+    ) -> DataFrame: ...
     def sort_index(
         self,
         axis: Axis = ...,
@@ -656,7 +656,7 @@ class DataFrame(NDFrame, OpsMixin):
         sort_remaining: bool = ...,
         ignore_index: bool = ...,
         key: IndexKeyFunc = ...,
-    ): ...
+    ) -> DataFrame: ...
     def value_counts(
         self,
         subset: Union[Sequence[Hashable], None] = ...,
@@ -664,7 +664,7 @@ class DataFrame(NDFrame, OpsMixin):
         sort: bool = ...,
         ascending: bool = ...,
         dropna: bool = ...,
-    ): ...
+    ) -> Series: ...
     def nlargest(self, n: int, columns: IndexLabel, keep: str = ...) -> DataFrame: ...
     def nsmallest(self, n: int, columns: IndexLabel, keep: str = ...) -> DataFrame: ...
     def swaplevel(

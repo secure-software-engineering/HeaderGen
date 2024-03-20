@@ -22,8 +22,8 @@
     ],
     "8": [
         "sklearn.cross_validation.StratifiedKFold",
-        "sklearn.model_selection.cross_val_score",
-        "numpy.core.fromnumeric.mean"
+        "sklearn.model_selection._validation.cross_val_score",
+        "numpy.ndarray.mean"
     ],
     "9": [
         "<builtin>.open",
@@ -51,8 +51,8 @@
     "15": [
         "sklearn.cross_validation.StratifiedKFold",
         "<builtin>.print",
-        "sklearn.model_selection.cross_val_score",
-        "numpy.core.fromnumeric.mean"
+        "sklearn.model_selection._validation.cross_val_score",
+        "numpy.ndarray.mean"
     ],
     "16": [
         "<builtin>.open",
@@ -66,8 +66,8 @@
     "19": [
         "sklearn.cross_validation.StratifiedKFold",
         "<builtin>.print",
-        "sklearn.model_selection.cross_val_score",
-        "numpy.core.fromnumeric.mean"
+        "sklearn.model_selection._validation.cross_val_score",
+        "numpy.ndarray.mean"
     ],
     "20": [
         "<builtin>.open",
@@ -78,8 +78,8 @@
         "sklearn.feature_extraction.text.TfidfVectorizer",
         "sklearn.linear_model._logistic.LogisticRegression",
         "sklearn.pipeline.make_pipeline",
-        "sklearn.model_selection.cross_val_score",
-        "numpy.core.fromnumeric.mean"
+        "sklearn.model_selection._validation.cross_val_score",
+        "numpy.ndarray.mean"
     ],
     "22": [
         "<builtin>.open",
@@ -89,14 +89,14 @@
         "sklearn.cross_validation.StratifiedKFold",
         "sklearn.feature_extraction.text.CountVectorizer",
         "sklearn.feature_extraction.text.CountVectorizer.fit_transform",
-        "sklearn.model_selection.cross_val_score",
-        "numpy.core.fromnumeric.mean"
+        "sklearn.model_selection._validation.cross_val_score",
+        "numpy.ndarray.mean"
     ],
     "25": [
         "sklearn.feature_extraction.text.CountVectorizer",
         "<builtin>.print",
-        "sklearn.model_selection.cross_val_score",
-        "numpy.core.fromnumeric.mean",
+        "sklearn.model_selection._validation.cross_val_score",
+        "numpy.ndarray.mean",
         "sklearn.cross_validation.StratifiedKFold",
         "nb_6005.get_score:24",
         "sklearn.feature_extraction.text.CountVectorizer.fit_transform",

@@ -48,7 +48,7 @@
         "matplotlib.pyplot.show",
         "<builtin>.print",
         "matplotlib.pyplot.hist",
-        "numpy.core.fromnumeric.mean"
+        "numpy.ndarray.mean"
     ],
     "19": [
         "sklearn.base.TransformerMixin.fit_transform",
@@ -65,7 +65,7 @@
         "matplotlib.pyplot.show",
         "<builtin>.print",
         "matplotlib.pyplot.hist",
-        "numpy.core.fromnumeric.mean"
+        "numpy.ndarray.mean"
     ],
     "22": [
         "sklearn.linear_model._ridge.Ridge",
@@ -73,7 +73,7 @@
         "sklearn.model_selection._split.train_test_split",
         "matplotlib.pyplot.show",
         "matplotlib.pyplot.hist",
-        "numpy.core.fromnumeric.mean",
+        "numpy.ndarray.mean",
         "numpy.core.fromnumeric.reshape",
         "sklearn.linear_model._ridge.Ridge.fit",
         "sklearn.linear_model._base.LinearModel.predict"

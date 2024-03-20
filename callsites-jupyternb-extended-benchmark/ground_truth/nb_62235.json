@@ -6,12 +6,12 @@
         "pandas.io.parsers.readers.read_csv"
     ],
     "4": [
-        "numpy.core.fromnumeric.mean",
+        "numpy.ndarray.mean",
         "numpy.core.fromnumeric.sum",
         "pandas.core.series.Series.sort_values",
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.max",
         "numpy.zeros",
-        "numpy.median",
+        "numpy.lib.function_base.median",
         "<builtin>.len",
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.min",
         "pandas.core.frame.DataFrame.drop_duplicates",
@@ -28,12 +28,12 @@
     ],
     "6": [
         "nb_62235.f:4",
-        "numpy.core.fromnumeric.mean",
+        "numpy.ndarray.mean",
         "numpy.core.fromnumeric.sum",
         "pandas.core.series.Series.sort_values",
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.max",
         "numpy.zeros",
-        "numpy.median",
+        "numpy.lib.function_base.median",
         "<builtin>.len",
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.min",
         "pandas.core.frame.DataFrame.drop_duplicates",
@@ -87,9 +87,9 @@
         "sklearn.metrics._classification.f1_score"
     ],
     "16": [
-        "numpy.core.fromnumeric.mean",
+        "numpy.ndarray.mean",
         "<builtin>.print",
-        "numpy.median"
+        "numpy.lib.function_base.median"
     ],
     "17": [
         "numpy.array",
