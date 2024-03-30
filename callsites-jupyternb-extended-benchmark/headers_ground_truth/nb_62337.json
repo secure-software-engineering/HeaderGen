@@ -1,7 +1,5 @@
 {
-    "1": [
-        ""
-    ],
+    "1": [],
     "2": [
         "Library Loading"
     ],
@@ -67,9 +65,7 @@
     "20": [
         "Visualization"
     ],
-    "21": [
-        ""
-    ],
+    "21": [],
     "22": [
         "Data Preparation",
         "Visualization"

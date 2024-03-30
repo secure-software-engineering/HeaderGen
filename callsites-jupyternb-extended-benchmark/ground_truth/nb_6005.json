@@ -23,7 +23,7 @@
     "8": [
         "sklearn.cross_validation.StratifiedKFold",
         "sklearn.model_selection._validation.cross_val_score",
-        "numpy.ndarray.mean"
+        "numpy.core.fromnumeric.mean"
     ],
     "9": [
         "<builtin>.open",
@@ -52,7 +52,7 @@
         "sklearn.cross_validation.StratifiedKFold",
         "<builtin>.print",
         "sklearn.model_selection._validation.cross_val_score",
-        "numpy.ndarray.mean"
+        "numpy.core.fromnumeric.mean"
     ],
     "16": [
         "<builtin>.open",
@@ -67,7 +67,7 @@
         "sklearn.cross_validation.StratifiedKFold",
         "<builtin>.print",
         "sklearn.model_selection._validation.cross_val_score",
-        "numpy.ndarray.mean"
+        "numpy.core.fromnumeric.mean"
     ],
     "20": [
         "<builtin>.open",
@@ -79,7 +79,7 @@
         "sklearn.linear_model._logistic.LogisticRegression",
         "sklearn.pipeline.make_pipeline",
         "sklearn.model_selection._validation.cross_val_score",
-        "numpy.ndarray.mean"
+        "numpy.core.fromnumeric.mean"
     ],
     "22": [
         "<builtin>.open",
@@ -90,13 +90,13 @@
         "sklearn.feature_extraction.text.CountVectorizer",
         "sklearn.feature_extraction.text.CountVectorizer.fit_transform",
         "sklearn.model_selection._validation.cross_val_score",
-        "numpy.ndarray.mean"
+        "numpy.core.fromnumeric.mean"
     ],
     "25": [
         "sklearn.feature_extraction.text.CountVectorizer",
         "<builtin>.print",
         "sklearn.model_selection._validation.cross_val_score",
-        "numpy.ndarray.mean",
+        "numpy.core.fromnumeric.mean",
         "sklearn.cross_validation.StratifiedKFold",
         "nb_6005.get_score:24",
         "sklearn.feature_extraction.text.CountVectorizer.fit_transform",

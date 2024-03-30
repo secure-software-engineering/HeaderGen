@@ -6,7 +6,7 @@
         "pandas.io.parsers.readers.read_csv"
     ],
     "4": [
-        "numpy.ndarray.mean",
+        "numpy.core.fromnumeric.mean",
         "numpy.core.fromnumeric.sum",
         "pandas.core.series.Series.sort_values",
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.max",
@@ -28,7 +28,7 @@
     ],
     "6": [
         "nb_62235.f:4",
-        "numpy.ndarray.mean",
+        "numpy.core.fromnumeric.mean",
         "numpy.core.fromnumeric.sum",
         "pandas.core.series.Series.sort_values",
         "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.max",
@@ -87,7 +87,7 @@
         "sklearn.metrics._classification.f1_score"
     ],
     "16": [
-        "numpy.ndarray.mean",
+        "numpy.core.fromnumeric.mean",
         "<builtin>.print",
         "numpy.lib.function_base.median"
     ],

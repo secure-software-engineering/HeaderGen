@@ -2,9 +2,7 @@
     "1": [
         "Library Loading"
     ],
-    "2": [
-        ""
-    ],
+    "2": [],
     "3": [
         "Model Building and Training"
     ],
@@ -31,15 +29,11 @@
     "10": [
         "Data Preparation"
     ],
-    "11": [
-        ""
-    ],
+    "11": [],
     "12": [
         "Data Preparation"
     ],
-    "13": [
-        ""
-    ],
+    "13": [],
     "14": [
         "Data Preparation"
     ],
@@ -55,9 +49,7 @@
     "18": [
         "Data Preparation"
     ],
-    "19": [
-        ""
-    ],
+    "19": [],
     "20": [
         "Data Preparation"
     ],
@@ -67,12 +59,8 @@
     "22": [
         "Data Preparation"
     ],
-    "23": [
-        ""
-    ],
-    "24": [
-        ""
-    ],
+    "23": [],
+    "24": [],
     "25": [
         "Model Building and Training"
     ],

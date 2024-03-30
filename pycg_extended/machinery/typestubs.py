@@ -1037,14 +1037,14 @@ class TypeStubManager:
         res_dict = {}
 
         if filename and node:
-            if isinstance(node, ast.Import):
-                print("")
-            elif isinstance(node, ast.ImportFrom):
-                print("")
-            elif isinstance(node, ast.Attribute):
-                print("")
+            # if isinstance(node, ast.Import):
+            #     print("")
+            # elif isinstance(node, ast.ImportFrom):
+            #     print("")
+            # elif isinstance(node, ast.Attribute):
+            #     print("")
 
-            print(node)
+            # print(node)
             try:
                 code = open(filename).read()
 
@@ -1120,10 +1120,10 @@ class TypeStubManager:
             TypeStubManager.RETURN_INFO_CACHE[hashed_ref] = res_dict_jedi
 
         # uncomment to deactivate debugging mode
-        if all([not bool(v) for v in res_dict_jedi.values()]):
-            return None
-        else:
-            return res_dict_jedi
+        # if all([not bool(v) for v in res_dict_jedi.values()]):
+        #     return None
+        # else:
+        #     return res_dict_jedi
 
         module_name = func_name.split(".")[0]
 
@@ -1246,6 +1246,7 @@ class TypeStubManager:
                 if res_dict_jedi.get("type_of_def") == res_dict.get("type_of_def"):
                     print("#>>> Almost Equal!, but not doc", func_name)
                     print("\n>>>###############\n\n")
+                    res_dict_jedi["doc_string"] = res_dict["doc_string"]
 
         else:
             if not res_dict and all([not bool(v) for v in res_dict_jedi.values()]):

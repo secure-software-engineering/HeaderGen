@@ -739,15 +739,16 @@ class ProcessingBase(ast.NodeVisitor):
                             # _obj_sensitive_name = f"{ext_info['return_name']}<{node.lineno}>"
 
                             _obj_sensitive_name = ext_info["return_name"]
-                            if not self.def_manager.get(_obj_sensitive_name):
-                                self.def_manager.create(
-                                    _obj_sensitive_name,
-                                    utils.constants.EXT_FUN_DEF,
-                                    class_ref=ext_info["return_name"],
-                                    ext_def_type=ext_info["type_of_def"],
-                                )
+                            if _obj_sensitive_name:
+                                if not self.def_manager.get(_obj_sensitive_name):
+                                    self.def_manager.create(
+                                        _obj_sensitive_name,
+                                        utils.constants.EXT_FUN_DEF,
+                                        class_ref=ext_info["return_name"],
+                                        ext_def_type=ext_info["type_of_def"],
+                                    )
 
-                            names.add(_obj_sensitive_name)
+                                names.add(_obj_sensitive_name)
                         elif ext_info["type_of_def"] == None:
                             _obj_sensitive_name = (
                                 f"{ext_info['return_name']}<{node.lineno}>"

@@ -31,8 +31,8 @@
     ],
     "12": [
         "sklearn.impute._base.SimpleImputer",
-        "sklearn.impute._base.fit",
-        "sklearn.impute._base.transform"
+        "sklearn.impute._base.SimpleImputer.transform",
+        "sklearn.impute._base.SimpleImputer.fit"
     ],
     "13": [
         "numpy.core._multiarray_umath.concatenate"
@@ -48,7 +48,7 @@
         "matplotlib.pyplot.show",
         "<builtin>.print",
         "matplotlib.pyplot.hist",
-        "numpy.ndarray.mean"
+        "numpy.core.fromnumeric.mean"
     ],
     "19": [
         "sklearn.base.TransformerMixin.fit_transform",
@@ -65,7 +65,7 @@
         "matplotlib.pyplot.show",
         "<builtin>.print",
         "matplotlib.pyplot.hist",
-        "numpy.ndarray.mean"
+        "numpy.core.fromnumeric.mean"
     ],
     "22": [
         "sklearn.linear_model._ridge.Ridge",
@@ -73,7 +73,7 @@
         "sklearn.model_selection._split.train_test_split",
         "matplotlib.pyplot.show",
         "matplotlib.pyplot.hist",
-        "numpy.ndarray.mean",
+        "numpy.core.fromnumeric.mean",
         "numpy.core.fromnumeric.reshape",
         "sklearn.linear_model._ridge.Ridge.fit",
         "sklearn.linear_model._base.LinearModel.predict"
