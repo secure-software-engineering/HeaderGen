@@ -278,6 +278,11 @@ def add_phase_info_to_source(
             if _phase in phases:
                 # if _phase in _block_value["dl_pipeline_tag"]:
                 phase_cell_mapping[_phase].append(_block_key)
+                # Also add to high-level category
+                high_level_phase = get_high_level_phase(_phase)
+                if high_level_phase in phase_cell_mapping:
+                    if _block_key not in phase_cell_mapping[high_level_phase]:
+                        phase_cell_mapping[high_level_phase].append(_block_key)
                 # print(_phase, "in", _block_key)
 
     # Add imports info to markdown
@@ -565,9 +570,9 @@ def get_cell_summaries(py_ntbk, hg_visitor):
                             ] = _func_ds
 
                         if _lineno in hg_visitor.call_args_line_no:
-                            block_mapping[_block_key]["call_args"][
-                                _lineno
-                            ] = hg_visitor.call_args_line_no[_lineno]
+                            block_mapping[_block_key]["call_args"][_lineno] = (
+                                hg_visitor.call_args_line_no[_lineno]
+                            )
 
             else:
                 if (

@@ -547,7 +547,7 @@ class HeaderGenVisitor(ast.NodeVisitor):
         # P1 --> df['xy'] = df.x * df.y
         try:
             is_left_dataframe_access = self.is_dataframe_access(node.left)
-            is_right_dataframe_access = self.is_dataframe_access(node.left)
+            is_right_dataframe_access = self.is_dataframe_access(node.right)
             if any([is_left_dataframe_access, is_right_dataframe_access]):
                 self.add_pattern_match(node, PIPELINE_PHASES["FEATURE_TRANSFORMATION"])
         except:
