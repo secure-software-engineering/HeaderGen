@@ -4,11 +4,13 @@
 <img src="headergen.png" width="500" align="center">
 </p>
 
-![](preview.gif)
-
 HeaderGen is a tool-based approach to enhance the comprehension and navigation of undocumented Python based Jupyter notebooks by automatically creating a narrative structure in the notebook.
 
 Data scientists build an ML-based solution notebook by first preparing the data, then extracting key features, and then creating and training the model. HeaderGen leverages the implicit narrative structure of an ML notebook to add structural headers as annotations to the notebook.
+
+## Preview
+
+![](preview.gif)
 
 ## Install HeaderGen
 
