@@ -1,0 +1,67 @@
+{
+    "1": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "2": [
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum",
+        "pandas.core.frame.DataFrame.isnull",
+        "<builtin>.print"
+    ],
+    "3": [
+        "pandas.core.generic.NDFrame._add_numeric_operations.<locals>.sum",
+        "pandas.core.frame.DataFrame.isnull",
+        "<builtin>.print"
+    ],
+    "4": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "5": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "6": [
+        "<builtin>.set"
+    ],
+    "8": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "10": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "11": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "12": [
+        "<builtin>.type"
+    ],
+    "13": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "14": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "15": [
+        "pandas.core.tools.datetimes.to_datetime"
+    ],
+    "16": [
+        "datetime.time",
+        "pandas.core.series.Series.apply"
+    ],
+    "17": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "18": [
+        "datetime.time",
+        "pandas.core.series.Series.apply"
+    ],
+    "19": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "20": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "25": [
+        "pandas.core.tools.datetimes.to_datetime",
+        "pandas.core.series.Series.apply",
+        "datetime.time"
+    ]
+}

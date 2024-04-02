@@ -8,6 +8,10 @@ HeaderGen is a tool-based approach to enhance the comprehension and navigation o
 
 Data scientists build an ML-based solution notebook by first preparing the data, then extracting key features, and then creating and training the model. HeaderGen leverages the implicit narrative structure of an ML notebook to add structural headers as annotations to the notebook.
 
+## Preview
+
+![](preview.gif)
+
 ## Install HeaderGen
 
 ```

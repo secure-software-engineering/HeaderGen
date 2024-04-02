@@ -1,0 +1,3 @@
+from collections.abc import Generator
+
+def chdir_tmpdir(request, tmp_path) -> Generator[None, None, None]: ...

@@ -739,15 +739,16 @@ class ProcessingBase(ast.NodeVisitor):
                             # _obj_sensitive_name = f"{ext_info['return_name']}<{node.lineno}>"
 
                             _obj_sensitive_name = ext_info["return_name"]
-                            if not self.def_manager.get(_obj_sensitive_name):
-                                self.def_manager.create(
-                                    _obj_sensitive_name,
-                                    utils.constants.EXT_FUN_DEF,
-                                    class_ref=ext_info["return_name"],
-                                    ext_def_type=ext_info["type_of_def"],
-                                )
+                            if _obj_sensitive_name:
+                                if not self.def_manager.get(_obj_sensitive_name):
+                                    self.def_manager.create(
+                                        _obj_sensitive_name,
+                                        utils.constants.EXT_FUN_DEF,
+                                        class_ref=ext_info["return_name"],
+                                        ext_def_type=ext_info["type_of_def"],
+                                    )
 
-                            names.add(_obj_sensitive_name)
+                                names.add(_obj_sensitive_name)
                         elif ext_info["type_of_def"] == None:
                             _obj_sensitive_name = (
                                 f"{ext_info['return_name']}<{node.lineno}>"
@@ -899,7 +900,7 @@ class ProcessingBase(ast.NodeVisitor):
 
                 elif isinstance(node.slice, ast.Compare):
                     # handle statements of the form: survived = train[train['Survived']==1]['Survived'].value_counts()
-                    if isinstance(node.slice.left, ast.Subscript):
+                    if isinstance(node.slice.left, (ast.Subscript, ast.Attribute)):
                         nested_sub_decode = self.decode_node(node.slice.left.value)
                         for _nd in nested_sub_decode:
                             if self.closured.get(_nd.get_ns(), None):

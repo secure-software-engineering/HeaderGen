@@ -278,6 +278,11 @@ def add_phase_info_to_source(
             if _phase in phases:
                 # if _phase in _block_value["dl_pipeline_tag"]:
                 phase_cell_mapping[_phase].append(_block_key)
+                # Also add to high-level category
+                high_level_phase = get_high_level_phase(_phase)
+                if high_level_phase in phase_cell_mapping:
+                    if _block_key not in phase_cell_mapping[high_level_phase]:
+                        phase_cell_mapping[high_level_phase].append(_block_key)
                 # print(_phase, "in", _block_key)
 
     # Add imports info to markdown
@@ -565,9 +570,9 @@ def get_cell_summaries(py_ntbk, hg_visitor):
                             ] = _func_ds
 
                         if _lineno in hg_visitor.call_args_line_no:
-                            block_mapping[_block_key]["call_args"][
-                                _lineno
-                            ] = hg_visitor.call_args_line_no[_lineno]
+                            block_mapping[_block_key]["call_args"][_lineno] = (
+                                hg_visitor.call_args_line_no[_lineno]
+                            )
 
             else:
                 if (
@@ -625,6 +630,8 @@ def get_cell_summaries(py_ntbk, hg_visitor):
         tag_list = list(set(block_mapping[_block_key]["dl_pipeline_tag"]))
         if "Builtin Function" in tag_list:
             tag_list.remove("Builtin Function")
+        if "Unknown" in tag_list:
+            tag_list.remove("Unknown")
         if not tag_list:
             for _l in range(_block_value["start"], _block_value["end"] + 1):
                 if _l in hg_visitor.pattern_matches:
@@ -802,6 +809,8 @@ def start_headergen(nb_path, out_path=".", debug_mode=False, create_linted_file=
             )
             if "Builtin Function" in tag_list:
                 tag_list.remove("Builtin Function")
+            if "Unknown" in tag_list:
+                tag_list.remove("Unknown")
             if not tag_list:
                 if _line_no in hg_visitor.pattern_matches:
                     hg_visitor.source_code_tags[_line_no]["dl_pipeline_tag"].extend(

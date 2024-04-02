@@ -1,0 +1,5 @@
+{
+    "sklearn.preprocessing.Imputer": "sklearn.impute.SimpleImputer",
+    "sklearn.cross_validation.train_test_split": "sklearn.model_selection.train_test_split",
+    "sklearn.cross_validation.cross_val_score": "sklearn.model_selection.cross_val_score"
+}

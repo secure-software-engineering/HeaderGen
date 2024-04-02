@@ -1,5 +1,13 @@
 {
     "tensorflow.local_variables_initializer": "tensorflow.compat.v1.local_variables_initializer",
     "tensorflow.metrics": "keras.metrics",
-    "tensorflow.metrics.auc": "keras.metrics.AUC"
+    "tensorflow.metrics.auc": "keras.metrics.AUC",
+    "tensorflow.placeholder": "tensorflow.compat.v1.placeholder",
+    "tensorflow.variable_scope": "tensorflow.compat.v1.variable_scope",
+    "tensorflow.get_variable": "tensorflow.compat.v1.get_variable",
+    "tensorflow._api.v2.nn.relu": "tensorflow.keras.activations.relu",
+    "tensorflow.squared_difference": "tensorflow.math.squared_difference",
+    "tensorflow._api.v2.train.AdamOptimizer": "tensorflow.keras.optimizers.Adam",
+    "tensorflow.Session": "tensorflow.compat.v1.Session",
+    "tensorflow.global_variables_initializer": "tensorflow.compat.v1.global_variables_initializer"
 }

@@ -1,0 +1,63 @@
+{
+    "4": [
+        "pandas.io.parsers.readers.read_csv"
+    ],
+    "8": [
+        "pandas.core.series.Series.apply",
+        "<builtin>.str"
+    ],
+    "9": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "10": [
+        "cv2.imread",
+        "cv2.resize",
+        "<list>.append",
+        "glob.glob"
+    ],
+    "14": [
+        "pandas.core.frame.DataFrame.from_dict"
+    ],
+    "15": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "16": [
+        "pandas.core.frame.DataFrame.merge"
+    ],
+    "17": [
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "20": [
+        "sklearn.model_selection._split.train_test_split"
+    ],
+    "21": [
+        "numpy.array"
+    ],
+    "25": [
+        "keras.src.engine.training.Model.compile",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.reshaping.flatten.Flatten",
+        "keras.src.layers.core.dense.Dense",
+        "<builtin>.print",
+        "keras.layers.convolutional.Convolution2D",
+        "keras.src.engine.training.Model.summary",
+        "keras.src.engine.sequential.Sequential",
+        "keras.constraints.maxnorm"
+    ],
+    "26": [
+        "keras.src.callbacks.ModelCheckpoint"
+    ],
+    "27": [
+        "keras.src.engine.training.Model.compile",
+        "keras.src.engine.sequential.Sequential.add",
+        "keras.src.layers.reshaping.flatten.Flatten",
+        "keras.src.layers.core.dense.Dense",
+        "<builtin>.print",
+        "keras.src.engine.training.Model.fit",
+        "keras.constraints.maxnorm",
+        "keras.layers.convolutional.Convolution2D",
+        "keras.src.engine.training.Model.summary",
+        "keras.src.engine.sequential.Sequential",
+        "nb_24325.baseline_model:25"
+    ]
+}

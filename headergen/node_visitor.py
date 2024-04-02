@@ -1,7 +1,9 @@
-import gast as ast
-from framework_models import PHASES as PIPELINE_PHASES
-from intervaltree import Interval, IntervalTree
 import re
+
+import gast as ast
+from intervaltree import Interval, IntervalTree
+
+from framework_models import PHASES as PIPELINE_PHASES
 
 disable_for_testing_other_implementaions = False
 
@@ -56,6 +58,7 @@ class HeaderGenVisitor(ast.NodeVisitor):
                                     (
                                         "pandas.core.frame.DataFrame",
                                         "numpy.ndarray",
+                                        "pandas.core.series.Series",
                                     )
                                 )
                                 for x in self.analysis_info["eag"][_var_name]["names"]
@@ -79,6 +82,7 @@ class HeaderGenVisitor(ast.NodeVisitor):
                                             (
                                                 "pandas.core.frame.DataFrame",
                                                 "numpy.ndarray",
+                                                "pandas.core.series.Series",
                                             )
                                         )
                                         for x in self.analysis_info["eag"][_var_name][
@@ -424,17 +428,26 @@ class HeaderGenVisitor(ast.NodeVisitor):
         self.generic_visit(node)
 
     def visit_Expr(self, node):
+        node_value_chain = []
+
+        def nested_value(node, arr):
+            if hasattr(node, "value"):
+                arr.append(node.value)
+                nested_value(node.value, arr)
+
         if disable_for_testing_other_implementaions:
             return
         # PATTERN Search - single statement
         try:
             is_dataframe_access = False
             is_dataframe_column_access = False
-            if isinstance(node.value, ast.Name):
+
+            if isinstance(node.value, (ast.Subscript, ast.Attribute, ast.Name)):
                 if node.lineno in self.analysis_info["line_uses"]:
                     _decoded = []
                     for _use in self.analysis_info["line_uses"][node.lineno]:
-                        if get_ns_without_last_lineno(_use) == node.value.id:
+                        nested_value(node, node_value_chain)
+                        if get_ns_without_last_lineno(_use) == node_value_chain[-1].id:
                             _var_name = f"{self.analysis_info['file_name']}.{_use}"
                             if _var_name in self.analysis_info["eag"]:
                                 # P9 --> np.ndarray
@@ -453,34 +466,21 @@ class HeaderGenVisitor(ast.NodeVisitor):
                                     ]
                                 )
 
-            # PATTERN Search - is column access
-            if isinstance(node.value, ast.Subscript):
-                if isinstance(node.value.value, ast.Name):
-                    if node.lineno in self.analysis_info["line_uses"]:
-                        _decoded = []
-                        for _use in self.analysis_info["line_uses"][node.lineno]:
-                            if get_ns_without_last_lineno(_use) == node.value.value.id:
-                                _var_name = f"{self.analysis_info['file_name']}.{_use}"
-                                if _var_name in self.analysis_info["eag"]:
-                                    is_dataframe_column_access = any(
-                                        [
-                                            x.startswith(
-                                                (
-                                                    "pandas.core.frame.DataFrame",
-                                                    "numpy.ndarray",
-                                                )
-                                            )
-                                            for x in self.analysis_info["eag"][
-                                                _var_name
-                                            ]["names"]
-                                        ]
-                                    )
-
             if any([is_dataframe_access, is_dataframe_column_access]):
                 self.add_pattern_match(
                     node,
                     PIPELINE_PHASES["DATA_PROFILING_AND_EXPLORATORY_DATA_ANALYSIS"],
                 )
+
+            if isinstance(node.value, ast.Call):
+                if hasattr(node.value.func, "id"):
+                    if node.value.func.id == "len":
+                        self.add_pattern_match(
+                            node,
+                            PIPELINE_PHASES[
+                                "DATA_PROFILING_AND_EXPLORATORY_DATA_ANALYSIS"
+                            ],
+                        )
 
             # print(node)
             self.generic_visit(node)
@@ -547,7 +547,7 @@ class HeaderGenVisitor(ast.NodeVisitor):
         # P1 --> df['xy'] = df.x * df.y
         try:
             is_left_dataframe_access = self.is_dataframe_access(node.left)
-            is_right_dataframe_access = self.is_dataframe_access(node.left)
+            is_right_dataframe_access = self.is_dataframe_access(node.right)
             if any([is_left_dataframe_access, is_right_dataframe_access]):
                 self.add_pattern_match(node, PIPELINE_PHASES["FEATURE_TRANSFORMATION"])
         except:
@@ -683,9 +683,9 @@ class HeaderGenVisitor(ast.NodeVisitor):
             is_dataframe_access = False
             is_dataframe_column_access = False
             if isinstance(node.func, ast.Name):
-                if node.func.id == "print":
+                if node.func.id in ["print", "map"]:
                     for _arg in node.args:
-                        if isinstance(_arg, ast.Subscript):
+                        if isinstance(_arg, (ast.Subscript, ast.Attribute)):
                             is_dataframe_column_access = self.is_dataframe_access(_arg)
                             if is_dataframe_column_access:
                                 break
@@ -804,6 +804,19 @@ class HeaderGenVisitor(ast.NodeVisitor):
         self.generic_visit(node)
 
     def visit_comprehension(self, node):
+        if isinstance(node.iter, (ast.Subscript, ast.Attribute)):
+            is_dataframe_access = self.is_dataframe_access(node.iter)
+            if is_dataframe_access:
+                self.add_pattern_match(
+                    node.iter, PIPELINE_PHASES["DATA_CLEANING_PREPARATION"]
+                )
+        elif isinstance(node.iter, ast.Name):
+            is_dataframe_access = self.is_name_dataframe(node.iter)
+            if is_dataframe_access:
+                self.add_pattern_match(
+                    node.iter, PIPELINE_PHASES["DATA_CLEANING_PREPARATION"]
+                )
+
         # print(node)
         self.generic_visit(node)
 

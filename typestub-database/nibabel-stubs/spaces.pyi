@@ -1,0 +1,6 @@
+from _typeshed import Incomplete
+
+from .affines import apply_affine as apply_affine
+
+def vox2out_vox(mapped_voxels, voxel_sizes: Incomplete | None = None): ...
+def slice2volume(index, axis, shape: Incomplete | None = None): ...

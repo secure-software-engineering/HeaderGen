@@ -1,0 +1,3 @@
+{
+    "nibabel.filebasedimages.FileBasedImage.get_data": "nibabel.dataobj_images.DataobjImage.get_data"
+}

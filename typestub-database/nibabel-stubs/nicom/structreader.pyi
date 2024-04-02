@@ -1,0 +1,9 @@
+from _typeshed import Incomplete
+
+class Unpacker:
+    buf: Incomplete
+    ptr: Incomplete
+    endian: Incomplete
+    def __init__(self, buf, ptr: int = 0, endian: Incomplete | None = None) -> None: ...
+    def unpack(self, fmt): ...
+    def read(self, n_bytes: int = -1): ...

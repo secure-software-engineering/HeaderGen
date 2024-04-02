@@ -1,0 +1,3 @@
+from .. import get_info as get_info
+
+def print_git_title(title) -> None: ...

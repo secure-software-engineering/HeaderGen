@@ -111,7 +111,7 @@ ML_MODULES = {
     "sklearn": os.path.join(SCRIPT_ROOT, "model", "sklearn"),
     "xgboost": os.path.join(SCRIPT_ROOT, "model", "xgboost"),
     "statsmodels": os.path.join(SCRIPT_ROOT, "model", "statsmodels"),
-    "tensorflow": os.path.join(SCRIPT_ROOT, "model", "tensorflow")
+    "tensorflow": os.path.join(SCRIPT_ROOT, "model", "tensorflow"),
     # "tensorflow": os.path.join(SCRIPT_ROOT, "tensorflow"),
 }
 
@@ -131,7 +131,12 @@ ML_MODULES_ALIAS = {
     "tensorflow": json.loads(
         open(os.path.join(SCRIPT_ROOT, "aliases", "tensorflow.json")).read()
     ),
-    # "tensorflow": os.path.SCRIPT_ROOT, "tensorflow"),
+    "sklearn": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "sklearn.json")).read()
+    ),
+    "nibabel": json.loads(
+        open(os.path.join(SCRIPT_ROOT, "aliases", "nibabel.json")).read()
+    ),  # "tensorflow": os.path.SCRIPT_ROOT, "tensorflow"),
 }
 
 MODELS = {k: pygtrie.StringTrie(separator=".") for k in ML_MODULES}
@@ -177,14 +182,21 @@ else:
 
 def check_alias(func_call):
     root_module = func_call.split(".")[0]
-    if root_module not in MODELS:
-        return func_call
 
     if root_module in ML_MODULES_ALIAS:
         if func_call in ML_MODULES_ALIAS[root_module]:
             func_call = ML_MODULES_ALIAS[root_module][func_call]
 
     return func_call
+
+
+def lookup_pipeline_tag_builtin(func_call):
+    if func_call.startswith("<list>"):
+        return [PHASES["DATA_CLEANING_PREPARATION"]]
+    elif func_call == ("<builtin>.open"):
+        return [PHASES["DATA_CLEANING_PREPARATION"]]
+    else:
+        return [PHASES["UNKNOWN"]]
 
 
 def lookup_pipeline_tag(func_call, doc_string=""):

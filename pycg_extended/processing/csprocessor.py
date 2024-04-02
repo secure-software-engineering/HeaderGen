@@ -239,6 +239,23 @@ class CallSiteProcessor(ProcessingBase):
                 ]:
                     ext_modname = pointer.split(".")[0]
                     create_ext_edge(pointer, ext_modname)
+                    if isinstance(node, ast.Call):
+                        if hasattr(node.func, "attr"):
+                            if node.func.attr == "apply":
+                                for _p in self._retrieve_parent_names(node.func):
+                                    if _p.startswith(
+                                        "pandas.core.frame.DataFrame"
+                                    ) or _p.startswith("pandas.core.series.Series"):
+                                        for _arg_node in node.args:
+                                            for _d in self.decode_node(_arg_node):
+                                                if _d:
+                                                    ext_modname = _d.fullns.split(".")[
+                                                        0
+                                                    ]
+                                                    create_ext_edge(
+                                                        _d.fullns, ext_modname
+                                                    )
+
                     continue
                 self.call_sites.add_edge(self.current_method, pointer, node)
 

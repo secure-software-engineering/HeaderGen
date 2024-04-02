@@ -1,0 +1,6 @@
+from collections.abc import Generator
+
+from _typeshed import Incomplete
+
+def legacy_printoptions() -> None: ...
+def max_digits() -> Generator[Incomplete, None, None]: ...

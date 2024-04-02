@@ -1,0 +1,92 @@
+{
+    "2": [
+        "matplotlib.image.imread"
+    ],
+    "3": [
+        "matplotlib.pyplot.imshow"
+    ],
+    "5": [
+        "matplotlib.pyplot.imshow",
+        "scipy.ndimage._filters.median_filter"
+    ],
+    "6": [
+        "matplotlib.pyplot.imshow",
+        "scipy.ndimage._filters.gaussian_filter"
+    ],
+    "7": [],
+    "8": [
+        "<builtin>.len",
+        "<builtin>.print"
+    ],
+    "9": [
+        "pandas.core.frame.DataFrame.groupby",
+        "pandas.core.frame.DataFrame.rename",
+        "pandas.core.series.Series.groupby",
+        "pandas.core.frame.DataFrame.applymap",
+        "pandas.core.reshape.concat.concat",
+        "<builtin>.int",
+        "pandas.core.groupby.groupby.GroupBy.mean",
+        "numpy.core.fromnumeric.round_",
+        "pandas.core.series.Series.rename",
+        "pandas.core.generic.NDFrame.head"
+    ],
+    "10": [
+        "matplotlib.pyplot.xlim",
+        "<builtin>.int",
+        "matplotlib.figure.Figure.set_size_inches",
+        "<builtin>.float",
+        "matplotlib.pyplot.ylim",
+        "matplotlib.figure.FigureBase.add_subplot",
+        "<builtin>.len",
+        "matplotlib.patches.Rectangle",
+        "matplotlib.axes._base._AxesBase.add_patch",
+        "matplotlib.pyplot.figure"
+    ],
+    "11": [
+        "pandas.core.generic.NDFrame.head",
+        "pandas.core.frame.DataFrame.merge"
+    ],
+    "12": [
+        "matplotlib.pyplot.imsave",
+        "matplotlib.pyplot.imshow",
+        "<builtin>.float"
+    ],
+    "13": [
+        "matplotlib.pyplot.imsave",
+        "scipy.ndimage._filters.median_filter"
+    ],
+    "14": [
+        "numpy.core.fromnumeric.reshape",
+        "numpy.int64"
+    ],
+    "15": [
+        "pbn.operations.cluster_by_proximity",
+        "<builtin>.len"
+    ],
+    "16": [
+        "<builtin>.len"
+    ],
+    "17": [
+        "imp.reload"
+    ],
+    "18": [
+        "pbn.operations.image_from_clusters",
+        "matplotlib.pyplot.imshow",
+        "matplotlib.pyplot.imsave"
+    ],
+    "20": [
+        "<builtin>.len"
+    ],
+    "21": [
+        "<builtin>.len"
+    ],
+    "23": [
+        "matplotlib.image.imsave",
+        "matplotlib.pyplot.imshow"
+    ],
+    "24": [
+        "matplotlib.image.imsave",
+        "matplotlib.pyplot.imshow",
+        "scipy.ndimage._filters.median_filter"
+    ]
+}

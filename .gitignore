@@ -384,3 +384,5 @@ type-inference-micro-benchmark/langservers
 
 !.pre-commit-config.yaml
 callsites-jupyternb-real-world-benchmark/notebooks/*.py
+evaluation/extended_dataset/DASWOW_dataset_fixed.csv
+.~lock*

@@ -32,6 +32,7 @@ ML_MODULES = {
     "sklearn": os.path.join(DATA_SCIECE_STUBS_DIR, "sklearn-stubs"),
     "statsmodels": os.path.join(DATA_SCIECE_STUBS_DIR, "statsmodels-stubs"),
     "seaborn": os.path.join(DATA_SCIECE_STUBS_DIR, "seaborn-stubs"),
+    "nibabel": os.path.join(DATA_SCIECE_STUBS_DIR, "nibabel-stubs"),
 }
 
 type_stub_dirs = {
@@ -140,6 +141,8 @@ class TypeStubManager:
         self.functions_info = {}
 
         self.pytd_cache = PYTD_CACHE
+
+        self.already_tried_importing = []
 
     def load_library_into_memory(self, library):
         try:
@@ -541,6 +544,7 @@ class TypeStubManager:
             "asof",
             "assign",
             "astype",
+            "as_matrix",
             "at",
             "at_time",
             "attrs",
@@ -590,6 +594,7 @@ class TypeStubManager:
             "first_valid_index",
             "flags",
             "floordiv",
+            "from_csv",
             "from_dict",
             "from_records",
             "ge",
@@ -832,6 +837,8 @@ class TypeStubManager:
             _type = _pyi.value.Lookup(named_type).type
             return _type
 
+        func_name = check_alias(func_name)
+
         hashed_ref = f"{func_name}"
         # if hashed_ref in TypeStubManager.RETURN_INFO_CACHE:
         #     return TypeStubManager.RETURN_INFO_CACHE[hashed_ref]
@@ -874,7 +881,18 @@ class TypeStubManager:
                     if _combo not in self.inspect_module_imports:
                         # HACK: find how to handle importing main lib
                         # self.load_library_into_memory(_combo)
-                        continue
+                        try:
+                            if _combo not in self.inspect_module_imports:
+                                if _combo not in self.already_tried_importing:
+                                    self.inspect_module_imports[
+                                        _combo
+                                    ] = importlib.import_module(_combo)
+                                    importlib.invalidate_caches()
+                        except Exception as e:
+                            if _combo not in self.already_tried_importing:
+                                self.already_tried_importing.append(_combo)
+                                print(e)
+                            continue
 
                     inspect_info = self.get_inspect_info(_combo, func_name)
                     # if "count" in inspect_info["fullns"]:
@@ -970,6 +988,14 @@ class TypeStubManager:
                 res_dict = None
 
         else:
+            for _combo in combos:
+                try:
+                    inspect_info = self.get_inspect_info(_combo, func_name)
+                except Exception as e:
+                    pass
+                    # ignore
+                if inspect_info:
+                    break
             if inspect_info:
                 res_dict = {
                     "return_type": None,
@@ -1011,14 +1037,14 @@ class TypeStubManager:
         res_dict = {}
 
         if filename and node:
-            if isinstance(node, ast.Import):
-                print("")
-            elif isinstance(node, ast.ImportFrom):
-                print("")
-            elif isinstance(node, ast.Attribute):
-                print("")
+            # if isinstance(node, ast.Import):
+            #     print("")
+            # elif isinstance(node, ast.ImportFrom):
+            #     print("")
+            # elif isinstance(node, ast.Attribute):
+            #     print("")
 
-            print(node)
+            # print(node)
             try:
                 code = open(filename).read()
 
@@ -1094,10 +1120,10 @@ class TypeStubManager:
             TypeStubManager.RETURN_INFO_CACHE[hashed_ref] = res_dict_jedi
 
         # uncomment to deactivate debugging mode
-        if all([not bool(v) for v in res_dict_jedi.values()]):
-            return None
-        else:
-            return res_dict_jedi
+        # if all([not bool(v) for v in res_dict_jedi.values()]):
+        #     return None
+        # else:
+        #     return res_dict_jedi
 
         module_name = func_name.split(".")[0]
 
@@ -1220,6 +1246,7 @@ class TypeStubManager:
                 if res_dict_jedi.get("type_of_def") == res_dict.get("type_of_def"):
                     print("#>>> Almost Equal!, but not doc", func_name)
                     print("\n>>>###############\n\n")
+                    res_dict_jedi["doc_string"] = res_dict["doc_string"]
 
         else:
             if not res_dict and all([not bool(v) for v in res_dict_jedi.values()]):
