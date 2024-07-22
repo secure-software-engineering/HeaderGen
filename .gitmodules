@@ -2,6 +2,6 @@
 	path = typestub-database/typeshed
 	url = https://github.com/python/typeshed.git
 
-[submodule "typeevalpy"]
-	path = typeevalpy
+[submodule "TypeEvalPy"]
+	path = TypeEvalPy
 	url = https://github.com/secure-software-engineering/TypeEvalPy.git
