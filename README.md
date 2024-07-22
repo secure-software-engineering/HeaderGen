@@ -151,5 +151,39 @@ Output generated from the following commands, such as annotated notebooks, repor
 
 ---
 
+## Building from Source
+
++ Get source files
+
+      git clone --recursive
+      git submodule update --init --recursive
+      git pull --recurse-submodules
+
++ Clear cache if exists
+
+      rm framework_models/models_cache.pickle
+      rm pycg_extended/machinery/pytd_cache.pickle
+
++ Setup venv and dependencies with `setup.sh` script
+
+      ./setup.sh -i
+
++ Micro Benchmark (generates a csv file with results)
+
+      make ROOT_PATH=<path to repo root> microbench
+
++ Real-world Benchmark (generates annotated notebooks and csv file that reproduce table 2)
+
+      make ROOT_PATH=<path to repo root> realworldbench
+
++ Both Benchmarks
+
+      make ROOT_PATH=<path to repo root> all
+
++ Clean generated output
+
+      make clean
+
+---
 
 This repo contains code for the paper **"Enhancing Comprehension and Navigation in Jupyter Notebooks with Static Analysis"** published at the [SANER Conference 2023](https://arxiv.org/abs/2301.04419).

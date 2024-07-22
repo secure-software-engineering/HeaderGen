@@ -33,4 +33,5 @@ nibabel==5.2.1
 geopy==2.4.1
 line_profiler==4.1.2
 psycopg2-binary==2.9.9
-redis==5.2.1
+redis
+nibabel
