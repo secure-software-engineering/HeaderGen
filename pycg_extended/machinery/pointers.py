@@ -46,6 +46,10 @@ class Pointer(object):
 class LiteralPointer(Pointer):
     STR_LIT = "STRING"
     INT_LIT = "INTEGER"
+    LIST_LIT = "LIST"
+    DICT_LIT = "DICT"
+    TUPLE_LIT = "TUPLE"
+    SET_LIT = "SET"
     UNK_LIT = "UNKNOWN"
 
     # no need to add the actual item
@@ -54,6 +58,16 @@ class LiteralPointer(Pointer):
             self.values.add(item)
         elif isinstance(item, int):
             self.values.add(item)
+        elif isinstance(item, list):
+            self.values.add(self.LIST_LIT)
+        elif isinstance(item, dict):
+            self.values.add(self.DICT_LIT)
+        elif isinstance(item, tuple):
+            self.values.add(self.TUPLE_LIT)
+        elif isinstance(item, set):
+            self.values.add(self.SET_LIT)
+        elif item is None:
+            return
         else:
             self.values.add(self.UNK_LIT)
         self.type.add(type(item).__name__)

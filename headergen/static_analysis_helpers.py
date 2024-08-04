@@ -550,6 +550,18 @@ def get_pycg_analysis(py_ntbk_path):
                                         if l_type_fact["type"]:
                                             types_formatted.append(l_type_fact)
 
+                            elif cg.def_manager.defs[_def].fullns.endswith(".<RETURN>"):
+                                if cg.def_manager.defs[_def].get_lit_pointer().type:
+                                    for lit_type in (
+                                        cg.def_manager.defs[_def].get_lit_pointer().type
+                                    ):
+                                        _type_fact["type"].append(lit_type)
+
+                                        locals_types[local_name].append(lit_type)
+                                else:
+                                    _type_fact["type"].append("Nonetype")
+                                    locals_types[local_name].append(lit_type)
+
                             # else:
                             #     _type_fact["type"].append("any")
                             #     locals_types[local_name].append("any")
