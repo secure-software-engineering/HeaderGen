@@ -31,7 +31,7 @@ from pycg_extended import utils
 
 SCRIPT_ROOT = Path(__file__).parent.absolute()
 
-AUTO_IMPORT_ML_MODULES = True
+AUTO_IMPORT_ML_MODULES = False
 CACHED_ML_MODULE_IMPORT = False
 ML_MODULES_TO_IMPORT = [
     "keras",
@@ -244,6 +244,10 @@ class ImportManager(object):
                         pass
                     else:
                         del sys.modules[mn]
+                        try:
+                            del sys.modules[parent_lib]
+                        except:
+                            pass
                 # sys.path_importer_cache.clear()
                 sys.path.insert(0, os.path.abspath(self.mod_dir))
                 mod = self._do_import(mn, pkg)
